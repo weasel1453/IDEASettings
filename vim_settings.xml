@@ -1,0 +1,111 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/start_script.py" timestamp="1531342452321">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/database/Materials/MaterialsServiceHandler.cpp" timestamp="1532029309135" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/database/Materials/DatabaseQueries.h" timestamp="1532037614084" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/database/Materials/DatabaseQueries.cpp" timestamp="1532030636966">
+        <mark key="[" line="311" column="72" />
+        <mark key="]" line="311" column="71" />
+        <mark key="^" line="311" column="71" />
+        <mark key="." line="311" column="71" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.h" timestamp="1532018824914">
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="10" column="27" />
+        <mark key="." line="10" column="27" />
+        <mark key="^" line="10" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1531341000774">
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1532027917767">
+        <mark key="[" line="126" column="46" />
+        <mark key="]" line="127" column="1" />
+        <mark key="." line="127" column="1" />
+        <mark key="^" line="127" column="1" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBjbGFzcyBEYXRhYmFzZU1pZ3JhdG9yCn19Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">bmFtZXNwYWNlIFVMUyB7IG5hbWVzcGFjZSBEYXRhYmFzZU1pZ3JhdG9yCnsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">cHJpdmF0ZToKIGNvbnN0IGludCBNQVhfREJfVkVSU0lPTiA9IDMyOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y29uc3QgaW50IE1BWF9EQl9WRVJTSU9OID0gMzI7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc3QgaW50IE1BWF9EQl9WRVJTSU9OID0gMzI7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">dXNpbmcgbmFtZXNwYWNlIHNvY2k7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>355</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>49</entry>
+        <entry>set errorbells</entry>
+        <entry>set noerrorbells</entry>
+        <entry>87</entry>
+        <entry>355</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
