@@ -12,83 +12,102 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/database/Materials/MaterialsServiceHandler.cpp" timestamp="1532029309135" />
-      <file name="$USER_HOME$/Documents/ULS/trunk/database/Materials/DatabaseQueries.h" timestamp="1532037614084" />
-      <file name="$USER_HOME$/Documents/ULS/trunk/database/Materials/DatabaseQueries.cpp" timestamp="1532040171720">
+      <file name="$USER_HOME$/Documents/ULS/trunk/database/Materials/DatabaseQueries.cpp" timestamp="1532126507429">
         <mark key="[" line="311" column="72" />
         <mark key="]" line="311" column="71" />
         <mark key="^" line="311" column="71" />
         <mark key="." line="311" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.h" timestamp="1532018824914">
-        <mark key="[" line="10" column="27" />
-        <mark key="]" line="10" column="27" />
-        <mark key="." line="10" column="27" />
-        <mark key="^" line="10" column="27" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.h" timestamp="1532127059851">
+        <mark key="'" line="12" column="5" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="18" />
+        <mark key="." line="15" column="18" />
+        <mark key="^" line="15" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1531341000774">
         <mark key="[" line="123" column="0" />
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1532040150633">
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="1" />
-        <mark key="." line="127" column="1" />
-        <mark key="^" line="127" column="1" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1532128344282">
+        <mark key="'" line="150" column="55" />
+        <mark key="[" line="151" column="69" />
+        <mark key="]" line="151" column="69" />
+        <mark key="." line="151" column="69" />
+        <mark key="^" line="151" column="86" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="131" column="14" filename="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="12" column="5" filename="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.h" />
+      <jump line="148" column="6" filename="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="143" column="31" filename="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="144" column="6" filename="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="150" column="55" filename="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+    </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text>*</text>
+      </register>
+      <register name="-" type="4">
+        <text>*</text>
+      </register>
+      <register name="/" type="4">
+        <text>soci::</text>
+      </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjbGFzcyBEYXRhYmFzZU1pZ3JhdG9yCn19Cg==</text>
+        <text encoding="base64">ICAvL3VzZXJuYW1lOiBzeXNkYmEKICAvL3Bhc3N3b3JkOiBtYXN0ZXJrZXkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIFVMUyB7IG5hbWVzcGFjZSBEYXRhYmFzZU1pZ3JhdG9yCnsK</text>
+        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpdmF0ZToKIGNvbnN0IGludCBNQVhfREJfVkVSU0lPTiA9IDMyOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgaW50IE1BWF9EQl9WRVJTSU9OID0gMzI7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">dGhlcmUKICAgIA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgaW50IE1BWF9EQl9WRVJTSU9OID0gMzI7Cg==</text>
+        <text encoding="base64">ICB0aGlzLT5wYXNzd29yZCA9IHBhc3N3b3JkOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgbmFtZXNwYWNlIHNvY2k7Cg==</text>
+        <text encoding="base64">ICB0aGlzLT51c2VybmFtZSA9IHVzZXJuYW1lOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>355</text>
-      </register>
-      <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>soci::</last-search>
+      <last-offset />
+      <last-pattern>soci::</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry encoding="base64">XDxtYXN0ZXJrZXlcPg==</entry>
+        <entry encoding="base64">XDx1bmlxdWVfcHRyXD4=</entry>
+        <entry>soci::</entry>
+      </history-search>
       <history-cmd>
         <entry>49</entry>
         <entry>set errorbells</entry>
         <entry>set noerrorbells</entry>
         <entry>87</entry>
         <entry>355</entry>
+        <entry>noh</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -105,6 +124,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
