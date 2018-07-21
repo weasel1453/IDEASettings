@@ -24,12 +24,12 @@
         <mark key="^" line="311" column="71" />
         <mark key="." line="311" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.h" timestamp="1532127059851">
+      <file name="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.h" timestamp="1532142949785">
         <mark key="'" line="12" column="5" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="18" />
-        <mark key="." line="15" column="18" />
-        <mark key="^" line="15" column="18" />
+        <mark key="[" line="13" column="24" />
+        <mark key="]" line="13" column="29" />
+        <mark key="." line="13" column="29" />
+        <mark key="^" line="13" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1531341000774">
         <mark key="[" line="123" column="0" />
@@ -53,11 +53,11 @@
       <jump line="150" column="55" filename="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAke1NPQ0lfQ09SRV9MSUJSQVJZX1BBVEh9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>sysdba</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>sysdba</text>
       </register>
       <register name="/" type="4">
         <text>soci::</text>
