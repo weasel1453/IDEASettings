@@ -30,12 +30,12 @@
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1532128344282">
-        <mark key="'" line="150" column="55" />
-        <mark key="[" line="151" column="69" />
-        <mark key="]" line="151" column="69" />
-        <mark key="." line="151" column="69" />
-        <mark key="^" line="151" column="86" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1532130672666">
+        <mark key="'" line="151" column="55" />
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="0" />
+        <mark key="." line="156" column="0" />
+        <mark key="^" line="140" column="1" />
       </file>
     </filemarks>
     <jumps>
@@ -47,11 +47,11 @@
       <jump line="150" column="55" filename="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>soci::</text>
@@ -60,28 +60,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvL3VzZXJuYW1lOiBzeXNkYmEKICAvL3Bhc3N3b3JkOiBtYXN0ZXJrZXkK</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">ICAvKgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">dGhlcmUKICAgIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAvL3VzZXJuYW1lOiBzeXNkYmEKICAvL3Bhc3N3b3JkOiBtYXN0ZXJrZXkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0aGlzLT5wYXNzd29yZCA9IHBhc3N3b3JkOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICB0aGlzLT51c2VybmFtZSA9IHVzZXJuYW1lOwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">dGhlcmUKICAgIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
