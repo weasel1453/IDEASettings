@@ -15,12 +15,13 @@
       <file name="/Dummy.txt" timestamp="1532375167187">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.h" timestamp="1532142949785">
-        <mark key="'" line="12" column="5" />
-        <mark key="[" line="13" column="24" />
-        <mark key="]" line="13" column="29" />
-        <mark key="." line="13" column="29" />
-        <mark key="^" line="13" column="29" />
+      <file name="/usr/include/c++/6/string" timestamp="1532377916204" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.h" timestamp="1532378201823">
+        <mark key="'" line="11" column="5" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="4" />
+        <mark key="." line="13" column="4" />
+        <mark key="^" line="13" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/database/Materials/DatabaseQueries.cpp" timestamp="1532372270629">
         <mark key="[" line="714" column="25" />
@@ -43,12 +44,12 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1532130672666">
-        <mark key="'" line="151" column="55" />
-        <mark key="[" line="156" column="0" />
-        <mark key="]" line="156" column="0" />
-        <mark key="." line="156" column="0" />
-        <mark key="^" line="140" column="1" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1532378222052">
+        <mark key="'" line="156" column="55" />
+        <mark key="[" line="132" column="31" />
+        <mark key="]" line="132" column="31" />
+        <mark key="^" line="35" column="70" />
+        <mark key="." line="132" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -61,49 +62,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>no_indicator</text>
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>no_indicator</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>soci::</text>
+        <text>g</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzb2NpOjpzdGF0ZW1lbnQgc3QgPQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAke1NPQ0lfQ09SRV9MSUJSQVJZX1BBVEh9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICR7U09DSV9GSVJFQklSRF9MSUJSQVJZX1BBVEh9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGRsCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBzdHJpbmcgdXNlcm5hbWU7CiAgc3RyaW5nIHBhc3N3b3JkOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPGJvb3N0L29wdGlvbmFsLmhwcD4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPHN0cmluZz4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ym9vc3Q6Om9wdGlvbmFsPHN0cmluZz4gdXNlcm5hbWU7CmJvb3N0OjpvcHRpb25hbDxzdHJpbmc+IHBhc3N3b3JkOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">Y2xhc3Mgc3RyaW5nOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvKgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvL3VzZXJuYW1lOiBzeXNkYmEKICAvL3Bhc3N3b3JkOiBtYXN0ZXJrZXkK</text>
+        <text encoding="base64">I2luY2x1ZGUgPHN0cmluZz4K</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>soci::</last-search>
+      <last-search>g</last-search>
       <last-offset />
-      <last-pattern>soci::</last-pattern>
+      <last-pattern>g</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -112,6 +113,8 @@
         <entry encoding="base64">XDxtYXN0ZXJrZXlcPg==</entry>
         <entry encoding="base64">XDx1bmlxdWVfcHRyXD4=</entry>
         <entry>soci::</entry>
+        <entry>;</entry>
+        <entry>g</entry>
       </history-search>
       <history-cmd>
         <entry>49</entry>
@@ -119,8 +122,8 @@
         <entry>set noerrorbells</entry>
         <entry>87</entry>
         <entry>355</entry>
-        <entry>noh</entry>
         <entry>1</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
