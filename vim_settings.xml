@@ -12,6 +12,9 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1532375167187">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.h" timestamp="1532142949785">
         <mark key="'" line="12" column="5" />
         <mark key="[" line="13" column="24" />
