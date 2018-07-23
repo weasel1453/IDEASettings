@@ -44,12 +44,12 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1532378222052">
+      <file name="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1532379094253">
         <mark key="'" line="156" column="55" />
-        <mark key="[" line="132" column="31" />
-        <mark key="]" line="132" column="31" />
-        <mark key="^" line="35" column="70" />
-        <mark key="." line="132" column="31" />
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="0" />
+        <mark key="^" line="154" column="51" />
+        <mark key="." line="138" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -61,8 +61,8 @@
       <jump line="150" column="55" filename="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBzdGQ6OnN0cmluZyB1c2VybmFtZSA9ICJzeXNkYmEiOwogIHN0ZDo6c3RyaW5nIHBhc3N3b3JkID0gIm1hc3RlcmtleSI7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>*</text>
@@ -71,31 +71,31 @@
         <text>g</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzdGQ6OnN0cmluZyB1c2VybmFtZSA9ICJzeXNkYmEiOwogIHN0ZDo6c3RyaW5nIHBhc3N3b3JkID0gIm1hc3RlcmtleSI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzdHJpbmcgdXNlcm5hbWU7CiAgc3RyaW5nIHBhc3N3b3JkOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGJvb3N0L29wdGlvbmFsLmhwcD4K</text>
+        <text encoding="base64">ICBzdHJpbmcgdXNlcm5hbWU7CiAgc3RyaW5nIHBhc3N3b3JkOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHN0cmluZz4K</text>
+        <text encoding="base64">I2luY2x1ZGUgPGJvb3N0L29wdGlvbmFsLmhwcD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ym9vc3Q6Om9wdGlvbmFsPHN0cmluZz4gdXNlcm5hbWU7CmJvb3N0OjpvcHRpb25hbDxzdHJpbmc+IHBhc3N3b3JkOwo=</text>
+        <text encoding="base64">I2luY2x1ZGUgPHN0cmluZz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3Mgc3RyaW5nOwo=</text>
+        <text encoding="base64">Ym9vc3Q6Om9wdGlvbmFsPHN0cmluZz4gdXNlcm5hbWU7CmJvb3N0OjpvcHRpb25hbDxzdHJpbmc+IHBhc3N3b3JkOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3Mgc3RyaW5nOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHN0cmluZz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
