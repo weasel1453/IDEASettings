@@ -30,11 +30,12 @@
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1532712763708">
-        <mark key="[" line="169" column="39" />
-        <mark key="]" line="169" column="40" />
-        <mark key="^" line="169" column="40" />
-        <mark key="." line="169" column="40" />
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1532713732290">
+        <mark key="'" line="197" column="48" />
+        <mark key="[" line="206" column="0" />
+        <mark key="]" line="206" column="0" />
+        <mark key="." line="206" column="0" />
+        <mark key="^" line="197" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
         <mark key="[" line="2" column="0" />
@@ -42,7 +43,7 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/fragment.mm" timestamp="1532712653193">
+      <file name="/fragment.mm" timestamp="1532713563839">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/soci/use.h" timestamp="1532372739794">
@@ -76,43 +77,45 @@
       <jump line="143" column="31" filename="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="144" column="6" filename="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="150" column="55" filename="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="196" column="26" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="197" column="48" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZ2V0Q3VycmVudERCVmVyc2lvbigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>C</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZ2V0Q3VycmVudERCVmVyc2lvbigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBib29zdDo6b3B0aW9uYWw8aW50PiBtaWdyYXRpb25OdW1iZXI7Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gMDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBib29zdDo6b3B0aW9uYWw8c3RyaW5nPiBmaWxlbmFtZTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBib29zdDo6b3B0aW9uYWw8c3RyaW5nPiBkYXRhRGlyZWN0b3J5Owo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBlbHNlIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBmbXQ6OnByaW50KCJQdWxsZWQgREIgdmVyc2lvbiBpcyB7fSkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpbnQgdmVyYm9zaXR5Owo=</text>
+        <text encoding="base64">ICAgICAgZ2V0Q3VycmVudERCVmVyc2lvbigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
