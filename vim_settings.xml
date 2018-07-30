@@ -30,12 +30,12 @@
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1532967972470">
-        <mark key="'" line="99" column="4" />
-        <mark key="[" line="227" column="26" />
-        <mark key="]" line="228" column="21" />
-        <mark key="." line="228" column="21" />
-        <mark key="^" line="228" column="21" />
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1532969623360">
+        <mark key="'" line="213" column="38" />
+        <mark key="[" line="232" column="26" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="207" column="3" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
         <mark key="[" line="2" column="0" />
@@ -51,11 +51,11 @@
         <mark key="]" line="20" column="44" />
         <mark key="." line="20" column="44" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.h" timestamp="1532967754899">
-        <mark key="[" line="34" column="24" />
-        <mark key="]" line="35" column="24" />
-        <mark key="." line="35" column="24" />
-        <mark key="^" line="35" column="24" />
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.h" timestamp="1532969349852">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="34" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/CMakeLists.txt" timestamp="1532131530479">
         <mark key="[" line="37" column="22" />
@@ -91,52 +91,53 @@
       <jump line="90" column="4" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="95" column="4" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="99" column="4" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="214" column="38" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">dm9pZCB1cGRhdGVDdXJyZW50VmVyc2lvbigpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>fs</text>
       </register>
       <register name="/" type="4">
-        <text>return</text>
+        <text>auto exeProgram</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">dm9pZCB1cGRhdGVDdXJyZW50VmVyc2lvbigpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbnRWZXJzaW9uID0K</text>
+        <text encoding="base64">YXV0byBleGVQcm9ncmFtTmFtZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">OjopewogICAg</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgaWYgKGN1cnJlbnRWZXJzaW9uID09IG1pZ3JhdGlvbk51bWJlcikgeyAvL0FscmVhZHkgdGhlcmUK</text>
+        <text encoding="base64">ICogUmVhZHMgdGhlIGN1cnJlbnQgdmVyc2lvbiBmcm9tIHRoZSBkYXRhYmFzZSBpbnRvIGN1cnJlbnRWZXJzaW9uIG9yIHNldHMgY3VycmVudFZlcnNpb24gdG8gLTEgaWYgdGhlIGRhdGFiYXNlIGRvZXMgbm90IGV4aXN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZtdDo6cHJpbnQoIlJlcnVuIHRoZSB0b29sIHdpdGggdGhlIC0tdXBkYXRlIGZsYWcgc2V0IHRvIG92ZXJ3cml0ZSB0aGUgb2xkIGZvcm1hdCBkYXRhYmFzZSBhbmQgIikKICB9Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpZihjdXJyZW50VmVyc2lvbiA8IDMxKSB7CiAgICBmbXQ6OnByaW50KCJUaGlzIHRvb2wgY2FuIG9ubHkgaGFuZGxlIGRhdGFiYXNlcyBhbHJlYWR5IGF0IHZlcnNpb24gMzEgb3IgaGlnaGVyLlxuIik7Cg==</text>
+        <text encoding="base64">ICBmczo6ZXhpc3RzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpZiAoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
       </register>
     </registers>
     <search>
-      <last-search>return</last-search>
+      <last-search>auto exeProgram</last-search>
       <last-offset />
-      <last-pattern>return</last-pattern>
+      <last-pattern>auto exeProgram</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -149,6 +150,7 @@
         <entry>g</entry>
         <entry>C</entry>
         <entry>return</entry>
+        <entry>auto exeProgram</entry>
       </history-search>
       <history-cmd>
         <entry>49</entry>
@@ -193,6 +195,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
