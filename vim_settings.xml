@@ -30,12 +30,12 @@
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1532974380584">
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1532981668604">
         <mark key="'" line="217" column="38" />
-        <mark key="[" line="185" column="103" />
-        <mark key="]" line="186" column="51" />
-        <mark key="." line="186" column="51" />
-        <mark key="^" line="186" column="51" />
+        <mark key="[" line="242" column="102" />
+        <mark key="]" line="242" column="102" />
+        <mark key="." line="242" column="102" />
+        <mark key="^" line="242" column="102" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
         <mark key="[" line="2" column="0" />
@@ -94,50 +94,50 @@
       <jump line="214" column="38" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAvL3doaWNoIHRha2VzIGNhcmUgb2YgZG9pbmcgZ2FyYmFnZSBjb2xsZWN0aW9uCg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>auto exeProgram</text>
+        <text>)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvL3doaWNoIHRha2VzIGNhcmUgb2YgZG9pbmcgZ2FyYmFnZSBjb2xsZWN0aW9uCg==</text>
+        <text encoding="base64">ICBjcmVhdGVTdGF0ZW1lbnQuYXBwZW5kKGZpbGVuYW1lKS5hcHBlbmQoIicgVVNFUiAnIikuYXBwZW5kKHVzZXJuYW1lKS5hcHBlbmQoIiIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">ICBzdHJpbmcgY3JlYXRlU3RhdGVtZW50ID0gKCJDUkVBVEUgREFUQUJBU0UgJ2xvY2FsaG9zdDoiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogCiAqLwo=</text>
+        <text encoding="base64">ICBjcmVhdGVTdGF0ZW1lbnQK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICogRG9lcyBub3QgZG8gZ2FyYmFnZSBjb2xsZWN0aW9uIHRvIHNwZWVkIHVwIGZ1bmN0aW9uCg==</text>
+      <register name="4" type="4">
+        <text>&quot;CREATE DATABASE 'localhost:&quot;</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dm9pZCB1cGRhdGVDdXJyZW50VmVyc2lvbigpOwo=</text>
+        <text encoding="base64">ICBjcmVhdGVTdGF0ZW1lbnQuYXBwZW5kKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXV0byBleGVQcm9ncmFtTmFtZTsK</text>
+        <text encoding="base64">ICBjcmVhdGVTdGF0ZW1lbnQuYXBwZW5kKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBpc2NfZHNxbF9leGVjdXRlX2ltbWVkaWF0ZShzdGF0dXMsIGRiLCAwLCAiQ1JFQVRFIERBVEFCQVNFICdsb2NhbGhvc3Q6VUxTTWF0ZXJpYWxzLmZkYicgVVMiKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">OjopewogICAg</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBpc2NfZHNxbF9leGVjdXRlX2ltbWVkaWF0ZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogUmVhZHMgdGhlIGN1cnJlbnQgdmVyc2lvbiBmcm9tIHRoZSBkYXRhYmFzZSBpbnRvIGN1cnJlbnRWZXJzaW9uIG9yIHNldHMgY3VycmVudFZlcnNpb24gdG8gLTEgaWYgdGhlIGRhdGFiYXNlIGRvZXMgbm90IGV4aXN0Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
       </register>
     </registers>
     <search>
-      <last-search>auto exeProgram</last-search>
+      <last-search>)</last-search>
       <last-offset />
-      <last-pattern>auto exeProgram</last-pattern>
+      <last-pattern>)</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -151,6 +151,7 @@
         <entry>C</entry>
         <entry>return</entry>
         <entry>auto exeProgram</entry>
+        <entry>)</entry>
       </history-search>
       <history-cmd>
         <entry>49</entry>
@@ -198,6 +199,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
