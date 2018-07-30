@@ -30,11 +30,12 @@
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1532966418534">
-        <mark key="'" line="154" column="48" />
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="0" />
-        <mark key="." line="135" column="0" />
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1532967972470">
+        <mark key="'" line="99" column="4" />
+        <mark key="[" line="227" column="26" />
+        <mark key="]" line="228" column="21" />
+        <mark key="." line="228" column="21" />
+        <mark key="^" line="228" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
         <mark key="[" line="2" column="0" />
@@ -50,10 +51,11 @@
         <mark key="]" line="20" column="44" />
         <mark key="." line="20" column="44" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.h" timestamp="1532965472843">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.h" timestamp="1532967754899">
+        <mark key="[" line="34" column="24" />
+        <mark key="]" line="35" column="24" />
+        <mark key="." line="35" column="24" />
+        <mark key="^" line="35" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/CMakeLists.txt" timestamp="1532131530479">
         <mark key="[" line="37" column="22" />
@@ -77,40 +79,52 @@
       <jump line="150" column="55" filename="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="196" column="26" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="197" column="48" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="128" column="4" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="157" column="6" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="151" column="4" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="133" column="4" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="127" column="6" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="184" column="2" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="73" column="4" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="78" column="4" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="84" column="4" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="90" column="4" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="95" column="4" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="99" column="4" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>old</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>C</text>
+        <text>return</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGN1cnJlbnRWZXJzaW9uID0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgaWYgKGN1cnJlbnRWZXJzaW9uID09IG1pZ3JhdGlvbk51bWJlcikgeyAvL0FscmVhZHkgdGhlcmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZtdDo6cHJpbnQoIlJlcnVuIHRoZSB0b29sIHdpdGggdGhlIC0tdXBkYXRlIGZsYWcgc2V0IHRvIG92ZXJ3cml0ZSB0aGUgb2xkIGZvcm1hdCBkYXRhYmFzZSBhbmQgIikKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpZihjdXJyZW50VmVyc2lvbiA8IDMxKSB7CiAgICBmbXQ6OnByaW50KCJUaGlzIHRvb2wgY2FuIG9ubHkgaGFuZGxlIGRhdGFiYXNlcyBhbHJlYWR5IGF0IHZlcnNpb24gMzEgb3IgaGlnaGVyLlxuIik7Cg==</text>
+        <text encoding="base64">CiAgaWYgKGN1cnJlbnRWZXJzaW9uID09IG1pZ3JhdGlvbk51bWJlcikgeyAvL0FscmVhZHkgdGhlcmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K</text>
+        <text encoding="base64">ICAgIGZtdDo6cHJpbnQoIlJlcnVuIHRoZSB0b29sIHdpdGggdGhlIC0tdXBkYXRlIGZsYWcgc2V0IHRvIG92ZXJ3cml0ZSB0aGUgb2xkIGZvcm1hdCBkYXRhYmFzZSBhbmQgIikKICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpZihjdXJyZW50VmVyc2lvbiA8IDMxKSB7CiAgICBmbXQ6OnByaW50KCJUaGlzIHRvb2wgY2FuIG9ubHkgaGFuZGxlIGRhdGFiYXNlcyBhbHJlYWR5IGF0IHZlcnNpb24gMzEgb3IgaGlnaGVyLlxuIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -120,9 +134,9 @@
       </register>
     </registers>
     <search>
-      <last-search>C</last-search>
+      <last-search>return</last-search>
       <last-offset />
-      <last-pattern>C</last-pattern>
+      <last-pattern>return</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -134,6 +148,7 @@
         <entry>;</entry>
         <entry>g</entry>
         <entry>C</entry>
+        <entry>return</entry>
       </history-search>
       <history-cmd>
         <entry>49</entry>
