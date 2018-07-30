@@ -30,12 +30,12 @@
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1532969623360">
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1532972100445">
         <mark key="'" line="213" column="38" />
-        <mark key="[" line="232" column="26" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="207" column="3" />
-        <mark key="." line="12" column="0" />
+        <mark key="[" line="194" column="93" />
+        <mark key="]" line="194" column="102" />
+        <mark key="^" line="194" column="102" />
+        <mark key="." line="194" column="102" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
         <mark key="[" line="2" column="0" />
@@ -94,11 +94,11 @@
       <jump line="214" column="38" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dm9pZCB1cGRhdGVDdXJyZW50VmVyc2lvbigpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>acesable</text>
       </register>
       <register name="-" type="4">
-        <text>fs</text>
+        <text>acesable</text>
       </register>
       <register name="/" type="4">
         <text>auto exeProgram</text>
