@@ -30,12 +30,12 @@
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1532981668604">
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1532982993904">
         <mark key="'" line="217" column="38" />
-        <mark key="[" line="242" column="102" />
-        <mark key="]" line="242" column="102" />
-        <mark key="." line="242" column="102" />
-        <mark key="^" line="242" column="102" />
+        <mark key="[" line="242" column="62" />
+        <mark key="]" line="242" column="71" />
+        <mark key="." line="242" column="71" />
+        <mark key="^" line="242" column="71" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
         <mark key="[" line="2" column="0" />
@@ -95,10 +95,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
