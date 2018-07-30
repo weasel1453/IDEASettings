@@ -30,12 +30,12 @@
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1532982993904">
-        <mark key="'" line="217" column="38" />
-        <mark key="[" line="242" column="62" />
-        <mark key="]" line="242" column="71" />
-        <mark key="." line="242" column="71" />
-        <mark key="^" line="242" column="71" />
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1532983785428">
+        <mark key="'" line="218" column="38" />
+        <mark key="[" line="186" column="52" />
+        <mark key="]" line="248" column="28" />
+        <mark key="." line="248" column="28" />
+        <mark key="^" line="248" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
         <mark key="[" line="2" column="0" />
@@ -56,6 +56,9 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
         <mark key="^" line="34" column="24" />
+      </file>
+      <file name="$USER_HOME$/uls/lsm/CMakeLists.txt" timestamp="1532984093177">
+        <mark key="'" line="103" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/CMakeLists.txt" timestamp="1532131530479">
         <mark key="[" line="37" column="22" />
@@ -92,52 +95,58 @@
       <jump line="95" column="4" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="99" column="4" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="214" column="38" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/uls/lsm/CMakeLists.txt" />
+      <jump line="97" column="21" filename="$USER_HOME$/uls/lsm/CMakeLists.txt" />
+      <jump line="98" column="13" filename="$USER_HOME$/uls/lsm/CMakeLists.txt" />
+      <jump line="100" column="17" filename="$USER_HOME$/uls/lsm/CMakeLists.txt" />
+      <jump line="102" column="8" filename="$USER_HOME$/uls/lsm/CMakeLists.txt" />
+      <jump line="103" column="17" filename="$USER_HOME$/uls/lsm/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>)</text>
+        <text>Boost</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjcmVhdGVTdGF0ZW1lbnQuYXBwZW5kKGZpbGVuYW1lKS5hcHBlbmQoIicgVVNFUiAnIikuYXBwZW5kKHVzZXJuYW1lKS5hcHBlbmQoIiIpOwo=</text>
+        <text encoding="base64">ICByZXR1cm4gcmV0Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzdHJpbmcgY3JlYXRlU3RhdGVtZW50ID0gKCJDUkVBVEUgREFUQUJBU0UgJ2xvY2FsaG9zdDoiKTsK</text>
+        <text encoding="base64">ICBib29sIHJldDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjcmVhdGVTdGF0ZW1lbnQK</text>
+        <text encoding="base64">ICAvL0NoZWNrIGlmIHRoZSBmaWxlIG5vdyBleGlzdHMgYXMgYSBtZXRob2Qgb2YgZGV0ZXJtaW5pbmcgc3VjY2Vzcwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>&quot;CREATE DATABASE 'localhost:&quot;</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjdXJyZW50VmVyc2lvbiA9IDMxOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjcmVhdGVTdGF0ZW1lbnQuYXBwZW5kKCkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjcmVhdGVTdGF0ZW1lbnQuYXBwZW5kKCkK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpc2NfZHNxbF9leGVjdXRlX2ltbWVkaWF0ZShzdGF0dXMsIGRiLCAwLCAiQ1JFQVRFIERBVEFCQVNFICdsb2NhbGhvc3Q6VUxTTWF0ZXJpYWxzLmZkYicgVVMiKQo=</text>
+        <text encoding="base64">ICBpZih2ZXJib3NpdHkgPiAwKSB7CiAgICBmbXQ6OnByaW50KCIiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpc2NfZHNxbF9leGVjdXRlX2ltbWVkaWF0ZSgpCg==</text>
+        <text encoding="base64">ICBjcmVhdGVTdGF0ZW1lbnQuYXBwZW5kKGZpbGVuYW1lKS5hcHBlbmQoIicgVVNFUiAnIikuYXBwZW5kKHVzZXJuYW1lKS5hcHBlbmQoIiIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBzdHJpbmcgY3JlYXRlU3RhdGVtZW50ID0gKCJDUkVBVEUgREFUQUJBU0UgJ2xvY2FsaG9zdDoiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
       </register>
     </registers>
     <search>
-      <last-search>)</last-search>
+      <last-search>Boost</last-search>
       <last-offset />
-      <last-pattern>)</last-pattern>
+      <last-pattern>Boost</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -152,6 +161,8 @@
         <entry>return</entry>
         <entry>auto exeProgram</entry>
         <entry>)</entry>
+        <entry>boost</entry>
+        <entry>Boost</entry>
       </history-search>
       <history-cmd>
         <entry>49</entry>
@@ -162,6 +173,7 @@
         <entry>1</entry>
         <entry>noh</entry>
         <entry>$</entry>
+        <entry>set caseinsensitive</entry>
       </history-cmd>
       <history-expr />
       <history-input />
