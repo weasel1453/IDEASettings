@@ -30,12 +30,12 @@
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533047095242">
-        <mark key="'" line="273" column="38" />
-        <mark key="[" line="249" column="2" />
-        <mark key="]" line="248" column="27" />
-        <mark key="." line="248" column="27" />
-        <mark key="^" line="248" column="27" />
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533049057633">
+        <mark key="'" line="281" column="38" />
+        <mark key="[" line="235" column="24" />
+        <mark key="]" line="241" column="36" />
+        <mark key="." line="241" column="36" />
+        <mark key="^" line="241" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
         <mark key="[" line="2" column="0" />
@@ -51,11 +51,11 @@
         <mark key="]" line="20" column="44" />
         <mark key="." line="20" column="44" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.h" timestamp="1532984708330">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="34" column="24" />
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.h" timestamp="1533048144147">
+        <mark key="[" line="25" column="21" />
+        <mark key="]" line="26" column="52" />
+        <mark key="." line="26" column="52" />
+        <mark key="^" line="26" column="52" />
       </file>
       <file name="$USER_HOME$/uls/lsm/CMakeLists.txt" timestamp="1532984093177">
         <mark key="'" line="103" column="17" />
@@ -107,49 +107,49 @@
         <text>isc_service_detach(status, service_handle);</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>_</text>
+        <text>request_buffer</text>
       </register>
       <register name="0" type="4">
         <text>isc_service_detach(status, service_handle);</text>
       </register>
-      <register name="1" type="4">
-        <text>ervice</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvL1JldHVybiBiYXNlZCBvbiBleGlzdGFuY2Ugb2YgdGhlIGJhY2t1cCBmaWxlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlzY19wcmludF9zdGF0dXMoc3RhdHVzKTsK</text>
+        <text encoding="base64">ICAvL0Jsb2NrIHVudGlsIGJhY2t1cCBpcyBmaW5pc2hlZCBleGVjdXRpbmcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZtdDo6cHJpbnQoIkRhdGFiYXNlIGJhY2t1cCBzZXJ2aWNlIGZhaWxlZCB0byBjb25uZWN0IHRvIGZpcmViaXJkIHNlcnZlci4gUnVuIHdpdGggdmVyYm9zZSBzZXR0aW5ncyBmb3IgbW9yZSBkZXRhaWxlZCBvdXRwdXQiKTsK</text>
+        <text encoding="base64">ICAvL0F0dGFjaCB0byBzZXJ2aWNlIG1hbmFnZXIgKEZpcmViaXJkIFNlcnZlciBpbiB0aGlzIGNhc2UpCiAgLy9CdWlsZCBiYWNrdXAgcmVxdWVzdCB3aXRoIHBhcmFtZXRlcnMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzcGJfYnVmZmVyWzEyOF0sICpzcGIgPSBzcGJfYnVmZmVyOwo=</text>
+        <text encoding="base64">ICAvL1RoZSBiZW5lZml0IGlzIHRoYXQgdGhlICBiYWNrdXAgcnVucyBtdWNoIGZhc3Rlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpZiAoaXNjX3NlcnZpY2Vfc3RhcnQoKSk7Cg==</text>
+        <text encoding="base64">ICAvL1dlIGRvbid0IGNhcmUgYWJvdXQgZ2FyYmFnZSBjb2xsZWN0aW9uIG9yIGFyZSBhYm91dCB0byByZXN0b3JlIGEgYmFja3VwIHNvIGl0IGRvZXNuJ3QgbWF0dGVyIGZvciB1cwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAvL1NraXAgZ2FyYmFnZSBjb2xsZWN0aW9uCiAgLy9HYXJiYWdlIGNvbGxlY3Rpb24gYmFzaWNhbGx5IGp1c3QgImRlZnJhZ2dzIiB0aGUgZmxhdCBmaWxlLCBob3dldmVyIHJlc3RvcmluZyBhIGJhY2t1cCBkb2VzIHRoZSBzYW1lIHRoaW5nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvL0RlY2xhcmUgd2UgYXJlIHNlbmRpbmcgYSBwYXNzd29yZCwgZm9sbG93ZWQgYnkgbGVuZ3RoLCBwYXNzd29yZCwgYW5kIGluY3JlbWVudCBieSBsZW5ndGggb2YgcGFzc3dvcmQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAvL0RlY2xhcmUgd2UgYXJlIGFib3V0IHRvIHNlbmQgYSB1c2VybmFtZSwgZm9sbG93ZWQgYnkgbGVuZ3RoLCB1c2VybmFtZSwgYW5kIGluY3JlbWVudCBwb2ludGVyIGJ5IGxlbmd0aCBvZiB1c2VybmFtZQo=</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
       </register>
     </registers>
     <search>
-      <last-search>_</last-search>
+      <last-search>request_buffer</last-search>
       <last-offset />
-      <last-pattern>_</last-pattern>
+      <last-pattern>request_buffer</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -167,6 +167,7 @@
         <entry>boost</entry>
         <entry>Boost</entry>
         <entry>_</entry>
+        <entry>request_buffer</entry>
       </history-search>
       <history-cmd>
         <entry>49</entry>
