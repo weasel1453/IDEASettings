@@ -6,6 +6,9 @@
       <file name="/start_script.py" timestamp="1531342452321">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" timestamp="1533061824178">
+        <mark key="'" line="287" column="9" />
+      </file>
       <file name="/Dummy.txt" timestamp="1532375167187">
         <mark key="[" line="0" column="0" />
       </file>
@@ -30,12 +33,11 @@
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533061324192">
-        <mark key="'" line="182" column="44" />
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
-        <mark key="^" line="333" column="31" />
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533062153869">
+        <mark key="'" line="179" column="44" />
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
         <mark key="[" line="2" column="0" />
@@ -102,55 +104,60 @@
       <jump line="102" column="8" filename="$USER_HOME$/uls/lsm/CMakeLists.txt" />
       <jump line="103" column="17" filename="$USER_HOME$/uls/lsm/CMakeLists.txt" />
       <jump line="183" column="44" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="65" column="6" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
+      <jump line="86" column="8" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
+      <jump line="90" column="9" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
+      <jump line="156" column="49" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
+      <jump line="287" column="9" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>isc_service_detach(status, service_handle);</text>
       </register>
       <register name="-" type="4">
-        <text>options</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>D</text>
+        <text>dbSession</text>
       </register>
       <register name="0" type="4">
         <text>isc_service_detach(status, service_handle);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBnZXRDdXJyZW50REJWZXJzaW9uKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICpwKysgPSBpc2Nfc3BiX3Jlc19yZXBsYWNlOwo=</text>
+        <text encoding="base64">ICByZXR1cm4gMDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBib29sIHJlc3RvcmVSZXN1bHQgPSByZXN0b3JlRGF0YWJhc2UoKTsKICBmbXQ6OnByaW50KCJia3VwOiB7fVxuUmVzdG9yZToge30iLCBiYWNrdXBSZXN1bHQsIHJlc3RvcmVSZXN1bHQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBib29sIGJhY2t1cFJlc3VsdCA9IGJhY2t1cERhdGFiYXNlKCk7CiAgZGJTZXNzaW9uLnJlc2V0KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpZihhY3Rpb25UeXBlID09IGlzY19hY3Rpb25fc3ZjX2JhY2t1cCkgKnArKyA9IGlzY19zcGJfYmtwX25vX2dhcmJhZ2VfY29sbGVjdDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gMDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmbXQ6OnByaW50KCJiYWNrdXBTdWNjZXNzOiB7fVxucmVzdG9yZVN1Y2Nlc3M6IHt9XG4iLCBiYWNrdXBTdWNjZXNzLCByZXN0b3JlU3VjY2Vzcyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpZiAodmVyYm9zaXR5KSB7CiAgfQo=</text>
+        <text encoding="base64">ICBib29sIGJhY2t1cFN1Y2Nlc3MgPSBiYWNrdXBEYXRhYmFzZSgpOwogIGJvb2wgcmVzdG9yZVN1Y2Nlc3MgPSByZXN0b3JlRGF0YWJhc2UoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZtdDo6cHJpbnQoIlxuIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
       </register>
     </registers>
     <search>
-      <last-search>D</last-search>
+      <last-search>dbSession</last-search>
       <last-offset />
-      <last-pattern>D</last-pattern>
+      <last-pattern>dbSession</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -170,6 +177,7 @@
         <entry>_</entry>
         <entry>request_buffer</entry>
         <entry>D</entry>
+        <entry>dbSession</entry>
       </history-search>
       <history-cmd>
         <entry>49</entry>
