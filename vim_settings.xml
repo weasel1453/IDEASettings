@@ -30,12 +30,12 @@
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533055230150">
-        <mark key="'" line="261" column="38" />
-        <mark key="[" line="295" column="0" />
-        <mark key="]" line="295" column="4" />
-        <mark key="." line="295" column="4" />
-        <mark key="^" line="295" column="4" />
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533056342221">
+        <mark key="'" line="268" column="38" />
+        <mark key="[" line="200" column="40" />
+        <mark key="]" line="200" column="57" />
+        <mark key="." line="200" column="57" />
+        <mark key="^" line="200" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
         <mark key="[" line="2" column="0" />
@@ -43,7 +43,7 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/fragment.mm" timestamp="1532713563839">
+      <file name="/fragment.mm" timestamp="1533056142569">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/soci/use.h" timestamp="1532372739794">
@@ -51,11 +51,11 @@
         <mark key="]" line="20" column="44" />
         <mark key="." line="20" column="44" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.h" timestamp="1533055244420">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="4" />
-        <mark key="." line="32" column="4" />
-        <mark key="^" line="32" column="4" />
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.h" timestamp="1533056176046">
+        <mark key="[" line="32" column="38" />
+        <mark key="]" line="33" column="41" />
+        <mark key="^" line="33" column="41" />
+        <mark key="." line="33" column="41" />
       </file>
       <file name="$USER_HOME$/uls/lsm/CMakeLists.txt" timestamp="1532984093177">
         <mark key="'" line="103" column="17" />
@@ -107,7 +107,7 @@
         <text>isc_service_detach(status, service_handle);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dm9pZCA=</text>
+        <text>nullptr</text>
       </register>
       <register name="/" type="4">
         <text>request_buffer</text>
@@ -116,31 +116,31 @@
         <text>isc_service_detach(status, service_handle);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvL1JldHVybiBiYXNlZCBvbiBleGlzdGFuY2Ugb2YgdGhlIGJhY2t1cCBmaWxlCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvL0Jsb2NrIHVudGlsIGJhY2t1cCBpcyBmaW5pc2hlZCBleGVjdXRpbmcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvL0F0dGFjaCB0byBzZXJ2aWNlIG1hbmFnZXIgKEZpcmViaXJkIFNlcnZlciBpbiB0aGlzIGNhc2UpCiAgLy9CdWlsZCBiYWNrdXAgcmVxdWVzdCB3aXRoIHBhcmFtZXRlcnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvL1RoZSBiZW5lZml0IGlzIHRoYXQgdGhlICBiYWNrdXAgcnVucyBtdWNoIGZhc3Rlcgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvL1dlIGRvbid0IGNhcmUgYWJvdXQgZ2FyYmFnZSBjb2xsZWN0aW9uIG9yIGFyZSBhYm91dCB0byByZXN0b3JlIGEgYmFja3VwIHNvIGl0IGRvZXNuJ3QgbWF0dGVyIGZvciB1cwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvL1NraXAgZ2FyYmFnZSBjb2xsZWN0aW9uCiAgLy9HYXJiYWdlIGNvbGxlY3Rpb24gYmFzaWNhbGx5IGp1c3QgImRlZnJhZ2dzIiB0aGUgZmxhdCBmaWxlLCBob3dldmVyIHJlc3RvcmluZyBhIGJhY2t1cCBkb2VzIHRoZSBzYW1lIHRoaW5nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvL0RlY2xhcmUgd2UgYXJlIHNlbmRpbmcgYSBwYXNzd29yZCwgZm9sbG93ZWQgYnkgbGVuZ3RoLCBwYXNzd29yZCwgYW5kIGluY3JlbWVudCBieSBsZW5ndGggb2YgcGFzc3dvcmQK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvL0RlY2xhcmUgd2UgYXJlIGFib3V0IHRvIHNlbmQgYSB1c2VybmFtZSwgZm9sbG93ZWQgYnkgbGVuZ3RoLCB1c2VybmFtZSwgYW5kIGluY3JlbWVudCBwb2ludGVyIGJ5IGxlbmd0aCBvZiB1c2VybmFtZQo=</text>
+        <text encoding="base64">ICAgICAgc3dpdGNoKHJlc3VsdEJ1ZmZlcikgewogICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
