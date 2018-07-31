@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1531342452321">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" timestamp="1533061824178">
+      <file name="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" timestamp="1533071949604">
         <mark key="'" line="287" column="9" />
       </file>
       <file name="/Dummy.txt" timestamp="1532375167187">
@@ -18,6 +18,12 @@
         <mark key="]" line="13" column="4" />
         <mark key="." line="13" column="4" />
         <mark key="^" line="13" column="4" />
+      </file>
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/CreateVersion30DB.sql" timestamp="1533069287684">
+        <mark key="[" line="13373" column="0" />
+        <mark key="]" line="13373" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="13373" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/database/Materials/DatabaseQueries.cpp" timestamp="1532372270629">
         <mark key="[" line="714" column="25" />
@@ -33,17 +39,27 @@
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533062153869">
-        <mark key="'" line="179" column="44" />
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/footer.h" timestamp="1533069328300">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533072841040">
+        <mark key="'" line="183" column="44" />
+        <mark key="[" line="307" column="5" />
+        <mark key="]" line="308" column="13" />
+        <mark key="." line="308" column="13" />
+        <mark key="^" line="308" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/header.h" timestamp="1533069315801">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="/fragment.mm" timestamp="1533056142569">
         <mark key="[" line="0" column="0" />
@@ -115,40 +131,40 @@
         <text>isc_service_detach(status, service_handle);</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>dbSession</text>
       </register>
       <register name="0" type="4">
-        <text>isc_service_detach(status, service_handle);</text>
+        <text encoding="base64">PDw=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICBzdC5leGVjdXRlKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBib29sIHJlc3RvcmVSZXN1bHQgPSByZXN0b3JlRGF0YWJhc2UoKTsKICBmbXQ6OnByaW50KCJia3VwOiB7fVxuUmVzdG9yZToge30iLCBiYWNrdXBSZXN1bHQsIHJlc3RvcmVSZXN1bHQpOwo=</text>
+        <text encoding="base64">ICBzdGQ6OnN0cmluZyB0ZXN0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBib29sIGJhY2t1cFJlc3VsdCA9IGJhY2t1cERhdGFiYXNlKCk7CiAgZGJTZXNzaW9uLnJlc2V0KCk7Cg==</text>
+        <text encoding="base64">ICA8PCAiSU5TRVJUIElOVE8gREJfVkVSU0lPTiAoXCJEQl9LRVlcIiwgSUQsIFZFUlNJT05TVFJJTkcpIFZBTFVFUyAoJzAwMDAwMDgyOjAwMDAwMDFmJywgJzMwJywgJ1R1ZXNkYXksIE5vdmVtYmVyIDIxLCAyMDE3IDE3OjQyOjE3JykiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzdC5leGVjdXRlKCk7CiAgc3QgPSAoZGJTZXNzaW9uLT5wcmVwYXJlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICBzdGF0ZW1lbnQgc3QgPSAoZGJTZXNzaW9uLT5wcmVwYXJlCiAgPDwgIkNSRUFURSBUQUJMRSBEQl9WRVJTSU9OICggSUQgaW50ZWdlciwgVkVSU0lPTlNUUklORyB2YXJjaGFyKDUwKSApIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBmbXQ6OnByaW50KCJiYWNrdXBTdWNjZXNzOiB7fVxucmVzdG9yZVN1Y2Nlc3M6IHt9XG4iLCBiYWNrdXBTdWNjZXNzLCByZXN0b3JlU3VjY2Vzcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBib29sIGJhY2t1cFN1Y2Nlc3MgPSBiYWNrdXBEYXRhYmFzZSgpOwogIGJvb2wgcmVzdG9yZVN1Y2Nlc3MgPSByZXN0b3JlRGF0YWJhc2UoKTsK</text>
+        <text encoding="base64">CiAgKmRiU2Vzc2lvbiA8PCBSIlNRTChJTlNFUlQgSU5UTyBEQl9WRVJTSU9OICgiREJfS0VZIiwgSUQsIFZFUlNJT05TVFJJTkcpIFZBTFVFUyAoJzAwMDAwMDgyOjAwMDAwMDFmJywgJzMwJywgJ1R1ZXNkYXksIE5vdmVtYmVyIDIxLCAyMDE3IDE3OjQyOjE3JykpU1FMIjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAqZGJTZXNzaW9uIDw8ICJHUkFOVCBERUxFVEUsIElOU0VSVCwgUkVGRVJFTkNFUywgU0VMRUNULCBVUERBVEUgT04gREJfVkVSU0lPTiBUTyAgU1lTREJBIFdJVEggR1JBTlQgT1BUSU9OIjsK</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
@@ -237,6 +253,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
