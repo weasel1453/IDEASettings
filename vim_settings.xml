@@ -30,11 +30,12 @@
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533043498331">
-        <mark key="'" line="236" column="38" />
-        <mark key="[" line="194" column="40" />
-        <mark key="]" line="196" column="0" />
-        <mark key="." line="196" column="0" />
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533045168123">
+        <mark key="'" line="271" column="38" />
+        <mark key="[" line="247" column="24" />
+        <mark key="]" line="242" column="73" />
+        <mark key="." line="242" column="73" />
+        <mark key="^" line="242" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
         <mark key="[" line="2" column="0" />
@@ -102,50 +103,53 @@
       <jump line="103" column="17" filename="$USER_HOME$/uls/lsm/CMakeLists.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBzcGJfYnVmZmVyWzEyOF0sICpzcGIgPSBzcGJfYnVmZmVyOwo=</text>
+      <register name="&quot;" type="4">
+        <text>isc_service_detach(status, service_handle);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RyaW5nIA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>Boost</text>
+        <text>_</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBzcGJfYnVmZmVyWzEyOF0sICpzcGIgPSBzcGJfYnVmZmVyOwo=</text>
+      <register name="0" type="4">
+        <text>isc_service_detach(status, service_handle);</text>
+      </register>
+      <register name="1" type="4">
+        <text>ervice</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpZiAoaXNjX3NlcnZpY2Vfc3RhcnQoKSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGlzY19wcmludF9zdGF0dXMoc3RhdHVzKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGZtdDo6cHJpbnQoIkRhdGFiYXNlIGJhY2t1cCBzZXJ2aWNlIGZhaWxlZCB0byBjb25uZWN0IHRvIGZpcmViaXJkIHNlcnZlci4gUnVuIHdpdGggdmVyYm9zZSBzZXR0aW5ncyBmb3IgbW9yZSBkZXRhaWxlZCBvdXRwdXQiKTsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBzcGJfYnVmZmVyWzEyOF0sICpzcGIgPSBzcGJfYnVmZmVyOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBpZiAoaXNjX3NlcnZpY2Vfc3RhcnQoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpZiAodmVyYm9zaXR5ID4gMCkgewogICAgZm10OjpwcmludCgiTmV3IERCIHZlcnNpb24gaXMge31cbiIsIGN1cnJlbnRWZXJzaW9uKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dm9pZCB1cGRhdGVEQlZlcnNpb24oKSB7CiAgY3VycmVudFZlcnNpb24rKzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGludCBwcmV2aW91c1ZlcnNpb24gPSBjdXJyZW50VmVyc2lvbjsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
-        <text>$</text>
+        <text>source ~/.ideavimrc</text>
       </register>
     </registers>
     <search>
-      <last-search>Boost</last-search>
+      <last-search>_</last-search>
       <last-offset />
-      <last-pattern>Boost</last-pattern>
+      <last-pattern>_</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -162,6 +166,7 @@
         <entry>)</entry>
         <entry>boost</entry>
         <entry>Boost</entry>
+        <entry>_</entry>
       </history-search>
       <history-cmd>
         <entry>49</entry>
@@ -173,6 +178,11 @@
         <entry>noh</entry>
         <entry>$</entry>
         <entry>set caseinsensitive</entry>
+        <entry>set clipboard=unnamed</entry>
+        <entry>open ~/.ideavimrc</entry>
+        <entry>e ~/.ideavimrc</entry>
+        <entry>edit ~/.ideavimrc</entry>
+        <entry>source ~/.ideavimrc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -213,6 +223,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

@@ -4,9 +4,18 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
+  <action id="EditorScrollToCenter" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="ScrollTreeToCenter" />
+  <action id="ShowErrorDescription">
+    <keyboard-shortcut first-keystroke="ctrl f1" />
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
 </keymap>
