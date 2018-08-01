@@ -56,6 +56,7 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/uls/lsm/Control/CMakeLists.txt" timestamp="1533134448879" />
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/header.h" timestamp="1533069315801">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
@@ -90,6 +91,11 @@
         <mark key="]" line="138" column="0" />
         <mark key="^" line="154" column="51" />
         <mark key="." line="138" column="0" />
+      </file>
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/CMakeLists.txt" timestamp="1533134481773">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="52" column="1" />
+        <mark key="." line="47" column="0" />
       </file>
     </filemarks>
     <jumps>
