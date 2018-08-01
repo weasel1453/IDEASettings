@@ -42,12 +42,12 @@
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/footer.h" timestamp="1533069328300">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533132980062">
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533133297477">
         <mark key="'" line="184" column="44" />
-        <mark key="[" line="307" column="27" />
-        <mark key="]" line="308" column="42" />
-        <mark key="." line="308" column="42" />
-        <mark key="^" line="308" column="42" />
+        <mark key="[" line="376" column="1" />
+        <mark key="]" line="283" column="0" />
+        <mark key="." line="283" column="0" />
+        <mark key="^" line="273" column="57" />
       </file>
       <file name="/DatabaseMigrator.cpp" timestamp="1533132864998" />
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
@@ -141,31 +141,31 @@
         <text encoding="base64">ICBpc2NfZHNxbF9leGVjdXRlX2ltbWVkaWF0ZShzdGF0dXMsICZkYiwgJnRyX2hhbmRsZSwgMCwgc3RhdGVtZW50LmNfc3RyKCksIDMsIE5VTEwpOwogIGlzY19wcmludF9zdGF0dXMoc3RhdHVzKTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpc2NfZHNxbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBmbXQ6OnByaW50KCJUZXN0IDZcbiIpOwo=</text>
+        <text encoding="base64">ICBmczo6cGF0aCBwYXRoID0gZnM6OnBhdGgoZmlsZW5hbWUuZ2V0KCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBmbXQ6OnByaW50KCJUZXN0IDE5XG4iKTsK</text>
+        <text encoding="base64">ICBhdXRvIGNvbm5lY3Rpb25TdHJpbmcgPSAic2VydmljZT17fSBkaWFsZWN0PTMgdXNlcj17fSBwYXNzd29yZD17fSJfZm9ybWF0KAogICAgcGF0aC5zdHJpbmcoKSwgdXNlcm5hbWUsIHBhc3N3b3JkKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvKiBEbyB3ZSBuZWVkIHRvIGtlZXAgcGVyc2lzdGVudCBzZXNzaW9ucyBvcGVuPyBJbnN0ZWFkIHdlIGNvdWxkIGFsbG93IGhpZ2hlcgogICAqIGxldmVsIGNvZGUgdG8gZGVmaW5lIHRoZSBzY29wZS4gKi8K</text>
+        <text encoding="base64">ICAvL0luc3RhbnRpYXRlIGRiU2Vzc2lvbjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmbXQ6OnByaW50KCJFeGVjdXRpbmcgU1FMXG4iKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpc2NfcHJpbnRfc3RhdHVzKHN0YXR1cyk7Cg==</text>
+        <text encoding="base64">ICBpc2NfZHNxbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpc2NfY29tbWl0X3JldGFpbmluZyhzdGF0dXMsICZ0cl9oYW5kbGUpOwo=</text>
+        <text encoding="base64">ICBmbXQ6OnByaW50KCJUZXN0IDZcbiIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpc2NfZHNxbF9leGVjdXRlX2ltbWVkaWF0ZShzdGF0dXMsICZkYiwgJnRyX2hhbmRsZSwgMCwgc3RhdGVtZW50Mi5jX3N0cigpLCAzLCBOVUxMKTsK</text>
+        <text encoding="base64">ICBmbXQ6OnByaW50KCJUZXN0IDE5XG4iKTsK</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
