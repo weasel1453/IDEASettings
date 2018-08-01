@@ -42,12 +42,12 @@
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/footer.h" timestamp="1533069328300">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533151407749">
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533151976622">
         <mark key="'" line="199" column="9" />
-        <mark key="[" line="396" column="21" />
-        <mark key="]" line="396" column="21" />
-        <mark key="." line="396" column="21" />
-        <mark key="^" line="396" column="21" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
+        <mark key="^" line="126" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
         <mark key="[" line="2" column="0" />
@@ -162,31 +162,32 @@
   fmt::print(&quot;Executed SQL Successfully: {}\n&quot;, result);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbGluZU51bWJlcisrOwo=</text>
-      </register>
-      <register name="3" type="4">
-        <text>TableAlteration</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICByZXR1cm4gMDsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbnRWZXJzaW9uID0gMzA7IC8vU2V0IHRvIDMwIHNvIHRoYXQgbWlncmF0aW9ucyB3aWxsIHN0YXJ0IGF0IE1pZ3JhdGlvbjAzMS0xLS1DcmVhdGVOZXdEYXRhYmFzZV91cC5zcWwK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="7" type="2">
+      <register name="2" type="4">
+        <text>result = executeSQL(dataDirectory.substr(0,dataDirectory.length()).append(&quot;/Migration031-1--TableAlteration_up.sql&quot;));
+  fmt::print(&quot;Executed SQL Successfully: {}\n&quot;, result);</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGZpbGUuY2xvc2UoKTsK</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgbGluZU51bWJlcisrOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>Migration031-1--TableAlteration_up.sql</text>
+      <register name="5" type="4">
+        <text>TableAlteration</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICByZXR1cm4gMDsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGN1cnJlbnRWZXJzaW9uID0gMzA7IC8vU2V0IHRvIDMwIHNvIHRoYXQgbWlncmF0aW9ucyB3aWxsIHN0YXJ0IGF0IE1pZ3JhdGlvbjAzMS0xLS1DcmVhdGVOZXdEYXRhYmFzZV91cC5zcWwK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
