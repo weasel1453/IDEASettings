@@ -42,12 +42,12 @@
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/footer.h" timestamp="1533069328300">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533147303611">
-        <mark key="'" line="186" column="44" />
-        <mark key="[" line="424" column="21" />
-        <mark key="]" line="424" column="65" />
-        <mark key="." line="424" column="65" />
-        <mark key="^" line="424" column="65" />
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533150165972">
+        <mark key="'" line="196" column="9" />
+        <mark key="[" line="127" column="2" />
+        <mark key="]" line="127" column="2" />
+        <mark key="." line="127" column="2" />
+        <mark key="^" line="131" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
         <mark key="[" line="2" column="0" />
@@ -61,6 +61,12 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/Migration031-0--TableCreation_up.sql" timestamp="1533149055021">
+        <mark key="[" line="216" column="2" />
+        <mark key="]" line="216" column="2" />
+        <mark key="." line="216" column="2" />
+        <mark key="^" line="216" column="2" />
+      </file>
       <file name="/fragment.mm" timestamp="1533056142569">
         <mark key="[" line="0" column="0" />
       </file>
@@ -69,14 +75,20 @@
         <mark key="]" line="20" column="44" />
         <mark key="." line="20" column="44" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.h" timestamp="1533146412838">
-        <mark key="[" line="41" column="43" />
-        <mark key="]" line="41" column="52" />
-        <mark key="^" line="41" column="52" />
-        <mark key="." line="41" column="52" />
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.h" timestamp="1533148386524">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="36" column="23" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/uls/lsm/CMakeLists.txt" timestamp="1532984093177">
         <mark key="'" line="103" column="17" />
+      </file>
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/Migration031-1--TableAlteration_up.sql" timestamp="1533148787728">
+        <mark key="[" line="1" column="53" />
+        <mark key="]" line="1" column="53" />
+        <mark key="^" line="1" column="53" />
+        <mark key="." line="1" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/CMakeLists.txt" timestamp="1532131530479">
         <mark key="[" line="37" column="22" />
@@ -130,38 +142,41 @@
       <jump line="90" column="9" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
       <jump line="156" column="49" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
       <jump line="287" column="9" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
+      <jump line="123" column="10" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="188" column="9" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="193" column="9" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="218" column="0" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/Migration031-0--TableCreation_up.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>isc_service_detach(status, service_handle);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>dbSession</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="4">
-        <text>if (verbosity) isc_print_status(status);
-          else fmt::print(&quot;Rerun with verbose settings for more information\n&quot;);</text>
+        <text>.substr(0,dataDirectory.length())</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gMDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGludCBjb21tYW5kcyA9IDA7Cg==</text>
+        <text encoding="base64">ICAgIGN1cnJlbnRWZXJzaW9uID0gMzA7IC8vU2V0IHRvIDMwIHNvIHRoYXQgbWlncmF0aW9ucyB3aWxsIHN0YXJ0IGF0IE1pZ3JhdGlvbjAzMS0xLS1DcmVhdGVOZXdEYXRhYmFzZV91cC5zcWwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpc2NfcHJpbnRfc3RhdHVzKHN0YXR1cyk7Cg==</text>
+        <text encoding="base64">ICAgIGZpbGUuY2xvc2UoKTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpc2NfcHJpbnRfc3RhdHVzKHN0YXR1cyk7Cg==</text>
+      <register name="6" type="4">
+        <text>Migration031-1--TableAlteration_up.sql</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -170,16 +185,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgaW50IE1BWF9EQl9WRVJTSU9OID0gMzE7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>$</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>dbSession</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>dbSession</last-pattern>
+      <last-pattern>&quot;</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -200,6 +215,8 @@
         <entry>request_buffer</entry>
         <entry>D</entry>
         <entry>dbSession</entry>
+        <entry>performService</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>49</entry>
@@ -207,7 +224,6 @@
         <entry>set noerrorbells</entry>
         <entry>87</entry>
         <entry>355</entry>
-        <entry>1</entry>
         <entry>noh</entry>
         <entry>set caseinsensitive</entry>
         <entry>set clipboard=unnamed</entry>
@@ -216,6 +232,7 @@
         <entry>edit ~/.ideavimrc</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>$</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />

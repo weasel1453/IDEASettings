@@ -2,7 +2,7 @@
   <tool name="DeleteDBFile" description="Deletes the generated DB file" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/bin/rm" />
-      <option name="PARAMETERS" value="$USER_HOME$/fb/ULSMaterials.fdb" />
+      <option name="PARAMETERS" value="-f /home/tmclachlan/fb/ULSMaterials.fdb" />
       <option name="WORKING_DIRECTORY" value="/bin" />
     </exec>
   </tool>
