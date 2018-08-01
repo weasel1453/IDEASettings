@@ -42,12 +42,12 @@
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/footer.h" timestamp="1533069328300">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533154457969">
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533156101108">
         <mark key="'" line="346" column="5" />
-        <mark key="[" line="347" column="26" />
-        <mark key="]" line="347" column="25" />
-        <mark key="." line="347" column="25" />
-        <mark key="^" line="347" column="25" />
+        <mark key="[" line="368" column="49" />
+        <mark key="]" line="369" column="13" />
+        <mark key="." line="369" column="13" />
+        <mark key="^" line="369" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
         <mark key="[" line="2" column="0" />
@@ -75,11 +75,11 @@
         <mark key="]" line="20" column="44" />
         <mark key="." line="20" column="44" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.h" timestamp="1533154236685">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="25" column="42" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.h" timestamp="1533156096522">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="35" />
+        <mark key="^" line="46" column="35" />
+        <mark key="." line="46" column="35" />
       </file>
       <file name="$USER_HOME$/uls/lsm/CMakeLists.txt" timestamp="1532984093177">
         <mark key="'" line="103" column="17" />
@@ -155,7 +155,7 @@
         <text>isc_service_detach(status, service_handle);</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>_</text>
@@ -165,31 +165,31 @@
   fmt::print(&quot;Executed SQL Successfully: {}\n&quot;, result);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBmbXQ6OnByaW50KCJkYXRhRGlyZWN0b3J5IHt9XG4iLCBkYXRhRGlyZWN0b3J5KTsK</text>
+        <text encoding="base64">ICAgc3RkOjpzdHJpbmcgcmVnZXhQcmVmaXggPSBSIihNaWdyYXRpb24wKikiOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3RkOjpzdHJpbmcgZGF0YURpcmVjdG9yeSA9ICIvdmFyL29wdC91bHMtY29udHJvbC9NaWdyYXRpb25zIjsK</text>
+        <text encoding="base64">ICAgYmFzaWNfcmVnZXg8Y2hhcj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBmbXQ6OnByaW50KCJkYXRhRGlyZWN0b3J5IHt9XG4iLCBkYXRhRGlyZWN0b3J5KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9IGVsc2UgaWYgKGN1cnJlbnRWZXJzaW9uIDwgbWlncmF0aW9uTnVtYmVyKSB7IC8vVXAgbWlncmF0aW9ucwogICAgZGlyZWN0aW9uID0gdXA7Cg==</text>
+        <text encoding="base64">c3RkOjpzdHJpbmcgZGF0YURpcmVjdG9yeSA9ICIvdmFyL29wdC91bHMtY29udHJvbC9NaWdyYXRpb25zIjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpZiAoY3VycmVudFZlcnNpb24gPiBtaWdyYXRpb25OdW1iZXIpIHsgLy9Eb3duIG1pZ3JhdGlvbnMKICAgIGRpcmVjdGlvbiA9IGRvd247Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9IGVsc2UgaWYgKGN1cnJlbnRWZXJzaW9uIDwgbWlncmF0aW9uTnVtYmVyKSB7IC8vVXAgbWlncmF0aW9ucwogICAgZGlyZWN0aW9uID0gdXA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICBpZiAoY3VycmVudFZlcnNpb24gPiBtaWdyYXRpb25OdW1iZXIpIHsgLy9Eb3duIG1pZ3JhdGlvbnMKICAgIGRpcmVjdGlvbiA9IGRvd247Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZ2V0Q3VycmVudERCVmVyc2lvbigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciAoOyBjdXJyZW50VmVyc2lvbiA8IG1pZ3JhdGlvbk51bWJlcjspIHsKICAgICAgZXhlY3V0ZU1pZ3JhdGlvbigpCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
