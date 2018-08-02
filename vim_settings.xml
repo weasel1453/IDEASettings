@@ -42,9 +42,9 @@
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/footer.h" timestamp="1533069328300">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533238793828">
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533242323720">
         <mark key="a" line="17" column="4" />
-        <mark key="'" line="482" column="30" />
+        <mark key="'" line="256" column="24" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
@@ -184,6 +184,11 @@
       <jump line="298" column="2" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="441" column="30" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="17" column="57" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.h" />
+      <jump line="15" column="0" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="44" column="12" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="244" column="9" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="249" column="9" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="256" column="24" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -246,7 +251,6 @@
         <entry>request_buffer</entry>
         <entry>D</entry>
         <entry>dbSession</entry>
-        <entry>performService</entry>
         <entry>&quot;</entry>
         <entry>_</entry>
         <entry>P</entry>
@@ -257,6 +261,7 @@
         <entry>isc_service_attach</entry>
         <entry>isc_dsql_execute_immediate</entry>
         <entry>isc_attach_database</entry>
+        <entry>performService</entry>
         <entry>makeServiceRequest</entry>
       </history-search>
       <history-cmd>
