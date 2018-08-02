@@ -42,12 +42,12 @@
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/footer.h" timestamp="1533069328300">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533159314637">
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533217330529">
         <mark key="'" line="346" column="5" />
-        <mark key="[" line="425" column="64" />
-        <mark key="]" line="425" column="103" />
-        <mark key="." line="425" column="103" />
-        <mark key="^" line="425" column="103" />
+        <mark key="[" line="537" column="0" />
+        <mark key="]" line="537" column="0" />
+        <mark key="." line="537" column="0" />
+        <mark key="^" line="544" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
         <mark key="[" line="2" column="0" />
@@ -70,15 +70,18 @@
       <file name="/fragment.mm" timestamp="1533056142569">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/FilePath.h" timestamp="1533215654230">
+        <mark key="'" line="68" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/soci/use.h" timestamp="1532372739794">
         <mark key="[" line="20" column="44" />
         <mark key="]" line="20" column="44" />
         <mark key="." line="20" column="44" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.h" timestamp="1533158617665">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.h" timestamp="1533216540938">
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="14" column="18" />
       </file>
       <file name="$USER_HOME$/uls/lsm/CMakeLists.txt" timestamp="1532984093177">
         <mark key="'" line="103" column="17" />
@@ -148,56 +151,56 @@
       <jump line="315" column="13" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="270" column="2" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="347" column="5" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="68" column="9" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/FilePath.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>isc_service_detach(status, service_handle);</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>File</text>
       </register>
       <register name="/" type="4">
-        <text>_</text>
+        <text>P</text>
       </register>
       <register name="0" type="4">
-        <text>return lexicographical_compare(path1.filename().string().begin(), path1.filename().string().end()
-        , path2.filename().string().begin(), path2.filename().string().end());</text>
+        <text encoding="base64">Zm9yIChhdXRvICZwIDogZnM6OmRpcmVjdG9yeV9pdGVyYXRvcihGaWxlUGF0aDo6R2V0TFNNRGF0YURpcmVjdG9yeSgpIC8gbWlncmF0aW9uc0RpcmVjdG9yeU5hbWUpKSB7CiAgICBhdXRvIGZpbGVuYW1lID0gcC5wYXRoKCkuZmlsZW5hbWUoKTsKICAgIGlmIChyZWdleF9tYXRjaChmaWxlbmFtZS5zdHJpbmcoKSwgZmlsZU1hdGNoUmVnZXgpKQogICAgICBmaWxlcy5wdXNoX2JhY2socC5wYXRoKCkpOwogIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgZm10OjpwcmludCgiUmVnZXg6IHt9Iiwgc3Muc3RyKCkpOwo=</text>
+        <text encoding="base64">ICAgIGlmICh2ZXJib3NpdHkpIGZtdDo6cHJpbnQoIkZvdW5kIGZpbGUge31cbiIsIGZpbGVuYW1lKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmICh2ZXJib3NpdHkpIGZtdDo6cHJpbnQoIkNyZWF0aW5nIGRhdGFiYXNlIGJhY2t1cFxuIik7Cg==</text>
+        <text encoding="base64">ICAgICAgZm10OjpwcmludCgiTnVtYmVyIGlzOiB7fVxuIiwgbnVtYmVyTWF0Y2hbMF0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzdHJpbmcgYmFja3VwRmlsZVBhdGggPSAoYmFja3VwUGF0aCAvIGJhY2t1cEZpbGUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGV4ZWN1dGVTUUwoZmlsZXMuYXQoaSkpOwo=</text>
+        <text encoding="base64">ICBzdHJpbmcgYmFja3VwRmlsZVBhdGggPSAoYmFja3VwRmlsZVBhdGggLyBiYWNrdXBGaWxlKQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICByZXR1cm4gZmFsc2U7Cg==</text>
+      <register name="5" type="4">
+        <text>File</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpZiAoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpZihkYXRhRGlyZWN0b3J5KSBGaWxlUGF0aDo6U2V0TFNNRGF0YURpcmVjdG9yeShmczo6cGF0aCgqZGF0YURpcmVjdG9yeSkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBleGVjdXRlTWlncmF0aW9uKG1pZ3JhdGlvbk51bWJlci5nZXQoKSwgdXBNaWdyYXRpb25zKTsKICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW50IG1pZ3JhdGlvbk51bWJlcgo=</text>
+        <text encoding="base64">Ym9vbCBpbnZlcnRlZEZpbGVTb3J0ZXIoZnM6OnBhdGggcGF0aDEsIGZzOjpwYXRoIHBhdGgyKSB7CiAgcmV0dXJuICFmaWxlU29ydGVyKGZzOjpwYXRoIHBhdGgxKQp9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>_</last-search>
+      <last-search>P</last-search>
       <last-offset />
-      <last-pattern>_</last-pattern>
+      <last-pattern>P</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -220,6 +223,7 @@
         <entry>performService</entry>
         <entry>&quot;</entry>
         <entry>_</entry>
+        <entry>P</entry>
       </history-search>
       <history-cmd>
         <entry>49</entry>
