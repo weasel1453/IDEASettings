@@ -42,12 +42,12 @@
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/footer.h" timestamp="1533069328300">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533224920109">
-        <mark key="'" line="197" column="0" />
-        <mark key="[" line="582" column="70" />
-        <mark key="]" line="582" column="70" />
-        <mark key="." line="582" column="70" />
-        <mark key="^" line="582" column="77" />
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533232117689">
+        <mark key="'" line="201" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="586" column="70" />
+        <mark key="." line="586" column="70" />
+        <mark key="^" line="586" column="77" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
         <mark key="[" line="2" column="0" />
