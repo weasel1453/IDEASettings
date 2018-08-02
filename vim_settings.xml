@@ -42,12 +42,12 @@
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/footer.h" timestamp="1533069328300">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533221408362">
-        <mark key="'" line="195" column="0" />
-        <mark key="[" line="560" column="37" />
-        <mark key="]" line="560" column="36" />
-        <mark key="." line="560" column="36" />
-        <mark key="^" line="560" column="36" />
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533224920109">
+        <mark key="'" line="197" column="0" />
+        <mark key="[" line="582" column="70" />
+        <mark key="]" line="582" column="70" />
+        <mark key="." line="582" column="70" />
+        <mark key="^" line="582" column="77" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
         <mark key="[" line="2" column="0" />
@@ -78,11 +78,11 @@
         <mark key="]" line="20" column="44" />
         <mark key="." line="20" column="44" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.h" timestamp="1533219985778">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="37" column="33" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.h" timestamp="1533224657074">
+        <mark key="[" line="45" column="29" />
+        <mark key="]" line="46" column="19" />
+        <mark key="^" line="46" column="19" />
+        <mark key="." line="46" column="19" />
       </file>
       <file name="$USER_HOME$/uls/lsm/CMakeLists.txt" timestamp="1532984093177">
         <mark key="'" line="103" column="17" />
@@ -181,45 +181,40 @@
         <text>isc_service_detach(status, service_handle);</text>
       </register>
       <register name="-" type="4">
-        <text>fmt::print(&quot;The database ver&quot;)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>INSERT</text>
       </register>
       <register name="0" type="4">
-        <text>fs::path dbName = fs::path(filename.get());
-
-  if (!fs::exists(dbName)) {
-    currentVersion = -1;
-    return;
-  }</text>
+        <text encoding="base64">aXNjX2RldGFjaF9kYXRhYmFzZShzdGF0dXMsICZkYik7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzdGQ6OmxvY2FsZTo6Z2xvYmFsZGQK</text>
+        <text encoding="base64">ICAgIGlzY19wcmludF9zdGF0dXMoc3RhdHVzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlzY19wcmludF9zdGF0dXMoc3RhdHVzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbnQgcHJldmlvdXNWZXJzaW9uID0gY3VycmVudFZlcnNpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlzY19wcmludF9zdGF0dXMoc3RhdHVzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB1c2UoY3VycmVudFZlcnNpb24sICJWRVJTSU9OIiksCiAgdXNlKGRhdGVUaW1lU3RyaW5nLCAiQ09NTUVOVCIpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBmbXQ6OnByaW50KCJVcGRhdGluZyBEQiBWZXJzaW9uXG4iKTsK</text>
+        <text encoding="base64">ICBkYlNlc3Npb24ucmVzZXQoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAqZGJTZXNzaW9uIDw8ICJTRUxFQ1QgRklSU1QgMSBJRCBGUk9NIERCX1ZFUlNJT04gT1JERVIgQlkgUkRCJERCX0tFWSBERVNDIiwKICAgIGludG8oY3VycmVudFZlcnNpb24pOwo=</text>
+        <text encoding="base64">ICAvKgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dm9pZCB1cGRhdGVDdXJyZW50VmVyc2lvbigpOwo=</text>
+        <text encoding="base64">ICAgKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmbXQ6OnByaW50KCJQb2xsaW5nIHZlcnNpb24gZnJvbSBkYXRhYmFzZS5cbiIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
