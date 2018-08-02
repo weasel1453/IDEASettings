@@ -9,7 +9,7 @@
       <file name="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" timestamp="1533220266079">
         <mark key="'" line="331" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532375167187">
+      <file name="/Dummy.txt" timestamp="1533233047723">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.h" timestamp="1532378201823">
@@ -42,12 +42,12 @@
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/footer.h" timestamp="1533069328300">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533232117689">
-        <mark key="'" line="201" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="586" column="70" />
-        <mark key="." line="586" column="70" />
-        <mark key="^" line="586" column="77" />
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533232906292">
+        <mark key="'" line="441" column="30" />
+        <mark key="[" line="445" column="95" />
+        <mark key="]" line="445" column="95" />
+        <mark key="." line="445" column="95" />
+        <mark key="^" line="445" column="95" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
         <mark key="[" line="2" column="0" />
@@ -78,11 +78,11 @@
         <mark key="]" line="20" column="44" />
         <mark key="." line="20" column="44" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.h" timestamp="1533224657074">
-        <mark key="[" line="45" column="29" />
-        <mark key="]" line="46" column="19" />
-        <mark key="^" line="46" column="19" />
-        <mark key="." line="46" column="19" />
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.h" timestamp="1533232941324">
+        <mark key="[" line="5" column="44" />
+        <mark key="]" line="7" column="30" />
+        <mark key="^" line="7" column="30" />
+        <mark key="." line="7" column="30" />
       </file>
       <file name="$USER_HOME$/uls/lsm/CMakeLists.txt" timestamp="1533231479115">
         <mark key="'" line="103" column="17" />
@@ -176,16 +176,21 @@
       <jump line="1278" column="26" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
       <jump line="1489" column="33" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
       <jump line="331" column="16" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
+      <jump line="241" column="28" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="246" column="73" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="480" column="8" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="298" column="2" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="441" column="30" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>isc_service_detach(status, service_handle);</text>
       </register>
       <register name="-" type="4">
-        <text>Migrations</text>
+        <text encoding="base64">aW50IA==</text>
       </register>
       <register name="/" type="4">
-        <text>INSERT</text>
+        <text>makeServiceRequest</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aXNjX2RldGFjaF9kYXRhYmFzZShzdGF0dXMsICZkYik7</text>
@@ -218,22 +223,18 @@
         <text encoding="base64">ICAvKgo=</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>243</text>
       </register>
     </registers>
     <search>
-      <last-search>INSERT</last-search>
+      <last-search>makeServiceRequest</last-search>
       <last-offset />
-      <last-pattern>INSERT</last-pattern>
+      <last-pattern>makeServiceRequest</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>soci::</entry>
-        <entry>;</entry>
-        <entry>g</entry>
-        <entry>C</entry>
         <entry>return</entry>
         <entry>auto exeProgram</entry>
         <entry>)</entry>
@@ -250,6 +251,10 @@
         <entry>updateDBVersion</entry>
         <entry>updateCurrentVersion</entry>
         <entry>INSERT</entry>
+        <entry>isc_service_attach</entry>
+        <entry>isc_dsql_execute_immediate</entry>
+        <entry>isc_attach_database</entry>
+        <entry>makeServiceRequest</entry>
       </history-search>
       <history-cmd>
         <entry>49</entry>
@@ -266,6 +271,8 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>$</entry>
         <entry>1</entry>
+        <entry>216</entry>
+        <entry>243</entry>
       </history-cmd>
       <history-expr />
       <history-input />
