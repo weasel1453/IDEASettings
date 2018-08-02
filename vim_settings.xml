@@ -6,8 +6,8 @@
       <file name="/start_script.py" timestamp="1531342452321">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" timestamp="1533074816771">
-        <mark key="'" line="287" column="9" />
+      <file name="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" timestamp="1533220266079">
+        <mark key="'" line="331" column="16" />
       </file>
       <file name="/Dummy.txt" timestamp="1532375167187">
         <mark key="[" line="0" column="0" />
@@ -42,12 +42,12 @@
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/footer.h" timestamp="1533069328300">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533219428806">
-        <mark key="'" line="161" column="4" />
-        <mark key="[" line="551" column="0" />
-        <mark key="]" line="555" column="0" />
-        <mark key="." line="555" column="0" />
-        <mark key="^" line="555" column="4" />
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533221408362">
+        <mark key="'" line="195" column="0" />
+        <mark key="[" line="560" column="37" />
+        <mark key="]" line="560" column="36" />
+        <mark key="." line="560" column="36" />
+        <mark key="^" line="560" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
         <mark key="[" line="2" column="0" />
@@ -78,11 +78,11 @@
         <mark key="]" line="20" column="44" />
         <mark key="." line="20" column="44" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.h" timestamp="1533219353259">
-        <mark key="[" line="40" column="21" />
-        <mark key="]" line="40" column="21" />
-        <mark key="." line="40" column="21" />
-        <mark key="^" line="40" column="33" />
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.h" timestamp="1533219985778">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="37" column="33" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/uls/lsm/CMakeLists.txt" timestamp="1532984093177">
         <mark key="'" line="103" column="17" />
@@ -153,63 +153,87 @@
       <jump line="270" column="2" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="347" column="5" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="68" column="9" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/FilePath.h" />
-      <jump line="161" column="4" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="804" column="0" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
+      <jump line="544" column="18" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="156" column="6" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="161" column="0" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="190" column="0" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="940" column="23" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
+      <jump line="1225" column="33" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
+      <jump line="1226" column="33" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
+      <jump line="445" column="25" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
+      <jump line="489" column="23" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
+      <jump line="582" column="22" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
+      <jump line="610" column="23" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
+      <jump line="649" column="23" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
+      <jump line="687" column="23" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
+      <jump line="939" column="23" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
+      <jump line="1055" column="20" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
+      <jump line="1194" column="33" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
+      <jump line="1210" column="33" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
+      <jump line="1227" column="33" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
+      <jump line="1278" column="26" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
+      <jump line="1489" column="33" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
+      <jump line="331" column="16" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>isc_service_detach(status, service_handle);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RGlyZWN0aW9uIA==</text>
+        <text>fmt::print(&quot;The database ver&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text>updateDatabaseVersion</text>
+        <text>INSERT</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Zm9yIChhdXRvICZwIDogZnM6OmRpcmVjdG9yeV9pdGVyYXRvcihGaWxlUGF0aDo6R2V0TFNNRGF0YURpcmVjdG9yeSgpIC8gbWlncmF0aW9uc0RpcmVjdG9yeU5hbWUpKSB7CiAgICBhdXRvIGZpbGVuYW1lID0gcC5wYXRoKCkuZmlsZW5hbWUoKTsKICAgIGlmIChyZWdleF9tYXRjaChmaWxlbmFtZS5zdHJpbmcoKSwgZmlsZU1hdGNoUmVnZXgpKQogICAgICBmaWxlcy5wdXNoX2JhY2socC5wYXRoKCkpOwogIH0=</text>
+        <text>fs::path dbName = fs::path(filename.get());
+
+  if (!fs::exists(dbName)) {
+    currentVersion = -1;
+    return;
+  }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ym9vbCAK</text>
+        <text encoding="base64">ICBzdGQ6OmxvY2FsZTo6Z2xvYmFsZGQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBmbXQ6OnByaW50KCJTZWFyY2hpbmcgZGlyZWN0b3J5IHt9XG4iLCBGaWxlUGF0aDo6R2V0TFNNRGF0YURpcmVjdG9yeSgpIC8gbWlncmF0aW9uc0RpcmVjdG9yeU5hbWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZtdDo6cHJpbnQoIkZvdW5kIGZpbGUge31cbiIsIGZpbGVuYW1lKTsK</text>
+        <text encoding="base64">ICBpbnQgcHJldmlvdXNWZXJzaW9uID0gY3VycmVudFZlcnNpb247Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZm10OjpwcmludCgiTWlncmF0aW9uIG51bWJlciB7fVxuIiwgcHZhbDEpOwo=</text>
+        <text encoding="base64">ICB1c2UoY3VycmVudFZlcnNpb24sICJWRVJTSU9OIiksCiAgdXNlKGRhdGVUaW1lU3RyaW5nLCAiQ09NTUVOVCIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmKHZlcmJvc2l0eSkgZm10OjpwcmludCgiRm91bmQiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGkK</text>
+        <text encoding="base64">ICBmbXQ6OnByaW50KCJVcGRhdGluZyBEQiBWZXJzaW9uXG4iKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gUHJpbnQgdGhlIG1heCBEQiB2ZXJzaW9uCg==</text>
+        <text encoding="base64">ICAqZGJTZXNzaW9uIDw8ICJTRUxFQ1QgRklSU1QgMSBJRCBGUk9NIERCX1ZFUlNJT04gT1JERVIgQlkgUkRCJERCX0tFWSBERVNDIiwKICAgIGludG8oY3VycmVudFZlcnNpb24pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICh2ZXJib3NpdHkpIGZtdDo6cHJpbnQoIkZvdW5kIGZpbGUge31cbiIsIGZpbGVuYW1lKTsK</text>
+        <text encoding="base64">dm9pZCB1cGRhdGVDdXJyZW50VmVyc2lvbigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZm10OjpwcmludCgiTnVtYmVyIGlzOiB7fVxuIiwgbnVtYmVyTWF0Y2hbMF0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>updateDatabaseVersion</last-search>
+      <last-search>INSERT</last-search>
       <last-offset />
-      <last-pattern>updateDatabaseVersion</last-pattern>
+      <last-pattern>INSERT</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYXN0ZXJrZXlcPg==</entry>
-        <entry encoding="base64">XDx1bmlxdWVfcHRyXD4=</entry>
         <entry>soci::</entry>
         <entry>;</entry>
         <entry>g</entry>
@@ -227,6 +251,9 @@
         <entry>_</entry>
         <entry>P</entry>
         <entry>updateDatabaseVersion</entry>
+        <entry>updateDBVersion</entry>
+        <entry>updateCurrentVersion</entry>
+        <entry>INSERT</entry>
       </history-search>
       <history-cmd>
         <entry>49</entry>
