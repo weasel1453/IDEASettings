@@ -42,12 +42,12 @@
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/footer.h" timestamp="1533069328300">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533217330529">
-        <mark key="'" line="346" column="5" />
-        <mark key="[" line="537" column="0" />
-        <mark key="]" line="537" column="0" />
-        <mark key="." line="537" column="0" />
-        <mark key="^" line="544" column="51" />
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533219428806">
+        <mark key="'" line="161" column="4" />
+        <mark key="[" line="551" column="0" />
+        <mark key="]" line="555" column="0" />
+        <mark key="." line="555" column="0" />
+        <mark key="^" line="555" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
         <mark key="[" line="2" column="0" />
@@ -78,10 +78,11 @@
         <mark key="]" line="20" column="44" />
         <mark key="." line="20" column="44" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.h" timestamp="1533216540938">
-        <mark key="[" line="14" column="18" />
-        <mark key="]" line="14" column="18" />
-        <mark key="." line="14" column="18" />
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.h" timestamp="1533219353259">
+        <mark key="[" line="40" column="21" />
+        <mark key="]" line="40" column="21" />
+        <mark key="." line="40" column="21" />
+        <mark key="^" line="40" column="33" />
       </file>
       <file name="$USER_HOME$/uls/lsm/CMakeLists.txt" timestamp="1532984093177">
         <mark key="'" line="103" column="17" />
@@ -152,55 +153,56 @@
       <jump line="270" column="2" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="347" column="5" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="68" column="9" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/FilePath.h" />
+      <jump line="161" column="4" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>isc_service_detach(status, service_handle);</text>
       </register>
       <register name="-" type="4">
-        <text>File</text>
+        <text encoding="base64">RGlyZWN0aW9uIA==</text>
       </register>
       <register name="/" type="4">
-        <text>P</text>
+        <text>updateDatabaseVersion</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Zm9yIChhdXRvICZwIDogZnM6OmRpcmVjdG9yeV9pdGVyYXRvcihGaWxlUGF0aDo6R2V0TFNNRGF0YURpcmVjdG9yeSgpIC8gbWlncmF0aW9uc0RpcmVjdG9yeU5hbWUpKSB7CiAgICBhdXRvIGZpbGVuYW1lID0gcC5wYXRoKCkuZmlsZW5hbWUoKTsKICAgIGlmIChyZWdleF9tYXRjaChmaWxlbmFtZS5zdHJpbmcoKSwgZmlsZU1hdGNoUmVnZXgpKQogICAgICBmaWxlcy5wdXNoX2JhY2socC5wYXRoKCkpOwogIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmICh2ZXJib3NpdHkpIGZtdDo6cHJpbnQoIkZvdW5kIGZpbGUge31cbiIsIGZpbGVuYW1lKTsK</text>
+        <text encoding="base64">Ym9vbCAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZm10OjpwcmludCgiTnVtYmVyIGlzOiB7fVxuIiwgbnVtYmVyTWF0Y2hbMF0pOwo=</text>
+        <text encoding="base64">ICBmbXQ6OnByaW50KCJTZWFyY2hpbmcgZGlyZWN0b3J5IHt9XG4iLCBGaWxlUGF0aDo6R2V0TFNNRGF0YURpcmVjdG9yeSgpIC8gbWlncmF0aW9uc0RpcmVjdG9yeU5hbWUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzdHJpbmcgYmFja3VwRmlsZVBhdGggPSAoYmFja3VwUGF0aCAvIGJhY2t1cEZpbGUpCg==</text>
+        <text encoding="base64">ICAgIGZtdDo6cHJpbnQoIkZvdW5kIGZpbGUge31cbiIsIGZpbGVuYW1lKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzdHJpbmcgYmFja3VwRmlsZVBhdGggPSAoYmFja3VwRmlsZVBhdGggLyBiYWNrdXBGaWxlKQo=</text>
+        <text encoding="base64">ICAgICAgZm10OjpwcmludCgiTWlncmF0aW9uIG51bWJlciB7fVxuIiwgcHZhbDEpOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>File</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlmKHZlcmJvc2l0eSkgZm10OjpwcmludCgiRm91bmQiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgIGkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpZihkYXRhRGlyZWN0b3J5KSBGaWxlUGF0aDo6U2V0TFNNRGF0YURpcmVjdG9yeShmczo6cGF0aCgqZGF0YURpcmVjdG9yeSkpOwo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gUHJpbnQgdGhlIG1heCBEQiB2ZXJzaW9uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGlmICh2ZXJib3NpdHkpIGZtdDo6cHJpbnQoIkZvdW5kIGZpbGUge31cbiIsIGZpbGVuYW1lKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ym9vbCBpbnZlcnRlZEZpbGVTb3J0ZXIoZnM6OnBhdGggcGF0aDEsIGZzOjpwYXRoIHBhdGgyKSB7CiAgcmV0dXJuICFmaWxlU29ydGVyKGZzOjpwYXRoIHBhdGgxKQp9Cgo=</text>
+        <text encoding="base64">ICAgICAgZm10OjpwcmludCgiTnVtYmVyIGlzOiB7fVxuIiwgbnVtYmVyTWF0Y2hbMF0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>P</last-search>
+      <last-search>updateDatabaseVersion</last-search>
       <last-offset />
-      <last-pattern>P</last-pattern>
+      <last-pattern>updateDatabaseVersion</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -224,6 +226,7 @@
         <entry>&quot;</entry>
         <entry>_</entry>
         <entry>P</entry>
+        <entry>updateDatabaseVersion</entry>
       </history-search>
       <history-cmd>
         <entry>49</entry>
