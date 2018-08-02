@@ -42,12 +42,12 @@
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/footer.h" timestamp="1533069328300">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533232906292">
-        <mark key="'" line="441" column="30" />
-        <mark key="[" line="445" column="95" />
-        <mark key="]" line="445" column="95" />
-        <mark key="." line="445" column="95" />
-        <mark key="^" line="445" column="95" />
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533234169936">
+        <mark key="'" line="439" column="30" />
+        <mark key="[" line="536" column="30" />
+        <mark key="]" line="536" column="29" />
+        <mark key="." line="536" column="29" />
+        <mark key="^" line="536" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
         <mark key="[" line="2" column="0" />
@@ -196,31 +196,31 @@
         <text encoding="base64">aXNjX2RldGFjaF9kYXRhYmFzZShzdGF0dXMsICZkYik7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFBFUk1JU1NJT05TIE9XTkVSX1JFQUQgT1dORVJfV1JJVEUgR1JPVVBfUkVBRCBXT1JMRF9SRUFECg==</text>
+        <text encoding="base64">ICAgIGZtdDo6cHJpbnQoIlVzZXJuYW1lOiB7fVxuIiwgdXNlcm5hbWUpOwogICAgZm10OjpwcmludCgiUGFzc3dvcmQ6IHt9XG4iLCBwYXNzd29yZCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiJHtDTUFLRV9SVU5USU1FX09VVFBVVF9ESVJFQ1RPUll9L0xhc2VyU3lzdGVtU2V0dGluZ3MuaW5pIgo=</text>
+        <text encoding="base64">ICAgIFBFUk1JU1NJT05TIE9XTkVSX1JFQUQgT1dORVJfV1JJVEUgR1JPVVBfUkVBRCBXT1JMRF9SRUFECg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlzY19wcmludF9zdGF0dXMoc3RhdHVzKTsK</text>
+        <text encoding="base64">ICAgICAgICAiJHtDTUFLRV9SVU5USU1FX09VVFBVVF9ESVJFQ1RPUll9L0xhc2VyU3lzdGVtU2V0dGluZ3MuaW5pIgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIGlzY19wcmludF9zdGF0dXMoc3RhdHVzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlzY19wcmludF9zdGF0dXMoc3RhdHVzKTsK</text>
+        <text encoding="base64">ICAgIGlzY19wcmludF9zdGF0dXMoc3RhdHVzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGlzY19wcmludF9zdGF0dXMoc3RhdHVzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkYlNlc3Npb24ucmVzZXQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvKgo=</text>
+        <text encoding="base64">ICBkYlNlc3Npb24ucmVzZXQoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>243</text>
