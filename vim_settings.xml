@@ -49,12 +49,12 @@
         <mark key="^" line="154" column="51" />
         <mark key="." line="138" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/CMakeLists.txt" timestamp="1533319803878">
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/CMakeLists.txt" timestamp="1533320444301">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="29" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533319900459">
+      <file name="/Dummy.txt" timestamp="1533321397092">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -66,11 +66,12 @@
         <mark key="." line="13" column="4" />
         <mark key="^" line="13" column="4" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/FilePath.cpp" timestamp="1533317686767">
-        <mark key="[" line="12" column="10" />
-        <mark key="]" line="12" column="16" />
-        <mark key="^" line="12" column="16" />
-        <mark key="." line="12" column="16" />
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/FilePath.cpp" timestamp="1533321378235">
+        <mark key="'" line="126" column="35" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="38" />
+        <mark key="^" line="43" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
         <mark key="[" line="2" column="0" />
@@ -93,11 +94,11 @@
       <file name="/fragment.mm" timestamp="1533304310856">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/FilePath.h" timestamp="1533317076971">
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/FilePath.h" timestamp="1533321380939">
         <mark key="'" line="65" column="9" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="31" />
-        <mark key="." line="69" column="0" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="37" />
+        <mark key="." line="74" column="0" />
         <mark key="^" line="69" column="0" />
       </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/stdafx.h" timestamp="1533243069247">
@@ -228,6 +229,9 @@
       <jump line="442" column="2" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="486" column="49" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="5" column="4" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/CMakeLists.txt" />
+      <jump line="85" column="35" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/FilePath.cpp" />
+      <jump line="94" column="26" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/FilePath.cpp" />
+      <jump line="126" column="35" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/FilePath.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -237,54 +241,51 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>s</text>
+        <text>GetThisExe</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICR7Qm9vc3RfSU5DTFVERV9ESVJTfQo=</text>
+        <text encoding="base64">ICBmczo6cGF0aCBHZXRUaGlzRXhlY3V0YWJsZURpcmVjdG9yeSgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAke0Jvb3N0X0lOQ0xVREVfRElSU30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">U0VUKENPTU1PTl9ESVIgJHtDTUFLRV9TT1VSQ0VfRElSfS9jb21tb24pCg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPGZtdC9mb3JtYXQuaD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U0VUKENPTU1PTl9ESVIgJHtDTUFLRV9TT1VSQ0VfRElSfS9jb21tb24pCg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPGJvb3N0L29wdGlvbmFsLmhwcD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAke0NNQUtFX0JJTkFSWV9ESVJ9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAke0NNQUtFX1NPVVJDRV9ESVJ9L2Jpbi90aGlyZC1wYXJ0eS9pbmNsdWRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPGZtdC9mb3JtYXQuaD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPAo=</text>
+        <text encoding="base64">I2luY2x1ZGUgPGJvb3N0L2FsZ29yaXRobS9zdHJpbmcuaHBwPgojaW5jbHVkZSA8Ym9vc3Qvb3B0aW9uYWwuaHBwPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPGJvb3N0L2ludGVycHJvY2Vzcy9zdHJlYW1zL3ZlY3RvcnN0cmVhbS5ocHA+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>s</last-search>
+      <last-search>GetThisExe</last-search>
       <last-offset />
-      <last-pattern>s</last-pattern>
+      <last-pattern>GetThisExe</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>&quot;</entry>
-        <entry>_</entry>
-        <entry>P</entry>
         <entry>updateDatabaseVersion</entry>
         <entry>updateDBVersion</entry>
         <entry>updateCurrentVersion</entry>
@@ -302,6 +303,9 @@
         <entry encoding="base64">XDxDT01NT05fRElSXD4=</entry>
         <entry>,</entry>
         <entry>s</entry>
+        <entry>dataPathname</entry>
+        <entry>getThisExe</entry>
+        <entry>GetThisExe</entry>
       </history-search>
       <history-cmd>
         <entry>49</entry>
