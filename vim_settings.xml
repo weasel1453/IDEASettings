@@ -35,6 +35,7 @@
         <mark key="." line="4" column="10" />
         <mark key="^" line="5" column="53" />
       </file>
+      <file name="$USER_HOME$/uls/lsm/common/AppType.cpp" timestamp="1533322491113" />
       <file name="$USER_HOME$/uls/lsm/common/CMakeLists.txt" timestamp="1533319779426">
         <mark key="[" line="119" column="0" />
         <mark key="]" line="119" column="25" />
@@ -49,12 +50,13 @@
         <mark key="^" line="154" column="51" />
         <mark key="." line="138" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/CMakeLists.txt" timestamp="1533320444301">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="29" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/CMakeLists.txt" timestamp="1533322044059">
+        <mark key="[" line="17" column="43" />
+        <mark key="]" line="17" column="63" />
+        <mark key="." line="17" column="63" />
+        <mark key="^" line="17" column="63" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533321397092">
+      <file name="/Dummy.txt" timestamp="1533322625057">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -66,12 +68,12 @@
         <mark key="." line="13" column="4" />
         <mark key="^" line="13" column="4" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/FilePath.cpp" timestamp="1533321378235">
-        <mark key="'" line="126" column="35" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="38" />
-        <mark key="^" line="43" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/FilePath.cpp" timestamp="1533322609684">
+        <mark key="'" line="129" column="35" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="51" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
         <mark key="[" line="2" column="0" />
@@ -94,12 +96,12 @@
       <file name="/fragment.mm" timestamp="1533304310856">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/FilePath.h" timestamp="1533321380939">
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/FilePath.h" timestamp="1533321608505">
         <mark key="'" line="65" column="9" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="37" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="69" column="0" />
+        <mark key="[" line="73" column="37" />
+        <mark key="]" line="73" column="37" />
+        <mark key="." line="73" column="37" />
+        <mark key="^" line="73" column="37" />
       </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/stdafx.h" timestamp="1533243069247">
         <mark key="[" line="8" column="0" />
@@ -117,7 +119,7 @@
         <mark key="^" line="7" column="92" />
         <mark key="." line="7" column="92" />
       </file>
-      <file name="/Dummy.youtrack" timestamp="1533312391434">
+      <file name="/Dummy.youtrack" timestamp="1533322983775">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.h" timestamp="1533234835053">
@@ -238,43 +240,43 @@
         <text>isc_service_detach(status, service_handle);</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>/install/include</text>
       </register>
       <register name="/" type="4">
         <text>GetThisExe</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBmczo6cGF0aCBHZXRUaGlzRXhlY3V0YWJsZURpcmVjdG9yeSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAke0NNQUtFX1NPVVJDRV9ESVJ9L2Jpbi90aGlyZC1wYXJ0eS9pbnN0YWxsL2luY2x1ZGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgImNvbW1vbi9BcHBUeXBlLmgiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjZW5kaWYK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGZtdC9mb3JtYXQuaD4K</text>
+        <text encoding="base64">ICAgICAgICAjaWZuZGVmIE5PX0NPTU1PTl9ETEwKICAgICAgICAgIGlmIChHZXRBcHBUeXBlKCkgPT0gQVBQX1RZUEVfRVNUSU1BVE9SKSByZXN1bHQgLz0gIkVTVCI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGJvb3N0L29wdGlvbmFsLmhwcD4K</text>
+        <text encoding="base64">ICAgIEdldEFwcFR5cGUoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJvb3N0Ojpub3dpZGU6Om5hcnJvdygpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGZtdC9mb3JtYXQuaD4K</text>
+        <text encoding="base64">ICAgIG5hcnJvdyhzel90ZW1wKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGJvb3N0L2FsZ29yaXRobS9zdHJpbmcuaHBwPgojaW5jbHVkZSA8Ym9vc3Qvb3B0aW9uYWwuaHBwPgo=</text>
+        <text encoding="base64">dXNpbmcgbmFtZXNwYWNlIGJvb3N0Ojpub3dpZGU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGJvb3N0L2ludGVycHJvY2Vzcy9zdHJlYW1zL3ZlY3RvcnN0cmVhbS5ocHA+Cg==</text>
+        <text encoding="base64">dXNpbmcgbmFtZXNwYWNlIGJvb3N0Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>61</text>
       </register>
     </registers>
     <search>
@@ -327,6 +329,7 @@
         <entry>set relativenumber</entry>
         <entry>1</entry>
         <entry>w</entry>
+        <entry>61</entry>
       </history-cmd>
       <history-expr />
       <history-input />
