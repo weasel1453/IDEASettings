@@ -42,13 +42,13 @@
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/footer.h" timestamp="1533069328300">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533242323720">
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533300479015">
         <mark key="a" line="17" column="4" />
-        <mark key="'" line="256" column="24" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="220" column="11" />
+        <mark key="'" line="486" column="49" />
+        <mark key="[" line="362" column="31" />
+        <mark key="]" line="363" column="9" />
+        <mark key="." line="363" column="9" />
+        <mark key="^" line="363" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
         <mark key="[" line="2" column="0" />
@@ -73,6 +73,10 @@
       </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/FilePath.h" timestamp="1533215654230">
         <mark key="'" line="68" column="9" />
+      </file>
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/stdafx.h" timestamp="1533243069247">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="30" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/soci/use.h" timestamp="1532372739794">
         <mark key="[" line="20" column="44" />
@@ -107,11 +111,11 @@
         <mark key="^" line="154" column="51" />
         <mark key="." line="138" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/CMakeLists.txt" timestamp="1533229969323">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="48" column="23" />
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/CMakeLists.txt" timestamp="1533300372602">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="37" column="23" />
+        <mark key="." line="3" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -186,67 +190,82 @@
       <jump line="17" column="57" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.h" />
       <jump line="15" column="0" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="44" column="12" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="244" column="9" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="249" column="9" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="256" column="24" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="260" column="0" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="192" column="6" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="226" column="52" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="244" column="12" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="249" column="12" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="252" column="8" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="286" column="59" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="305" column="71" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="334" column="9" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="356" column="61" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="378" column="2" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="384" column="2" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="399" column="59" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="408" column="36" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="420" column="22" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="421" column="2" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="428" column="28" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="429" column="4" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="437" column="4" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="442" column="2" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="486" column="49" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>isc_service_detach(status, service_handle);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RhdGljIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>makeServiceRequest</text>
+        <text>for (;</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">c3RhdGljIA==</text>
+        <text encoding="base64">I2luY2x1ZGUgPHJlZ2V4PgoKI2luY2x1ZGUgPGFsZ29yaXRobT4KI2luY2x1ZGUgPGFycmF5PgojaW5jbHVkZSA8ZnVuY3Rpb25hbD4KI2luY2x1ZGUgPGlvc3RyZWFtPgojaW5jbHVkZSA8aXRlcmF0b3I+CiNpbmNsdWRlIDxtYXA+CiNpbmNsdWRlIDxtZW1vcnk+CiNpbmNsdWRlIDxzdHJpbmc+CiNpbmNsdWRlIDx2ZWN0b3I+CgojaW5jbHVkZSA8Ym9vc3QvYWxnb3JpdGhtL3N0cmluZy5ocHA+CiNpbmNsdWRlIDxib29zdC9sZXhpY2FsX2Nhc3QuaHBwPgojaW5jbHVkZSA8Ym9vc3QvbG9jYWxlLmhwcD4KI2luY2x1ZGUgPGJvb3N0L25vd2lkZS9jb252ZXJ0LmhwcD4KI2luY2x1ZGUgPGJvb3N0L29wdGlvbmFsLmhwcD4KI2luY2x1ZGUgPGJvb3N0L3Byb2dyYW1fb3B0aW9ucy5ocHA+CiNpbmNsdWRlIDxib29zdC90aHJlYWQuaHBwPgoKI2luY2x1ZGUgPGZtdC9mb3JtYXQuaD4KCiNpbmNsdWRlIDxzcGRsb2cvc3BkbG9nLmg+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXQgPSAxOwo=</text>
+        <text encoding="base64">IyAgICAgICAgIFNlZSBhbHNvIGNtYWtlL01vZHVsZXMvQ01ha2VQQ0hDb21waWxlci9SRUFETUUubWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXQgPSAxOwo=</text>
+        <text encoding="base64">IyAgICAgICAgIGhlYWRlcnMsIHRoZSBDTWFrZVBDSENvbXBpbGVyIG1vZHVsZSBpcyB1c2VkLiBUaGlzIG1vZHVsZSByZXF1aXJlcwojICAgICAgICAgdGhhdCBDUENIL0NYWFBDSCBpcyBzcGVjaWZpZWQgZm9yIGEgcHJvamVjdCByZXF1aXJpbmcgUENIIHN1cHBvcnQuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0ID0gMTsK</text>
+        <text encoding="base64">IwojICAgTk9URSAgU2luY2UgY21ha2UgZG9lcyBjdXJyZW50bHkgaGF2ZSBmaXJzdC1jbGFzcyBzdXBwb3J0IGZvciBwcmUtY29tcGlsZWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGV4aQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">dGFyZ2V0X3ByZWNvbXBpbGVkX2hlYWRlcihEYXRhYmFzZU1pZ3JhdG9yIHN0ZGFmeC5oKQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBub0JhY2t1cCA9IHZtYXAuY291bnQoIm5vLWJhY2t1cCIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpZiAodm1hcC5jb3VudCgibm8tYmFja3VwIikpCg==</text>
+        <text encoding="base64">ZW5kaWYoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlbGV0ZUJhY2t1cCgpOwo=</text>
+        <text encoding="base64">aWYgKENNQUtFX0NYWF9DT01QSUxFUl9JRCBTVFJFUVVBTCAiTVNWQyIpCiAgdGFyZ2V0X3NvdXJjZXMoRGF0YWJhc2VNaWdyYXRvciBQUklWQVRFIHN0ZGFmeC5jcHApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxldGVCYWNrdXAoKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXQgPSAxOwo=</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>makeServiceRequest</last-search>
+      <last-search>for (;</last-search>
       <last-offset />
-      <last-pattern>makeServiceRequest</last-pattern>
+      <last-pattern>for (;</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>return</entry>
-        <entry>auto exeProgram</entry>
-        <entry>)</entry>
-        <entry>boost</entry>
         <entry>Boost</entry>
         <entry>request_buffer</entry>
         <entry>D</entry>
@@ -263,6 +282,10 @@
         <entry>isc_attach_database</entry>
         <entry>performService</entry>
         <entry>makeServiceRequest</entry>
+        <entry>for(;</entry>
+        <entry>(;</entry>
+        <entry>for</entry>
+        <entry>for (;</entry>
       </history-search>
       <history-cmd>
         <entry>49</entry>
