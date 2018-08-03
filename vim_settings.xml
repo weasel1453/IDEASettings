@@ -15,6 +15,13 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="13373" column="0" />
       </file>
+      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" timestamp="1533325526649">
+        <mark key="'" line="47" column="36" />
+        <mark key="[" line="147" column="4" />
+        <mark key="]" line="147" column="10" />
+        <mark key="." line="147" column="10" />
+        <mark key="^" line="147" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/database/Materials/DatabaseQueries.cpp" timestamp="1532372270629">
         <mark key="[" line="714" column="25" />
         <mark key="]" line="714" column="25" />
@@ -23,6 +30,11 @@
       </file>
       <file name="/Clang-Tidy Info for DatabaseMigrator.cpp" timestamp="1532711611029">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.h" timestamp="1533325912040">
+        <mark key="[" line="31" column="6" />
+        <mark key="]" line="31" column="6" />
+        <mark key="." line="31" column="6" />
       </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/footer.h" timestamp="1533069328300">
         <mark key="[" line="0" column="0" />
@@ -35,7 +47,6 @@
         <mark key="." line="4" column="10" />
         <mark key="^" line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/common/AppType.cpp" timestamp="1533322491113" />
       <file name="$USER_HOME$/uls/lsm/common/CMakeLists.txt" timestamp="1533319779426">
         <mark key="[" line="119" column="0" />
         <mark key="]" line="119" column="25" />
@@ -67,6 +78,12 @@
         <mark key="]" line="13" column="4" />
         <mark key="." line="13" column="4" />
         <mark key="^" line="13" column="4" />
+      </file>
+      <file name="$USER_HOME$/uls/lsm/Control/WinMain.cpp" timestamp="1533325031507">
+        <mark key="[" line="87" column="14" />
+        <mark key="]" line="88" column="11" />
+        <mark key="^" line="88" column="11" />
+        <mark key="." line="88" column="11" />
       </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/FilePath.cpp" timestamp="1533322609684">
         <mark key="'" line="129" column="35" />
@@ -137,17 +154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="14" filename="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="12" column="5" filename="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.h" />
-      <jump line="148" column="6" filename="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="143" column="31" filename="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="144" column="6" filename="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="150" column="55" filename="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="196" column="26" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="197" column="48" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="128" column="4" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="157" column="6" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="151" column="4" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="133" column="4" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="127" column="6" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="184" column="2" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
@@ -234,67 +240,74 @@
       <jump line="85" column="35" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/FilePath.cpp" />
       <jump line="94" column="26" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/FilePath.cpp" />
       <jump line="126" column="35" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/FilePath.cpp" />
+      <jump line="192" column="31" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="13" column="46" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="15" column="12" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="237" column="19" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="262" column="23" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="266" column="19" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="239" column="27" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="183" column="8" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="275" column="8" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="144" column="3" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="136" column="4" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="147" column="7" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="276" column="8" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="47" column="36" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>isc_service_detach(status, service_handle);</text>
       </register>
       <register name="-" type="4">
-        <text>/install/include</text>
+        <text encoding="base64">c3RhdGljIA==</text>
       </register>
       <register name="/" type="4">
-        <text>GetThisExe</text>
+        <text>logger</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAke0NNQUtFX1NPVVJDRV9ESVJ9L2Jpbi90aGlyZC1wYXJ0eS9pbnN0YWxsL2luY2x1ZGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImNvbW1vbi9BcHBUeXBlLmgiCg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlcl8tPnRyYWNlKCIiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjZW5kaWYK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjaWZuZGVmIE5PX0NPTU1PTl9ETEwKICAgICAgICAgIGlmIChHZXRBcHBUeXBlKCkgPT0gQVBQX1RZUEVfRVNUSU1BVE9SKSByZXN1bHQgLz0gIkVTVCI7Cg==</text>
+      <register name="3" type="4">
+        <text>Logging::Get(&quot;motion&quot;)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEdldEFwcFR5cGUoKTsK</text>
+        <text encoding="base64">I2luY2x1ZGUgImNvbW1vbi9BcHBUeXBlLmgiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2luY2x1ZGUK</text>
+        <text encoding="base64">ICAgICAgICAjZW5kaWYK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJvb3N0Ojpub3dpZGU6Om5hcnJvdygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAjaWZuZGVmIE5PX0NPTU1PTl9ETEwKICAgICAgICAgIGlmIChHZXRBcHBUeXBlKCkgPT0gQVBQX1RZUEVfRVNUSU1BVE9SKSByZXN1bHQgLz0gIkVTVCI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5hcnJvdyhzel90ZW1wKTsK</text>
+        <text encoding="base64">ICAgIEdldEFwcFR5cGUoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgbmFtZXNwYWNlIGJvb3N0Ojpub3dpZGU7Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgbmFtZXNwYWNlIGJvb3N0Cg==</text>
+        <text encoding="base64">ICAgIGJvb3N0Ojpub3dpZGU6Om5hcnJvdygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>61</text>
       </register>
     </registers>
     <search>
-      <last-search>GetThisExe</last-search>
+      <last-search>logger</last-search>
       <last-offset />
-      <last-pattern>GetThisExe</last-pattern>
+      <last-pattern>logger</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>updateDatabaseVersion</entry>
-        <entry>updateDBVersion</entry>
-        <entry>updateCurrentVersion</entry>
-        <entry>INSERT</entry>
-        <entry>isc_service_attach</entry>
-        <entry>isc_dsql_execute_immediate</entry>
-        <entry>isc_attach_database</entry>
         <entry>performService</entry>
         <entry>makeServiceRequest</entry>
         <entry>for(;</entry>
@@ -308,6 +321,13 @@
         <entry>dataPathname</entry>
         <entry>getThisExe</entry>
         <entry>GetThisExe</entry>
+        <entry>logging</entry>
+        <entry>motion</entry>
+        <entry>-</entry>
+        <entry>&quot;motion&quot;</entry>
+        <entry>logger_</entry>
+        <entry>Logging::Get</entry>
+        <entry>logger</entry>
       </history-search>
       <history-cmd>
         <entry>49</entry>
