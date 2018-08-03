@@ -27,13 +27,13 @@
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/footer.h" timestamp="1533069328300">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533301333092">
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533306401009">
         <mark key="a" line="17" column="4" />
         <mark key="'" line="486" column="49" />
-        <mark key="[" line="303" column="63" />
-        <mark key="]" line="303" column="63" />
-        <mark key="." line="303" column="63" />
-        <mark key="^" line="303" column="63" />
+        <mark key="[" line="413" column="11" />
+        <mark key="]" line="413" column="11" />
+        <mark key="." line="413" column="11" />
+        <mark key="^" line="413" column="15" />
       </file>
       <file name="$USER_HOME$/uls/lsm/CMakeLists.txt" timestamp="1533231479115">
         <mark key="'" line="103" column="17" />
@@ -85,7 +85,7 @@
         <mark key="." line="216" column="2" />
         <mark key="^" line="216" column="2" />
       </file>
-      <file name="/fragment.mm" timestamp="1533056142569">
+      <file name="/fragment.mm" timestamp="1533304310856">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/FilePath.h" timestamp="1533300788432">
@@ -110,7 +110,7 @@
         <mark key="^" line="7" column="92" />
         <mark key="." line="7" column="92" />
       </file>
-      <file name="/Dummy.youtrack" timestamp="1533303298663">
+      <file name="/Dummy.youtrack" timestamp="1533303913455">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.h" timestamp="1533234835053">
@@ -227,61 +227,54 @@
         <text>isc_service_detach(status, service_handle);</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>for (;</text>
+        <text>;</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZnM6OnBhdGggZXhlUGF0aChhcmd2WzBdKTsKICBhdXRvIGV4ZVByb2dyYW1OYW1lID0gZXhlUGF0aC5maWxlbmFtZSgpLnN0cmluZygpOwoKICBuYW1lc3BhY2UgcG8gPSBib29zdDo6cHJvZ3JhbV9vcHRpb25zOwoKICBwbzo6b3B0aW9uc19kZXNjcmlwdGlvbiB2aXNpYmxlKCJWaXNpYmxlIG9wdGlvbnMiKTsKICB2aXNpYmxlLmFkZF9vcHRpb25zKCkKICAgICgiaGVscCxoIiwgIkRpc3BsYXkgaGVscCIpCiAgICAoInZlcmJvc2UsdiIsIHBvOjp2YWx1ZSgmdmVyYm9zaXR5KS0+ZGVmYXVsdF92YWx1ZSgwKSwgIkluY3JlYXNlIG51bWJlciBvZiBkZWJ1ZyBtZXNzYWdlcyIpCiAgICAoIm5vLWJhY2t1cCxiIiwgIlNraXAgbWFraW5nIGEgYmFja3VwIGJlZm9yZSB0aGUgbWlncmF0aW9ucywgZm9yIHNwZWVkaWVyIG9wZXJhdGlvbiB3aGlsZSBkZWJ1Z2dpbmciKQogICAgKCJtYXgtZGItdmVyc2lvbiIsICJQcmludCB0aGUgbGF0ZXN0IHN1cHBvcnRlZCBkYXRhYmFzZSBtaWdyYXRpb24sIGFuZCBleGl0IikKICAgICgiZGF0YS1kaXJlY3RvcnkiLCBwbzo6dmFsdWUoJmRhdGFEaXJlY3RvcnkpLCAiRGlyZWN0b3J5IG9mIHJlYWQvd3JpdGUgZGF0YSBmaWxlcyIpCiAgICAoInVzZXJuYW1lLHUiLCBwbzo6dmFsdWUoJnVzZXJuYW1lKS0+ZGVmYXVsdF92YWx1ZSgiU1lTREJBIiksICJTcGVjaWZ5IHRoZSBEQiB1c2VybmFtZSIpCiAgICAoInBhc3N3b3JkLHAiLCBwbzo6dmFsdWUoJnBhc3N3b3JkKS0+ZGVmYXVsdF92YWx1ZSgibWFzdGVya2V5IiksICJTcGVjaWZ5IHRoZSBEQiBwYXNzd29yZCIpOwoKICAvLyBUaGlzIGlzIGEgcXVpcmsgb2YgQm9vc3QuUHJvZ3JhbU9wdGlvbnMuICBUaGVzZSBwYXJhbWV0ZXJzIGFyZSBub3QgZXZlciBtZWFudCB0byBiZSB1c2VkIGFzCiAgLy8gbmFtZWQgb3B0aW9uczsgdGhleSBhcmUgZXhjbHVzaXZlbHkgcG9zaXRpb25hbCBvcHRpb25zLiAgQnV0IEJvb3N0LlByb2dyYW1PcHRpb25zIG9ubHkgbGV0cwogIC8vIHlvdSBoYW5kbGUgcG9zaXRpb25hbCBvcHRpb25zIGJ5IGFsaWFzaW5nIHRoZW0gdG8gcHJldmlvdXNseS1kZWZpbmVkIG5hbWVkIG9wdGlvbnMuCiAgcG86Om9wdGlvbnNfZGVzY3JpcHRpb24gaGlkZGVuKCJPcHRpb25zIGhpZGRlbiBiZWNhdXNlIHRoZXkgc2hvdWxkIG9ubHkgYmUgc3BlY2lmaWVkIHBvc2l0aW9uYWxseSIpOwogIGhpZGRlbi5hZGRfb3B0aW9ucygpCiAgICAoIkZJTEVOQU1FIiwgcG86OnZhbHVlKCZmaWxlbmFtZSksICJVTFMgbWF0ZXJpYWxzIGRhdGFiYXNlIikKICAgICgiTUlHUkFUSU9OX05VTUJFUiIsIHBvOjp2YWx1ZSgmbWlncmF0aW9uTnVtYmVyKSwgIkZpbmFsIG1pZ3JhdGlvbiB0byBhcHBseSIpOwoKICBwbzo6b3B0aW9uc19kZXNjcmlwdGlvbiBhbGwoIkFsbG93ZWQgb3B0aW9ucyIpOwogIGFsbC5hZGQodmlzaWJsZSkuYWRkKGhpZGRlbik7CgogIHBvOjpwb3NpdGlvbmFsX29wdGlvbnNfZGVzY3JpcHRpb24gcG9zaXRpb25hbDsKICBwb3NpdGlvbmFsLmFkZCgiRklMRU5BTUUiLCAxKTsKICBwb3NpdGlvbmFsLmFkZCgiTUlHUkFUSU9OX05VTUJFUiIsIDEpOwoKICBjb25zdCBhdXRvIFVzYWdlID0gW3Zpc2libGUsICZleGVQcm9ncmFtTmFtZV0oKSB7CiAgICBmbXQ6OnByaW50KCJVc2FnZToge30gW29wdGlvbnNdIDxGSUxFTkFNRT4gPE1JR1JBVElPTl9OVU1CRVI+XG57fSIsCiAgICAgICAgICAgICAgIGV4ZVByb2dyYW1OYW1lLAogICAgICAgICAgICAgICB2aXNpYmxlKTsKICB9OwoKICBwbzo6dmFyaWFibGVzX21hcCB2bWFwOwogIHRyeSB7CiAgICBwbzo6c3RvcmUoCiAgICAgIHBvOjpjb21tYW5kX2xpbmVfcGFyc2VyKGFyZ2MsIGFyZ3YpCiAgICAgICAgLm9wdGlvbnMoYWxsKQogICAgICAgIC5wb3NpdGlvbmFsKHBvc2l0aW9uYWwpCiAgICAgICAgLnN0eWxlKAogICAgICAgICAgLy8gQWxsb3cgbG9uZyBvcHRpb25zIHRvIHN0YXJ0IHdpdGggdHdvIGRhc2hlcywgc2hvcnQgb3B0aW9ucyB3aXRoIG9uZSBkYXNoCiAgICAgICAgICBwbzo6Y29tbWFuZF9saW5lX3N0eWxlOjp1bml4X3N0eWxlIHwKICAgICAgICAgICAgLy8gQWxsb3cgb3B0aW9uIHBhcmFtZXRlciBpbiB0aGUgc2FtZSB0b2tlbiBmb3IgbG9uZyBvcHRpb24sIGxpa2UgaW4gLS1mb289MTAKICAgICAgICAgICAgcG86OmNvbW1hbmRfbGluZV9zdHlsZTo6bG9uZ19hbGxvd19uZXh0KQogICAgICAgIC5ydW4oKSwgLy8gRW5mb3JjZXMgInJlcXVpcmVkIiBhdCB0aGlzIHRpbWUKICAgICAgdm1hcCk7CiAgICBwbzo6bm90aWZ5KHZtYXApOwogIH0KICBjYXRjaCAocG86OmVycm9yICZlKSB7CiAgICBmbXQ6OnByaW50KCJ7fVxuIiwgZS53aGF0KCkpOwogICAgVXNhZ2UoKTsKICAgIHJldHVybiAxOwogIH0KCiAgaWYgKHZtYXAuY291bnQoImhlbHAiKSkgewogICAgVXNhZ2UoKTsKICAgIHJldHVybiAwOwogIH0KCiAgaWYgKHZtYXAuY291bnQoIm5vLWJhY2t1cCIpKSBub0JhY2t1cCA9IHRydWU7CiAgZWxzZSBub0JhY2t1cCA9IGZhbHNlOwoKICBpZihkYXRhRGlyZWN0b3J5KSBGaWxlUGF0aDo6U2V0TFNNRGF0YURpcmVjdG9yeShmczo6cGF0aCgqZGF0YURpcmVjdG9yeSkpOwogIG1heERCVmVyc2lvbiA9IGdldE1heFN1cHBvcnRlZFZlcnNpb24oKTsKICBpZiAodmVyYm9zaXR5KSBmbXQ6OnByaW50KCJUaGUgaGlnaGVzdCBzdXBwb3J0ZWQgbWlncmF0aW9uIGZvdW5kIGlzIHt9XG4iLCBtYXhEQlZlcnNpb24pOwoKICBpZiAodm1hcC5jb3VudCgibWF4LWRiLXZlcnNpb24iKSkgewogICAgZm10OjpwcmludCgibWF4LWRiLXZlcnNpb246IHt9XG4iLCBtYXhEQlZlcnNpb24pOwogICAgcmV0dXJuIDA7CiAgfQoKICBpZiAoIWZpbGVuYW1lKSB7CiAgICBmbXQ6OnByaW50KCJGSUxFTkFNRSBwb3NpdGlvbiBhcmd1bWVudCBpcyByZXF1aXJlZFxuIik7CiAgICBVc2FnZSgpOwogICAgcmV0dXJuIDE7CiAgfQogIGlmICghbWlncmF0aW9uTnVtYmVyKSB7CiAgICBmbXQ6OnByaW50KCJNSUdSQVRJT05fTlVNQkVSIHBvc2l0aW9uIGFyZ3VtZW50IGlzIHJlcXVpcmVkXG4iKTsKICAgIFVzYWdlKCk7CiAgICByZXR1cm4gMTsKICB9IGVsc2UgaWYgKG1pZ3JhdGlvbk51bWJlciA+IG1heERCVmVyc2lvbikgewogICAgZm10OjpwcmludCgiTUlHUkFUSU9OX05VTUJFUiBpcyBncmVhdGVyIHRoYW4gdGhlIGxhdGVzdCBzdXBwb3J0ZWQgdmVyc2lvbi5cbkxhdGVzdCBzdXBwb3J0ZWQgdmVyc2lvbiBpcyB7fS4iLAogICAgICAgICAgICAgICBtYXhEQlZlcnNpb24pOwogICAgcmV0dXJuIDE7CiAgfQoKICBpZiAodmVyYm9zaXR5ID4gMCkgewogICAgZm10OjpwcmludCgiUnVubmluZyB3aXRoIG9wdGlvbnM6XG4iKTsKICAgIGZtdDo6cHJpbnQoInZlcmJvc2Uge31cbiIsIHZlcmJvc2l0eSk7CiAgICBpZiAodm1hcC5jb3VudCgibm8tYmFja3VwIikpCiAgICAgIGZtdDo6cHJpbnQoIm5vLWJhY2t1cFxuIik7CiAgICBpZihkYXRhRGlyZWN0b3J5KQogICAgICBmbXQ6OnByaW50KCJkYXRhLWRpcmVjdG9yeSB7fVxuIiwgKmRhdGFEaXJlY3RvcnkpOwogICAgZm10OjpwcmludCgiRklMRU5BTUUge31cbiIsICpmaWxlbmFtZSk7CiAgICBmbXQ6OnByaW50KCJNSUdSQVRJT05fTlVNQkVSIHt9XG4iLCAqbWlncmF0aW9uTnVtYmVyKTsKICB9CgogIGlmKG1pZ3JhdGlvbk51bWJlciA8IDMxKSB7CiAgICBmbXQ6OnByaW50KCJUaGlzIE1pZ3JhdG9yIGNhbiBvbmx5IGhhbmRsZSBtaWdyYXRpb25zIDMxIG9yIG5ld2VyXG4iKTsKICAgIHJldHVybiAxOwogIH0=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">aWYgKG1pZ3JhdGlvbk51bWJlciA8IDMxKSB7CiAgICAgICAgZm10OjpwcmludCgiVGhpcyBNaWdyYXRvciBjYW4gb25seSBoYW5kbGUgbWlncmF0aW9ucyAzMSBvciBuZXdlclxuIik7CiAgICAgICAgZXhpdCgxKTsKICAgICAgfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBzcyA8PCBSIihhdGlvbjAqKSIgPDwgbWlncmF0aW9uTnVtYmVyIDw8IFIiKC0/KFswLTldKyk/KC0tLiopP18pIjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KDEpOwogICAgICB9Cg==</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">aWYgKG1pZ3JhdGlvbk51bWJlciA8IDMxKSB7CiAgICAgICAgZm10OjpwcmludCgiVGhpcyBNaWdyYXRvciBjYW4gb25seSBoYW5kbGUgbWlncmF0aW9ucyAzMSBvciBuZXdlclxuIik7CiAgICAgICAgZXhpdCgxKTsKICAgICAgfQ==</text>
+        <text>fs::exists(FilePath::GetLSMDataDirectory() / backupFile)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGludCBtaWdyYXRpb25Ub0V4ZWN1dGUgPSAoZGlyZWN0aW9uID09IHVwTWlncmF0aW9ucykgPyBjdXJyZW50VmVyc2lvbisrIDogY3VycmVudFZlcnNpb247Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3RhdGljIGludCB2YWxpZGF0ZU1pZ3JhdGlvbigpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHZtYXAuY291bnQoIm5vLWJhY2t1cCIpKSBub0JhY2t1cCA9IHRydWU7CiAgICAgIGVsc2Ugbm9CYWNrdXAgPSBmYWxzZTsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>if (dataDirectory) FilePath::SetLSMDataDirectory(fs::path(*dataDirectory));
-    maxDBVersion = getMaxSupportedVersion();
-    if (verbosity) fmt::print(&quot;The highest migration found is {}\n&quot;, maxDBVersion);
-
-    if (vmap.count(&quot;max-db-version&quot;)) {
-      fmt::print(&quot;max-db-version: {}\n&quot;, maxDBVersion);
-      exit(0);</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW50IHZhbGlkYXRlTWlncmF0aW9uKCkgewoK</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>for (;</last-search>
+      <last-search>;</last-search>
       <last-offset />
-      <last-pattern>for (;</last-pattern>
+      <last-pattern>;</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Boost</entry>
         <entry>request_buffer</entry>
         <entry>D</entry>
         <entry>dbSession</entry>
@@ -301,6 +294,7 @@
         <entry>(;</entry>
         <entry>for</entry>
         <entry>for (;</entry>
+        <entry>;</entry>
       </history-search>
       <history-cmd>
         <entry>49</entry>
@@ -319,6 +313,7 @@
         <entry>216</entry>
         <entry>243</entry>
         <entry>q</entry>
+        <entry>set relativenumber</entry>
         <entry>1</entry>
       </history-cmd>
       <history-expr />
