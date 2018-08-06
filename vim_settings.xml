@@ -15,12 +15,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="13373" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" timestamp="1533579050783">
-        <mark key="'" line="161" column="52" />
-        <mark key="[" line="200" column="0" />
-        <mark key="]" line="200" column="0" />
-        <mark key="^" line="191" column="3" />
-        <mark key="." line="200" column="0" />
+      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" timestamp="1533581121124">
+        <mark key="'" line="186" column="4" />
+        <mark key="[" line="241" column="26" />
+        <mark key="]" line="241" column="26" />
+        <mark key="^" line="241" column="26" />
+        <mark key="." line="241" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/database/Materials/DatabaseQueries.cpp" timestamp="1532372270629">
         <mark key="[" line="714" column="25" />
@@ -100,12 +100,12 @@
         <mark key="." line="60" column="3" />
         <mark key="^" line="60" column="3" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" timestamp="1533577563669">
-        <mark key="'" line="238" column="75" />
-        <mark key="[" line="38" column="79" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" timestamp="1533580473262">
+        <mark key="'" line="278" column="4" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="41" column="59" />
+        <mark key="." line="389" column="28" />
+        <mark key="^" line="389" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
         <mark key="[" line="2" column="0" />
@@ -175,20 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="610" column="23" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
-      <jump line="649" column="23" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
-      <jump line="687" column="23" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
-      <jump line="939" column="23" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
-      <jump line="1055" column="20" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
-      <jump line="1194" column="33" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
-      <jump line="1210" column="33" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
-      <jump line="1227" column="33" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
-      <jump line="1278" column="26" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
-      <jump line="1489" column="33" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
-      <jump line="331" column="16" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
-      <jump line="241" column="28" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="246" column="73" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="480" column="8" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="298" column="2" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="441" column="30" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="17" column="57" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.h" />
@@ -262,7 +248,6 @@
       <jump line="181" column="47" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="327" column="22" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="328" column="8" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
-      <jump line="45" column="4" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="17" column="65" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
       <jump line="332" column="4" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
       <jump line="177" column="11" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
@@ -275,55 +260,291 @@
       <jump line="161" column="52" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="55" column="24" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.h" />
       <jump line="56" column="4" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.h" />
+      <jump line="48" column="22" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="278" column="4" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
+      <jump line="315" column="15" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="379" column="8" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="45" column="4" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="234" column="42" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="378" column="22" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="399" column="0" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="194" column="4" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="238" column="40" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="278" column="6" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="279" column="8" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="313" column="5" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="170" column="6" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="191" column="4" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>isc_service_detach(status, service_handle);</text>
       </register>
       <register name="-" type="4">
-        <text>Next</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Next</text>
+        <text>auto duration</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">bG9nZ2VyXy0+dHJhY2UoIk1heCBHZXROZXh0IERlbHRhVSByZWNhbGN1bGF0aW9uIHRpbWU6IHt9IG1pY3Jvc2Vjb25kcyIsIEZpeGVkRGVsdGFQTlVSQlNTYW1wbGVyOjpHZXROZXh0TWF4RGVsdGFVQ2FsY3VsYXRpb25UaW1lKTsKICAgIGxvZ2dlcl8tPnRyYWNlKCJNaW4gR2V0TmV4dCBEZWx0YVUgcmVjYWxjdWxhdGlvbiB0aW1lOiB7fSBtaWNyb3NlY29uZHMiLCBGaXhlZERlbHRhUE5VUkJTU2FtcGxlcjo6R2V0TmV4dE1pbkRlbHRhVUNhbGN1bGF0aW9uVGltZSk7</text>
+        <text encoding="base64">c3RkOjpjaHJvbm86OmR1cmF0aW9uPGludDY0X3QsIHN0ZDo6bWljcm8+IG1heFRpbWUgPSBzdGQ6OmNocm9ubzo6ZHVyYXRpb248aW50NjRfdCwgc3RkOjptaWNybz46Om1pbigpOwpzdGQ6OmNocm9ubzo6ZHVyYXRpb248aW50NjRfdCwgc3RkOjptaWNybz4gbWluVGltZSA9IHN0ZDo6Y2hyb25vOjpkdXJhdGlvbjxpbnQ2NF90LCBzdGQ6Om1pY3JvPjo6bWF4KCk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlcl8tPnRyYWNlKCJUb3RhbCBEZWx0YVUgUmVjYWxjdWxhdGlvbnM6IHt9IiwgRml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6OnRvdGFsRGVsdGFVUmVjYWxjdWxhdGlvbkxvb3BzKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlcl8tPnRyYWNlKCJBdmcgRGVsdGFVIHRpbWU6IHt9IiwgRml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6OnRvdGFsRGVsdGFVQ2FsY3VsYXRpb25UaW1lIC8gRml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6OnRvdGFsRGVsdGFVUmVjYWxjdWxhdGlvbkxvb3BzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgbWF4VGltZU5VUkIgPSBjb3VudDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlcl8tPnRyYWNlKCJNaW4gRGVsdGFVIHRpbWU6IHt9IiwgRml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6Om1pbkRlbHRhVUNhbGN1bGF0aW9uVGltZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgbWluVGltZU5VUkIgPSBjb3VudDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlcl8tPnRyYWNlKCJNYXggRGVsdGFVIHRpbWU6IHt9IiwgRml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6Om1heERlbHRhVUNhbGN1bGF0aW9uVGltZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhdXRvIGR1cmF0aW9uID0gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlcl8tPnRyYWNlKCJBdmcgVUJvdW5kIGxvb3A6IHt9IiwgRml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6OnRvdGFsVXBwZXJCb3VuZExvb3BzIC8gRml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6OnRvdGFsR2V0TmV4dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgYXV0byBsb29wU3RhcnQgPSBzdGQ6OmNocm9ubzo6c3lzdGVtX2Nsb2NrOjpub3coKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlcl8tPnRyYWNlKCJNaW4gVUJvdW5kIGxvb3A6IHt9IiwgRml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6Om1pblVwcGVyQm91bmRMb29wcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2dnaW5nOjpHZXQoImV4dHJlbWEiKS0+d2Fybigie30gU2UiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlcl8tPnRyYWNlKCJNYXggVUJvdW5kIGxvb3A6IHt9IiwgRml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6Om1heFVwcGVyQm91bmRMb29wcyk7Cg==</text>
+        <text encoding="base64">ICAgIGF1dG8gZ3Vlc3NTdGFydCA9IHN0ZDo6Y2hyb25vOjpzeXN0ZW1fY2xvY2s6Om5vdygpOwo=</text>
+      </register>
+      <register name="w" type="4">
+        <keys>
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="71" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="78" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="71" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="78" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="71" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="78" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="71" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="78" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="68" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="71" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="78" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlcl8tPnRyYWNlKCJNYXggR2V0TmV4dCBEZWx0YVUgcmVjYWxjdWxhdGlvbiB0aW1lOiB7fSBtaWNyb3NlY29uZHMiLCBGaXhlZERlbHRhUE5VUkJTU2FtcGxlcjo6bWF4KQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0b3RhbFN0YXJ0VUNhbGN1bGF0aW9uVGltZSArPSBkdXJhdGlvbi5jb3VudCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>Next</last-search>
+      <last-search>auto duration</last-search>
       <last-offset />
-      <last-pattern>Next</last-pattern>
+      <last-pattern>auto duration</last-pattern>
       <last-replace>Previous</last-replace>
       <last-substitute>Next</last-substitute>
       <last-dir>1</last-dir>
@@ -331,11 +552,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Logging::Get</entry>
-        <entry>logger</entry>
-        <entry>{</entry>
-        <entry>logger_</entry>
-        <entry>C</entry>
         <entry>S</entry>
         <entry>::</entry>
         <entry>t</entry>
@@ -345,12 +561,17 @@
         <entry encoding="base64">bG9nZ2VyXy0+</entry>
         <entry>line segments</entry>
         <entry>lineSegments</entry>
-        <entry>minLoop</entry>
         <entry>recalc</entry>
         <entry>recalcStart</entry>
         <entry>std::chrono::miliseconds</entry>
         <entry>chrono::milliseconds</entry>
         <entry>Next</entry>
+        <entry>maxTime</entry>
+        <entry>SetStartU</entry>
+        <entry>minLoop</entry>
+        <entry>auto</entry>
+        <entry>lineSegment</entry>
+        <entry>auto duration</entry>
       </history-search>
       <history-cmd>
         <entry>set noerrorbells</entry>
