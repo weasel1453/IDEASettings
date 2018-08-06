@@ -15,11 +15,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="13373" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" timestamp="1533562022536">
+      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" timestamp="1533562216052">
         <mark key="'" line="164" column="4" />
-        <mark key="[" line="39" column="50" />
-        <mark key="]" line="144" column="0" />
-        <mark key="." line="144" column="0" />
+        <mark key="[" line="168" column="46" />
+        <mark key="]" line="168" column="62" />
+        <mark key="." line="168" column="62" />
+        <mark key="^" line="168" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/database/Materials/DatabaseQueries.cpp" timestamp="1532372270629">
         <mark key="[" line="714" column="25" />
@@ -265,7 +266,7 @@
         <text>isc_service_detach(status, service_handle);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gSU5UNjRfQygpOw==</text>
+        <text>z</text>
       </register>
       <register name="/" type="4">
         <text>logger_</text>
@@ -274,15 +275,18 @@
         <text encoding="base64">TG9nZ2luZzo6R2V0KCJwZXJmb3JtYW5jZSIpLT5kZWJ1ZygiTlVSQlMgY3VydmUgcHJlLXByb2Nlc3Npbmc6ICBGb3VuZCB7fSB4IGV4dHJlbWEgYW5kIHt9IHkgZXh0cmVtYSBpbiB7fSBtcyIsCiAgICAgIG51bVhFeHRyZW1hLCBudW1ZRXh0cmVtYSwgZHVyYXRpb24uY291bnQoKSk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkdXJhdGlvbi4K</text>
+        <text encoding="base64">c3RkOjpjaHJvbm86OmR1cmF0aW9uPGludDY0X3QsIHN0ZDo6bWlsbGk+IG1heFRpbWUgPSBzdGQ6OmNocm9ubzo6ZXJvOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkdXJhdGlvbi4K</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>int NURBS::NURBSExtrema::lineSegments = 0;
 int NURBS::NURBSExtrema::dismissed = 0;
 
@@ -291,20 +295,17 @@ int maxNURB;
 int maxLoop;
 int minLoop;</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgbG9nZ2VyXy0+dHJhY2UoIk5VUkIge30gZXhlY3V0ZWQge30gbG9vcHMuIiwgYnVja2V0LCBsb29wQ291bnQpOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ZG91YmxlIGF2ZXJhZ2UK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc3RhdGljIGludCBsaW5lU2VnbWVudHMsIGRpc21pc3NlZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc3RhdGljIGludCBsaW5lU2VnbWVudHMsIGRpc21pc3NlZDsK</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
