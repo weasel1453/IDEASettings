@@ -15,8 +15,8 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="13373" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" timestamp="1533574156587">
-        <mark key="'" line="230" column="0" />
+      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" timestamp="1533575916738">
+        <mark key="'" line="45" column="4" />
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
@@ -98,12 +98,12 @@
         <mark key="." line="35" column="14" />
         <mark key="^" line="35" column="14" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" timestamp="1533573465304">
-        <mark key="'" line="226" column="32" />
-        <mark key="[" line="16" column="64" />
-        <mark key="]" line="16" column="65" />
-        <mark key="." line="16" column="65" />
-        <mark key="^" line="16" column="65" />
+      <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" timestamp="1533576744493">
+        <mark key="'" line="198" column="48" />
+        <mark key="[" line="417" column="1" />
+        <mark key="]" line="332" column="4" />
+        <mark key="." line="332" column="4" />
+        <mark key="^" line="332" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
         <mark key="[" line="2" column="0" />
@@ -173,15 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="193" column="9" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="218" column="0" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/Migration031-0--TableCreation_up.sql" />
-      <jump line="315" column="13" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="270" column="2" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="347" column="5" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="68" column="9" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/FilePath.h" />
-      <jump line="804" column="0" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
-      <jump line="544" column="18" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="156" column="6" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="161" column="0" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="190" column="0" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="940" column="23" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
@@ -273,6 +264,15 @@
       <jump line="29" column="0" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.h" />
       <jump line="35" column="0" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="230" column="0" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="155" column="4" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="181" column="47" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="327" column="22" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="328" column="8" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="45" column="4" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="17" column="65" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
+      <jump line="332" column="4" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
+      <jump line="177" column="11" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
+      <jump line="198" column="48" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -282,25 +282,25 @@
         <text>LONG_MIN</text>
       </register>
       <register name="/" type="4">
-        <text>lineSegments</text>
+        <text>recalcStart</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZihMb2dnaW5nOjpHZXQoImV4dHJlbWEiKS0+bGV2ZWwoKSA9PSBzdGF0aWNfY2FzdDxzcGRsb2c6OmxldmVsOjpsZXZlbF9lbnVtPihMb2dnaW5nOjpMZXZlbDo6dHJhY2UpKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIExvZ2dpbmc6OkxldmVsOjoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlcl8tPnRyYWNlKCJFbnRlcmluZyBMYXp5RmluZEV4dHJlbWEiKTsK</text>
+        <text encoding="base64">ICAgIHRvdGFsU3RhcnRVQ2FsY3VsYXRpb25zKys7Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIExvZ2dpbmc6OkxldmVsOjoK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGxvZ2dlcl8tPnRyYWNlKCJFbnRlcmluZyBMYXp5RmluZEV4dHJlbWEiKTsK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">c3RkOjpjaHJvbm86OmR1cmF0aW9uPGludDY0X3QsIHN0ZDo6bWlsbGk=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">c3RkOjpjaHJvbm86OmR1cmF0aW9uPGludDY0X3QsIHN0ZDo6bWlsbGk=</text>
       </register>
       <register name="6" type="4">
         <text encoding="base64">c3RkOjpjaHJvbm86OmR1cmF0aW9uPGludDY0X3QsIHN0ZDo6bWlsbGk=</text>
@@ -309,27 +309,24 @@
         <text encoding="base64">c3RkOjpjaHJvbm86OmR1cmF0aW9uPGludDY0X3QsIHN0ZDo6bWlsbGk=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">c3RhdGljIHN0ZDo6Y2hyb25vOjpkdXJhdGlvbjxpbnQ2NF90LCBzdGQ6Om1pbGxp</text>
+        <text encoding="base64">c3RkOjpjaHJvbm86OmR1cmF0aW9uPGludDY0X3QsIHN0ZDo6bWlsbGk=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">c3RkOjpjaHJvbm86OmR1cmF0aW9uPGludDY0X3QsIHN0ZDo6bWlsbGk+OjptYXgoKQ==</text>
+        <text encoding="base64">c3RkOjpjaHJvbm86OmR1cmF0aW9uPGludDY0X3QsIHN0ZDo6bWlsbGk=</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>lineSegments</last-search>
+      <last-search>recalcStart</last-search>
       <last-offset />
-      <last-pattern>lineSegments</last-pattern>
+      <last-pattern>recalcStart</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getThisExe</entry>
-        <entry>GetThisExe</entry>
-        <entry>logging</entry>
         <entry>motion</entry>
         <entry>-</entry>
         <entry>&quot;motion&quot;</entry>
@@ -347,6 +344,9 @@
         <entry encoding="base64">bG9nZ2VyXy0+</entry>
         <entry>line segments</entry>
         <entry>lineSegments</entry>
+        <entry>minLoop</entry>
+        <entry>recalc</entry>
+        <entry>recalcStart</entry>
       </history-search>
       <history-cmd>
         <entry>set errorbells</entry>
