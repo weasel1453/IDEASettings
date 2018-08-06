@@ -15,12 +15,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="13373" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" timestamp="1533327716628">
-        <mark key="'" line="47" column="36" />
-        <mark key="[" line="283" column="51" />
-        <mark key="]" line="283" column="58" />
-        <mark key="." line="283" column="58" />
-        <mark key="^" line="283" column="58" />
+      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" timestamp="1533562022536">
+        <mark key="'" line="164" column="4" />
+        <mark key="[" line="39" column="50" />
+        <mark key="]" line="144" column="0" />
+        <mark key="." line="144" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/database/Materials/DatabaseQueries.cpp" timestamp="1532372270629">
         <mark key="[" line="714" column="25" />
@@ -152,29 +151,14 @@
         <mark key="^" line="1" column="53" />
         <mark key="." line="1" column="53" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSBoxIntersection.cpp" timestamp="1533331225944">
-        <mark key="[" line="18" column="39" />
-        <mark key="]" line="18" column="3" />
-        <mark key="." line="18" column="3" />
-        <mark key="^" line="18" column="3" />
+      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSBoxIntersection.cpp" timestamp="1533331702632">
+        <mark key="'" line="486" column="7" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="4" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="127" column="6" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="184" column="2" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="73" column="4" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="78" column="4" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="84" column="4" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="90" column="4" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="95" column="4" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="99" column="4" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="214" column="38" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/uls/lsm/CMakeLists.txt" />
-      <jump line="97" column="21" filename="$USER_HOME$/uls/lsm/CMakeLists.txt" />
-      <jump line="98" column="13" filename="$USER_HOME$/uls/lsm/CMakeLists.txt" />
-      <jump line="100" column="17" filename="$USER_HOME$/uls/lsm/CMakeLists.txt" />
-      <jump line="102" column="8" filename="$USER_HOME$/uls/lsm/CMakeLists.txt" />
       <jump line="103" column="17" filename="$USER_HOME$/uls/lsm/CMakeLists.txt" />
       <jump line="183" column="44" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="65" column="6" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
@@ -260,55 +244,76 @@
       <jump line="147" column="7" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="276" column="8" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="47" column="36" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="313" column="2" filename="$USER_HOME$/uls/lsm/NURBS/NURBSBoxIntersection.cpp" />
+      <jump line="372" column="7" filename="$USER_HOME$/uls/lsm/NURBS/NURBSBoxIntersection.cpp" />
+      <jump line="406" column="15" filename="$USER_HOME$/uls/lsm/NURBS/NURBSBoxIntersection.cpp" />
+      <jump line="415" column="9" filename="$USER_HOME$/uls/lsm/NURBS/NURBSBoxIntersection.cpp" />
+      <jump line="420" column="11" filename="$USER_HOME$/uls/lsm/NURBS/NURBSBoxIntersection.cpp" />
+      <jump line="434" column="15" filename="$USER_HOME$/uls/lsm/NURBS/NURBSBoxIntersection.cpp" />
+      <jump line="447" column="11" filename="$USER_HOME$/uls/lsm/NURBS/NURBSBoxIntersection.cpp" />
+      <jump line="461" column="15" filename="$USER_HOME$/uls/lsm/NURBS/NURBSBoxIntersection.cpp" />
+      <jump line="469" column="7" filename="$USER_HOME$/uls/lsm/NURBS/NURBSBoxIntersection.cpp" />
+      <jump line="492" column="7" filename="$USER_HOME$/uls/lsm/NURBS/NURBSBoxIntersection.cpp" />
+      <jump line="117" column="6" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="151" column="4" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="182" column="6" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="135" column="14" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="149" column="4" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>isc_service_detach(status, service_handle);</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">ID0gSU5UNjRfQygpOw==</text>
       </register>
       <register name="/" type="4">
-        <text>{</text>
+        <text>logger_</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">TG9nZ2luZzo6R2V0KCJwZXJmb3JtYW5jZSIpLT5kZWJ1ZygiTlVSQlMgY3VydmUgcHJlLXByb2Nlc3Npbmc6ICBGb3VuZCB7fSB4IGV4dHJlbWEgYW5kIHt9IHkgZXh0cmVtYSBpbiB7fSBtcyIsCiAgICAgIG51bVhFeHRyZW1hLCBudW1ZRXh0cmVtYSwgZHVyYXRpb24uY291bnQoKSk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkdXJhdGlvbi4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc3RhdGljIGludCBsaW5lU2VnbWVudHMsIGRpc21pc3NlZDsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">c3RhdGljIGludCBsaW5lU2VnbWVudHMgPSAwLCBkaXNtaXNzZWQgPSAwOwo=</text>
+      <register name="4" type="4">
+        <text>int NURBS::NURBSExtrema::lineSegments = 0;
+int NURBS::NURBSExtrema::dismissed = 0;
+
+int minNURB;
+int maxNURB;
+int maxLoop;
+int minLoop;</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyXy0+dHJhY2UoIk5VUkIge30gZXhlY3V0ZWQge30gbG9vcHMuIiwgYnVja2V0LCBsb29wQ291bnQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc3RhdGljIGludCBsaW5lU2VnbWVudHMgPSAwLCBkaXNtaXNzZWQgPSAwOwo=</text>
+        <text encoding="base64">ZG91YmxlIGF2ZXJhZ2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyXy0+dHJhY2UoIkZpbmRpbmcgZXh0cmVtYSBmb3IgY3VydmUge30iLCBjb3VudCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIExvZ2dpbmc6OkdldCgiZXh0cmVtYSIpLT50cmFjZSgiUnVubmluZyB0b3RhbCBvZiBsaW5lIHNlZ21lbnRzOiB7fSIsIGNvdW50KTsK</text>
+        <text encoding="base64">ICAgICAgc3RhdGljIGludCBsaW5lU2VnbWVudHMsIGRpc21pc3NlZDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBpbnQgY291bnQgPSAwOwogICAgc3RhdGljIGludCBkaXNtaXNzZWQgPSAwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>61</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>{</last-search>
+      <last-search>logger_</last-search>
       <last-offset />
-      <last-pattern>{</last-pattern>
+      <last-pattern>logger_</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -330,10 +335,10 @@
         <entry>motion</entry>
         <entry>-</entry>
         <entry>&quot;motion&quot;</entry>
-        <entry>logger_</entry>
         <entry>Logging::Get</entry>
         <entry>logger</entry>
         <entry>{</entry>
+        <entry>logger_</entry>
       </history-search>
       <history-cmd>
         <entry>49</entry>
@@ -353,9 +358,9 @@
         <entry>243</entry>
         <entry>q</entry>
         <entry>set relativenumber</entry>
-        <entry>1</entry>
         <entry>w</entry>
         <entry>61</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
