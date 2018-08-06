@@ -15,12 +15,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="13373" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" timestamp="1533566848951">
+      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" timestamp="1533569219637">
         <mark key="'" line="165" column="4" />
-        <mark key="[" line="175" column="91" />
-        <mark key="]" line="175" column="98" />
-        <mark key="." line="175" column="98" />
-        <mark key="^" line="175" column="98" />
+        <mark key="[" line="167" column="58" />
+        <mark key="]" line="168" column="101" />
+        <mark key="." line="168" column="101" />
+        <mark key="^" line="168" column="101" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/database/Materials/DatabaseQueries.cpp" timestamp="1532372270629">
         <mark key="[" line="714" column="25" />
@@ -92,17 +92,17 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="51" column="16" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.h" timestamp="1533566672401">
-        <mark key="[" line="35" column="32" />
-        <mark key="]" line="35" column="53" />
-        <mark key="." line="35" column="32" />
-        <mark key="^" line="42" column="34" />
+      <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.h" timestamp="1533569178051">
+        <mark key="[" line="37" column="23" />
+        <mark key="]" line="37" column="40" />
+        <mark key="." line="37" column="40" />
+        <mark key="^" line="37" column="40" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" timestamp="1533566770618">
-        <mark key="[" line="17" column="123" />
-        <mark key="]" line="17" column="144" />
-        <mark key="." line="17" column="123" />
-        <mark key="^" line="75" column="18" />
+      <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" timestamp="1533569232381">
+        <mark key="[" line="379" column="28" />
+        <mark key="]" line="379" column="28" />
+        <mark key="." line="379" column="28" />
+        <mark key="^" line="379" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
         <mark key="[" line="2" column="0" />
@@ -278,43 +278,43 @@
         <text>isc_service_detach(status, service_handle);</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>DeltaURecalculationLoops</text>
       </register>
       <register name="/" type="4">
         <text>m</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">PGludDY0X3QsIHN0ZDo6bWlsbGk+</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHN0YXRpYyBkb3VibGUgdG90YWxEZWx0YVVSZWNhbGN1bGF0aW9uTG9vcHM7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlcl8tPnRyYWNlKCJBdmcgVSIpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlcl8tPnRyYWNlKCJBdmcgVSIpCg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlcl8tPnRyYWNlKCJBdmcgU3RhcnRVIHRpbWU6IHt9IiwgRml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6OnRvdGFsU3RhcnRVQ2FsY3VsYXRpb25UaW1lIC8gbnVyYnNDdXJ2ZXMuc2l6ZSgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlcl8tPnRyYWNlKCJBdmcgVSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbWluU1VOVVJCID0gYnVja2V0Owo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlcl8tPnRyYWNlKCJBdmcgVSIpCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgbWluU1VOVVJCID0gYnVja2V0Owo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgbWF4U1VOVVJCID0gYnVja2V0Owo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>mpler::</text>
-      </register>
-      <register name="7" type="4">
-        <text>NURBS::FixedDeltaPNURBSSa</text>
       </register>
       <register name="8" type="4">
         <text>mpler::</text>
       </register>
       <register name="9" type="4">
-        <text>taPNURBSSa</text>
+        <text>NURBS::FixedDeltaPNURBSSa</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>$</text>
       </register>
     </registers>
     <search>
@@ -366,8 +366,8 @@
         <entry>w</entry>
         <entry>61</entry>
         <entry>11</entry>
-        <entry>$</entry>
         <entry>1</entry>
+        <entry>$</entry>
       </history-cmd>
       <history-expr />
       <history-input />
