@@ -15,12 +15,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="13373" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" timestamp="1533583142555">
+      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" timestamp="1533586030564">
         <mark key="'" line="158" column="4" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="^" line="214" column="67" />
-        <mark key="." line="114" column="0" />
+        <mark key="[" line="180" column="113" />
+        <mark key="]" line="181" column="107" />
+        <mark key="^" line="181" column="107" />
+        <mark key="." line="181" column="107" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/database/Materials/DatabaseQueries.cpp" timestamp="1532372270629">
         <mark key="[" line="714" column="25" />
@@ -93,19 +93,19 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="51" column="16" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.h" timestamp="1533585016503">
+      <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.h" timestamp="1533586149509">
         <mark key="'" line="57" column="4" />
-        <mark key="[" line="32" column="43" />
-        <mark key="]" line="32" column="43" />
-        <mark key="." line="32" column="43" />
-        <mark key="^" line="32" column="43" />
+        <mark key="[" line="39" column="11" />
+        <mark key="]" line="39" column="15" />
+        <mark key="." line="39" column="15" />
+        <mark key="^" line="39" column="15" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" timestamp="1533585287784">
-        <mark key="'" line="278" column="4" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="3" />
-        <mark key="." line="14" column="3" />
-        <mark key="^" line="14" column="3" />
+      <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" timestamp="1533586514198">
+        <mark key="'" line="200" column="6" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="4" />
+        <mark key="." line="22" column="4" />
+        <mark key="^" line="22" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
         <mark key="[" line="2" column="0" />
@@ -175,11 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="298" column="2" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="441" column="30" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="17" column="57" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.h" />
-      <jump line="15" column="0" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="44" column="12" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="256" column="24" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="260" column="0" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="192" column="6" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
@@ -253,7 +248,6 @@
       <jump line="177" column="11" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
       <jump line="198" column="48" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
       <jump line="409" column="74" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
-      <jump line="197" column="77" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
       <jump line="222" column="75" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
       <jump line="332" column="27" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="140" column="73" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
@@ -275,16 +269,22 @@
       <jump line="313" column="5" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="170" column="6" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="191" column="4" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="197" column="56" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
+      <jump line="199" column="0" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
+      <jump line="232" column="4" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
+      <jump line="224" column="6" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
+      <jump line="22" column="37" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
+      <jump line="200" column="6" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>isc_service_detach(status, service_handle);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bG9uZyA=</text>
+        <text encoding="base64">ZG91YmxlIA==</text>
       </register>
       <register name="/" type="4">
-        <text>auto duration</text>
+        <text encoding="base64">XDx0b3RhbEdldE5leHREZWx0YVVDYWxjdWxhdGlvblRpbWVcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">YXV0byBkdXJhdGlvbiA9IHN0ZDo6Y2hyb25vOjpkdXJhdGlvbl9jYXN0PHN0ZDo6Y2hyb25vOjptaWNyb3NlY29uZHM+CiAgICAgIChzdGQ6OmNocm9ubzo6c3lzdGVtX2Nsb2NrOjpub3coKSAtIHJlY2FsY1N0YXJ0KTsKICAgIGlmIChkdXJhdGlvbi5jb3VudCgpIDwgR2V0UHJldmlvdXNNaW5EZWx0YVVDYWxjdWxhdGlvblRpbWUpIEdldFByZXZpb3VzTWluRGVsdGFVQ2FsY3VsYXRpb25UaW1lID0gZHVyYXRpb24uY291bnQoKTsKICAgIGVsc2UgaWYgKGR1cmF0aW9uLmNvdW50KCkgPiBHZXRQcmV2aW91c01heERlbHRhVUNhbGN1bGF0aW9uVGltZSkKICAgICAgR2V0UHJldmlvdXNNYXhEZWx0YVVDYWxjdWxhdGlvblRpbWUgPSBkdXJhdGlvbi5jb3VudCgpOwogICAgdG90YWxHZXRQcmV2aW91c0RlbHRhVUNhbGN1bGF0aW9uVGltZSArPSBkdXJhdGlvbi5jb3VudCgpOw==</text>
@@ -542,18 +542,16 @@
       </register>
     </registers>
     <search>
-      <last-search>auto duration</last-search>
+      <last-search encoding="base64">XDx0b3RhbEdldE5leHREZWx0YVVDYWxjdWxhdGlvblRpbWVcPg==</last-search>
       <last-offset />
-      <last-pattern>auto duration</last-pattern>
+      <last-pattern encoding="base64">XDx0b3RhbEdldE5leHREZWx0YVVDYWxjdWxhdGlvblRpbWVcPg==</last-pattern>
       <last-replace>Previous</last-replace>
       <last-substitute>Next</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>S</entry>
-        <entry>::</entry>
         <entry>t</entry>
         <entry>m</entry>
         <entry>;</entry>
@@ -572,6 +570,8 @@
         <entry>auto</entry>
         <entry>lineSegment</entry>
         <entry>auto duration</entry>
+        <entry>totalGetNextDeltaUCalculationTime</entry>
+        <entry encoding="base64">XDx0b3RhbEdldE5leHREZWx0YVVDYWxjdWxhdGlvblRpbWVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>87</entry>
