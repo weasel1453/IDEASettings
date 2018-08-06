@@ -15,12 +15,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="13373" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" timestamp="1533562216052">
-        <mark key="'" line="164" column="4" />
-        <mark key="[" line="168" column="46" />
-        <mark key="]" line="168" column="62" />
-        <mark key="." line="168" column="62" />
-        <mark key="^" line="168" column="62" />
+      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" timestamp="1533565651747">
+        <mark key="'" line="165" column="4" />
+        <mark key="[" line="180" column="36" />
+        <mark key="]" line="180" column="66" />
+        <mark key="." line="180" column="66" />
+        <mark key="^" line="180" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/database/Materials/DatabaseQueries.cpp" timestamp="1532372270629">
         <mark key="[" line="714" column="25" />
@@ -92,11 +92,17 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="51" column="16" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" timestamp="1533563302579">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="16" column="84" />
-        <mark key="^" line="16" column="84" />
-        <mark key="." line="16" column="84" />
+      <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.h" timestamp="1533565412668">
+        <mark key="[" line="36" column="18" />
+        <mark key="]" line="36" column="47" />
+        <mark key="." line="36" column="47" />
+        <mark key="^" line="36" column="47" />
+      </file>
+      <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" timestamp="1533565464815">
+        <mark key="[" line="129" column="7" />
+        <mark key="]" line="130" column="39" />
+        <mark key="." line="130" column="39" />
+        <mark key="^" line="130" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
         <mark key="[" line="2" column="0" />
@@ -166,7 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="17" filename="$USER_HOME$/uls/lsm/CMakeLists.txt" />
       <jump line="183" column="44" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="65" column="6" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
       <jump line="86" column="8" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
@@ -266,72 +271,63 @@
       <jump line="182" column="6" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="135" column="14" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="149" column="4" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="37" column="14" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>isc_service_detach(status, service_handle);</text>
       </register>
       <register name="-" type="4">
-        <text>z</text>
+        <text encoding="base64">ZXJhZ2Ug</text>
       </register>
       <register name="/" type="4">
-        <text>logger_</text>
+        <text>;</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">TG9nZ2luZzo6R2V0KCJwZXJmb3JtYW5jZSIpLT5kZWJ1ZygiTlVSQlMgY3VydmUgcHJlLXByb2Nlc3Npbmc6ICBGb3VuZCB7fSB4IGV4dHJlbWEgYW5kIHt9IHkgZXh0cmVtYSBpbiB7fSBtcyIsCiAgICAgIG51bVhFeHRyZW1hLCBudW1ZRXh0cmVtYSwgZHVyYXRpb24uY291bnQoKSk7</text>
+        <text>NURBS::FixedDeltaPNURBSSampler::</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3RkOjpjaHJvbm86OmR1cmF0aW9uPGludDY0X3QsIHN0ZDo6bWlsbGk+IG1heFRpbWUgPSBzdGQ6OmNocm9ubzo6ZXJvOwo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlcl8tPnRyYWNlKCJBdmVyYWdlIERlbHRhVSByZWNhbGN1bGF0aW9uIHRpbWU6IHt9IiwgRml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6OnRvdGFsRGVsdGFVQ2FsY3VsYXRpb25UaW1lIC8gRml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6OnRvdGFsRGVsdGFVUmVjYWxjdWxhdGlvbkxvb3BzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkdXJhdGlvbi4K</text>
+        <text encoding="base64">c3RhdGljIGludCBOVVJCUzo6Rml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6Om1heFNVTlVSQjsKc3RhdGljIGludCBOVVJCUzo6Rml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6Om1pblNVTlVSQjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBpbnQgbWF4U1VOVVJCOwogICAgc3RhdGljIGludCBtaW5TVU5VUkI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="5" type="4">
-        <text>int NURBS::NURBSExtrema::lineSegments = 0;
-int NURBS::NURBSExtrema::dismissed = 0;
-
-int minNURB;
-int maxNURB;
-int maxLoop;
-int minLoop;</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyXy0+dHJhY2UoIk5VUkIge30gZXhlY3V0ZWQge30gbG9vcHMuIiwgYnVja2V0LCBsb29wQ291bnQpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZG91YmxlIGF2ZXJhZ2UK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc3RhdGljIGludCBsaW5lU2VnbWVudHMsIGRpc21pc3NlZDsK</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGxvZ2dlcl8tPnRyYWNlKCJBdiIpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGxvZ2dlcl8tPgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGxvZ2dlcl8uCg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ID0gc3RkOjpjaHJvbm86OmR1cmF0aW9uOjptaW4oKQ==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ID0gc3RkOjpjaHJvbm86OmR1cmF0aW9uOjptaW4oKQ==</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>logger_</last-search>
+      <last-search>;</last-search>
       <last-offset />
-      <last-pattern>logger_</last-pattern>
+      <last-pattern>;</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>makeServiceRequest</entry>
-        <entry>for(;</entry>
-        <entry>(;</entry>
         <entry>for</entry>
         <entry>for (;</entry>
-        <entry>;</entry>
         <entry encoding="base64">XDxDT01NT05fRElSXD4=</entry>
         <entry>,</entry>
         <entry>s</entry>
@@ -346,9 +342,12 @@ int minLoop;</text>
         <entry>logger</entry>
         <entry>{</entry>
         <entry>logger_</entry>
+        <entry>C</entry>
+        <entry>S</entry>
+        <entry>::</entry>
+        <entry>;</entry>
       </history-search>
       <history-cmd>
-        <entry>49</entry>
         <entry>set errorbells</entry>
         <entry>set noerrorbells</entry>
         <entry>87</entry>
@@ -360,13 +359,14 @@ int minLoop;</text>
         <entry>e ~/.ideavimrc</entry>
         <entry>edit ~/.ideavimrc</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>$</entry>
         <entry>216</entry>
         <entry>243</entry>
         <entry>q</entry>
         <entry>set relativenumber</entry>
         <entry>w</entry>
         <entry>61</entry>
+        <entry>11</entry>
+        <entry>$</entry>
         <entry>1</entry>
       </history-cmd>
       <history-expr />
