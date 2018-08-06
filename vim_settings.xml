@@ -15,12 +15,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="13373" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" timestamp="1533569219637">
-        <mark key="'" line="165" column="4" />
-        <mark key="[" line="167" column="58" />
-        <mark key="]" line="168" column="101" />
-        <mark key="." line="168" column="101" />
-        <mark key="^" line="168" column="101" />
+      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" timestamp="1533574156587">
+        <mark key="'" line="230" column="0" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/database/Materials/DatabaseQueries.cpp" timestamp="1532372270629">
         <mark key="[" line="714" column="25" />
@@ -31,7 +30,8 @@
       <file name="/Clang-Tidy Info for DatabaseMigrator.cpp" timestamp="1532711611029">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.h" timestamp="1533329282693">
+      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.h" timestamp="1533574121559">
+        <mark key="'" line="29" column="0" />
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
@@ -92,17 +92,18 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="51" column="16" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.h" timestamp="1533569178051">
-        <mark key="[" line="37" column="23" />
-        <mark key="]" line="37" column="40" />
-        <mark key="." line="37" column="40" />
-        <mark key="^" line="37" column="40" />
+      <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.h" timestamp="1533572869338">
+        <mark key="[" line="35" column="11" />
+        <mark key="]" line="35" column="14" />
+        <mark key="." line="35" column="14" />
+        <mark key="^" line="35" column="14" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" timestamp="1533569232381">
-        <mark key="[" line="379" column="28" />
-        <mark key="]" line="379" column="28" />
-        <mark key="." line="379" column="28" />
-        <mark key="^" line="379" column="28" />
+      <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" timestamp="1533573465304">
+        <mark key="'" line="226" column="32" />
+        <mark key="[" line="16" column="64" />
+        <mark key="]" line="16" column="65" />
+        <mark key="." line="16" column="65" />
+        <mark key="^" line="16" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
         <mark key="[" line="2" column="0" />
@@ -172,14 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="44" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="65" column="6" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
-      <jump line="86" column="8" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
-      <jump line="90" column="9" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
-      <jump line="156" column="49" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
-      <jump line="287" column="9" filename="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" />
-      <jump line="123" column="10" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="188" column="9" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="193" column="9" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="218" column="0" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/Migration031-0--TableCreation_up.sql" />
       <jump line="315" column="13" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
@@ -266,70 +259,74 @@
       <jump line="461" column="15" filename="$USER_HOME$/uls/lsm/NURBS/NURBSBoxIntersection.cpp" />
       <jump line="469" column="7" filename="$USER_HOME$/uls/lsm/NURBS/NURBSBoxIntersection.cpp" />
       <jump line="492" column="7" filename="$USER_HOME$/uls/lsm/NURBS/NURBSBoxIntersection.cpp" />
-      <jump line="117" column="6" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="151" column="4" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="182" column="6" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="135" column="14" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="149" column="4" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="37" column="14" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.h" />
+      <jump line="14" column="0" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
+      <jump line="18" column="69" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
+      <jump line="226" column="32" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
+      <jump line="319" column="0" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="338" column="8" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="117" column="4" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="29" column="0" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.h" />
+      <jump line="35" column="0" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="230" column="0" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>isc_service_detach(status, service_handle);</text>
       </register>
       <register name="-" type="4">
-        <text>DeltaURecalculationLoops</text>
+        <text>LONG_MIN</text>
       </register>
       <register name="/" type="4">
-        <text>m</text>
+        <text>lineSegments</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBkb3VibGUgdG90YWxEZWx0YVVSZWNhbGN1bGF0aW9uTG9vcHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZihMb2dnaW5nOjpHZXQoImV4dHJlbWEiKS0+bGV2ZWwoKSA9PSBzdGF0aWNfY2FzdDxzcGRsb2c6OmxldmVsOjpsZXZlbF9lbnVtPihMb2dnaW5nOjpMZXZlbDo6dHJhY2UpKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIExvZ2dpbmc6OkxldmVsOjoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlcl8tPnRyYWNlKCJBdmcgU3RhcnRVIHRpbWU6IHt9IiwgRml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6OnRvdGFsU3RhcnRVQ2FsY3VsYXRpb25UaW1lIC8gbnVyYnNDdXJ2ZXMuc2l6ZSgpKTsK</text>
+        <text encoding="base64">ICAgIGxvZ2dlcl8tPnRyYWNlKCJFbnRlcmluZyBMYXp5RmluZEV4dHJlbWEiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlcl8tPnRyYWNlKCJBdmcgVSIpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlcl8tPnRyYWNlKCJBdmcgVSIpCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">c3RkOjpjaHJvbm86OmR1cmF0aW9uPGludDY0X3QsIHN0ZDo6bWlsbGk=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">c3RkOjpjaHJvbm86OmR1cmF0aW9uPGludDY0X3QsIHN0ZDo6bWlsbGk=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbWluU1VOVVJCID0gYnVja2V0Owo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">c3RkOjpjaHJvbm86OmR1cmF0aW9uPGludDY0X3QsIHN0ZDo6bWlsbGk=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbWF4U1VOVVJCID0gYnVja2V0Owo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">c3RkOjpjaHJvbm86OmR1cmF0aW9uPGludDY0X3QsIHN0ZDo6bWlsbGk=</text>
       </register>
       <register name="8" type="4">
-        <text>mpler::</text>
+        <text encoding="base64">c3RhdGljIHN0ZDo6Y2hyb25vOjpkdXJhdGlvbjxpbnQ2NF90LCBzdGQ6Om1pbGxp</text>
       </register>
       <register name="9" type="4">
-        <text>NURBS::FixedDeltaPNURBSSa</text>
+        <text encoding="base64">c3RkOjpjaHJvbm86OmR1cmF0aW9uPGludDY0X3QsIHN0ZDo6bWlsbGk+OjptYXgoKQ==</text>
       </register>
       <register name=":" type="4">
-        <text>$</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>m</last-search>
+      <last-search>lineSegments</last-search>
       <last-offset />
-      <last-pattern>m</last-pattern>
+      <last-pattern>lineSegments</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDT01NT05fRElSXD4=</entry>
-        <entry>,</entry>
-        <entry>s</entry>
-        <entry>dataPathname</entry>
         <entry>getThisExe</entry>
         <entry>GetThisExe</entry>
         <entry>logging</entry>
@@ -343,9 +340,13 @@
         <entry>C</entry>
         <entry>S</entry>
         <entry>::</entry>
-        <entry>;</entry>
         <entry>t</entry>
         <entry>m</entry>
+        <entry>;</entry>
+        <entry encoding="base64">Pg==</entry>
+        <entry encoding="base64">bG9nZ2VyXy0+</entry>
+        <entry>line segments</entry>
+        <entry>lineSegments</entry>
       </history-search>
       <history-cmd>
         <entry>set errorbells</entry>
@@ -366,8 +367,8 @@
         <entry>w</entry>
         <entry>61</entry>
         <entry>11</entry>
-        <entry>1</entry>
         <entry>$</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
