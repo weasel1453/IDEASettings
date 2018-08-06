@@ -92,6 +92,12 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="51" column="16" />
       </file>
+      <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" timestamp="1533563302579">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="16" column="84" />
+        <mark key="^" line="16" column="84" />
+        <mark key="." line="16" column="84" />
+      </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
