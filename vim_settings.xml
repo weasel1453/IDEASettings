@@ -15,12 +15,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="13373" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" timestamp="1533581924448">
-        <mark key="'" line="187" column="4" />
-        <mark key="[" line="243" column="48" />
-        <mark key="]" line="243" column="67" />
-        <mark key="^" line="243" column="67" />
-        <mark key="." line="243" column="67" />
+      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" timestamp="1533583142555">
+        <mark key="'" line="158" column="4" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="^" line="214" column="67" />
+        <mark key="." line="114" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/database/Materials/DatabaseQueries.cpp" timestamp="1532372270629">
         <mark key="[" line="714" column="25" />
@@ -290,25 +290,25 @@
         <text encoding="base64">c3RkOjpjaHJvbm86OmR1cmF0aW9uPGludDY0X3QsIHN0ZDo6bWljcm8+IG1heFRpbWUgPSBzdGQ6OmNocm9ubzo6ZHVyYXRpb248aW50NjRfdCwgc3RkOjptaWNybz46Om1pbigpOwpzdGQ6OmNocm9ubzo6ZHVyYXRpb248aW50NjRfdCwgc3RkOjptaWNybz4gbWluVGltZSA9IHN0ZDo6Y2hyb25vOjpkdXJhdGlvbjxpbnQ2NF90LCBzdGQ6Om1pY3JvPjo6bWF4KCk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgbWF4VGltZU5VUkIgPSBjb3VudDsK</text>
+        <text encoding="base64">ICBOVVJCUzo6Rml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6OnRvdGFsR2V0TmV4dCA9IDA7CiAgTlVSQlM6OkZpeGVkRGVsdGFQTlVSQlNTYW1wbGVyOjp0b3RhbEdldFByZXZpb3VzID0gMDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgbWluVGltZU5VUkIgPSBjb3VudDsK</text>
+        <text encoding="base64">ICBOVVJCUzo6Rml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6Om1pbkdldFByZXZpb3VzVXBwZXJCb3VuZExvb3BzID0gMTAwMDAwMDsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIGR1cmF0aW9uID0gCg==</text>
+        <text encoding="base64">CiAgTlVSQlM6OkZpeGVkRGVsdGFQTlVSQlNTYW1wbGVyOjptYXhHZXRQcmV2aW91c1VwcGVyQm91bmRMb29wcyA9IDA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYXV0byBsb29wU3RhcnQgPSBzdGQ6OmNocm9ubzo6c3lzdGVtX2Nsb2NrOjpub3coKTsK</text>
+        <text encoding="base64">ICBOVVJCUzo6Rml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6Om1heEdldE5leHRVcHBlckJvdW5kTG9vcHMgPSAwOwogIE5VUkJTOjpGaXhlZERlbHRhUE5VUkJTU2FtcGxlcjo6bWluR2V0TmV4dFVwcGVyQm91bmRMb29wcyA9IDEwMDAwMDA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnaW5nOjpHZXQoImV4dHJlbWEiKS0+d2Fybigie30gU2UiKQo=</text>
+        <text encoding="base64">ICBOVVJCUzo6Rml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6OnRvdGFsR2V0UHJldmlvdXNVcHBlckJvdW5kTG9vcHMgPSAwOwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGF1dG8gZ3Vlc3NTdGFydCA9IHN0ZDo6Y2hyb25vOjpzeXN0ZW1fY2xvY2s6Om5vdygpOwo=</text>
+        <text encoding="base64">CiAgTlVSQlM6OkZpeGVkRGVsdGFQTlVSQlNTYW1wbGVyOjp0b3RhbEdldE5leHRVcHBlckJvdW5kTG9vcHMgPSAwOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -532,10 +532,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICBOVVJCUzo6Rml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6OnRvdGFsU3RhcnRVQ2FsY3VsYXRpb25UaW1lID0gMDsKICBOVVJCUzo6Rml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6OnRvdGFsU3RhcnRVQ2FsY3VsYXRpb25zID0gMDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0b3RhbFN0YXJ0VUNhbGN1bGF0aW9uVGltZSArPSBkdXJhdGlvbi5jb3VudCgpOwo=</text>
+        <text encoding="base64">ICBOVVJCUzo6Rml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6Om1heFN0YXJ0VUNhbGN1bGF0aW9uVGltZSA9IC0xOwogIE5VUkJTOjpGaXhlZERlbHRhUE5VUkJTU2FtcGxlcjo6bWluU3RhcnRVQ2FsY3VsYXRpb25UaW1lID0gTE9OR19NQVg7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>244</text>
