@@ -15,12 +15,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="13373" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" timestamp="1533577261933">
+      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" timestamp="1533579050783">
         <mark key="'" line="161" column="52" />
-        <mark key="[" line="140" column="62" />
-        <mark key="]" line="140" column="73" />
-        <mark key="." line="140" column="73" />
-        <mark key="^" line="140" column="73" />
+        <mark key="[" line="200" column="0" />
+        <mark key="]" line="200" column="0" />
+        <mark key="^" line="191" column="3" />
+        <mark key="." line="200" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/database/Materials/DatabaseQueries.cpp" timestamp="1532372270629">
         <mark key="[" line="714" column="25" />
@@ -286,40 +286,38 @@
       <register name="/" type="4">
         <text>Next</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBkb3VibGUgbWluR2V0TmV4dFVwcGVyQm91bmRMb29wczsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">bG9nZ2VyXy0+dHJhY2UoIk1heCBHZXROZXh0IERlbHRhVSByZWNhbGN1bGF0aW9uIHRpbWU6IHt9IG1pY3Jvc2Vjb25kcyIsIEZpeGVkRGVsdGFQTlVSQlNTYW1wbGVyOjpHZXROZXh0TWF4RGVsdGFVQ2FsY3VsYXRpb25UaW1lKTsKICAgIGxvZ2dlcl8tPnRyYWNlKCJNaW4gR2V0TmV4dCBEZWx0YVUgcmVjYWxjdWxhdGlvbiB0aW1lOiB7fSBtaWNyb3NlY29uZHMiLCBGaXhlZERlbHRhUE5VUkJTU2FtcGxlcjo6R2V0TmV4dE1pbkRlbHRhVUNhbGN1bGF0aW9uVGltZSk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBkb3VibGUgdG90YWxTdGFydFVDYWxjdWxhdGlvblRpbWU7Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlcl8tPnRyYWNlKCJUb3RhbCBEZWx0YVUgUmVjYWxjdWxhdGlvbnM6IHt9IiwgRml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6OnRvdGFsRGVsdGFVUmVjYWxjdWxhdGlvbkxvb3BzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBkb3VibGUgdG90YWxEZWx0YVVSZWNhbGN1bGF0aW9uTG9vcHM7Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlcl8tPnRyYWNlKCJBdmcgRGVsdGFVIHRpbWU6IHt9IiwgRml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6OnRvdGFsRGVsdGFVQ2FsY3VsYXRpb25UaW1lIC8gRml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6OnRvdGFsRGVsdGFVUmVjYWxjdWxhdGlvbkxvb3BzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBkb3VibGUgdG90YWxEZWx0YVVDYWxjdWxhdGlvblRpbWU7Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlcl8tPnRyYWNlKCJNaW4gRGVsdGFVIHRpbWU6IHt9IiwgRml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6Om1pbkRlbHRhVUNhbGN1bGF0aW9uVGltZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlcl8tPnRyYWNlKCJNYXggRGVsdGFVIHRpbWU6IHt9IiwgRml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6Om1heERlbHRhVUNhbGN1bGF0aW9uVGltZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZG91YmxlIE5VUkJTOjpGaXhlZERlbHRhUE5VUkJTU2FtcGxlcjo6dG90YWxTdGFydFVDYWxjdWxhdGlvbnMgPSAwOwo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlcl8tPnRyYWNlKCJBdmcgVUJvdW5kIGxvb3A6IHt9IiwgRml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6OnRvdGFsVXBwZXJCb3VuZExvb3BzIC8gRml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6OnRvdGFsR2V0TmV4dCk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>double NURBS::FixedDeltaPNURBSSampler::totalGetNextDeltaURecalculationLoops = 0;
-double NURBS::FixedDeltaPNURBSSampler::totalGetPreviousDeltaURecalculationLoops = 0;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGxvZ2dlcl8tPnRyYWNlKCJNaW4gVUJvdW5kIGxvb3A6IHt9IiwgRml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6Om1pblVwcGVyQm91bmRMb29wcyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlcl8tPnRyYWNlKCJNYXggVUJvdW5kIGxvb3A6IHt9IiwgRml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6Om1heFVwcGVyQm91bmRMb29wcyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlcl8tPnRyYWNlKCJNYXggR2V0TmV4dCBEZWx0YVUgcmVjYWxjdWxhdGlvbiB0aW1lOiB7fSBtaWNyb3NlY29uZHMiLCBGaXhlZERlbHRhUE5VUkJTU2FtcGxlcjo6bWF4KQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>double NURBS::FixedDeltaPNURBSSampler::totalGetNextDeltaUCalculationTime = 0;
-double NURBS::FixedDeltaPNURBSSampler::totalGetPreviousDeltaUCalculationTime = 0;</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>s/Next/Previous</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
@@ -373,8 +371,8 @@ double NURBS::FixedDeltaPNURBSSampler::totalGetPreviousDeltaUCalculationTime = 0
         <entry>61</entry>
         <entry>11</entry>
         <entry>$</entry>
-        <entry>1</entry>
         <entry>s/Next/Previous</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
