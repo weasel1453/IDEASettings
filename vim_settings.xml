@@ -15,12 +15,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="13373" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" timestamp="1533581121124">
-        <mark key="'" line="186" column="4" />
-        <mark key="[" line="241" column="26" />
-        <mark key="]" line="241" column="26" />
-        <mark key="^" line="241" column="26" />
-        <mark key="." line="241" column="26" />
+      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" timestamp="1533581924448">
+        <mark key="'" line="187" column="4" />
+        <mark key="[" line="243" column="48" />
+        <mark key="]" line="243" column="67" />
+        <mark key="^" line="243" column="67" />
+        <mark key="." line="243" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/database/Materials/DatabaseQueries.cpp" timestamp="1532372270629">
         <mark key="[" line="714" column="25" />
@@ -281,7 +281,7 @@
         <text>isc_service_detach(status, service_handle);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>lineSegmentTime</text>
       </register>
       <register name="/" type="4">
         <text>auto duration</text>
@@ -538,7 +538,7 @@
         <text encoding="base64">ICAgICAgICB0b3RhbFN0YXJ0VUNhbGN1bGF0aW9uVGltZSArPSBkdXJhdGlvbi5jb3VudCgpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>244</text>
       </register>
     </registers>
     <search>
@@ -574,7 +574,6 @@
         <entry>auto duration</entry>
       </history-search>
       <history-cmd>
-        <entry>set noerrorbells</entry>
         <entry>87</entry>
         <entry>355</entry>
         <entry>noh</entry>
@@ -591,9 +590,10 @@
         <entry>w</entry>
         <entry>61</entry>
         <entry>11</entry>
-        <entry>$</entry>
         <entry>s/Next/Previous</entry>
         <entry>1</entry>
+        <entry>$</entry>
+        <entry>244</entry>
       </history-cmd>
       <history-expr />
       <history-input />
