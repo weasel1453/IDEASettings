@@ -93,19 +93,19 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="51" column="16" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.h" timestamp="1533577838332">
-        <mark key="'" line="56" column="4" />
-        <mark key="[" line="59" column="35" />
-        <mark key="]" line="60" column="3" />
-        <mark key="." line="60" column="3" />
-        <mark key="^" line="60" column="3" />
+      <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.h" timestamp="1533585016503">
+        <mark key="'" line="57" column="4" />
+        <mark key="[" line="32" column="43" />
+        <mark key="]" line="32" column="43" />
+        <mark key="." line="32" column="43" />
+        <mark key="^" line="32" column="43" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" timestamp="1533580473262">
+      <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" timestamp="1533585287784">
         <mark key="'" line="278" column="4" />
         <mark key="[" line="14" column="0" />
-        <mark key="]" line="41" column="59" />
-        <mark key="." line="389" column="28" />
-        <mark key="^" line="389" column="28" />
+        <mark key="]" line="14" column="3" />
+        <mark key="." line="14" column="3" />
+        <mark key="^" line="14" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
         <mark key="[" line="2" column="0" />
@@ -281,34 +281,34 @@
         <text>isc_service_detach(status, service_handle);</text>
       </register>
       <register name="-" type="4">
-        <text>lineSegmentTime</text>
+        <text encoding="base64">bG9uZyA=</text>
       </register>
       <register name="/" type="4">
         <text>auto duration</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">c3RkOjpjaHJvbm86OmR1cmF0aW9uPGludDY0X3QsIHN0ZDo6bWljcm8+IG1heFRpbWUgPSBzdGQ6OmNocm9ubzo6ZHVyYXRpb248aW50NjRfdCwgc3RkOjptaWNybz46Om1pbigpOwpzdGQ6OmNocm9ubzo6ZHVyYXRpb248aW50NjRfdCwgc3RkOjptaWNybz4gbWluVGltZSA9IHN0ZDo6Y2hyb25vOjpkdXJhdGlvbjxpbnQ2NF90LCBzdGQ6Om1pY3JvPjo6bWF4KCk7</text>
+        <text encoding="base64">YXV0byBkdXJhdGlvbiA9IHN0ZDo6Y2hyb25vOjpkdXJhdGlvbl9jYXN0PHN0ZDo6Y2hyb25vOjptaWNyb3NlY29uZHM+CiAgICAgIChzdGQ6OmNocm9ubzo6c3lzdGVtX2Nsb2NrOjpub3coKSAtIHJlY2FsY1N0YXJ0KTsKICAgIGlmIChkdXJhdGlvbi5jb3VudCgpIDwgR2V0UHJldmlvdXNNaW5EZWx0YVVDYWxjdWxhdGlvblRpbWUpIEdldFByZXZpb3VzTWluRGVsdGFVQ2FsY3VsYXRpb25UaW1lID0gZHVyYXRpb24uY291bnQoKTsKICAgIGVsc2UgaWYgKGR1cmF0aW9uLmNvdW50KCkgPiBHZXRQcmV2aW91c01heERlbHRhVUNhbGN1bGF0aW9uVGltZSkKICAgICAgR2V0UHJldmlvdXNNYXhEZWx0YVVDYWxjdWxhdGlvblRpbWUgPSBkdXJhdGlvbi5jb3VudCgpOwogICAgdG90YWxHZXRQcmV2aW91c0RlbHRhVUNhbGN1bGF0aW9uVGltZSArPSBkdXJhdGlvbi5jb3VudCgpOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZHVyYXRpb24uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBOVVJCUzo6Rml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6OnRvdGFsR2V0TmV4dCA9IDA7CiAgTlVSQlM6OkZpeGVkRGVsdGFQTlVSQlNTYW1wbGVyOjp0b3RhbEdldFByZXZpb3VzID0gMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBOVVJCUzo6Rml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6Om1pbkdldFByZXZpb3VzVXBwZXJCb3VuZExvb3BzID0gMTAwMDAwMDsKCg==</text>
+        <text encoding="base64">ICBOVVJCUzo6Rml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6OnRvdGFsR2V0TmV4dCA9IDA7CiAgTlVSQlM6OkZpeGVkRGVsdGFQTlVSQlNTYW1wbGVyOjp0b3RhbEdldFByZXZpb3VzID0gMDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgTlVSQlM6OkZpeGVkRGVsdGFQTlVSQlNTYW1wbGVyOjptYXhHZXRQcmV2aW91c1VwcGVyQm91bmRMb29wcyA9IDA7Cg==</text>
+        <text encoding="base64">ICBOVVJCUzo6Rml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6Om1pbkdldFByZXZpb3VzVXBwZXJCb3VuZExvb3BzID0gMTAwMDAwMDsKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBOVVJCUzo6Rml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6Om1heEdldE5leHRVcHBlckJvdW5kTG9vcHMgPSAwOwogIE5VUkJTOjpGaXhlZERlbHRhUE5VUkJTU2FtcGxlcjo6bWluR2V0TmV4dFVwcGVyQm91bmRMb29wcyA9IDEwMDAwMDA7Cg==</text>
+        <text encoding="base64">CiAgTlVSQlM6OkZpeGVkRGVsdGFQTlVSQlNTYW1wbGVyOjptYXhHZXRQcmV2aW91c1VwcGVyQm91bmRMb29wcyA9IDA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBOVVJCUzo6Rml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6OnRvdGFsR2V0UHJldmlvdXNVcHBlckJvdW5kTG9vcHMgPSAwOwoK</text>
+        <text encoding="base64">ICBOVVJCUzo6Rml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6Om1heEdldE5leHRVcHBlckJvdW5kTG9vcHMgPSAwOwogIE5VUkJTOjpGaXhlZERlbHRhUE5VUkJTU2FtcGxlcjo6bWluR2V0TmV4dFVwcGVyQm91bmRMb29wcyA9IDEwMDAwMDA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgTlVSQlM6OkZpeGVkRGVsdGFQTlVSQlNTYW1wbGVyOjp0b3RhbEdldE5leHRVcHBlckJvdW5kTG9vcHMgPSAwOwo=</text>
+        <text encoding="base64">ICBOVVJCUzo6Rml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6OnRvdGFsR2V0UHJldmlvdXNVcHBlckJvdW5kTG9vcHMgPSAwOwoK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -532,13 +532,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBOVVJCUzo6Rml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6OnRvdGFsU3RhcnRVQ2FsY3VsYXRpb25UaW1lID0gMDsKICBOVVJCUzo6Rml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6OnRvdGFsU3RhcnRVQ2FsY3VsYXRpb25zID0gMDsK</text>
+        <text encoding="base64">CiAgTlVSQlM6OkZpeGVkRGVsdGFQTlVSQlNTYW1wbGVyOjp0b3RhbEdldE5leHRVcHBlckJvdW5kTG9vcHMgPSAwOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBOVVJCUzo6Rml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6Om1heFN0YXJ0VUNhbGN1bGF0aW9uVGltZSA9IC0xOwogIE5VUkJTOjpGaXhlZERlbHRhUE5VUkJTU2FtcGxlcjo6bWluU3RhcnRVQ2FsY3VsYXRpb25UaW1lID0gTE9OR19NQVg7Cg==</text>
+        <text encoding="base64">ICBOVVJCUzo6Rml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6OnRvdGFsU3RhcnRVQ2FsY3VsYXRpb25UaW1lID0gMDsKICBOVVJCUzo6Rml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6OnRvdGFsU3RhcnRVQ2FsY3VsYXRpb25zID0gMDsK</text>
       </register>
       <register name=":" type="4">
-        <text>244</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
@@ -591,9 +591,9 @@
         <entry>61</entry>
         <entry>11</entry>
         <entry>s/Next/Previous</entry>
-        <entry>1</entry>
         <entry>$</entry>
         <entry>244</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
