@@ -15,12 +15,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="13373" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" timestamp="1533590012424">
-        <mark key="'" line="364" column="55" />
-        <mark key="[" line="364" column="40" />
-        <mark key="]" line="364" column="40" />
-        <mark key="." line="364" column="40" />
-        <mark key="^" line="364" column="40" />
+      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" timestamp="1533591228939">
+        <mark key="'" line="366" column="55" />
+        <mark key="[" line="381" column="0" />
+        <mark key="]" line="381" column="0" />
+        <mark key="^" line="376" column="61" />
+        <mark key="." line="381" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/database/Materials/DatabaseQueries.cpp" timestamp="1532372270629">
         <mark key="[" line="714" column="25" />
@@ -31,11 +31,12 @@
       <file name="/Clang-Tidy Info for DatabaseMigrator.cpp" timestamp="1532711611029">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.h" timestamp="1533574121559">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.h" timestamp="1533590527873">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="30" column="2" />
+        <mark key="]" line="58" column="25" />
+        <mark key="." line="59" column="1" />
+        <mark key="^" line="59" column="1" />
       </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/footer.h" timestamp="1533069328300">
         <mark key="[" line="0" column="0" />
@@ -93,19 +94,19 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="51" column="16" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.h" timestamp="1533587330147">
+      <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.h" timestamp="1533590405221">
         <mark key="'" line="57" column="4" />
-        <mark key="[" line="39" column="53" />
-        <mark key="]" line="39" column="53" />
-        <mark key="." line="39" column="53" />
+        <mark key="[" line="32" column="4" />
+        <mark key="]" line="60" column="27" />
+        <mark key="." line="60" column="4" />
         <mark key="^" line="39" column="53" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" timestamp="1533587625736">
-        <mark key="'" line="196" column="6" />
-        <mark key="[" line="232" column="49" />
-        <mark key="]" line="232" column="49" />
-        <mark key="." line="232" column="49" />
-        <mark key="^" line="200" column="40" />
+      <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" timestamp="1533590370804">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="38" column="2" />
+        <mark key="]" line="67" column="21" />
+        <mark key="." line="38" column="2" />
+        <mark key="^" line="38" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
         <mark key="[" line="2" column="0" />
@@ -175,7 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="249" column="12" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="252" column="8" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="286" column="59" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="305" column="71" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
@@ -275,40 +275,41 @@
       <jump line="22" column="37" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
       <jump line="196" column="6" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
       <jump line="364" column="55" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="40" column="0" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>isc_service_detach(status, service_handle);</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>::</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b3RhbEdldE5leHREZWx0YVVDYWxjdWxhdGlvblRpbWVcPg==</text>
+        <text>tot</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">bG9nZ2VyXy0+dHJhY2UoIk1heCBHZXROZXh0IFVCb3VuZCBsb29wczoge30iLCBGaXhlZERlbHRhUE5VUkJTU2FtcGxlcjo6bWF4R2V0TmV4dFVwcGVyQm91bmRMb29wcyk7CiAgbG9nZ2VyXy0+dHJhY2UoIk1pbiBHZXROZXh0IFVCb3VuZCBsb29wczoge30iLCBGaXhlZERlbHRhUE5VUkJTU2FtcGxlcjo6bWluR2V0TmV4dFVwcGVyQm91bmRMb29wcyk7CiAgbG9nZ2VyXy0+dHJhY2UoIlRvdGFsIEdldE5leHQgVUJvdW5kIGxvb3BzOiB7fSIsIEZpeGVkRGVsdGFQTlVSQlNTYW1wbGVyOjp0b3RhbEdldE5leHRVcHBlckJvdW5kTG9vcHMpOwogIGxvZ2dlcl8tPnRyYWNlKCJUb3RhbCByZWNhbGN1bGF0aW9uIGJhaWxvdXRzOiB7fSIsIEZpeGVkRGVsdGFQTlVSQlNTYW1wbGVyOjp0b3RhbEV4Y2Vzc0l0ZXJhdGlvbkJhaWxPdXRzKTsKICBsb2dnZXJfLT50cmFjZSgiTWF4IEdldE5leHQgRGVsdGFVIHJlY2FsY3VsYXRpb24gdGltZToge30gbWljcm9zZWNvbmRzIiwKICAgICAgICAgICAgICAgICBGaXhlZERlbHRhUE5VUkJTU2FtcGxlcjo6R2V0TmV4dE1heERlbHRhVUNhbGN1bGF0aW9uVGltZSk7CiAgbG9nZ2VyXy0+dHJhY2UoIk1pbiBHZXROZXh0IERlbHRhVSByZWNhbGN1bGF0aW9uIHRpbWU6IHt9IG1pY3Jvc2Vjb25kcyIsCiAgICAgICAgICAgICAgICAgRml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6OkdldE5leHRNaW5EZWx0YVVDYWxjdWxhdGlvblRpbWUpOwogIGxvZ2dlcl8tPnRyYWNlKCJUb3RhbCBHZXROZXh0IERlbHRhVSByZWNhbGN1bGF0aW9uczoge30iLAogICAgICAgICAgICAgICAgIEZpeGVkRGVsdGFQTlVSQlNTYW1wbGVyOjp0b3RhbEdldE5leHREZWx0YVVSZWNhbGN1bGF0aW9uTG9vcHMpOwogIGxvZ2dlcl8tPnRyYWNlKCJUb3RhbCBHZXROZXh0IERlbHRhVSByZWNhbGN1bGF0aW9uIHRpbWU6IHt9IG1pY3Jvc2Vjb25kcyIsCiAgICAgICAgICAgICAgICAgRml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6OnRvdGFsR2V0TmV4dERlbHRhVUNhbGN1bGF0aW9uVGltZS5jb3VudCgpKTs=</text>
+        <text encoding="base64">aW50IHRvdGFsRXhjZXNzSXRlcmF0aW9uQmFpbE91dHM7CiAgbG9uZyBHZXROZXh0TWF4RGVsdGFVQ2FsY3VsYXRpb25UaW1lOwogIGxvbmcgR2V0TmV4dE1pbkRlbHRhVUNhbGN1bGF0aW9uVGltZTsKCiAgbG9uZyBHZXRQcmV2aW91c01heERlbHRhVUNhbGN1bGF0aW9uVGltZTsKICBsb25nIEdldFByZXZpb3VzTWluRGVsdGFVQ2FsY3VsYXRpb25UaW1lOwoKICBzdGQ6OmNocm9ubzo6ZHVyYXRpb248aW50NjRfdCwgc3RkOjptaWNybz4gdG90YWxHZXROZXh0RGVsdGFVQ2FsY3VsYXRpb25UaW1lOwogIGRvdWJsZSB0b3RhbEdldFByZXZpb3VzRGVsdGFVQ2FsY3VsYXRpb25UaW1lOwoKICBkb3VibGUgdG90YWxHZXROZXh0RGVsdGFVUmVjYWxjdWxhdGlvbkxvb3BzOwogIGRvdWJsZSB0b3RhbEdldFByZXZpb3VzRGVsdGFVUmVjYWxjdWxhdGlvbkxvb3BzOwoKICBsb25nIG1heFN0YXJ0VUNhbGN1bGF0aW9uVGltZTsKICBsb25nIG1pblN0YXJ0VUNhbGN1bGF0aW9uVGltZTsKICBkb3VibGUgdG90YWxTdGFydFVDYWxjdWxhdGlvblRpbWU7CiAgZG91YmxlIHRvdGFsU3RhcnRVQ2FsY3VsYXRpb25zOwoKICBkb3VibGUgdG90YWxHZXROZXh0VXBwZXJCb3VuZExvb3BzOwogIGRvdWJsZSB0b3RhbEdldFByZXZpb3VzVXBwZXJCb3VuZExvb3BzOwoKICBkb3VibGUgbWF4R2V0TmV4dFVwcGVyQm91bmRMb29wczsKICBkb3VibGUgbWluR2V0TmV4dFVwcGVyQm91bmRMb29wczsKCiAgZG91YmxlIG1heEdldFByZXZpb3VzVXBwZXJCb3VuZExvb3BzOwogIGRvdWJsZSBtaW5HZXRQcmV2aW91c1VwcGVyQm91bmRMb29wczsKCiAgZG91YmxlIHRvdGFsR2V0TmV4dDsKICBkb3VibGUgdG90YWxHZXRQcmV2aW91czs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE5VUkJTOjpGaXhlZERlbHRhUE5VUkJTU2FtcGxlcgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRvdGFsR2V0TmV4dERlbHRhVVJlY2FsY3VsYXRpb25Mb29wcyArPSBmZHBucy0+dG90YWxHZXROZXh0RGVsdGFVUmVjYWxjdWxhdGlvbkxvb3BzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsb2dnZXIK</text>
+        <text encoding="base64">ICBkb3VibGUgdG90YWxHZXROZXh0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBsb2dnZXJfCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICsgRml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6OnRvdGFsR2V0UHJldmlvdXNEZWx0YVVDYWxjdWxhdGlvblRpbWUpOwo=</text>
+        <text encoding="base64">ICBkb3VibGUgbWluR2V0TmV4dFVwcGVyQm91bmRMb29wczsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsb2dnZXJfLT50cmFjZSgiVG90YWwgRGVsdGFVIHJlY2FsY3VsYXRpb24gdGltZToge30gbWljcm9zZWNvbmRzIiwKICAgICAgICAgICAgICAgICBGaXhlZERlbHRhUE5VUkJTU2FtcGxlcjo6dG90YWxHZXROZXh0RGVsdGFVQ2FsY3VsYXRpb25UaW1lLmNvdW50KCkK</text>
+        <text encoding="base64">ICBkb3VibGUgbWF4R2V0TmV4dFVwcGVyQm91bmRMb29wczsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsb2dnZXJfLT50cmFjZSgiVG90YWwgRGVsdGFVIHJlY2FsY3VsYXRpb25zOiB7fSIsCiAgICAgICAgICAgICAgICAgRml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6OnRvdGFsR2V0TmV4dERlbHRhVVJlY2FsY3VsYXRpb25Mb29wcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -532,19 +533,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICsgRml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6OnRvdGFsR2V0UHJldmlvdXNEZWx0YVVSZWNhbGN1bGF0aW9uTG9vcHMpOwo=</text>
+        <text encoding="base64">ICBkb3VibGUgdG90YWxHZXROZXh0VXBwZXJCb3VuZExvb3BzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsb2dnZXJfLT50cmFjZSgiVG90YWwgR2V0UHJlaXZpb3VzIERlbHRhVSByZWNhbGN1bGF0aW9uIHRpbWU6IHt9IG1pY3Jvc2Vjb25kcyIsCiAgICAgICAgICAgICAgICAgRml4ZWREZWx0YVBOVVJCU1NhbXBsZXI6OnRvdGFsR2V0UHJldmlvdXNEZWx0YVVDYWxjdWxhdGlvblRpbWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>$</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b3RhbEdldE5leHREZWx0YVVDYWxjdWxhdGlvblRpbWVcPg==</last-search>
+      <last-search>tot</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b3RhbEdldE5leHREZWx0YVVDYWxjdWxhdGlvblRpbWVcPg==</last-pattern>
+      <last-pattern>tot</last-pattern>
       <last-replace>Previous</last-replace>
       <last-substitute>Next</last-substitute>
       <last-dir>1</last-dir>
@@ -552,11 +553,6 @@
     </search>
     <history>
       <history-search>
-        <entry>m</entry>
-        <entry>;</entry>
-        <entry encoding="base64">Pg==</entry>
-        <entry encoding="base64">bG9nZ2VyXy0+</entry>
-        <entry>line segments</entry>
         <entry>lineSegments</entry>
         <entry>recalc</entry>
         <entry>recalcStart</entry>
@@ -572,6 +568,11 @@
         <entry>totalGetNextDeltaUCalculationTime</entry>
         <entry encoding="base64">XDxyZWNhbGNTdGFydFw+</entry>
         <entry encoding="base64">XDx0b3RhbEdldE5leHREZWx0YVVDYWxjdWxhdGlvblRpbWVcPg==</entry>
+        <entry>ma</entry>
+        <entry>total</entry>
+        <entry>min</entry>
+        <entry>max</entry>
+        <entry>tot</entry>
       </history-search>
       <history-cmd>
         <entry>87</entry>
@@ -586,14 +587,14 @@
         <entry>216</entry>
         <entry>243</entry>
         <entry>q</entry>
-        <entry>set relativenumber</entry>
         <entry>w</entry>
         <entry>61</entry>
         <entry>11</entry>
         <entry>s/Next/Previous</entry>
-        <entry>$</entry>
         <entry>244</entry>
         <entry>1</entry>
+        <entry>set relativenumber</entry>
+        <entry>$</entry>
       </history-cmd>
       <history-expr />
       <history-input />
