@@ -15,11 +15,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="13373" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" timestamp="1533646914080">
-        <mark key="[" line="365" column="37" />
-        <mark key="]" line="365" column="47" />
-        <mark key="." line="365" column="47" />
-        <mark key="^" line="365" column="47" />
+      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" timestamp="1533649361713">
+        <mark key="'" line="184" column="6" />
+        <mark key="[" line="239" column="45" />
+        <mark key="]" line="239" column="57" />
+        <mark key="." line="239" column="57" />
+        <mark key="^" line="239" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/database/Materials/DatabaseQueries.cpp" timestamp="1532372270629">
         <mark key="[" line="714" column="25" />
@@ -30,12 +31,12 @@
       <file name="/Clang-Tidy Info for DatabaseMigrator.cpp" timestamp="1532711611029">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.h" timestamp="1533590527873">
+      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.h" timestamp="1533649209835">
         <mark key="'" line="27" column="0" />
-        <mark key="[" line="30" column="2" />
-        <mark key="]" line="58" column="25" />
-        <mark key="." line="59" column="1" />
-        <mark key="^" line="59" column="1" />
+        <mark key="[" line="40" column="2" />
+        <mark key="]" line="40" column="8" />
+        <mark key="." line="40" column="8" />
+        <mark key="^" line="40" column="8" />
       </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/footer.h" timestamp="1533069328300">
         <mark key="[" line="0" column="0" />
@@ -93,19 +94,19 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="51" column="16" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.h" timestamp="1533590405221">
-        <mark key="'" line="57" column="4" />
-        <mark key="[" line="32" column="4" />
-        <mark key="]" line="60" column="27" />
-        <mark key="." line="60" column="4" />
-        <mark key="^" line="39" column="53" />
+      <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.h" timestamp="1533649127493">
+        <mark key="'" line="58" column="4" />
+        <mark key="[" line="37" column="4" />
+        <mark key="]" line="37" column="10" />
+        <mark key="." line="37" column="10" />
+        <mark key="^" line="37" column="10" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" timestamp="1533590370804">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="38" column="2" />
-        <mark key="]" line="67" column="21" />
-        <mark key="." line="38" column="2" />
-        <mark key="^" line="38" column="1" />
+      <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" timestamp="1533649235712">
+        <mark key="'" line="47" column="2" />
+        <mark key="[" line="399" column="4" />
+        <mark key="]" line="399" column="10" />
+        <mark key="." line="399" column="10" />
+        <mark key="^" line="399" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
         <mark key="[" line="2" column="0" />
@@ -175,23 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="252" column="8" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="286" column="59" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="305" column="71" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="334" column="9" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="356" column="61" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="378" column="2" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="384" column="2" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="399" column="59" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="408" column="36" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="420" column="22" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="421" column="2" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="428" column="28" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="429" column="4" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="437" column="4" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="442" column="2" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="486" column="49" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="5" column="4" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/CMakeLists.txt" />
       <jump line="85" column="35" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/FilePath.cpp" />
       <jump line="94" column="26" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/FilePath.cpp" />
       <jump line="126" column="35" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/FilePath.cpp" />
@@ -202,7 +186,6 @@
       <jump line="262" column="23" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="266" column="19" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="239" column="27" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
-      <jump line="183" column="8" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="275" column="8" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="144" column="3" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="136" column="4" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
@@ -220,7 +203,6 @@
       <jump line="469" column="7" filename="$USER_HOME$/uls/lsm/NURBS/NURBSBoxIntersection.cpp" />
       <jump line="492" column="7" filename="$USER_HOME$/uls/lsm/NURBS/NURBSBoxIntersection.cpp" />
       <jump line="151" column="4" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
-      <jump line="182" column="6" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="135" column="14" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="149" column="4" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="37" column="14" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.h" />
@@ -229,7 +211,6 @@
       <jump line="226" column="32" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
       <jump line="319" column="0" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="338" column="8" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
-      <jump line="117" column="4" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="29" column="0" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.h" />
       <jump line="35" column="0" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="230" column="0" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
@@ -244,7 +225,6 @@
       <jump line="409" column="74" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
       <jump line="222" column="75" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
       <jump line="332" column="27" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
-      <jump line="140" column="73" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="161" column="52" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="55" column="24" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.h" />
       <jump line="56" column="4" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.h" />
@@ -252,7 +232,6 @@
       <jump line="278" column="4" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
       <jump line="315" column="15" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="379" column="8" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
-      <jump line="45" column="4" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="234" column="42" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="378" column="22" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="399" column="0" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
@@ -275,40 +254,62 @@
       <jump line="196" column="6" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
       <jump line="364" column="55" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="40" column="0" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
+      <jump line="45" column="0" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="64" column="2" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="113" column="2" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="114" column="2" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="115" column="2" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="116" column="2" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="117" column="2" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="118" column="2" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="120" column="2" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="122" column="2" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="124" column="2" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="126" column="2" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="127" column="2" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="176" column="2" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="399" column="22" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
+      <jump line="47" column="2" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
+      <jump line="40" column="43" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="44" column="4" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="140" column="46" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="182" column="26" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="183" column="6" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="184" column="6" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>isc_service_detach(status, service_handle);</text>
       </register>
       <register name="-" type="4">
-        <text>dynamic_cast</text>
+        <text encoding="base64">bG9uZyA=</text>
       </register>
       <register name="/" type="4">
-        <text>tot</text>
+        <text>maxTime</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">aW50IHRvdGFsRXhjZXNzSXRlcmF0aW9uQmFpbE91dHM7CiAgbG9uZyBHZXROZXh0TWF4RGVsdGFVQ2FsY3VsYXRpb25UaW1lOwogIGxvbmcgR2V0TmV4dE1pbkRlbHRhVUNhbGN1bGF0aW9uVGltZTsKCiAgbG9uZyBHZXRQcmV2aW91c01heERlbHRhVUNhbGN1bGF0aW9uVGltZTsKICBsb25nIEdldFByZXZpb3VzTWluRGVsdGFVQ2FsY3VsYXRpb25UaW1lOwoKICBzdGQ6OmNocm9ubzo6ZHVyYXRpb248aW50NjRfdCwgc3RkOjptaWNybz4gdG90YWxHZXROZXh0RGVsdGFVQ2FsY3VsYXRpb25UaW1lOwogIGRvdWJsZSB0b3RhbEdldFByZXZpb3VzRGVsdGFVQ2FsY3VsYXRpb25UaW1lOwoKICBkb3VibGUgdG90YWxHZXROZXh0RGVsdGFVUmVjYWxjdWxhdGlvbkxvb3BzOwogIGRvdWJsZSB0b3RhbEdldFByZXZpb3VzRGVsdGFVUmVjYWxjdWxhdGlvbkxvb3BzOwoKICBsb25nIG1heFN0YXJ0VUNhbGN1bGF0aW9uVGltZTsKICBsb25nIG1pblN0YXJ0VUNhbGN1bGF0aW9uVGltZTsKICBkb3VibGUgdG90YWxTdGFydFVDYWxjdWxhdGlvblRpbWU7CiAgZG91YmxlIHRvdGFsU3RhcnRVQ2FsY3VsYXRpb25zOwoKICBkb3VibGUgdG90YWxHZXROZXh0VXBwZXJCb3VuZExvb3BzOwogIGRvdWJsZSB0b3RhbEdldFByZXZpb3VzVXBwZXJCb3VuZExvb3BzOwoKICBkb3VibGUgbWF4R2V0TmV4dFVwcGVyQm91bmRMb29wczsKICBkb3VibGUgbWluR2V0TmV4dFVwcGVyQm91bmRMb29wczsKCiAgZG91YmxlIG1heEdldFByZXZpb3VzVXBwZXJCb3VuZExvb3BzOwogIGRvdWJsZSBtaW5HZXRQcmV2aW91c1VwcGVyQm91bmRMb29wczsKCiAgZG91YmxlIHRvdGFsR2V0TmV4dDsKICBkb3VibGUgdG90YWxHZXRQcmV2aW91czs=</text>
+        <text encoding="base64">bG9nZ2VyXy0+ZGVidWcoIk5VUkJTIGN1cnZlIHByZS1wcm9jZXNzaW5nOiAgRm91bmQge30geCBleHRyZW1hIGFuZCB7fSB5IGV4dHJlbWEgaW4ge30gbXMiLAogICAgICAgICAgICAgICAgIG51bVhFeHRyZW1hLCBudW1ZRXh0cmVtYSwgZHVyYXRpb24uY291bnQoKSk7CiAgbG9nZ2VyXy0+dHJhY2UoIlRvdGFsIE5VUkJTOiB7fSIsIG51cmJzQ3VydmVzLnNpemUoKSk7CiAgbG9nZ2VyXy0+dHJhY2UoIiIpOwogIGxvZ2dlcl8tPnRyYWNlKCJUb3RhbCBTdGFydFUgcHJlY29tcHV0ZWQ6IHt9Iiwgc3RhcnRVc1ByZUNvbXB1dGVkKTsKICBsb2dnZXJfLT50cmFjZSgiVG90YWwgU3RhcnRVIGNhbGN1bGF0aW9uczoge30iLCB0b3RhbFN0YXJ0VUNhbGN1bGF0aW9ucyk7CiAgbG9nZ2VyXy0+dHJhY2UoIlRvdGFsIFN0YXJ0VSBjYWxjdWxhdGlvbiB0aW1lOiB7fSBtaWNyb3NlY29uZHMiLCB0b3RhbFN0YXJ0VUNhbGN1bGF0aW9uVGltZSk7CiAgbG9nZ2VyXy0+dHJhY2UoIk1heCBTdGFydFUgY2FsY3VsYXRpb24gdGltZToge30gbWljcm9zZWNvbmRzIiwgbWF4U3RhcnRVQ2FsY3VsYXRpb25UaW1lKTsKICBsb2dnZXJfLT50cmFjZSgiTWluIFN0YXJ0VSBjYWxjdWxhdGlvbiB0aW1lOiB7fSBtaWNyb3NlY29uZHMiLCBtaW5TdGFydFVDYWxjdWxhdGlvblRpbWUpOwogIGxvZ2dlcl8tPnRyYWNlKCJBdmcgU3RhcnRVIGNhbGN1bGF0aW9uIHRpbWU6IHt9IG1pY3Jvc2Vjb25kcyIsCiAgICAgICAgICAgICAgICAgdG90YWxTdGFydFVDYWxjdWxhdGlvblRpbWUKICAgICAgICAgICAgICAgICAgIC8gdG90YWxTdGFydFVDYWxjdWxhdGlvbnMpOwogIGxvZ2dlcl8tPnRyYWNlKCIiKTsKCiAgbG9nZ2VyXy0+dHJhY2UoIk1heCBHZXROZXh0IFVCb3VuZCBsb29wczoge30iLCBtYXhHZXROZXh0VXBwZXJCb3VuZExvb3BzKTsKICBsb2dnZXJfLT50cmFjZSgiTWluIEdldE5leHQgVUJvdW5kIGxvb3BzOiB7fSIsIG1pbkdldE5leHRVcHBlckJvdW5kTG9vcHMpOwogIGxvZ2dlcl8tPnRyYWNlKCJUb3RhbCBHZXROZXh0IFVCb3VuZCBsb29wczoge30iLCB0b3RhbEdldE5leHRVcHBlckJvdW5kTG9vcHMpOwogIGxvZ2dlcl8tPnRyYWNlKCJUb3RhbCByZWNhbGN1bGF0aW9uIGJhaWxvdXRzOiB7fSIsIHRvdGFsRXhjZXNzSXRlcmF0aW9uQmFpbE91dHMpOwogIGxvZ2dlcl8tPnRyYWNlKCJNYXggR2V0TmV4dCBEZWx0YVUgcmVjYWxjdWxhdGlvbiB0aW1lOiB7fSBtaWNyb3NlY29uZHMiLAogICAgICAgICAgICAgICAgIEdldE5leHRNYXhEZWx0YVVDYWxjdWxhdGlvblRpbWUpOwogIGxvZ2dlcl8tPnRyYWNlKCJNaW4gR2V0TmV4dCBEZWx0YVUgcmVjYWxjdWxhdGlvbiB0aW1lOiB7fSBtaWNyb3NlY29uZHMiLAogICAgICAgICAgICAgICAgIEdldE5leHRNaW5EZWx0YVVDYWxjdWxhdGlvblRpbWUpOwogIGxvZ2dlcl8tPnRyYWNlKCJUb3RhbCBHZXROZXh0IERlbHRhVSByZWNhbGN1bGF0aW9uczoge30iLAogICAgICAgICAgICAgICAgIHRvdGFsR2V0TmV4dERlbHRhVVJlY2FsY3VsYXRpb25Mb29wcyk7CiAgbG9nZ2VyXy0+dHJhY2UoIlRvdGFsIEdldE5leHQgRGVsdGFVIHJlY2FsY3VsYXRpb24gdGltZToge30gbWljcm9zZWNvbmRzIiwKICAgICAgICAgICAgICAgICB0b3RhbEdldE5leHREZWx0YVVDYWxjdWxhdGlvblRpbWUuY291bnQoKSk7CgogIGxvZ2dlcl8tPnRyYWNlKCJNYXggTlVSQiBmaW5kaW5nIHRpbWU6IHt9IiwgbWF4VGltZS5jb3VudCgpKTsKICBsb2dnZXJfLT50cmFjZSgiTWluIE5VUkIgZmluZGluZyB0aW1lOiB7fSIsIG1pblRpbWUuY291bnQoKSk7CiAgbG9nZ2VyXy0+dHJhY2UoIk1pbiBGaW5kRXh0cmVtYU9uZUN1cnZlIGxvb3BzOiB7fSBhdCBOVVJCIHt9IiwgbWluTG9vcCwgbWluTlVSQik7CiAgbG9nZ2VyXy0+dHJhY2UoIk1heCBGaW5kRXh0cmVtYU9uZUN1cnZlIGxvb3BzOiB7fSBhdCBOVVJCIHt9IiwgbWF4TG9vcCwgbWF4TlVSQik7CiAgYXZlcmFnZSA9IHRvdGFsTG9vcHMgLyBudXJic0N1cnZlcy5zaXplKCk7CiAgbG9nZ2VyXy0+dHJhY2UoIkF2ZyBsb29wczoge30iLCB0b3RhbExvb3BzIC8gbnVyYnNDdXJ2ZXMuc2l6ZSgpKTsKICBsb2dnZXJfLT50cmFjZSgiVG90YWwgRXh0cmVtYToge30iLCBudW1YRXh0cmVtYSArIG51bVlFeHRyZW1hKTsKICBsb2dnZXJfLT50cmFjZSgiTGluZSBTZWdtZW50czoge30iLCBsaW5lU2VnbWVudHMpOwogIGxvZ2dlcl8tPnRyYWNlKCJNYXggTGluZSBTZWdtZW50IFRpbWU6IHt9IiwgbWF4TGluZVNlZ21lbnRUaW1lLmNvdW50KCkpOwogIGxvZ2dlcl8tPnRyYWNlKCJNaW4gTGluZSBTZWdtZW50IFRpbWU6IHt9IiwgbWluTGluZVNlZ21lbnRUaW1lLmNvdW50KCkpOwogIGxvZ2dlcl8tPnRyYWNlKCJUb3RhbCBMaW5lIFNlZ21lbnQgVGltZToge30iLCB0b3RhbExpbmVTZWdtZW50VGltZSk7CiAgbG9nZ2VyXy0+dHJhY2UoIkRpc21pc3NlZCBjdXJ2ZXM6IHt9IiwgZGlzbWlzc2VkKTsKICBsb2dnZXJfLT50cmFjZSgiRXZhbHVhdGVkOiB7fSIsIG51cmJzQ3VydmVzLnNpemUoKSAtIGRpc21pc3NlZCk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHVuaXF1ZV9wdHI8Rml4ZWREZWx0YVBOVVJCU1NhbXBsZXI+IGZkcG5zID0gZHluYW1pY19jYXN0PHVuaXF1ZV9wdHI8Rml4ZWREZWx0YVBOVVJCU1NhbXBsZXI+PihudXJic1NhbXBsZXIpOwo=</text>
+        <text encoding="base64">ICBsb2dnZXJfLT5kZWJ1ZygiTlVSQlMgY3VydmUgcHJlLXByb2Nlc3Npbmc6ICBGb3VuZCB7fSB4IGV4dHJlbWEgYW5kIHt9IHkgZXh0cmVtYSBpbiB7fSBtcyIsCiAgICAgICAgICAgICAgICAgbnVtWEV4dHJlbWEsIG51bVlFeHRyZW1hLCBkdXJhdGlvbi5jb3VudCgpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNhbXBsZXJGYWN0b3J5Xy5DZGQK</text>
+        <text encoding="base64">ICBsb2dnZXJfLT50cmFjZSgiVG90YWwgRXh0cmVtYToge30iLCBudW1YRXh0cmVtYSArIG51bVlFeHRyZW1hKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsb2dnZXJfLT5kZWJ1ZygiIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHVuaXF1ZV9wdHI8Rml4ZWREZWx0YVBOVVJCU1NhbXBsZXI+IGZkcG5zID0gZHluYW1pY19jYXN0PHVuaXF1ZV9wdHI8Rml4ZWREZWx0YVBOVVJCU1NhbXBsZXI+PihudXJic1NhbXBsZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICB0b3RhbEdldE5leHREZWx0YVVDYWxjdWxhdGlvblRpbWUuY291bnQoKSk7CiAgbG9nZ2VyXy0+ZGVidWcoIiIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICB0b3RhbEdldE5leHREZWx0YVVSZWNhbGN1bGF0aW9uTG9vcHMpOwogIGxvZ2dlcl8tPnRyYWNlKCJUb3RhbCBHZXROZXh0IERlbHRhVSByZWNhbGN1bGF0aW9uIHRpbWU6IHt9IG1pY3Jvc2Vjb25kcyIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRvdGFsR2V0TmV4dERlbHRhVVJlY2FsY3VsYXRpb25Mb29wcyArPSBmZHBucy0+dG90YWxHZXROZXh0RGVsdGFVUmVjYWxjdWxhdGlvbkxvb3BzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBHZXROZXh0TWluRGVsdGFVQ2FsY3VsYXRpb25UaW1lKTsKICBsb2dnZXJfLT50cmFjZSgiVG90YWwgR2V0TmV4dCBEZWx0YVUgcmVjYWxjdWxhdGlvbnM6IHt9IiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkb3VibGUgdG90YWxHZXROZXh0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBHZXROZXh0TWF4RGVsdGFVQ2FsY3VsYXRpb25UaW1lKTsKICBsb2dnZXJfLT50cmFjZSgiTWluIEdldE5leHQgRGVsdGFVIHJlY2FsY3VsYXRpb24gdGltZToge30gbWljcm9zZWNvbmRzIiwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -532,19 +533,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsb2dnZXJfLT50cmFjZSgiVG90YWwgcmVjYWxjdWxhdGlvbiBiYWlsb3V0czoge30iLCB0b3RhbEV4Y2Vzc0l0ZXJhdGlvbkJhaWxPdXRzKTsKICBsb2dnZXJfLT50cmFjZSgiTWF4IEdldE5leHQgRGVsdGFVIHJlY2FsY3VsYXRpb24gdGltZToge30gbWljcm9zZWNvbmRzIiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkb3VibGUgbWluR2V0TmV4dFVwcGVyQm91bmRMb29wczsK</text>
+        <text encoding="base64">ICBsb2dnZXJfLT50cmFjZSgiTWluIEdldE5leHQgVUJvdW5kIGxvb3BzOiB7fSIsIG1pbkdldE5leHRVcHBlckJvdW5kTG9vcHMpOwogIGxvZ2dlcl8tPnRyYWNlKCJUb3RhbCBHZXROZXh0IFVCb3VuZCBsb29wczoge30iLCB0b3RhbEdldE5leHRVcHBlckJvdW5kTG9vcHMpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>set number</text>
+        <text>$</text>
       </register>
     </registers>
     <search>
-      <last-search>tot</last-search>
+      <last-search>maxTime</last-search>
       <last-offset />
-      <last-pattern>tot</last-pattern>
+      <last-pattern>maxTime</last-pattern>
       <last-replace>Previous</last-replace>
       <last-substitute>Next</last-substitute>
       <last-dir>1</last-dir>
@@ -552,13 +553,9 @@
     </search>
     <history>
       <history-search>
-        <entry>lineSegments</entry>
-        <entry>recalc</entry>
-        <entry>recalcStart</entry>
         <entry>std::chrono::miliseconds</entry>
         <entry>chrono::milliseconds</entry>
         <entry>Next</entry>
-        <entry>maxTime</entry>
         <entry>SetStartU</entry>
         <entry>minLoop</entry>
         <entry>auto</entry>
@@ -572,6 +569,10 @@
         <entry>min</entry>
         <entry>max</entry>
         <entry>tot</entry>
+        <entry>P</entry>
+        <entry>logger_</entry>
+        <entry>totalGetNextDeltaURe</entry>
+        <entry>maxTime</entry>
       </history-search>
       <history-cmd>
         <entry>355</entry>
@@ -592,8 +593,8 @@
         <entry>244</entry>
         <entry>1</entry>
         <entry>set relativenumber</entry>
-        <entry>$</entry>
         <entry>set number</entry>
+        <entry>$</entry>
       </history-cmd>
       <history-expr />
       <history-input />
