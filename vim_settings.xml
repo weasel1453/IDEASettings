@@ -60,10 +60,6 @@
         <mark key="^" line="385" column="60" />
       </file>
       <file name="$USER_HOME$/uls/lsm/printjob/Mttp.cpp" timestamp="1533667787916" />
-      <file name="$USER_HOME$/uls/lsm/common/CMakeLists.txt" timestamp="1533319779426">
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="25" />
-      </file>
       <file name="$USER_HOME$/uls/lsm/CMakeLists.txt" timestamp="1533231479115">
         <mark key="'" line="103" column="17" />
       </file>
@@ -74,6 +70,7 @@
         <mark key="^" line="154" column="51" />
         <mark key="." line="138" column="0" />
       </file>
+      <file name="$USER_HOME$/uls/lsm/Camera/CameraSerialization.cpp" timestamp="1533669144456" />
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/CMakeLists.txt" timestamp="1533322044059">
         <mark key="[" line="17" column="43" />
         <mark key="]" line="17" column="63" />
@@ -149,10 +146,6 @@
         <mark key="]" line="73" column="37" />
         <mark key="." line="73" column="37" />
         <mark key="^" line="73" column="37" />
-      </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/stdafx.h" timestamp="1533243069247">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="30" column="25" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.cpp" timestamp="1533302030878">
         <mark key="[" line="0" column="12" />
@@ -554,7 +547,7 @@
         <text encoding="base64">I2luY2x1ZGUgPG5sb2htYW5uL2pzb24uaHBwPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>$</text>
       </register>
     </registers>
     <search>
@@ -607,9 +600,9 @@
         <entry>set number</entry>
         <entry>w</entry>
         <entry>set ignorecase</entry>
-        <entry>$</entry>
         <entry>set noerrorbells</entry>
         <entry>1</entry>
+        <entry>$</entry>
       </history-cmd>
       <history-expr />
       <history-input />
