@@ -71,7 +71,9 @@
         <mark key="^" line="154" column="51" />
         <mark key="." line="138" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/Camera/CameraSerialization.cpp" timestamp="1533671083025" />
+      <file name="$USER_HOME$/uls/lsm/Camera/CameraSerialization.cpp" timestamp="1533672830497">
+        <mark key="'" line="25" column="15" />
+      </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/CMakeLists.txt" timestamp="1533322044059">
         <mark key="[" line="17" column="43" />
         <mark key="]" line="17" column="63" />
@@ -185,7 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="447" column="11" filename="$USER_HOME$/uls/lsm/NURBS/NURBSBoxIntersection.cpp" />
       <jump line="461" column="15" filename="$USER_HOME$/uls/lsm/NURBS/NURBSBoxIntersection.cpp" />
       <jump line="469" column="7" filename="$USER_HOME$/uls/lsm/NURBS/NURBSBoxIntersection.cpp" />
       <jump line="492" column="7" filename="$USER_HOME$/uls/lsm/NURBS/NURBSBoxIntersection.cpp" />
@@ -285,6 +286,7 @@
       <jump line="633" column="6" filename="$USER_HOME$/uls/lsm/Planning/Planner.cpp" />
       <jump line="69" column="28" filename="$USER_HOME$/uls/lsm/Planning/Configuration.cpp" />
       <jump line="68" column="0" filename="$USER_HOME$/uls/lsm/Planning/Configuration.cpp" />
+      <jump line="25" column="15" filename="$USER_HOME$/uls/lsm/Camera/CameraSerialization.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
