@@ -6,6 +6,9 @@
       <file name="/start_script.py" timestamp="1531342452321">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" timestamp="1533220266079">
+        <mark key="'" line="331" column="16" />
+      </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/CreateVersion30DB.sql" timestamp="1533069287684">
         <mark key="[" line="13373" column="0" />
         <mark key="]" line="13373" column="0" />
@@ -38,6 +41,9 @@
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/footer.h" timestamp="1533069328300">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/uls/lsm/Planning/BeudaertPlanner/BeudaertPlanner.cpp" timestamp="1533651924418">
+        <mark key="'" line="78" column="36" />
+      </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533317940167">
         <mark key="a" line="17" column="4" />
         <mark key="'" line="486" column="49" />
@@ -46,10 +52,16 @@
         <mark key="." line="4" column="10" />
         <mark key="^" line="5" column="53" />
       </file>
+      <file name="$USER_HOME$/uls/lsm/Planning/Planner.cpp" timestamp="1533652060975">
+        <mark key="'" line="633" column="6" />
+      </file>
       <file name="$USER_HOME$/uls/lsm/Control/PrintQueue.cpp" timestamp="1533651558084" />
       <file name="$USER_HOME$/uls/lsm/common/CMakeLists.txt" timestamp="1533319779426">
         <mark key="[" line="119" column="0" />
         <mark key="]" line="119" column="25" />
+      </file>
+      <file name="$USER_HOME$/uls/lsm/CMakeLists.txt" timestamp="1533231479115">
+        <mark key="'" line="103" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1532379094253">
         <mark key="'" line="156" column="55" />
@@ -166,20 +178,14 @@
         <mark key="^" line="1" column="53" />
         <mark key="." line="1" column="53" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSBoxIntersection.cpp" timestamp="1533331702632">
-        <mark key="'" line="486" column="7" />
+      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSBoxIntersection.cpp" timestamp="1533651954771">
+        <mark key="'" line="59" column="56" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="276" column="8" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
-      <jump line="47" column="36" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
-      <jump line="313" column="2" filename="$USER_HOME$/uls/lsm/NURBS/NURBSBoxIntersection.cpp" />
-      <jump line="372" column="7" filename="$USER_HOME$/uls/lsm/NURBS/NURBSBoxIntersection.cpp" />
-      <jump line="406" column="15" filename="$USER_HOME$/uls/lsm/NURBS/NURBSBoxIntersection.cpp" />
-      <jump line="415" column="9" filename="$USER_HOME$/uls/lsm/NURBS/NURBSBoxIntersection.cpp" />
       <jump line="420" column="11" filename="$USER_HOME$/uls/lsm/NURBS/NURBSBoxIntersection.cpp" />
       <jump line="434" column="15" filename="$USER_HOME$/uls/lsm/NURBS/NURBSBoxIntersection.cpp" />
       <jump line="447" column="11" filename="$USER_HOME$/uls/lsm/NURBS/NURBSBoxIntersection.cpp" />
@@ -274,6 +280,12 @@
       <jump line="392" column="76" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="313" column="24" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="61" column="2" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
+      <jump line="38" column="20" filename="$USER_HOME$/uls/lsm/Planning/BeudaertPlanner/BeudaertPlanner.cpp" />
+      <jump line="78" column="36" filename="$USER_HOME$/uls/lsm/Planning/BeudaertPlanner/BeudaertPlanner.cpp" />
+      <jump line="59" column="56" filename="$USER_HOME$/uls/lsm/NURBS/NURBSBoxIntersection.cpp" />
+      <jump line="160" column="4" filename="$USER_HOME$/uls/lsm/Planning/Planner.cpp" />
+      <jump line="597" column="6" filename="$USER_HOME$/uls/lsm/Planning/Planner.cpp" />
+      <jump line="633" column="6" filename="$USER_HOME$/uls/lsm/Planning/Planner.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -283,7 +295,7 @@
         <text>`}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzYW1wbGVyRmFjdG9yeV9cPg==</text>
+        <text encoding="base64">XDxudXJic01ldHJpY3NTYW1wbGVyRmFjdG9yeV9cPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">bG9nZ2VyXy0+ZGVidWcoIk5VUkJTIGN1cnZlIHByZS1wcm9jZXNzaW5nOiAgRm91bmQge30geCBleHRyZW1hIGFuZCB7fSB5IGV4dHJlbWEgaW4ge30gbXMiLAogICAgICAgICAgICAgICAgIG51bVhFeHRyZW1hLCBudW1ZRXh0cmVtYSwgZHVyYXRpb24uY291bnQoKSk7CiAgbG9nZ2VyXy0+dHJhY2UoIlRvdGFsIE5VUkJTOiB7fSIsIG51cmJzQ3VydmVzLnNpemUoKSk7CiAgbG9nZ2VyXy0+dHJhY2UoIiIpOwogIGxvZ2dlcl8tPnRyYWNlKCJUb3RhbCBTdGFydFUgcHJlY29tcHV0ZWQ6IHt9Iiwgc3RhcnRVc1ByZUNvbXB1dGVkKTsKICBsb2dnZXJfLT50cmFjZSgiVG90YWwgU3RhcnRVIGNhbGN1bGF0aW9uczoge30iLCB0b3RhbFN0YXJ0VUNhbGN1bGF0aW9ucyk7CiAgbG9nZ2VyXy0+dHJhY2UoIlRvdGFsIFN0YXJ0VSBjYWxjdWxhdGlvbiB0aW1lOiB7fSBtaWNyb3NlY29uZHMiLCB0b3RhbFN0YXJ0VUNhbGN1bGF0aW9uVGltZSk7CiAgbG9nZ2VyXy0+dHJhY2UoIk1heCBTdGFydFUgY2FsY3VsYXRpb24gdGltZToge30gbWljcm9zZWNvbmRzIiwgbWF4U3RhcnRVQ2FsY3VsYXRpb25UaW1lKTsKICBsb2dnZXJfLT50cmFjZSgiTWluIFN0YXJ0VSBjYWxjdWxhdGlvbiB0aW1lOiB7fSBtaWNyb3NlY29uZHMiLCBtaW5TdGFydFVDYWxjdWxhdGlvblRpbWUpOwogIGxvZ2dlcl8tPnRyYWNlKCJBdmcgU3RhcnRVIGNhbGN1bGF0aW9uIHRpbWU6IHt9IG1pY3Jvc2Vjb25kcyIsCiAgICAgICAgICAgICAgICAgdG90YWxTdGFydFVDYWxjdWxhdGlvblRpbWUKICAgICAgICAgICAgICAgICAgIC8gdG90YWxTdGFydFVDYWxjdWxhdGlvbnMpOwogIGxvZ2dlcl8tPnRyYWNlKCIiKTsKCiAgbG9nZ2VyXy0+dHJhY2UoIk1heCBHZXROZXh0IFVCb3VuZCBsb29wczoge30iLCBtYXhHZXROZXh0VXBwZXJCb3VuZExvb3BzKTsKICBsb2dnZXJfLT50cmFjZSgiTWluIEdldE5leHQgVUJvdW5kIGxvb3BzOiB7fSIsIG1pbkdldE5leHRVcHBlckJvdW5kTG9vcHMpOwogIGxvZ2dlcl8tPnRyYWNlKCJUb3RhbCBHZXROZXh0IFVCb3VuZCBsb29wczoge30iLCB0b3RhbEdldE5leHRVcHBlckJvdW5kTG9vcHMpOwogIGxvZ2dlcl8tPnRyYWNlKCJUb3RhbCByZWNhbGN1bGF0aW9uIGJhaWxvdXRzOiB7fSIsIHRvdGFsRXhjZXNzSXRlcmF0aW9uQmFpbE91dHMpOwogIGxvZ2dlcl8tPnRyYWNlKCJNYXggR2V0TmV4dCBEZWx0YVUgcmVjYWxjdWxhdGlvbiB0aW1lOiB7fSBtaWNyb3NlY29uZHMiLAogICAgICAgICAgICAgICAgIEdldE5leHRNYXhEZWx0YVVDYWxjdWxhdGlvblRpbWUpOwogIGxvZ2dlcl8tPnRyYWNlKCJNaW4gR2V0TmV4dCBEZWx0YVUgcmVjYWxjdWxhdGlvbiB0aW1lOiB7fSBtaWNyb3NlY29uZHMiLAogICAgICAgICAgICAgICAgIEdldE5leHRNaW5EZWx0YVVDYWxjdWxhdGlvblRpbWUpOwogIGxvZ2dlcl8tPnRyYWNlKCJUb3RhbCBHZXROZXh0IERlbHRhVSByZWNhbGN1bGF0aW9uczoge30iLAogICAgICAgICAgICAgICAgIHRvdGFsR2V0TmV4dERlbHRhVVJlY2FsY3VsYXRpb25Mb29wcyk7CiAgbG9nZ2VyXy0+dHJhY2UoIlRvdGFsIEdldE5leHQgRGVsdGFVIHJlY2FsY3VsYXRpb24gdGltZToge30gbWljcm9zZWNvbmRzIiwKICAgICAgICAgICAgICAgICB0b3RhbEdldE5leHREZWx0YVVDYWxjdWxhdGlvblRpbWUuY291bnQoKSk7CgogIGxvZ2dlcl8tPnRyYWNlKCJNYXggTlVSQiBmaW5kaW5nIHRpbWU6IHt9IiwgbWF4VGltZS5jb3VudCgpKTsKICBsb2dnZXJfLT50cmFjZSgiTWluIE5VUkIgZmluZGluZyB0aW1lOiB7fSIsIG1pblRpbWUuY291bnQoKSk7CiAgbG9nZ2VyXy0+dHJhY2UoIk1pbiBGaW5kRXh0cmVtYU9uZUN1cnZlIGxvb3BzOiB7fSBhdCBOVVJCIHt9IiwgbWluTG9vcCwgbWluTlVSQik7CiAgbG9nZ2VyXy0+dHJhY2UoIk1heCBGaW5kRXh0cmVtYU9uZUN1cnZlIGxvb3BzOiB7fSBhdCBOVVJCIHt9IiwgbWF4TG9vcCwgbWF4TlVSQik7CiAgYXZlcmFnZSA9IHRvdGFsTG9vcHMgLyBudXJic0N1cnZlcy5zaXplKCk7CiAgbG9nZ2VyXy0+dHJhY2UoIkF2ZyBsb29wczoge30iLCB0b3RhbExvb3BzIC8gbnVyYnNDdXJ2ZXMuc2l6ZSgpKTsKICBsb2dnZXJfLT50cmFjZSgiVG90YWwgRXh0cmVtYToge30iLCBudW1YRXh0cmVtYSArIG51bVlFeHRyZW1hKTsKICBsb2dnZXJfLT50cmFjZSgiTGluZSBTZWdtZW50czoge30iLCBsaW5lU2VnbWVudHMpOwogIGxvZ2dlcl8tPnRyYWNlKCJNYXggTGluZSBTZWdtZW50IFRpbWU6IHt9IiwgbWF4TGluZVNlZ21lbnRUaW1lLmNvdW50KCkpOwogIGxvZ2dlcl8tPnRyYWNlKCJNaW4gTGluZSBTZWdtZW50IFRpbWU6IHt9IiwgbWluTGluZVNlZ21lbnRUaW1lLmNvdW50KCkpOwogIGxvZ2dlcl8tPnRyYWNlKCJUb3RhbCBMaW5lIFNlZ21lbnQgVGltZToge30iLCB0b3RhbExpbmVTZWdtZW50VGltZSk7CiAgbG9nZ2VyXy0+dHJhY2UoIkRpc21pc3NlZCBjdXJ2ZXM6IHt9IiwgZGlzbWlzc2VkKTsKICBsb2dnZXJfLT50cmFjZSgiRXZhbHVhdGVkOiB7fSIsIG51cmJzQ3VydmVzLnNpemUoKSAtIGRpc21pc3NlZCk7</text>
@@ -537,25 +549,20 @@
         <text encoding="base64">ICBsb2dnZXJfLT50cmFjZSgiVG90YWwgcmVjYWxjdWxhdGlvbiBiYWlsb3V0czoge30iLCB0b3RhbEV4Y2Vzc0l0ZXJhdGlvbkJhaWxPdXRzKTsKICBsb2dnZXJfLT50cmFjZSgiTWF4IEdldE5leHQgRGVsdGFVIHJlY2FsY3VsYXRpb24gdGltZToge30gbWljcm9zZWNvbmRzIiwK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>$</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzYW1wbGVyRmFjdG9yeV9cPg==</last-search>
+      <last-search encoding="base64">XDxudXJic01ldHJpY3NTYW1wbGVyRmFjdG9yeV9cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzYW1wbGVyRmFjdG9yeV9cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxudXJic01ldHJpY3NTYW1wbGVyRmFjdG9yeV9cPg==</last-pattern>
       <last-replace>Previous</last-replace>
       <last-substitute>Next</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>auto</entry>
-        <entry>lineSegment</entry>
-        <entry>auto duration</entry>
-        <entry>totalGetNextDeltaUCalculationTime</entry>
-        <entry encoding="base64">XDxyZWNhbGNTdGFydFw+</entry>
         <entry encoding="base64">XDx0b3RhbEdldE5leHREZWx0YVVDYWxjdWxhdGlvblRpbWVcPg==</entry>
         <entry>ma</entry>
         <entry>total</entry>
@@ -571,9 +578,13 @@
         <entry>Bail</entry>
         <entry encoding="base64">XDxudXJic1NhbXBsZXJcPg==</entry>
         <entry encoding="base64">XDxzYW1wbGVyRmFjdG9yeV9cPg==</entry>
+        <entry>DelatU</entry>
+        <entry>DeltaU</entry>
+        <entry>FixedDeltaU</entry>
+        <entry>fixeddeltau</entry>
+        <entry encoding="base64">XDxudXJic01ldHJpY3NTYW1wbGVyRmFjdG9yeV9cPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>355</entry>
         <entry>noh</entry>
         <entry>set caseinsensitive</entry>
         <entry>set clipboard=unnamed</entry>
@@ -591,8 +602,9 @@
         <entry>1</entry>
         <entry>set relativenumber</entry>
         <entry>set number</entry>
-        <entry>$</entry>
         <entry>w</entry>
+        <entry>set ignorecase</entry>
+        <entry>$</entry>
       </history-cmd>
       <history-expr />
       <history-input />
