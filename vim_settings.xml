@@ -15,12 +15,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="13373" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" timestamp="1533591228939">
-        <mark key="'" line="366" column="55" />
-        <mark key="[" line="381" column="0" />
-        <mark key="]" line="381" column="0" />
-        <mark key="^" line="376" column="61" />
-        <mark key="." line="381" column="0" />
+      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" timestamp="1533646914080">
+        <mark key="[" line="365" column="37" />
+        <mark key="]" line="365" column="47" />
+        <mark key="." line="365" column="47" />
+        <mark key="^" line="365" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/database/Materials/DatabaseQueries.cpp" timestamp="1532372270629">
         <mark key="[" line="714" column="25" />
@@ -282,7 +281,7 @@
         <text>isc_service_detach(status, service_handle);</text>
       </register>
       <register name="-" type="4">
-        <text>::</text>
+        <text>dynamic_cast</text>
       </register>
       <register name="/" type="4">
         <text>tot</text>
@@ -291,25 +290,25 @@
         <text encoding="base64">aW50IHRvdGFsRXhjZXNzSXRlcmF0aW9uQmFpbE91dHM7CiAgbG9uZyBHZXROZXh0TWF4RGVsdGFVQ2FsY3VsYXRpb25UaW1lOwogIGxvbmcgR2V0TmV4dE1pbkRlbHRhVUNhbGN1bGF0aW9uVGltZTsKCiAgbG9uZyBHZXRQcmV2aW91c01heERlbHRhVUNhbGN1bGF0aW9uVGltZTsKICBsb25nIEdldFByZXZpb3VzTWluRGVsdGFVQ2FsY3VsYXRpb25UaW1lOwoKICBzdGQ6OmNocm9ubzo6ZHVyYXRpb248aW50NjRfdCwgc3RkOjptaWNybz4gdG90YWxHZXROZXh0RGVsdGFVQ2FsY3VsYXRpb25UaW1lOwogIGRvdWJsZSB0b3RhbEdldFByZXZpb3VzRGVsdGFVQ2FsY3VsYXRpb25UaW1lOwoKICBkb3VibGUgdG90YWxHZXROZXh0RGVsdGFVUmVjYWxjdWxhdGlvbkxvb3BzOwogIGRvdWJsZSB0b3RhbEdldFByZXZpb3VzRGVsdGFVUmVjYWxjdWxhdGlvbkxvb3BzOwoKICBsb25nIG1heFN0YXJ0VUNhbGN1bGF0aW9uVGltZTsKICBsb25nIG1pblN0YXJ0VUNhbGN1bGF0aW9uVGltZTsKICBkb3VibGUgdG90YWxTdGFydFVDYWxjdWxhdGlvblRpbWU7CiAgZG91YmxlIHRvdGFsU3RhcnRVQ2FsY3VsYXRpb25zOwoKICBkb3VibGUgdG90YWxHZXROZXh0VXBwZXJCb3VuZExvb3BzOwogIGRvdWJsZSB0b3RhbEdldFByZXZpb3VzVXBwZXJCb3VuZExvb3BzOwoKICBkb3VibGUgbWF4R2V0TmV4dFVwcGVyQm91bmRMb29wczsKICBkb3VibGUgbWluR2V0TmV4dFVwcGVyQm91bmRMb29wczsKCiAgZG91YmxlIG1heEdldFByZXZpb3VzVXBwZXJCb3VuZExvb3BzOwogIGRvdWJsZSBtaW5HZXRQcmV2aW91c1VwcGVyQm91bmRMb29wczsKCiAgZG91YmxlIHRvdGFsR2V0TmV4dDsKICBkb3VibGUgdG90YWxHZXRQcmV2aW91czs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHVuaXF1ZV9wdHI8Rml4ZWREZWx0YVBOVVJCU1NhbXBsZXI+IGZkcG5zID0gZHluYW1pY19jYXN0PHVuaXF1ZV9wdHI8Rml4ZWREZWx0YVBOVVJCU1NhbXBsZXI+PihudXJic1NhbXBsZXIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRvdGFsR2V0TmV4dERlbHRhVVJlY2FsY3VsYXRpb25Mb29wcyArPSBmZHBucy0+dG90YWxHZXROZXh0RGVsdGFVUmVjYWxjdWxhdGlvbkxvb3BzOwo=</text>
+        <text encoding="base64">ICAgIHNhbXBsZXJGYWN0b3J5Xy5DZGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkb3VibGUgdG90YWxHZXROZXh0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVuaXF1ZV9wdHI8Rml4ZWREZWx0YVBOVVJCU1NhbXBsZXI+IGZkcG5zID0gZHluYW1pY19jYXN0PHVuaXF1ZV9wdHI8Rml4ZWREZWx0YVBOVVJCU1NhbXBsZXI+PihudXJic1NhbXBsZXIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkb3VibGUgbWluR2V0TmV4dFVwcGVyQm91bmRMb29wczsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkb3VibGUgbWF4R2V0TmV4dFVwcGVyQm91bmRMb29wczsK</text>
+        <text encoding="base64">ICAgIHRvdGFsR2V0TmV4dERlbHRhVVJlY2FsY3VsYXRpb25Mb29wcyArPSBmZHBucy0+dG90YWxHZXROZXh0RGVsdGFVUmVjYWxjdWxhdGlvbkxvb3BzOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkb3VibGUgdG90YWxHZXROZXh0Owo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -533,13 +532,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkb3VibGUgdG90YWxHZXROZXh0VXBwZXJCb3VuZExvb3BzOwo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICBkb3VibGUgbWluR2V0TmV4dFVwcGVyQm91bmRMb29wczsK</text>
+      </register>
       <register name=":" type="4">
-        <text>$</text>
+        <text>set number</text>
       </register>
     </registers>
     <search>
@@ -575,7 +574,6 @@
         <entry>tot</entry>
       </history-search>
       <history-cmd>
-        <entry>87</entry>
         <entry>355</entry>
         <entry>noh</entry>
         <entry>set caseinsensitive</entry>
@@ -595,6 +593,7 @@
         <entry>1</entry>
         <entry>set relativenumber</entry>
         <entry>$</entry>
+        <entry>set number</entry>
       </history-cmd>
       <history-expr />
       <history-input />
