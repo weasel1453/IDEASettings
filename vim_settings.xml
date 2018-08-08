@@ -45,13 +45,13 @@
       <file name="$USER_HOME$/uls/lsm/Planning/BeudaertPlanner/BeudaertPlanner.cpp" timestamp="1533651924418">
         <mark key="'" line="78" column="36" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533739858458">
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533741891153">
         <mark key="a" line="17" column="4" />
-        <mark key="'" line="467" column="0" />
-        <mark key="[" line="475" column="116" />
-        <mark key="]" line="475" column="125" />
-        <mark key="." line="475" column="125" />
-        <mark key="^" line="475" column="125" />
+        <mark key="'" line="333" column="34" />
+        <mark key="[" line="457" column="0" />
+        <mark key="]" line="457" column="0" />
+        <mark key="." line="457" column="0" />
+        <mark key="^" line="473" column="125" />
       </file>
       <file name="$USER_HOME$/uls/lsm/Planning/Planner.cpp" timestamp="1533652060975">
         <mark key="'" line="633" column="6" />
@@ -189,11 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="399" column="0" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
-      <jump line="194" column="4" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
-      <jump line="238" column="40" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
-      <jump line="278" column="6" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
-      <jump line="279" column="8" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="170" column="6" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="191" column="4" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="199" column="0" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
@@ -289,40 +284,45 @@
       <jump line="219" column="6" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="222" column="8" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="467" column="0" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="494" column="2" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="331" column="9" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="458" column="9" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="257" column="24" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
+      <jump line="333" column="34" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>isc_service_detach(status, service_handle);</text>
       </register>
       <register name="-" type="4">
-        <text>dpb</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
-        <text>isc_service_attach</text>
+        <text>localhost</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBzdHJjcHkoc3BiLCBwYXNzd29yZC5jX3N0cigpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzdHJpbmcgc2VydmVyID0gImxvY2FsaG9zdCI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAqZHBiKysgPSAK</text>
+        <text encoding="base64">ICBzdHJpbmcgc2VydmVyID0gImxvY2FsaG9zdCI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkcGJfbGVuZ3RoID0gMDsK</text>
+        <text encoding="base64">ICBzdHJpbmcgc2VydmVyID0gImxvY2FsaG9zdCI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkcGIgPSAoY2hhciAqKSBtYWxsb2MoNTApOwo=</text>
+        <text encoding="base64">ICBzdHJpbmcgc2VydmVyID0gImxvY2FsaG9zdCI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjaGFyKiBkcGI7CiAgc2hvcnQgZHBiX2xlbmd0aDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpc2NfZXhwYW5kX2RwYigmZHBiLCAmZHBiX2xlbmd0aCwgaXNjX2RwYl91c2VyX25hbWUsIHVzZXJuYW1lLCBpc2NfZHBiX3Bhc3N3b3JkLCBwYXNzd29yZCwgTlVMTCk7Cg==</text>
+        <text encoding="base64">ICAqZHBiKysgPSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpc2NfZnJlZShkcGIpOwo=</text>
+        <text encoding="base64">ICBkcGJfbGVuZ3RoID0gMDsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -546,19 +546,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkcGIgPSAoY2hhciAqKSBtYWxsb2MoNTApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjaGFyKiBkcGI7CiAgc2hvcnQgZHBiX2xlbmd0aDsK</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
       </register>
     </registers>
     <search>
-      <last-search>isc_service_attach</last-search>
+      <last-search>localhost</last-search>
       <last-offset />
-      <last-pattern>isc_service_attach</last-pattern>
+      <last-pattern>localhost</last-pattern>
       <last-replace>Previous</last-replace>
       <last-substitute>Next</last-substitute>
       <last-dir>1</last-dir>
@@ -566,8 +566,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fixeddeltau</entry>
-        <entry encoding="base64">XDxudXJic01ldHJpY3NTYW1wbGVyRmFjdG9yeV9cPg==</entry>
         <entry>$schema</entry>
         <entry>BOOST_CLASS</entry>
         <entry>failed to attach</entry>
@@ -586,6 +584,8 @@
         <entry>_attach</entry>
         <entry>fmt::print</entry>
         <entry>isc_service_attach</entry>
+        <entry>server</entry>
+        <entry>localhost</entry>
       </history-search>
       <history-cmd>
         <entry>set caseinsensitive</entry>
