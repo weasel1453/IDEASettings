@@ -62,12 +62,11 @@
         <mark key="." line="385" column="60" />
         <mark key="^" line="385" column="60" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/common/PrintParams.cpp" timestamp="1533755981398">
+      <file name="$USER_HOME$/uls/lsm/common/PrintParams.cpp" timestamp="1533756545514">
         <mark key="'" line="342" column="18" />
-        <mark key="[" line="1071" column="9" />
-        <mark key="]" line="991" column="29" />
-        <mark key="." line="991" column="29" />
-        <mark key="^" line="991" column="29" />
+        <mark key="[" line="1071" column="0" />
+        <mark key="]" line="1071" column="0" />
+        <mark key="." line="1071" column="0" />
       </file>
       <file name="$USER_HOME$/uls/lsm/printjob/Mttp.cpp" timestamp="1533667787916" />
       <file name="$USER_HOME$/uls/lsm/CMakeLists.txt" timestamp="1533231479115">
@@ -95,6 +94,12 @@
         <mark key="]" line="88" column="11" />
         <mark key="^" line="88" column="11" />
         <mark key="." line="88" column="11" />
+      </file>
+      <file name="$USER_HOME$/uls/lsm/cmake-build-release/Services/ULS/ULS_types.h" timestamp="1533756454327">
+        <mark key="[" line="863" column="9" />
+        <mark key="]" line="863" column="9" />
+        <mark key="." line="863" column="9" />
+        <mark key="^" line="863" column="8" />
       </file>
       <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.h" timestamp="1533650340198">
         <mark key="'" line="26" column="10" />
@@ -284,34 +289,34 @@
         <text>isc_service_detach(status, service_handle);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Ym9vbCA=</text>
       </register>
       <register name="/" type="4">
-        <text>GetProcesses</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">YXIgJiBtXw==</text>
+        <text encoding="base64">Ym9vbCBhdXRvUG9ydDFEaXNhYmxlZDsKICBib29sIGF1dG9Qb3J0MkRpc2FibGVkOwogIExhc2VyV2F2ZWxlbmd0aCBhdXRvV2F2ZWxlbmd0aDsKICBzdGQ6OnZlY3RvcjxDb2xvclJnYj4gIGNvbG9yczsKICBkb3VibGUgY3VzdG9tQ3V0UHVsc2VzUGVySW5jaDsKICBpbnQzMl90IGN1c3RvbUh6Q29kZTsKICBkb3VibGUgY3VzdG9tUG9ydDFQb3dlckZyYWN0aW9uOwogIGRvdWJsZSBjdXN0b21Qb3J0MlBvd2VyRnJhY3Rpb247CiAgZG91YmxlIGN1c3RvbVBvcnQzUG93ZXJGcmFjdGlvbjsKICBkb3VibGUgY3VzdG9tU2ltbWVyUG93ZXJGcmFjdGlvbjsKICBkb3VibGUgY3VzdG9tU3BlZWRJbmNoZXNQZXJTZWNvbmQ7CiAgaW50MzJfdCBjdXN0b21XYXZlZm9ybUNvZGU7CiAgZG91YmxlIGN1c3RvbVpJbmNoZXM7CiAgYm9vbCBjdXRLZWVwSW5zaWRlOwogIGRvdWJsZSBjdXRLZXJmV2lkdGhJbmNoZXM7CiAgYm9vbCBjdXRQaWVyY2U7CiAgZG91YmxlIGRyaWxsRHV0eUN5Y2xlOwogIGludDMyX3QgZHJpbGxQdWxzZXNDb3VudDsKICBkb3VibGUgYWlyQXNzaXN0RnJhY3Rpb247CiAgZG91YmxlIGdhc0Fzc2lzdEZyYWN0aW9uOwogIHN0ZDo6c3RyaW5nIG5hbWU7CiAgUGVuUHJvY2VzcyBwcm9jZXNzOwogIGludDMyX3QgcmVwZWF0Q291bnQ7CiAgYm9vbCBza2lwOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhciAmIG1fU2hvdWxkZXI7Cg==</text>
+        <text encoding="base64">ZGQgIGFyICYgbV8K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">c3RkOjp2ZWN0b3I8Q29sb3JSZ2I=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Qk9PU1RfQ0xBU1NfVkVSU0lPTihzdHJ1Y3QgU0hPVUxERVIsIDApOwo=</text>
+        <text encoding="base64">ICAgIGFyICYgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBhciAmIG1fU2hvdWxkZXI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -535,19 +540,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dGVtcGxhdGU8c3RydWN0IFNIT1VMREVSPgogIEJPT1NUX1NUQVRJQ19DT05TVEFOVCh1bnNpZ25lZCBpbnQsIHZhbHVlID0gMSk7Cg==</text>
+        <text encoding="base64">Qk9PU1RfQ0xBU1NfVkVSU0lPTihzdHJ1Y3QgU0hPVUxERVIsIDApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIGJvb3N0IHsKbmFtZXNwYWNlIHNlcmlhbGl6YXRpb24gewo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>GetProcesses</last-search>
+      <last-search encoding="base64">Pg==</last-search>
       <last-offset />
-      <last-pattern>GetProcesses</last-pattern>
+      <last-pattern encoding="base64">Pg==</last-pattern>
       <last-replace>Previous</last-replace>
       <last-substitute>Next</last-substitute>
       <last-dir>1</last-dir>
@@ -555,7 +560,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Error connecting to Database</entry>
         <entry>isc_service</entry>
         <entry>isc_.*_attach</entry>
         <entry>isc_attach</entry>
@@ -575,6 +579,7 @@
         <entry>DataFromAll</entry>
         <entry>serialize</entry>
         <entry>GetProcesses</entry>
+        <entry encoding="base64">Pg==</entry>
       </history-search>
       <history-cmd>
         <entry>set caseinsensitive</entry>
