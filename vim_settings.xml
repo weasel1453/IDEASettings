@@ -50,11 +50,11 @@
       <file name="$USER_HOME$/uls/lsm/Planning/Planner.cpp" timestamp="1533652060975">
         <mark key="'" line="633" column="6" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/common/SHOULDER.H" timestamp="1533754130068">
-        <mark key="[" line="54" column="14" />
-        <mark key="]" line="53" column="8" />
-        <mark key="." line="53" column="8" />
-        <mark key="^" line="53" column="17" />
+      <file name="$USER_HOME$/uls/lsm/common/SHOULDER.H" timestamp="1533755431754">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="8" column="41" />
+        <mark key="." line="8" column="41" />
+        <mark key="^" line="8" column="41" />
       </file>
       <file name="$USER_HOME$/uls/lsm/Control/PrintQueue.cpp" timestamp="1533665964419">
         <mark key="[" line="385" column="61" />
@@ -73,7 +73,7 @@
       <file name="$USER_HOME$/uls/lsm/CMakeLists.txt" timestamp="1533231479115">
         <mark key="'" line="103" column="17" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/Camera/CameraSerialization.cpp" timestamp="1533674818751">
+      <file name="$USER_HOME$/uls/lsm/Camera/CameraSerialization.cpp" timestamp="1533755131192">
         <mark key="'" line="320" column="39" />
       </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/CMakeLists.txt" timestamp="1533322044059">
@@ -296,22 +296,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Qk9PU1RfQ0xBU1NfVkVSU0lPTihTSE9VTERFUiwgMSk7Cg==</text>
+        <text encoding="base64">Qk9PU1RfQ0xBU1NfVkVSU0lPTihzdHJ1Y3QgU0hPVUxERVIsIDApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Qk9PU1RfQ0xBU1NfVkVSU0lPTihTSE9VTERFUiwgMCk7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Qk9PU1RfQ0xBU1NfVkVSU0lPTihTSE9VTERFUiwgMCk7Cg==</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Qk9PU1RfQ0xBU1NfVkVSU0lPTihTSE9VTERFUiwgMCk7Cg==</text>
+        <text encoding="base64">dGVtcGxhdGU8c3RydWN0IFNIT1VMREVSPgogIEJPT1NUX1NUQVRJQ19DT05TVEFOVCh1bnNpZ25lZCBpbnQsIHZhbHVlID0gMSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">bmFtZXNwYWNlIGJvb3N0IHsKbmFtZXNwYWNlIHNlcmlhbGl6YXRpb24gewo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -535,10 +535,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Qk9PU1RfQ0xBU1NfVkVSU0lPTihTSE9VTERFUiwgMCk7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
