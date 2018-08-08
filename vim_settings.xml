@@ -62,22 +62,15 @@
         <mark key="." line="385" column="60" />
         <mark key="^" line="385" column="60" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/common/PrintParams.cpp" timestamp="1533749050741">
+      <file name="$USER_HOME$/uls/lsm/common/PrintParams.cpp" timestamp="1533749892206">
         <mark key="'" line="429" column="18" />
-        <mark key="[" line="1043" column="21" />
-        <mark key="]" line="1045" column="0" />
-        <mark key="." line="1045" column="0" />
+        <mark key="[" line="1049" column="21" />
+        <mark key="]" line="1054" column="0" />
+        <mark key="." line="1054" column="0" />
       </file>
       <file name="$USER_HOME$/uls/lsm/printjob/Mttp.cpp" timestamp="1533667787916" />
       <file name="$USER_HOME$/uls/lsm/CMakeLists.txt" timestamp="1533231479115">
         <mark key="'" line="103" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1532379094253">
-        <mark key="'" line="156" column="55" />
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="^" line="154" column="51" />
-        <mark key="." line="138" column="0" />
       </file>
       <file name="$USER_HOME$/uls/lsm/Camera/CameraSerialization.cpp" timestamp="1533674818751">
         <mark key="'" line="319" column="39" />
@@ -96,25 +89,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.h" timestamp="1532378201823">
-        <mark key="'" line="11" column="5" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="4" />
-        <mark key="." line="13" column="4" />
-        <mark key="^" line="13" column="4" />
-      </file>
       <file name="$USER_HOME$/uls/lsm/Control/WinMain.cpp" timestamp="1533325031507">
         <mark key="[" line="87" column="14" />
         <mark key="]" line="88" column="11" />
         <mark key="^" line="88" column="11" />
         <mark key="." line="88" column="11" />
-      </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/FilePath.cpp" timestamp="1533322609684">
-        <mark key="'" line="129" column="35" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="51" column="16" />
       </file>
       <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.h" timestamp="1533650340198">
         <mark key="'" line="26" column="10" />
@@ -129,6 +108,12 @@
         <mark key="]" line="399" column="10" />
         <mark key="." line="399" column="10" />
         <mark key="^" line="399" column="10" />
+      </file>
+      <file name="$USER_HOME$/uls/lsm/common/DpiInfo.h" timestamp="1533749698717">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="32" />
+        <mark key="." line="6" column="32" />
+        <mark key="^" line="6" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
         <mark key="[" line="2" column="0" />
@@ -151,13 +136,6 @@
       <file name="/fragment.mm" timestamp="1533304310856">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/FilePath.h" timestamp="1533321608505">
-        <mark key="'" line="65" column="9" />
-        <mark key="[" line="73" column="37" />
-        <mark key="]" line="73" column="37" />
-        <mark key="." line="73" column="37" />
-        <mark key="^" line="73" column="37" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.cpp" timestamp="1533302030878">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="1" column="42" />
@@ -173,13 +151,6 @@
       <file name="$USER_HOME$/uls/lsm/UsersService/UserCollection.cpp" timestamp="1533666745942" />
       <file name="/Dummy.youtrack" timestamp="1533664002997">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.h" timestamp="1533234835053">
-        <mark key="'" line="17" column="57" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="56" column="19" />
-        <mark key="^" line="16" column="11" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/Migration031-1--TableAlteration_up.sql" timestamp="1533148787728">
         <mark key="[" line="1" column="53" />
@@ -301,31 +272,31 @@
         <text>isc_service_detach(status, service_handle);</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>X</text>
       </register>
       <register name="/" type="4">
         <text>serialize</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBzdHJjcHkoc3BiLCBwYXNzd29yZC5jX3N0cigpKTsK</text>
+        <text encoding="base64">ICAgIGFyICYgblN0ZXBzUGVyUGl4ZWxYOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhciAmIAo=</text>
+        <text encoding="base64">ICBhciAmIG1fZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhciAmIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2luY2xkdWUgPGJvb3N0L2FyY2hpdmUK</text>
+        <text encoding="base64">ICBhciAmIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBhciAmIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzdHJpbmcgc2VydmVyID0gImxvY2FsaG9zdCI7Cg==</text>
+        <text encoding="base64">I2luY2xkdWUgPGJvb3N0L2FyY2hpdmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzdHJpbmcgc2VydmVyID0gImxvY2FsaG9zdCI7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICBzdHJpbmcgc2VydmVyID0gImxvY2FsaG9zdCI7Cg==</text>
@@ -555,7 +526,7 @@
         <text encoding="base64">ICBzdHJpbmcgc2VydmVyID0gImxvY2FsaG9zdCI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzdHJpbmcgc2VydmVyID0gImxvY2FsaG9zdCI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
