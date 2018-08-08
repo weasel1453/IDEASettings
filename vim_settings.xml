@@ -60,12 +60,12 @@
         <mark key="." line="385" column="60" />
         <mark key="^" line="385" column="60" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/common/PrintParams.cpp" timestamp="1533757720706">
+      <file name="$USER_HOME$/uls/lsm/common/PrintParams.cpp" timestamp="1533758926854">
         <mark key="'" line="342" column="18" />
-        <mark key="[" line="1071" column="0" />
-        <mark key="]" line="1078" column="19" />
-        <mark key="." line="1078" column="19" />
-        <mark key="^" line="1078" column="19" />
+        <mark key="[" line="1038" column="19" />
+        <mark key="]" line="1038" column="19" />
+        <mark key="." line="1038" column="19" />
+        <mark key="^" line="1078" column="28" />
       </file>
       <file name="$USER_HOME$/uls/lsm/CMakeLists.txt" timestamp="1533231479115">
         <mark key="'" line="103" column="17" />
@@ -286,7 +286,7 @@
         <text>isc_service_detach(status, service_handle);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Ym9vbCA=</text>
+        <text encoding="base64">IC8vVE9ETw==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Pg==</text>
