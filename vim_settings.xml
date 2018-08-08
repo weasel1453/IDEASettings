@@ -62,11 +62,11 @@
         <mark key="." line="385" column="60" />
         <mark key="^" line="385" column="60" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/common/PrintParams.cpp" timestamp="1533744502690">
-        <mark key="'" line="1469" column="21" />
-        <mark key="[" line="1030" column="29" />
-        <mark key="]" line="1035" column="0" />
-        <mark key="." line="1035" column="0" />
+      <file name="$USER_HOME$/uls/lsm/common/PrintParams.cpp" timestamp="1533749050741">
+        <mark key="'" line="429" column="18" />
+        <mark key="[" line="1043" column="21" />
+        <mark key="]" line="1045" column="0" />
+        <mark key="." line="1045" column="0" />
       </file>
       <file name="$USER_HOME$/uls/lsm/printjob/Mttp.cpp" timestamp="1533667787916" />
       <file name="$USER_HOME$/uls/lsm/CMakeLists.txt" timestamp="1533231479115">
@@ -195,9 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="4" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
-      <jump line="199" column="0" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
-      <jump line="224" column="6" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
       <jump line="200" column="6" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
       <jump line="227" column="0" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
       <jump line="221" column="44" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
@@ -295,6 +292,9 @@
       <jump line="257" column="24" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="333" column="34" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="1456" column="21" filename="$USER_HOME$/uls/lsm/common/PrintParams.cpp" />
+      <jump line="364" column="20" filename="$USER_HOME$/uls/lsm/common/PrintParams.cpp" />
+      <jump line="777" column="17" filename="$USER_HOME$/uls/lsm/common/PrintParams.cpp" />
+      <jump line="429" column="18" filename="$USER_HOME$/uls/lsm/common/PrintParams.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -304,7 +304,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>DataToJSON</text>
+        <text>serialize</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBzdHJjcHkoc3BiLCBwYXNzd29yZC5jX3N0cigpKTsK</text>
@@ -313,13 +313,13 @@
         <text encoding="base64">ICBhciAmIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2luY2xkdWUgPGJvb3N0L2FyY2hpdmUK</text>
+        <text encoding="base64">ICBhciAmIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">I2luY2xkdWUgPGJvb3N0L2FyY2hpdmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzdHJpbmcgc2VydmVyID0gImxvY2FsaG9zdCI7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICBzdHJpbmcgc2VydmVyID0gImxvY2FsaG9zdCI7Cg==</text>
@@ -552,19 +552,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzdHJpbmcgc2VydmVyID0gImxvY2FsaG9zdCI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAqZHBiKysgPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>DataToJSON</last-search>
+      <last-search>serialize</last-search>
       <last-offset />
-      <last-pattern>DataToJSON</last-pattern>
+      <last-pattern>serialize</last-pattern>
       <last-replace>Previous</last-replace>
       <last-substitute>Next</last-substitute>
       <last-dir>1</last-dir>
@@ -572,8 +572,6 @@
     </search>
     <history>
       <history-search>
-        <entry>BOOST_CLASS</entry>
-        <entry>failed to attach</entry>
         <entry>Old or no</entry>
         <entry>Executing Migration</entry>
         <entry>verbose</entry>
@@ -591,7 +589,9 @@
         <entry>isc_service_attach</entry>
         <entry>server</entry>
         <entry>localhost</entry>
+        <entry>ToJSON</entry>
         <entry>DataToJSON</entry>
+        <entry>serialize</entry>
       </history-search>
       <history-cmd>
         <entry>set caseinsensitive</entry>
