@@ -10,6 +10,7 @@
         <mark key="'" line="331" column="16" />
       </file>
       <file name="$USER_HOME$/uls/lsm/Planning/Configuration.cpp" timestamp="1533668163140" />
+      <file name="/usr/local/include/boost/serialization/version.hpp" timestamp="1533753633879" />
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/CreateVersion30DB.sql" timestamp="1533069287684">
         <mark key="[" line="13373" column="0" />
         <mark key="]" line="13373" column="0" />
@@ -32,13 +33,6 @@
       <file name="/Clang-Tidy Info for DatabaseMigrator.cpp" timestamp="1532711611029">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.h" timestamp="1533650214310">
-        <mark key="'" line="30" column="29" />
-        <mark key="[" line="34" column="78" />
-        <mark key="]" line="34" column="130" />
-        <mark key="." line="34" column="130" />
-        <mark key="^" line="34" column="130" />
-      </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/footer.h" timestamp="1533069328300">
         <mark key="[" line="0" column="0" />
       </file>
@@ -56,24 +50,31 @@
       <file name="$USER_HOME$/uls/lsm/Planning/Planner.cpp" timestamp="1533652060975">
         <mark key="'" line="633" column="6" />
       </file>
+      <file name="$USER_HOME$/uls/lsm/common/SHOULDER.H" timestamp="1533754130068">
+        <mark key="[" line="54" column="14" />
+        <mark key="]" line="53" column="8" />
+        <mark key="." line="53" column="8" />
+        <mark key="^" line="53" column="17" />
+      </file>
       <file name="$USER_HOME$/uls/lsm/Control/PrintQueue.cpp" timestamp="1533665964419">
         <mark key="[" line="385" column="61" />
         <mark key="]" line="385" column="60" />
         <mark key="." line="385" column="60" />
         <mark key="^" line="385" column="60" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/common/PrintParams.cpp" timestamp="1533749892206">
-        <mark key="'" line="429" column="18" />
-        <mark key="[" line="1049" column="21" />
-        <mark key="]" line="1054" column="0" />
-        <mark key="." line="1054" column="0" />
+      <file name="$USER_HOME$/uls/lsm/common/PrintParams.cpp" timestamp="1533751942707">
+        <mark key="'" line="1450" column="2" />
+        <mark key="[" line="1070" column="56" />
+        <mark key="]" line="1071" column="1" />
+        <mark key="." line="1071" column="1" />
+        <mark key="^" line="1071" column="1" />
       </file>
       <file name="$USER_HOME$/uls/lsm/printjob/Mttp.cpp" timestamp="1533667787916" />
       <file name="$USER_HOME$/uls/lsm/CMakeLists.txt" timestamp="1533231479115">
         <mark key="'" line="103" column="17" />
       </file>
       <file name="$USER_HOME$/uls/lsm/Camera/CameraSerialization.cpp" timestamp="1533674818751">
-        <mark key="'" line="319" column="39" />
+        <mark key="'" line="320" column="39" />
       </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/CMakeLists.txt" timestamp="1533322044059">
         <mark key="[" line="17" column="43" />
@@ -102,6 +103,11 @@
         <mark key="." line="37" column="10" />
         <mark key="^" line="37" column="10" />
       </file>
+      <file name="$USER_HOME$/uls/lsm/common/powertable.h" timestamp="1533750836191">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" timestamp="1533650351088">
         <mark key="'" line="36" column="22" />
         <mark key="[" line="399" column="4" />
@@ -109,11 +115,10 @@
         <mark key="." line="399" column="10" />
         <mark key="^" line="399" column="10" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/common/DpiInfo.h" timestamp="1533749698717">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="6" column="32" />
-        <mark key="." line="6" column="32" />
-        <mark key="^" line="6" column="32" />
+      <file name="$USER_HOME$/uls/lsm/common/DpiInfo.h" timestamp="1533752367829">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
         <mark key="[" line="2" column="0" />
@@ -132,6 +137,13 @@
         <mark key="]" line="216" column="2" />
         <mark key="." line="216" column="2" />
         <mark key="^" line="216" column="2" />
+      </file>
+      <file name="$USER_HOME$/uls/lsm/common/PrintParams.h" timestamp="1533751716609">
+        <mark key="'" line="296" column="34" />
+        <mark key="[" line="293" column="2" />
+        <mark key="]" line="294" column="50" />
+        <mark key="^" line="293" column="1" />
+        <mark key="." line="293" column="2" />
       </file>
       <file name="/fragment.mm" timestamp="1533304310856">
         <mark key="[" line="0" column="0" />
@@ -166,15 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="200" column="6" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
-      <jump line="227" column="0" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
-      <jump line="221" column="44" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
-      <jump line="197" column="44" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
-      <jump line="232" column="4" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
-      <jump line="22" column="37" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
-      <jump line="196" column="6" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
-      <jump line="364" column="55" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
-      <jump line="40" column="0" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
       <jump line="45" column="0" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="64" column="2" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="113" column="2" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
@@ -266,40 +269,49 @@
       <jump line="364" column="20" filename="$USER_HOME$/uls/lsm/common/PrintParams.cpp" />
       <jump line="777" column="17" filename="$USER_HOME$/uls/lsm/common/PrintParams.cpp" />
       <jump line="429" column="18" filename="$USER_HOME$/uls/lsm/common/PrintParams.cpp" />
+      <jump line="58" column="7" filename="$USER_HOME$/uls/lsm/common/PrintParams.h" />
+      <jump line="79" column="58" filename="$USER_HOME$/uls/lsm/common/PrintParams.h" />
+      <jump line="127" column="3" filename="$USER_HOME$/uls/lsm/common/PrintParams.h" />
+      <jump line="1080" column="19" filename="$USER_HOME$/uls/lsm/common/PrintParams.cpp" />
+      <jump line="1188" column="19" filename="$USER_HOME$/uls/lsm/common/PrintParams.cpp" />
+      <jump line="1076" column="18" filename="$USER_HOME$/uls/lsm/common/PrintParams.cpp" />
+      <jump line="1203" column="2" filename="$USER_HOME$/uls/lsm/common/PrintParams.cpp" />
+      <jump line="1449" column="2" filename="$USER_HOME$/uls/lsm/common/PrintParams.cpp" />
+      <jump line="294" column="34" filename="$USER_HOME$/uls/lsm/common/PrintParams.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>isc_service_detach(status, service_handle);</text>
       </register>
       <register name="-" type="4">
-        <text>X</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>serialize</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGFyICYgblN0ZXBzUGVyUGl4ZWxYOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">YXIgJiBtXw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhciAmIG1fZAo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Qk9PU1RfQ0xBU1NfVkVSU0lPTihTSE9VTERFUiwgMSk7Cg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhciAmIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhciAmIAo=</text>
+        <text encoding="base64">Qk9PU1RfQ0xBU1NfVkVSU0lPTihTSE9VTERFUiwgMCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2luY2xkdWUgPGJvb3N0L2FyY2hpdmUK</text>
+        <text encoding="base64">Qk9PU1RfQ0xBU1NfVkVSU0lPTihTSE9VTERFUiwgMCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Qk9PU1RfQ0xBU1NfVkVSU0lPTihTSE9VTERFUiwgMCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzdHJpbmcgc2VydmVyID0gImxvY2FsaG9zdCI7Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -523,10 +535,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzdHJpbmcgc2VydmVyID0gImxvY2FsaG9zdCI7Cg==</text>
+        <text encoding="base64">Qk9PU1RfQ0xBU1NfVkVSU0lPTihTSE9VTERFUiwgMCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzdHJpbmcgc2VydmVyID0gImxvY2FsaG9zdCI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
@@ -543,9 +555,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Old or no</entry>
-        <entry>Executing Migration</entry>
-        <entry>verbose</entry>
         <entry>-v</entry>
         <entry>Error connecting to Database</entry>
         <entry>isc_service</entry>
@@ -562,6 +571,9 @@
         <entry>localhost</entry>
         <entry>ToJSON</entry>
         <entry>DataToJSON</entry>
+        <entry>Data</entry>
+        <entry>DataFrom</entry>
+        <entry>DataFromAll</entry>
         <entry>serialize</entry>
       </history-search>
       <history-cmd>
