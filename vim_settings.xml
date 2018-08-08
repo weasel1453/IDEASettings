@@ -9,8 +9,6 @@
       <file name="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" timestamp="1533220266079">
         <mark key="'" line="331" column="16" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/Planning/Configuration.cpp" timestamp="1533668163140" />
-      <file name="/usr/local/include/boost/serialization/version.hpp" timestamp="1533753633879" />
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/CreateVersion30DB.sql" timestamp="1533069287684">
         <mark key="[" line="13373" column="0" />
         <mark key="]" line="13373" column="0" />
@@ -62,13 +60,13 @@
         <mark key="." line="385" column="60" />
         <mark key="^" line="385" column="60" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/common/PrintParams.cpp" timestamp="1533756545514">
+      <file name="$USER_HOME$/uls/lsm/common/PrintParams.cpp" timestamp="1533757720706">
         <mark key="'" line="342" column="18" />
         <mark key="[" line="1071" column="0" />
-        <mark key="]" line="1071" column="0" />
-        <mark key="." line="1071" column="0" />
+        <mark key="]" line="1078" column="19" />
+        <mark key="." line="1078" column="19" />
+        <mark key="^" line="1078" column="19" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/printjob/Mttp.cpp" timestamp="1533667787916" />
       <file name="$USER_HOME$/uls/lsm/CMakeLists.txt" timestamp="1533231479115">
         <mark key="'" line="103" column="17" />
       </file>
@@ -165,7 +163,6 @@
         <mark key="^" line="7" column="92" />
         <mark key="." line="7" column="92" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/UsersService/UserCollection.cpp" timestamp="1533666745942" />
       <file name="/Dummy.youtrack" timestamp="1533664002997">
         <mark key="[" line="0" column="0" />
       </file>
