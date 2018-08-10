@@ -76,6 +76,9 @@
       <file name="$USER_HOME$/uls/lsm/CMakeLists.txt" timestamp="1533231479115">
         <mark key="'" line="103" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1533922006074">
+        <mark key="'" line="777" column="17" />
+      </file>
       <file name="$USER_HOME$/uls/lsm/Camera/CameraSerialization.cpp" timestamp="1533760232364">
         <mark key="'" line="320" column="39" />
       </file>
@@ -170,7 +173,7 @@
         <mark key="^" line="7" column="92" />
         <mark key="." line="7" column="92" />
       </file>
-      <file name="/Dummy.youtrack" timestamp="1533920492211">
+      <file name="/Dummy.youtrack" timestamp="1533921927174">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/Migration031-1--TableAlteration_up.sql" timestamp="1533148787728">
@@ -187,8 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="2" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
-      <jump line="114" column="2" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="115" column="2" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="116" column="2" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="117" column="2" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
@@ -287,6 +288,8 @@
       <jump line="294" column="34" filename="$USER_HOME$/uls/lsm/common/PrintParams.h" />
       <jump line="342" column="18" filename="$USER_HOME$/uls/lsm/common/PrintParams.cpp" />
       <jump line="63" column="17" filename="$USER_HOME$/uls/lsm/common/PrintParams.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
+      <jump line="777" column="17" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -560,11 +563,10 @@
       <last-replace>Previous</last-replace>
       <last-substitute>Next</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>isc_service</entry>
         <entry>isc_.*_attach</entry>
         <entry>isc_attach</entry>
         <entry>isc_.*attach</entry>
@@ -576,13 +578,14 @@
         <entry>isc_service_attach</entry>
         <entry>server</entry>
         <entry>localhost</entry>
-        <entry>ToJSON</entry>
         <entry>DataToJSON</entry>
         <entry>Data</entry>
         <entry>DataFrom</entry>
         <entry>DataFromAll</entry>
         <entry>GetProcesses</entry>
         <entry encoding="base64">Pg==</entry>
+        <entry>ToJSON</entry>
+        <entry>Serialize</entry>
         <entry>serialize</entry>
       </history-search>
       <history-cmd>
