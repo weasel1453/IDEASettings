@@ -9,6 +9,12 @@
       <file name="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" timestamp="1533220266079">
         <mark key="'" line="331" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/DuplicationData.h" timestamp="1533934337071">
+        <mark key="[" line="173" column="0" />
+        <mark key="]" line="173" column="0" />
+        <mark key="^" line="173" column="8" />
+        <mark key="." line="173" column="0" />
+      </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/CreateVersion30DB.sql" timestamp="1533069287684">
         <mark key="[" line="13373" column="0" />
         <mark key="]" line="13373" column="0" />
@@ -31,11 +37,11 @@
       <file name="/Clang-Tidy Info for DatabaseMigrator.cpp" timestamp="1532711611029">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/Serializers.h" timestamp="1533933332433">
-        <mark key="[" line="40" column="43" />
-        <mark key="]" line="40" column="40" />
-        <mark key="^" line="40" column="40" />
-        <mark key="." line="40" column="40" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/Serializers.h" timestamp="1533934022280">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/footer.h" timestamp="1533069328300">
         <mark key="[" line="0" column="0" />
@@ -85,11 +91,11 @@
         <mark key="." line="1026" column="0" />
         <mark key="^" line="1083" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PageParams.h" timestamp="1533933059242">
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PageParams.h" timestamp="1533934415097">
         <mark key="'" line="42" column="70" />
-        <mark key="[" line="108" column="24" />
-        <mark key="]" line="108" column="24" />
-        <mark key="." line="108" column="24" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" timestamp="1533931687080">
         <mark key="[" line="39" column="0" />
@@ -99,8 +105,8 @@
       <file name="$USER_HOME$/uls/lsm/CMakeLists.txt" timestamp="1533231479115">
         <mark key="'" line="103" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1533932842355">
-        <mark key="'" line="791" column="0" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1533933754749">
+        <mark key="'" line="1683" column="45" />
         <mark key="[" line="19" column="40" />
         <mark key="]" line="21" column="26" />
         <mark key="." line="21" column="26" />
@@ -236,16 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="17" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
-      <jump line="35" column="0" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.h" />
-      <jump line="30" column="29" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.h" />
-      <jump line="227" column="17" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
-      <jump line="181" column="4" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
-      <jump line="26" column="10" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.h" />
-      <jump line="211" column="26" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
-      <jump line="36" column="22" filename="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" />
-      <jump line="394" column="63" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
-      <jump line="130" column="73" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="219" column="73" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="392" column="76" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="313" column="24" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
@@ -336,16 +332,26 @@
       <jump line="21" column="26" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="791" column="0" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="42" column="70" filename="$USER_HOME$/Documents/ULS/trunk/common/PageParams.h" />
+      <jump line="1013" column="51" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
+      <jump line="1436" column="17" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
+      <jump line="1443" column="19" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
+      <jump line="1448" column="9" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
+      <jump line="1688" column="56" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
+      <jump line="737" column="7" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
+      <jump line="780" column="17" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
+      <jump line="813" column="0" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
+      <jump line="999" column="21" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
+      <jump line="1683" column="45" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>wrkd</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>wrkd</text>
+        <text encoding="base64">c3RkOjpzZXQ8cm93Y29sPiA=</text>
       </register>
       <register name="/" type="4">
-        <text>JSON</text>
+        <text>m</text>
       </register>
       <register name="0" type="4">
         <text>int32_t customHzCode;
@@ -369,25 +375,25 @@
   bool skip;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHRlbXBsYXRlPGNsYXNzIEFyY2hpdmU+CiAgICB2b2lkIHNlcmlhbGl6ZShBcmNoaXZlICZhciwgVUxTOjpDb2xvclJnYlVzYWdlLCBjb25zdCB1bnNpZ25lZCBpbnQgdmVyc2lvbikgewo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICB0ZW1wbGF0ZTxjbGFzcyBBcmNoaXZlPgogIHZvaWQgc2VyaWFsaXplKEFyY2hpdmUmLCBjb25zdCB1bnNpZ25lZCBpbnQpOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGFyICYK</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">c3RkOjpzZXQ8cm93Y29sPiA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFyICYgbV9uUGFnZU9mZnNldDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB2b2lkIHNlcmlhbGl6ZShBcmNoaXZlICZhciwgY29uc3QgdW5zaWduZWQgaW50KTsgIAo=</text>
+        <text encoding="base64">ICAgIC8vdW5zaWduZWQgbV9uSGVpZ2h0OyAvLyBIZWlnaHQgb2YgZWFjaCBkdXBsaWNhdGUsIGluIG1pbHMuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBmcmllbmQgY2xhc3MgYm9vc3Q6OnNlcmlhbGl6YXRpb246OmFjY2VzczsK</text>
+        <text encoding="base64">ICAgIC8vIG1fbldpZHRoIGFuZCBtX25IZWlnaHQgYXJlIHNldCB0byBpbWFnZSdzIE1hcmdpbmxlc3MgcmVjdGFuZ2xlJ3Mgd2lkdGggYW5kIGhlaWdodAogICAgLy91bnNpZ25lZCBtX25XaWR0aDsgIC8vIFdpZHRoIG9mIGVhY2ggZHVwbGljYXRlLCBpbiBtaWxzLgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -614,16 +620,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRlbXBsYXRlPGNsYXNzIEFyY2hpdmU+CiAgICB2b2lkIHNlcmlhbGl6ZShBcmNoaXZlICZhciwgUHJpbnRQYXJhbXMgJnBwLCApCg==</text>
+        <text encoding="base64">ICAgIH0qLwo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>JSON</last-search>
+      <last-search>m</last-search>
       <last-offset />
-      <last-pattern>JSON</last-pattern>
+      <last-pattern>m</last-pattern>
       <last-replace encoding="base64">ICAgIGFyIFwmIHBzLlwxOw==</last-replace>
       <last-substitute>.* \(.*\);</last-substitute>
       <last-dir>1</last-dir>
@@ -631,10 +637,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ToJSON</entry>
-        <entry>Serialize</entry>
-        <entry>m_processes</entry>
-        <entry>GetProcesses</entry>
         <entry>.* .*;</entry>
         <entry>.*\w* \(.*\);</entry>
         <entry>^.* \(.*\);$</entry>
@@ -651,6 +653,10 @@
         <entry>tojson</entry>
         <entry>m_PageParams</entry>
         <entry>JSON</entry>
+        <entry>ColorRgbUsage</entry>
+        <entry>ToJSON</entry>
+        <entry>GetColorUsage</entry>
+        <entry>m</entry>
       </history-search>
       <history-cmd>
         <entry>1</entry>
