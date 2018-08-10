@@ -31,10 +31,11 @@
       <file name="/Clang-Tidy Info for DatabaseMigrator.cpp" timestamp="1532711611029">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/Serializers.h" timestamp="1533932040058">
-        <mark key="[" line="36" column="5" />
-        <mark key="]" line="33" column="6" />
-        <mark key="." line="33" column="6" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/Serializers.h" timestamp="1533933332433">
+        <mark key="[" line="40" column="43" />
+        <mark key="]" line="40" column="40" />
+        <mark key="^" line="40" column="40" />
+        <mark key="." line="40" column="40" />
       </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/footer.h" timestamp="1533069328300">
         <mark key="[" line="0" column="0" />
@@ -84,6 +85,12 @@
         <mark key="." line="1026" column="0" />
         <mark key="^" line="1083" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PageParams.h" timestamp="1533933059242">
+        <mark key="'" line="42" column="70" />
+        <mark key="[" line="108" column="24" />
+        <mark key="]" line="108" column="24" />
+        <mark key="." line="108" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" timestamp="1533931687080">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -92,8 +99,8 @@
       <file name="$USER_HOME$/uls/lsm/CMakeLists.txt" timestamp="1533231479115">
         <mark key="'" line="103" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1533932467336">
-        <mark key="'" line="21" column="26" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1533932842355">
+        <mark key="'" line="791" column="0" />
         <mark key="[" line="19" column="40" />
         <mark key="]" line="21" column="26" />
         <mark key="." line="21" column="26" />
@@ -184,6 +191,12 @@
         <mark key="^" line="87" column="24" />
         <mark key="." line="87" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PageParams.cpp" timestamp="1533933207001">
+        <mark key="[" line="84" column="2" />
+        <mark key="]" line="85" column="27" />
+        <mark key="^" line="85" column="27" />
+        <mark key="." line="85" column="27" />
+      </file>
       <file name="/fragment.mm" timestamp="1533304310856">
         <mark key="[" line="0" column="0" />
       </file>
@@ -223,8 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="225" column="54" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
-      <jump line="398" column="51" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="136" column="17" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="35" column="0" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.h" />
       <jump line="30" column="29" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.h" />
@@ -323,16 +334,18 @@
       <jump line="756" column="16" filename="$USER_HOME$/Documents/ULS/trunk/cmake-build-debug/Services/ULS/ULS_types.h" />
       <jump line="757" column="3" filename="$USER_HOME$/Documents/ULS/trunk/cmake-build-debug/Services/ULS/ULS_types.h" />
       <jump line="21" column="26" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
+      <jump line="791" column="0" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
+      <jump line="42" column="70" filename="$USER_HOME$/Documents/ULS/trunk/common/PageParams.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>//</text>
+        <text>wrkd</text>
       </register>
       <register name="-" type="4">
-        <text>//</text>
+        <text>wrkd</text>
       </register>
       <register name="/" type="4">
-        <text>tojson</text>
+        <text>JSON</text>
       </register>
       <register name="0" type="4">
         <text>int32_t customHzCode;
@@ -356,25 +369,25 @@
   bool skip;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBmcmllbmQgY2xhc3MgYm9vc3Q6OnNlcmlhbGl6YXRpb246OmFjY2VzczsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRlbXBsYXRlPGNsYXNzIEFyY2hpdmU+CiAgICB2b2lkIHNlcmlhbGl6ZShBcmNoaXZlICZhciwgUHJpbnRQYXJhbXMgJnBwLCApCg==</text>
+        <text encoding="base64">ICAgIHRlbXBsYXRlPGNsYXNzIEFyY2hpdmU+CiAgICB2b2lkIHNlcmlhbGl6ZShBcmNoaXZlICZhciwgVUxTOjpDb2xvclJnYlVzYWdlLCBjb25zdCB1bnNpZ25lZCBpbnQgdmVyc2lvbikgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGJvb3N0L3NlcmlhbGl6YXRpb24vCg==</text>
+        <text encoding="base64">ICAgIGFyICYK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2luY2xkdWUgPGJvbwo=</text>
+        <text encoding="base64">ICAgIGFyICYgbV9uUGFnZU9mZnNldDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2b2lkIHNlcmlhbGl6ZShBcmNoaXZlICZhciwgY29uc3QgdW5zaWduZWQgaW50KTsgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGJvb3N0L3NlcmlhbGl6YXRpb24vc2VyaWFsaXphdGlvbi5ocHA+Cg==</text>
+        <text encoding="base64">ICBmcmllbmQgY2xhc3MgYm9vc3Q6OnNlcmlhbGl6YXRpb246OmFjY2VzczsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -598,19 +611,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGJ1aWxkX2RlYnVnL1NlcnZpY2VzL1VMUy9VTFNfdHlwZXMuaD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHRlbXBsYXRlPGNsYXNzIEFyY2hpdmU+CiAgICB2b2lkIHNlcmlhbGl6ZShBcmNoaXZlICZhciwgUHJpbnRQYXJhbXMgJnBwLCApCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>tojson</last-search>
+      <last-search>JSON</last-search>
       <last-offset />
-      <last-pattern>tojson</last-pattern>
+      <last-pattern>JSON</last-pattern>
       <last-replace encoding="base64">ICAgIGFyIFwmIHBzLlwxOw==</last-replace>
       <last-substitute>.* \(.*\);</last-substitute>
       <last-dir>1</last-dir>
@@ -618,8 +631,6 @@
     </search>
     <history>
       <history-search>
-        <entry>DataFromAll</entry>
-        <entry encoding="base64">Pg==</entry>
         <entry>ToJSON</entry>
         <entry>Serialize</entry>
         <entry>m_processes</entry>
@@ -638,6 +649,8 @@
         <entry>serialize</entry>
         <entry>ProcessSettings</entry>
         <entry>tojson</entry>
+        <entry>m_PageParams</entry>
+        <entry>JSON</entry>
       </history-search>
       <history-cmd>
         <entry>1</entry>
