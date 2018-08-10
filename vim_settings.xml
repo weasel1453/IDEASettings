@@ -63,14 +63,13 @@
         <mark key="." line="457" column="0" />
         <mark key="^" line="473" column="125" />
       </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/ultracpu/UltraErrorCodes.c" timestamp="1533935278032">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="28" />
+        <mark key="." line="6" column="28" />
+      </file>
       <file name="$USER_HOME$/uls/lsm/Planning/Planner.cpp" timestamp="1533652060975">
         <mark key="'" line="633" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/cmake-build-debug/Services/ULS/ULS_types.h" timestamp="1533931983156">
-        <mark key="'" line="757" column="3" />
-        <mark key="[" line="934" column="2" />
-        <mark key="]" line="934" column="2" />
-        <mark key="." line="934" column="2" />
       </file>
       <file name="$USER_HOME$/uls/lsm/common/SHOULDER.H" timestamp="1533759943266">
         <mark key="[" line="49" column="3" />
@@ -91,11 +90,12 @@
         <mark key="." line="1026" column="0" />
         <mark key="^" line="1083" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PageParams.h" timestamp="1533934415097">
-        <mark key="'" line="42" column="70" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PageParams.h" timestamp="1533935024924">
+        <mark key="'" line="44" column="70" />
+        <mark key="[" line="32" column="8" />
+        <mark key="]" line="63" column="24" />
+        <mark key="." line="63" column="24" />
+        <mark key="^" line="63" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" timestamp="1533931687080">
         <mark key="[" line="39" column="0" />
@@ -105,12 +105,12 @@
       <file name="$USER_HOME$/uls/lsm/CMakeLists.txt" timestamp="1533231479115">
         <mark key="'" line="103" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1533933754749">
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1533934802751">
         <mark key="'" line="1683" column="45" />
-        <mark key="[" line="19" column="40" />
-        <mark key="]" line="21" column="26" />
-        <mark key="." line="21" column="26" />
-        <mark key="^" line="21" column="26" />
+        <mark key="[" line="1080" column="0" />
+        <mark key="]" line="1080" column="0" />
+        <mark key="." line="1080" column="0" />
+        <mark key="^" line="1080" column="22" />
       </file>
       <file name="$USER_HOME$/uls/lsm/Camera/CameraSerialization.cpp" timestamp="1533760232364">
         <mark key="'" line="320" column="39" />
@@ -197,11 +197,11 @@
         <mark key="^" line="87" column="24" />
         <mark key="." line="87" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PageParams.cpp" timestamp="1533933207001">
-        <mark key="[" line="84" column="2" />
-        <mark key="]" line="85" column="27" />
-        <mark key="^" line="85" column="27" />
-        <mark key="." line="85" column="27" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PageParams.cpp" timestamp="1533934964268">
+        <mark key="[" line="69" column="5" />
+        <mark key="]" line="69" column="16" />
+        <mark key="." line="69" column="16" />
+        <mark key="^" line="69" column="16" />
       </file>
       <file name="/fragment.mm" timestamp="1533304310856">
         <mark key="[" line="0" column="0" />
@@ -227,12 +227,6 @@
         <mark key="]" line="1" column="53" />
         <mark key="^" line="1" column="53" />
         <mark key="." line="1" column="53" />
-      </file>
-      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSBoxIntersection.cpp" timestamp="1533651954771">
-        <mark key="'" line="59" column="56" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/Serializers.cpp" timestamp="1533931617022">
         <mark key="'" line="8" column="0" />
@@ -344,11 +338,11 @@
       <jump line="1683" column="45" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RkOjpzZXQ8cm93Y29sPiA=</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>m</text>
@@ -375,25 +369,25 @@
   bool skip;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0ZW1wbGF0ZTxjbGFzcyBBcmNoaXZlPgogIHZvaWQgc2VyaWFsaXplKEFyY2hpdmUmLCBjb25zdCB1bnNpZ25lZCBpbnQpOwo=</text>
+        <text encoding="base64">Y2xhc3MgUGFnZVBhcmFtcyB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBQYWdlUGFyYW1zOjpzZXJpYWxpemUK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">c3RkOjpzZXQ8cm93Y29sPiA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBtX1BhZ2VQYXJhbXNbMF0uc2VyaWFsaXplKCkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vdW5zaWduZWQgbV9uSGVpZ2h0OyAvLyBIZWlnaHQgb2YgZWFjaCBkdXBsaWNhdGUsIGluIG1pbHMuCg==</text>
+        <text encoding="base64">ICB0ZW1wbGF0ZTxjbGFzcyBBcmNoaXZlPgogIHZvaWQgc2VyaWFsaXplKEFyY2hpdmUmLCBjb25zdCB1bnNpZ25lZCBpbnQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIG1fbldpZHRoIGFuZCBtX25IZWlnaHQgYXJlIHNldCB0byBpbWFnZSdzIE1hcmdpbmxlc3MgcmVjdGFuZ2xlJ3Mgd2lkdGggYW5kIGhlaWdodAogICAgLy91bnNpZ25lZCBtX25XaWR0aDsgIC8vIFdpZHRoIG9mIGVhY2ggZHVwbGljYXRlLCBpbiBtaWxzLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -616,11 +610,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">c3RkOjpzZXQ8cm93Y29sPiA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0qLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -633,7 +627,7 @@
       <last-replace encoding="base64">ICAgIGFyIFwmIHBzLlwxOw==</last-replace>
       <last-substitute>.* \(.*\);</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
