@@ -15,7 +15,6 @@
       <file name="/Dummy.txt" timestamp="1532375167187">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/usr/include/c++/6/string" timestamp="1532377916204" />
       <file name="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.h" timestamp="1532378201823">
         <mark key="'" line="11" column="5" />
         <mark key="[" line="13" column="0" />
@@ -43,13 +42,6 @@
         <mark key="[" line="37" column="22" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1532379094253">
-        <mark key="'" line="156" column="55" />
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="^" line="154" column="51" />
-        <mark key="." line="138" column="0" />
       </file>
     </filemarks>
     <jumps>
