@@ -37,11 +37,10 @@
       <file name="/Clang-Tidy Info for DatabaseMigrator.cpp" timestamp="1532711611029">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/Serializers.h" timestamp="1534181180887">
-        <mark key="[" line="2" column="2" />
-        <mark key="]" line="43" column="17" />
-        <mark key="^" line="43" column="17" />
-        <mark key="." line="43" column="17" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/Serializers.h" timestamp="1534181611026">
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/footer.h" timestamp="1533069328300">
         <mark key="[" line="0" column="0" />
@@ -90,11 +89,11 @@
         <mark key="." line="1026" column="0" />
         <mark key="^" line="1083" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PageParams.h" timestamp="1534181189875">
-        <mark key="'" line="47" column="70" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PageParams.h" timestamp="1534181707936">
+        <mark key="'" line="50" column="70" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" timestamp="1533931687080">
         <mark key="[" line="39" column="0" />
@@ -196,12 +195,12 @@
         <mark key="^" line="87" column="24" />
         <mark key="." line="87" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PageParams.cpp" timestamp="1534171547056">
-        <mark key="'" line="49" column="29" />
-        <mark key="[" line="86" column="8" />
-        <mark key="]" line="86" column="8" />
-        <mark key="." line="86" column="8" />
-        <mark key="^" line="86" column="8" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PageParams.cpp" timestamp="1534181742912">
+        <mark key="'" line="33" column="23" />
+        <mark key="[" line="83" column="69" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="87" column="1" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="/fragment.mm" timestamp="1533304310856">
         <mark key="[" line="0" column="0" />
@@ -236,7 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="392" column="76" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="313" column="24" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="61" column="2" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="38" column="20" filename="$USER_HOME$/uls/lsm/Planning/BeudaertPlanner/BeudaertPlanner.cpp" />
@@ -336,6 +334,7 @@
       <jump line="999" column="21" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="1683" column="45" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="48" column="29" filename="$USER_HOME$/Documents/ULS/trunk/common/PageParams.cpp" />
+      <jump line="33" column="23" filename="$USER_HOME$/Documents/ULS/trunk/common/PageParams.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -354,22 +353,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0ZW1wbGF0ZTxjbGFzcyBBcmNoaXZlPgogIHZvaWQgc2VyaWFsaXplKEFyY2hpdmUmLCBjb25zdCB1bnNpZ25lZCBpbnQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0ZW1wbGF0ZTxjbGFzcyBBcmNoaXZlPgogIHZvaWQgc2VyaWFsaXplKEFyY2hpdmUmLCBjb25zdCB1bnNpZ25lZCBpbnQpOwo=</text>
+        <text encoding="base64">I2luY2x1ZGUgPGJvb3N0L2FyY2hpdmUvYmluYXJ5X29hcmNoaXZlLmhwcD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0ZW1wbGF0ZTxjbGFzcyBBcmNoaXZlPgogIHZvaWQgc2VyaWFsaXplKEFyY2hpdmUmLCBjb25zdCB1bnNpZ25lZCBpbnQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IHB1YmxpYzoK</text>
+        <text encoding="base64">I3ByYWdtYSBpZGUgZGlhZ25vc3RpYyBpZ25vcmVkICJPQ0RGQUluc3BlY3Rpb24iCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBmcmllbmQgYm9vc3Q6OnNlcmlhbGl6YXRpb246OmFjY2VzczsK</text>
+        <text encoding="base64">I3ByYWdtYSBjbGFuZyBkaWFnbm9zdGljIHBvcAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYXIgJiByZWt0LmJvdHRvbTsK</text>
+        <text encoding="base64">I3ByYWdtYSBjbGFuZyBkaWFnbm9zdGljIHB1c2gK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -593,13 +592,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYXIgJiByZWt0LnRvcDsKICAgICAgYXIgJiByZWt0LnJpZ2h0Owo=</text>
+        <text encoding="base64">I3ByYWdtYSBjbGFuZyBkaWFnbm9zdGljIGlnbm9yZWQgIi1XdW51c2VkLXZhbHVlIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYXIgJiByZWt0LmxlZnQ7Cg==</text>
+        <text encoding="base64">I3ByYWdtYSBjbGFuZyBkaWFnbm9zdGljIHB1c2gK</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
@@ -635,7 +634,6 @@
         <entry>serialize</entry>
       </history-search>
       <history-cmd>
-        <entry>1</entry>
         <entry encoding="base64">JzwsJz5zLy4qICguKik7L2FyICYgJDEvYw==</entry>
         <entry encoding="base64">JzwsJz5zLy4qIC4qOw==</entry>
         <entry encoding="base64">JzwsJz5zLy4qICguKik7L2FyICYgJDEvZ2M=</entry>
@@ -655,6 +653,7 @@
         <entry encoding="base64">JzwsJz4gcy8uKiBcKC4qXCk7LyAgICBhciBcJiBcMTsvZ2M=</entry>
         <entry encoding="base64">JzwsJz4gcy8uKiBcKC4qXCk7LyAgICBhciBcJiBwcy5cMTsvZ2M=</entry>
         <entry>noh</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
