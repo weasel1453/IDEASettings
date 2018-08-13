@@ -54,6 +54,12 @@
         <mark key="^" line="1" column="42" />
         <mark key="." line="1" column="42" />
       </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/Test/CommonTest/PrintParamsTest.cpp" timestamp="1534197991020">
+        <mark key="[" line="30" column="14" />
+        <mark key="]" line="30" column="40" />
+        <mark key="^" line="30" column="40" />
+        <mark key="." line="30" column="40" />
+      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/ultracpu/UltraErrorCodes.c" timestamp="1533935278032">
         <mark key="[" line="6" column="28" />
         <mark key="]" line="6" column="28" />
@@ -91,21 +97,24 @@
         <mark key="." line="125" column="7" />
         <mark key="^" line="124" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" timestamp="1534187649389">
-        <mark key="'" line="29" column="17" />
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="^" line="29" column="30" />
-        <mark key="." line="119" column="0" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" timestamp="1534198397930">
+        <mark key="'" line="56" column="127" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/uls/lsm/CMakeLists.txt" timestamp="1533231479115">
         <mark key="'" line="103" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1534194010746">
-        <mark key="'" line="442" column="38" />
-        <mark key="[" line="1423" column="0" />
-        <mark key="]" line="1423" column="0" />
-        <mark key="." line="1423" column="0" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1534198383195">
+        <mark key="'" line="1137" column="23" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/Test/CommonTest/CMakeLists.txt" timestamp="1534196701238">
+        <mark key="[" line="61" column="19" />
       </file>
       <file name="$USER_HOME$/uls/lsm/Camera/CameraSerialization.cpp" timestamp="1533760232364">
         <mark key="'" line="320" column="39" />
@@ -128,6 +137,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/Test/CommonTest/SerializationTest.cpp" timestamp="1534196543161">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="52" />
       </file>
       <file name="$USER_HOME$/uls/lsm/Control/WinMain.cpp" timestamp="1533325031507">
         <mark key="[" line="87" column="14" />
@@ -240,15 +255,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="0" filename="$USER_HOME$/uls/lsm/Planning/Configuration.cpp" />
-      <jump line="25" column="15" filename="$USER_HOME$/uls/lsm/Camera/CameraSerialization.cpp" />
-      <jump line="319" column="39" filename="$USER_HOME$/uls/lsm/Camera/CameraSerialization.cpp" />
-      <jump line="41" column="47" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="276" column="31" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="336" column="0" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="397" column="38" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="386" column="32" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="63" column="6" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="149" column="16" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="280" column="38" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="356" column="40" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
@@ -300,7 +306,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="777" column="17" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="19" column="39" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
-      <jump line="776" column="0" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="948" column="67" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="1070" column="7" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="1480" column="23" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
@@ -334,46 +339,56 @@
       <jump line="1106" column="37" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="36" column="0" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="88" column="23" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
-      <jump line="442" column="38" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="22" column="39" filename="$USER_HOME$/Documents/ULS/trunk/Camera/CameraSerialization.cpp" />
       <jump line="389" column="13" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
       <jump line="29" column="17" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/ULS/trunk/CMakeLists.txt" />
       <jump line="289" column="22" filename="$USER_HOME$/Documents/ULS/trunk/CMakeLists.txt" />
+      <jump line="1247" column="0" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
+      <jump line="442" column="38" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
+      <jump line="1393" column="48" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
+      <jump line="1531" column="29" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
+      <jump line="1411" column="18" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
+      <jump line="766" column="26" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
+      <jump line="776" column="8" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
+      <jump line="1140" column="23" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
+      <jump line="65" column="36" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
+      <jump line="397" column="9" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
+      <jump line="54" column="127" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBzdGQ6Om9mc3RyZWFtIG9mcygiL2hvbWUvdG1jbGFjaGxhbi90ZXN0U2VyaWFsaXphdGlvbi5iaW4iKTsKICBib29zdDo6YXJjaGl2ZTo6YmluYXJ5X29hcmNoaXZlIG9hKG9mcyk7CiAgb2EgPDwgdGhpczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>GCode</text>
+        <text>model</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">dGVtcGxhdGU8Y2xhc3MgQXJjaGl2ZT4Kdm9pZCBQYWdlUGFyYW1zOjpzZXJpYWxpemUoQXJjaGl2ZSAmYXIsIGNvbnN0IHVuc2lnbmVkIGludCB2ZXJzaW9uKSB7CiAgYXIgJiBtX25QYWdlT2Zmc2V0OwogIGFyICYgbV9uQ29waWVzOwogIGFyICYgbV9kd0VzdGltYXRlZFRpbWU7CiAgYXIgJiBtX2R3Sm9iVGltZTsKICBhciAmIG1fcmNab29tUmVjdDsKICBhciAmIG1fcmNNYXJnaW5sZXNzSW1hZ2U7CiAgYXIgJiBtX3B0UmVsb2NhdGlvbjsKICBhciAmIG1fRHVwbGljYXRpb247CiAgYXIgJiBtX1Jhc3RlckZyYW1lU3RhcnRYMTsKICBhciAmIG1fUmFzdGVyRnJhbWVTdGFydFgyOwp9</text>
+        <text>ontrol/Jobs/000002/PrintSettings.json</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzdGQ6Om9mc3RyZWFtIG9mcygiL2hvbWUvdG1jbGFjaGxhbi90ZXN0U2VyaWFsaXphdGlvbi5iaW4iKTsKICBib29zdDo6YXJjaGl2ZTo6YmluYXJ5X29hcmNoaXZlIG9hKG9mcyk7CiAgb2EgPDwgdGhpczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzdGQ6Om9mc3RyZWFtIG9mcygiL2hvbWUvdG1jbGFjaGxhbi90ZXN0U2VyaWFsaXphdGlvbi5iaW4iKTsKICBib29zdDo6YXJjaGl2ZTo6YmluYXJ5X29hcmNoaXZlIG9hKG9mcyk7CiAgb2EgPDwgdGhpczsKfQo=</text>
+        <text encoding="base64">I2luY2x1ZGUgPGJvb3N0L2FyY2hpdmUvYmluYXJ5X2lhcmNoaXZlLmhwcD4KI2luY2x1ZGUgPGJvb3N0L2FyY2hpdmUvYmluYXJ5X29hcmNoaXZlLmhwcD4K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">I2luY2x1ZGUgPGJvb3N0L3NlcmlhbGl6YXRpb24vYXJyYXkuaHBwPgojaW5jbHVkZSA8Ym9vc3Qvc2VyaWFsaXphdGlvbi92ZWN0b3IuaHBwPgojaW5jbHVkZSA8Ym9vc3QvYXJjaGl2ZS9iaW5hcnlfaWFyY2hpdmUuaHBwPgojaW5jbHVkZSA8Ym9vc3QvYXJjaGl2ZS9iaW5hcnlfb2FyY2hpdmUuaHBwPg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0ZW1wbGF0ZTxjbGFzcyBBcmNoaXZlPgogIHZvaWQgc2VyaWFsaXplKEFyY2hpdmUgJiwgY29uc3QgdW5zaWduZWQgaW50KTsK</text>
+        <text encoding="base64">ICAgIGFyICYgTW9kZWw6OlhMUzEwTVc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIlNlcmlhbGl6ZXJzLmgiCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcmludFBhcmFtcy5zZXJpYWxpemUoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcmludFBhcmFtcwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -596,33 +611,27 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">dGVtcGxhdGU8Y2xhc3MgQXJjaGl2ZT4Kdm9pZCBQcmludFBhcmFtczo6c2VyaWFsaXplKEFyY2hpdmUgJmFyLCBjb25zdCB1bnNpZ25lZCBpbnQgdmVyc2lvbikgewogIGFyICYgbV9uSm9iSUQ7CiAgYXIgJiBtX3N0ckpvYk5hbWU7CiAgYXIgJiBtX2NyZWF0aW9uVGltZUlzbzg2MDE7CiAgYXIgJiBtX2FjY2Vzc1RpbWVJc284NjAxOwogIGFyICYgbV9tb2RpZmljYXRpb25UaW1lSXNvODYwMTsKICBhciAmIG1fbk1hdGVyaWFsSWQ7CiAgYXIgJiBtX25MYXNlcklEMTsKICBhciAmIG1fbkxhc2VySUQyOwogIGFyICYgbV9uTGFzZXJJRDM7CiAgYXIgJiBtX25NYXRlcmlhbFRoaWNrbmVzc01pbHM7CiAgYXIgJiBNb2RlbDo6WExTMTBNVzsKICBhciAmIG1fYkNlbnRlckltYWdlOwogIGFyICYgbV9iQ29sb3JJbnZlcnRlZDsKICBhciAmIG1fbkRpdGhlclR5cGU7CiAgYXIgJiBtX0RwaUluZm87CiAgYXIgJiBtX25GaXh0dXJlSGVpZ2h0TWlsczsKICBhciAmIG1fbkZpeHR1cmVUeXBlOwogIGFyICYgbV9iRnJvbU1hdGVyaWFsOwogIGFyICYgbV9uSW1hZ2VEZW5zaXR5OwogIGFyICYgbV9uTWVyZ2VQYWdlczsKICBhciAmIG1fbk1heEN1dERlcHRoOwogIGFyICYgbV9uTWF4Wk1pbHM7CiAgYXIgJiBtX2JQYWdlTWlycm9yZWQ7CiAgYXIgJiBtX25Qb3dlclRhYmxlSUQ7CiAgYXIgJiBtX25QcmludERpcmVjdGlvbjsKICBhciAmIG1fblByaW50TW9kZTsKICBhciAmIG1fblByaW50TW9kZU9wdGlvbnM7CiAgYXIgJiBtX25SYXN0ZXJTdHJva2VNYXJnaW5NaWxzOwogIGFyICYgbV9uUmFzdGVyU3Ryb2tlVHlwZTsKICBhciAmIG1fblJlZHVjdGlvbk1pbHM7CiAgYXIgJiBtX25SZWxvY2F0aW9uSGFuZGxlOwogIGFyICYgbV9uUm90YXJ5RGlhbWV0ZXJNaWNyb21ldGVyczsKICBhciAmIG1fblJvdGF0aW9uRmFjdG9yOwogIGFyICYgbV9uUm90YXJ5U3RlcHM7CiAgYXIgJiBtX2JTdXBlclNwZWVkOwogIGFyICYgbV9uVmVjdG9yQWNjZWxlcmF0aW9uUGVybWlsbGU7CiAgYXIgJiBtX25WZWN0b3JDb3JuZXJFcnJvck1pbHM7CiAgYXIgJiBtX25WZWN0b3JPcHRpbWl6ZXI7CiAgYXIgJiBtX25WZWN0b3JTaW1wbGlmaWNhdGlvbk1pbHM7CiAgYXIgJiBtX1Bvd2VyVGFibGUzRDsKICBhciAmIG1fU2hvdWxkZXI7CiAgYXIgJiBtX3Byb2Nlc3NlczsKICBhciAmIG1fY29sb3JVc2FnZXM7CiAgYXIgJiBtX25UZXh0dXJlU2NhbGU7CiAgYXIgJiBtX2JVc2VaUG9zOwogIGFyICYgbV9uVmVjdG9yWFNjYWxlOwogIGFyICYgbV9uVmVjdG9yWVNjYWxlOwogIGFyICYgbV9uUGFnZUNvdW50OwogIGFyICYgbV9QYWdlUGFyYW1zOwp9Cg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBzdHJpbmcgZ2xvYigid2hhdGV2ZXIudHh0Iik7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="9" type="4">
+        <text>g(&quot;whatever_txt&quot;), re</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>GCode</last-search>
+      <last-search>model</last-search>
       <last-offset />
-      <last-pattern>GCode</last-pattern>
+      <last-pattern>model</last-pattern>
       <last-replace encoding="base64">ICAgIGFyIFwmIHBzLlwxOw==</last-replace>
       <last-substitute>.* \(.*\);</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>^.+ \(.*\);$</entry>
-        <entry>\(.*\);$</entry>
-        <entry>^    .+ \(.*\);</entry>
-        <entry encoding="base64">ICAgIC4rIFwoLipcKTs=</entry>
-        <entry>.+ \(.*\);</entry>
-        <entry>.* (.*);</entry>
         <entry>Serializer</entry>
         <entry>.* \(.*\);</entry>
         <entry>ProcessSettings</entry>
@@ -637,6 +646,12 @@
         <entry>fromJSON</entry>
         <entry>serialize</entry>
         <entry>GCode</entry>
+        <entry>FromJson</entry>
+        <entry>Read</entry>
+        <entry>g</entry>
+        <entry>FromJSON</entry>
+        <entry>m_nModelType</entry>
+        <entry>model</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy4qICguKik7L2FyICYgJDEvZ2M=</entry>
