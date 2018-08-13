@@ -54,14 +54,6 @@
         <mark key="^" line="1" column="42" />
         <mark key="." line="1" column="42" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" timestamp="1533741891153">
-        <mark key="a" line="17" column="4" />
-        <mark key="'" line="333" column="34" />
-        <mark key="[" line="457" column="0" />
-        <mark key="]" line="457" column="0" />
-        <mark key="." line="457" column="0" />
-        <mark key="^" line="473" column="125" />
-      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/ultracpu/UltraErrorCodes.c" timestamp="1533935278032">
         <mark key="[" line="6" column="28" />
         <mark key="]" line="6" column="28" />
@@ -75,6 +67,9 @@
         <mark key="]" line="49" column="3" />
         <mark key="." line="49" column="3" />
         <mark key="^" line="49" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/CMakeLists.txt" timestamp="1534190541650">
+        <mark key="'" line="289" column="22" />
       </file>
       <file name="$USER_HOME$/uls/lsm/Control/PrintQueue.cpp" timestamp="1533665964419">
         <mark key="[" line="385" column="61" />
@@ -163,6 +158,12 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/Apps/GCode2ULS/CMakeLists.txt" timestamp="1534191122121">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="61" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" timestamp="1533650351088">
         <mark key="'" line="36" column="22" />
         <mark key="[" line="399" column="4" />
@@ -240,8 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="633" column="6" filename="$USER_HOME$/uls/lsm/Planning/Planner.cpp" />
-      <jump line="69" column="28" filename="$USER_HOME$/uls/lsm/Planning/Configuration.cpp" />
       <jump line="68" column="0" filename="$USER_HOME$/uls/lsm/Planning/Configuration.cpp" />
       <jump line="25" column="15" filename="$USER_HOME$/uls/lsm/Camera/CameraSerialization.cpp" />
       <jump line="319" column="39" filename="$USER_HOME$/uls/lsm/Camera/CameraSerialization.cpp" />
@@ -340,16 +339,18 @@
       <jump line="22" column="39" filename="$USER_HOME$/Documents/ULS/trunk/Camera/CameraSerialization.cpp" />
       <jump line="389" column="13" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
       <jump line="29" column="17" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/ULS/trunk/CMakeLists.txt" />
+      <jump line="289" column="22" filename="$USER_HOME$/Documents/ULS/trunk/CMakeLists.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>[</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
-        <text>serialize</text>
+        <text>GCode</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">dGVtcGxhdGU8Y2xhc3MgQXJjaGl2ZT4Kdm9pZCBQYWdlUGFyYW1zOjpzZXJpYWxpemUoQXJjaGl2ZSAmYXIsIGNvbnN0IHVuc2lnbmVkIGludCB2ZXJzaW9uKSB7CiAgYXIgJiBtX25QYWdlT2Zmc2V0OwogIGFyICYgbV9uQ29waWVzOwogIGFyICYgbV9kd0VzdGltYXRlZFRpbWU7CiAgYXIgJiBtX2R3Sm9iVGltZTsKICBhciAmIG1fcmNab29tUmVjdDsKICBhciAmIG1fcmNNYXJnaW5sZXNzSW1hZ2U7CiAgYXIgJiBtX3B0UmVsb2NhdGlvbjsKICBhciAmIG1fRHVwbGljYXRpb247CiAgYXIgJiBtX1Jhc3RlckZyYW1lU3RhcnRYMTsKICBhciAmIG1fUmFzdGVyRnJhbWVTdGFydFgyOwp9</text>
@@ -603,13 +604,13 @@
         <text encoding="base64">ICBvYSA8PCBQcmludFBhcmFtcygpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>serialize</last-search>
+      <last-search>GCode</last-search>
       <last-offset />
-      <last-pattern>serialize</last-pattern>
+      <last-pattern>GCode</last-pattern>
       <last-replace encoding="base64">ICAgIGFyIFwmIHBzLlwxOw==</last-replace>
       <last-substitute>.* \(.*\);</last-substitute>
       <last-dir>1</last-dir>
@@ -617,7 +618,6 @@
     </search>
     <history>
       <history-search>
-        <entry>^.* \(.*\);$</entry>
         <entry>^.+ \(.*\);$</entry>
         <entry>\(.*\);$</entry>
         <entry>^    .+ \(.*\);</entry>
@@ -637,9 +637,9 @@
         <entry>serial</entry>
         <entry>fromJSON</entry>
         <entry>serialize</entry>
+        <entry>GCode</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLy4qIC4qOw==</entry>
         <entry encoding="base64">JzwsJz5zLy4qICguKik7L2FyICYgJDEvZ2M=</entry>
         <entry encoding="base64">JzwsJz4gcy8uKiAoLiopOy9hciAmIFwkMS9nYw==</entry>
         <entry encoding="base64">JzwsJz4gcy8uKiBcKC4qXCk7L2FyICYgJDEvZ2M=</entry>
@@ -656,9 +656,10 @@
         <entry encoding="base64">JzwsJz4gcy8uKiBcKC4qXCk7LyAgICBhciBcJiBcJDE7L2dj</entry>
         <entry encoding="base64">JzwsJz4gcy8uKiBcKC4qXCk7LyAgICBhciBcJiBcMTsvZ2M=</entry>
         <entry encoding="base64">JzwsJz4gcy8uKiBcKC4qXCk7LyAgICBhciBcJiBwcy5cMTsvZ2M=</entry>
-        <entry>1</entry>
         <entry>4</entry>
         <entry>noh</entry>
+        <entry>$</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
