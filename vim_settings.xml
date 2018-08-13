@@ -37,11 +37,11 @@
       <file name="/Clang-Tidy Info for DatabaseMigrator.cpp" timestamp="1532711611029">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/Serializers.h" timestamp="1534179726955">
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/Serializers.h" timestamp="1534181180887">
         <mark key="[" line="2" column="2" />
-        <mark key="]" line="66" column="27" />
-        <mark key="^" line="66" column="27" />
-        <mark key="." line="66" column="27" />
+        <mark key="]" line="43" column="17" />
+        <mark key="^" line="43" column="17" />
+        <mark key="." line="43" column="17" />
       </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/footer.h" timestamp="1533069328300">
         <mark key="[" line="0" column="0" />
@@ -90,12 +90,11 @@
         <mark key="." line="1026" column="0" />
         <mark key="^" line="1083" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PageParams.h" timestamp="1534179563496">
-        <mark key="'" line="51" column="70" />
-        <mark key="[" line="17" column="41" />
-        <mark key="]" line="50" column="7" />
-        <mark key="." line="50" column="7" />
-        <mark key="^" line="50" column="7" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PageParams.h" timestamp="1534181189875">
+        <mark key="'" line="47" column="70" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" timestamp="1533931687080">
         <mark key="[" line="39" column="0" />
@@ -340,7 +339,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYXIgJiByZWt0LmJvdHRvbTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>rekt</text>
@@ -352,25 +351,25 @@
         <text encoding="base64">dGVtcGxhdGU8Y2xhc3MgQXJjaGl2ZT4KICAgIHZvaWQgc2VyaWFsaXplKEFyY2hpdmUgJmFyLCB0YWdSRUNUIHJla3QsIGNvbnN0IHVuc2lnbmVkIGludCB2ZXJzaW9uKSB7CiAgICAgIGFyICYgcmVrdC5sZWZ0OwogICAgICBhciAmIHJla3QudG9wOwogICAgICBhciAmIHJla3QucmlnaHQ7CiAgICAgIGFyICYgcmVrdC5ib3R0b207CiAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYXIgJiByZWt0LmJvdHRvbTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYXIgJiByZWt0LnRvcDsKICAgICAgYXIgJiByZWt0LnJpZ2h0Owo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYXIgJiByZWt0LmxlZnQ7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICB0ZW1wbGF0ZTxjbGFzcyBBcmNoaXZlPgogIHZvaWQgc2VyaWFsaXplKEFyY2hpdmUmLCBjb25zdCB1bnNpZ25lZCBpbnQpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICB0ZW1wbGF0ZTxjbGFzcyBBcmNoaXZlPgogIHZvaWQgc2VyaWFsaXplKEFyY2hpdmUmLCBjb25zdCB1bnNpZ25lZCBpbnQpOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">IHB1YmxpYzoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYXIgJiByZWt0LmJvdHRvbTsK</text>
+        <text encoding="base64">ICBmcmllbmQgYm9vc3Q6OnNlcmlhbGl6YXRpb246OmFjY2VzczsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYXIgJiByZWt0LnJpZ2h0Owo=</text>
+        <text encoding="base64">ICAgICAgYXIgJiByZWt0LmJvdHRvbTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -594,10 +593,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRlbXBsYXRlPGNsYXNzIEFyY2hpdmU+CiAgICAgIGFyICYgcmVrdC50b3A7Cg==</text>
+        <text encoding="base64">ICAgICAgYXIgJiByZWt0LnRvcDsKICAgICAgYXIgJiByZWt0LnJpZ2h0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZvaWQgc2VyaWFsaXplKEFyY2hpdmUgJmFyLCBSRUNUIHJla3QsIGNvbnN0IHVuc2lnbmVkIGludCB2ZXJzaW9uKSB7CiAgICAgIGFyICYgcmVrdC5sZWZ0Owo=</text>
+        <text encoding="base64">ICAgICAgYXIgJiByZWt0LmxlZnQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
