@@ -37,11 +37,11 @@
       <file name="/Clang-Tidy Info for DatabaseMigrator.cpp" timestamp="1532711611029">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/Serializers.h" timestamp="1533934022280">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/Serializers.h" timestamp="1534179726955">
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="66" column="27" />
+        <mark key="^" line="66" column="27" />
+        <mark key="." line="66" column="27" />
       </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/footer.h" timestamp="1533069328300">
         <mark key="[" line="0" column="0" />
@@ -90,12 +90,12 @@
         <mark key="." line="1026" column="0" />
         <mark key="^" line="1083" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PageParams.h" timestamp="1534171364150">
-        <mark key="'" line="47" column="70" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="34" column="47" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="32" column="1" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PageParams.h" timestamp="1534179563496">
+        <mark key="'" line="51" column="70" />
+        <mark key="[" line="17" column="41" />
+        <mark key="]" line="50" column="7" />
+        <mark key="." line="50" column="7" />
+        <mark key="^" line="50" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" timestamp="1533931687080">
         <mark key="[" line="39" column="0" />
@@ -220,7 +220,7 @@
         <mark key="." line="69" column="0" />
         <mark key="^" line="69" column="6" />
       </file>
-      <file name="/Dummy.youtrack" timestamp="1533928705080">
+      <file name="/Dummy.youtrack" timestamp="1534179821285">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/Migration031-1--TableAlteration_up.sql" timestamp="1533148787728">
@@ -339,56 +339,38 @@
       <jump line="48" column="29" filename="$USER_HOME$/Documents/ULS/trunk/common/PageParams.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgYXIgJiByZWt0LmJvdHRvbTsK</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>rekt</text>
       </register>
       <register name="/" type="4">
         <text>serialize</text>
       </register>
       <register name="0" type="4">
-        <text>int32_t customHzCode;
-  double customPort1PowerFraction;
-  double customPort2PowerFraction;
-  double customPort3PowerFraction;
-  double customSimmerPowerFraction;
-  double customSpeedInchesPerSecond;
-  int32_t customWaveformCode;
-  double customZInches;
-  bool cutKeepInside;
-  double cutKerfWidthInches;
-  bool cutPierce;
-  double drillDutyCycle;
-  int32_t drillPulsesCount;
-  double airAssistFraction;
-  double gasAssistFraction;
-  std::string name;
-  PenProcess process;
-  int32_t repeatCount;
-  bool skip;</text>
+        <text encoding="base64">dGVtcGxhdGU8Y2xhc3MgQXJjaGl2ZT4KICAgIHZvaWQgc2VyaWFsaXplKEFyY2hpdmUgJmFyLCB0YWdSRUNUIHJla3QsIGNvbnN0IHVuc2lnbmVkIGludCB2ZXJzaW9uKSB7CiAgICAgIGFyICYgcmVrdC5sZWZ0OwogICAgICBhciAmIHJla3QudG9wOwogICAgICBhciAmIHJla3QucmlnaHQ7CiAgICAgIGFyICYgcmVrdC5ib3R0b207CiAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0ZW1wbGF0ZTxjbGFzcyBBcmNoaXZlPgogIHZvaWQgc2VyaWFsaXplKEFyY2hpdmUmLCBjb25zdCB1bnNpZ25lZCBpbnQpOwo=</text>
+        <text encoding="base64">ICAgICAgYXIgJiByZWt0LmJvdHRvbTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICAgICAgYXIgJiByZWt0LnRvcDsKICAgICAgYXIgJiByZWt0LnJpZ2h0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgUGFnZVBhcmFtcyB7Cg==</text>
+        <text encoding="base64">ICAgICAgYXIgJiByZWt0LmxlZnQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBQYWdlUGFyYW1zOjpzZXJpYWxpemUK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBtX1BhZ2VQYXJhbXNbMF0uc2VyaWFsaXplKCkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgYXIgJiByZWt0LmJvdHRvbTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0ZW1wbGF0ZTxjbGFzcyBBcmNoaXZlPgogIHZvaWQgc2VyaWFsaXplKEFyY2hpdmUmLCBjb25zdCB1bnNpZ25lZCBpbnQpOwo=</text>
+        <text encoding="base64">ICAgICAgYXIgJiByZWt0LnJpZ2h0Owo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -612,10 +594,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRlbXBsYXRlPGNsYXNzIEFyY2hpdmU+CiAgICAgIGFyICYgcmVrdC50b3A7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">c3RkOjpzZXQ8cm93Y29sPiA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHZvaWQgc2VyaWFsaXplKEFyY2hpdmUgJmFyLCBSRUNUIHJla3QsIGNvbnN0IHVuc2lnbmVkIGludCB2ZXJzaW9uKSB7CiAgICAgIGFyICYgcmVrdC5sZWZ0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
