@@ -89,11 +89,12 @@
         <mark key="." line="1026" column="0" />
         <mark key="^" line="1083" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PageParams.h" timestamp="1534181707936">
-        <mark key="'" line="50" column="70" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PageParams.h" timestamp="1534182936313">
+        <mark key="'" line="46" column="70" />
+        <mark key="[" line="125" column="7" />
+        <mark key="]" line="125" column="7" />
+        <mark key="." line="125" column="7" />
+        <mark key="^" line="124" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" timestamp="1533931687080">
         <mark key="[" line="39" column="0" />
@@ -103,10 +104,10 @@
       <file name="$USER_HOME$/uls/lsm/CMakeLists.txt" timestamp="1533231479115">
         <mark key="'" line="103" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1533934802751">
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1534182326923">
         <mark key="'" line="1683" column="45" />
-        <mark key="[" line="1080" column="0" />
-        <mark key="]" line="1080" column="0" />
+        <mark key="[" line="1087" column="2" />
+        <mark key="]" line="1089" column="21" />
         <mark key="." line="1080" column="0" />
         <mark key="^" line="1080" column="22" />
       </file>
@@ -195,12 +196,11 @@
         <mark key="^" line="87" column="24" />
         <mark key="." line="87" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PageParams.cpp" timestamp="1534181742912">
-        <mark key="'" line="33" column="23" />
-        <mark key="[" line="83" column="69" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="87" column="1" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PageParams.cpp" timestamp="1534182925633">
+        <mark key="'" line="14" column="22" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="/fragment.mm" timestamp="1533304310856">
         <mark key="[" line="0" column="0" />
@@ -235,7 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="313" column="24" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="61" column="2" filename="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" />
       <jump line="38" column="20" filename="$USER_HOME$/uls/lsm/Planning/BeudaertPlanner/BeudaertPlanner.cpp" />
       <jump line="78" column="36" filename="$USER_HOME$/uls/lsm/Planning/BeudaertPlanner/BeudaertPlanner.cpp" />
@@ -335,40 +334,41 @@
       <jump line="1683" column="45" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="48" column="29" filename="$USER_HOME$/Documents/ULS/trunk/common/PageParams.cpp" />
       <jump line="33" column="23" filename="$USER_HOME$/Documents/ULS/trunk/common/PageParams.cpp" />
+      <jump line="14" column="22" filename="$USER_HOME$/Documents/ULS/trunk/common/PageParams.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>rekt</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>serialize</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">dGVtcGxhdGU8Y2xhc3MgQXJjaGl2ZT4KICAgIHZvaWQgc2VyaWFsaXplKEFyY2hpdmUgJmFyLCB0YWdSRUNUIHJla3QsIGNvbnN0IHVuc2lnbmVkIGludCB2ZXJzaW9uKSB7CiAgICAgIGFyICYgcmVrdC5sZWZ0OwogICAgICBhciAmIHJla3QudG9wOwogICAgICBhciAmIHJla3QucmlnaHQ7CiAgICAgIGFyICYgcmVrdC5ib3R0b207CiAgICB9</text>
+        <text encoding="base64">dGVtcGxhdGU8Y2xhc3MgQXJjaGl2ZT4Kdm9pZCBQYWdlUGFyYW1zOjpzZXJpYWxpemUoQXJjaGl2ZSAmYXIsIGNvbnN0IHVuc2lnbmVkIGludCB2ZXJzaW9uKSB7CiAgYXIgJiBtX25QYWdlT2Zmc2V0OwogIGFyICYgbV9uQ29waWVzOwogIGFyICYgbV9kd0VzdGltYXRlZFRpbWU7CiAgYXIgJiBtX2R3Sm9iVGltZTsKICBhciAmIG1fcmNab29tUmVjdDsKICBhciAmIG1fcmNNYXJnaW5sZXNzSW1hZ2U7CiAgYXIgJiBtX3B0UmVsb2NhdGlvbjsKICBhciAmIG1fRHVwbGljYXRpb247CiAgYXIgJiBtX1Jhc3RlckZyYW1lU3RhcnRYMTsKICBhciAmIG1fUmFzdGVyRnJhbWVTdGFydFgyOwp9</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0ZW1wbGF0ZTxjbGFzcyBBcmNoaXZlPgogIHZvaWQgc2VyaWFsaXplKEFyY2hpdmUmLCBjb25zdCB1bnNpZ25lZCBpbnQpOwo=</text>
+        <text encoding="base64">dGVtcGxhdGU8Y2xhc3MgQXJjaGl2ZT4Kdm9pZCBQYWdlUGFyYW1zOjpzZXJpYWxpemUoQXJjaGl2ZSAmYXIsIGNvbnN0IHVuc2lnbmVkIGludCB2ZXJzaW9uKSB7CiAgYXIgJiBtX25QYWdlT2Zmc2V0OwogIGFyICYgbV9uQ29waWVzOwogIGFyICYgbV9kd0VzdGltYXRlZFRpbWU7CiAgYXIgJiBtX2R3Sm9iVGltZTsKICBhciAmIG1fcmNab29tUmVjdDsKICBhciAmIG1fcmNNYXJnaW5sZXNzSW1hZ2U7CiAgYXIgJiBtX3B0UmVsb2NhdGlvbjsKICBhciAmIG1fRHVwbGljYXRpb247CiAgYXIgJiBtX1Jhc3RlckZyYW1lU3RhcnRYMTsKICBhciAmIG1fUmFzdGVyRnJhbWVTdGFydFgyOwp9Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGJvb3N0L2FyY2hpdmUvYmluYXJ5X29hcmNoaXZlLmhwcD4K</text>
+      <register name="3" type="4">
+        <text encoding="base64">dGVtcGxhdGU8Y2xhc3MgQXJjaGl2ZT4KICB2b2lkIFBhZ2VQYXJhbXM6OnNlcmlhbGl6ZShBcmNoaXZlICZhciwgY29uc3QgdW5zaWduZWQgaW50IHZlcnNpb24pIHsKICAgIGFyICYgbV9uUGFnZU9mZnNldDsKICAgIGFyICYgbV9uQ29waWVzOwogICAgYXIgJiBtX2R3RXN0aW1hdGVkVGltZTsKICAgIGFyICYgbV9kd0pvYlRpbWU7CiAgICBhciAmIG1fcmNab29tUmVjdDsKICAgIGFyICYgbV9yY01hcmdpbmxlc3NJbWFnZTsKICAgIGFyICYgbV9wdFJlbG9jYXRpb247CiAgICBhciAmIG1fRHVwbGljYXRpb247CiAgICBhciAmIG1fUmFzdGVyRnJhbWVTdGFydFgxOwogICAgYXIgJiBtX1Jhc3RlckZyYW1lU3RhcnRYMjsKICB9CgogIA==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I3ByYWdtYSBpZGUgZGlhZ25vc3RpYyBpZ25vcmVkICJPQ0RGQUluc3BlY3Rpb24iCg==</text>
+        <text encoding="base64">ICB0ZW1wbGF0ZTxjbGFzcyBBcmNoaXZlPgogIHZvaWQgc2VyaWFsaXplKEFyY2hpdmUgJiwgY29uc3QgdW5zaWduZWQgaW50KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I3ByYWdtYSBjbGFuZyBkaWFnbm9zdGljIHBvcAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I3ByYWdtYSBjbGFuZyBkaWFnbm9zdGljIHB1c2gK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -592,10 +592,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I3ByYWdtYSBjbGFuZyBkaWFnbm9zdGljIGlnbm9yZWQgIi1XdW51c2VkLXZhbHVlIgo=</text>
+        <text encoding="base64">ICBvYSA8PCBQYWdlUGFyYW1zKCk7Ki8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I3ByYWdtYSBjbGFuZyBkaWFnbm9zdGljIHB1c2gK</text>
+        <text encoding="base64">ICAvKnN0ZDo6b3N0cmluZ3N0cmVhbSBvc3M7CiAgYm9vc3Q6OmFyY2hpdmU6OmJpbmFyeV9vYXJjaGl2ZSBvYShvc3MpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
