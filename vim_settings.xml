@@ -12,8 +12,8 @@
         <mark key="^" line="173" column="8" />
         <mark key="." line="173" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" timestamp="1534258371840">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" timestamp="1534262913248">
+        <mark key="'" line="229" column="9" />
       </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/CreateVersion30DB.sql" timestamp="1533069287684">
         <mark key="[" line="13373" column="0" />
@@ -258,11 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="280" column="38" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="356" column="40" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="399" column="36" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="464" column="32" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="475" column="32" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="501" column="40" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="527" column="32" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="532" column="17" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
@@ -358,6 +353,11 @@
       <jump line="397" column="9" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
       <jump line="54" column="127" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" />
+      <jump line="571" column="4" filename="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" />
+      <jump line="217" column="22" filename="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" />
+      <jump line="220" column="9" filename="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" />
+      <jump line="223" column="21" filename="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" />
+      <jump line="229" column="9" filename="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -367,7 +367,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>saveJSON</text>
+        <text>insertprintjob</text>
       </register>
       <register name="0" type="4">
         <text>ontrol/Jobs/000002/PrintSettings.json</text>
@@ -625,9 +625,9 @@
       </register>
     </registers>
     <search>
-      <last-search>saveJSON</last-search>
+      <last-search>insertprintjob</last-search>
       <last-offset />
-      <last-pattern>saveJSON</last-pattern>
+      <last-pattern>insertprintjob</last-pattern>
       <last-replace encoding="base64">ICAgIGFyIFwmIHBzLlwxOw==</last-replace>
       <last-substitute>.* \(.*\);</last-substitute>
       <last-dir>1</last-dir>
@@ -635,7 +635,6 @@
     </search>
     <history>
       <history-search>
-        <entry>.* \(.*\);</entry>
         <entry>ProcessSettings</entry>
         <entry>tojson</entry>
         <entry>m_PageParams</entry>
@@ -655,6 +654,7 @@
         <entry>m_nModelType</entry>
         <entry>model</entry>
         <entry>saveJSON</entry>
+        <entry>insertprintjob</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy4qICguKik7L2FyICYgJDEvZ2M=</entry>
@@ -729,6 +729,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed L</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
