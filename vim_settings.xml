@@ -74,6 +74,9 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="52" />
       </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" timestamp="1534266529816">
+        <mark key="'" line="102" column="0" />
+      </file>
       <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.h" timestamp="1533650340198">
         <mark key="'" line="26" column="10" />
         <mark key="[" line="37" column="4" />
@@ -140,7 +143,7 @@
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/footer.h" timestamp="1533069328300">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Test/CommonTest/PrintParamsTest.cpp" timestamp="1534197991020">
+      <file name="$USER_HOME$/Documents/ULS/trunk/Test/CommonTest/PrintParamsTest.cpp" timestamp="1534267144502">
         <mark key="[" line="30" column="14" />
         <mark key="]" line="30" column="40" />
         <mark key="^" line="30" column="40" />
@@ -178,7 +181,7 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1534258752152">
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1534266931965">
         <mark key="'" line="1137" column="23" />
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -187,7 +190,7 @@
       <file name="$USER_HOME$/uls/lsm/Camera/CameraSerialization.cpp" timestamp="1533760232364">
         <mark key="'" line="320" column="39" />
       </file>
-      <file name="/GDB" timestamp="1533651536198">
+      <file name="/GDB" timestamp="1534267149131">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1533322625057">
@@ -241,7 +244,7 @@
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="/fragment.mm" timestamp="1533304310856">
+      <file name="/fragment.mm" timestamp="1534266945672">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.cpp" timestamp="1533302030878">
@@ -258,7 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="501" column="40" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="527" column="32" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="532" column="17" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="535" column="4" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
@@ -358,6 +360,7 @@
       <jump line="220" column="9" filename="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" />
       <jump line="223" column="21" filename="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" />
       <jump line="229" column="9" filename="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" />
+      <jump line="102" column="0" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -367,7 +370,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>insertprintjob</text>
+        <text>import</text>
       </register>
       <register name="0" type="4">
         <text>ontrol/Jobs/000002/PrintSettings.json</text>
@@ -621,13 +624,13 @@
         <text>g(&quot;whatever_txt&quot;), re</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>278</text>
       </register>
     </registers>
     <search>
-      <last-search>insertprintjob</last-search>
+      <last-search>import</last-search>
       <last-offset />
-      <last-pattern>insertprintjob</last-pattern>
+      <last-pattern>import</last-pattern>
       <last-replace encoding="base64">ICAgIGFyIFwmIHBzLlwxOw==</last-replace>
       <last-substitute>.* \(.*\);</last-substitute>
       <last-dir>1</last-dir>
@@ -635,7 +638,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ProcessSettings</entry>
         <entry>tojson</entry>
         <entry>m_PageParams</entry>
         <entry>JSON</entry>
@@ -655,9 +657,9 @@
         <entry>model</entry>
         <entry>saveJSON</entry>
         <entry>insertprintjob</entry>
+        <entry>import</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLy4qICguKik7L2FyICYgJDEvZ2M=</entry>
         <entry encoding="base64">JzwsJz4gcy8uKiAoLiopOy9hciAmIFwkMS9nYw==</entry>
         <entry encoding="base64">JzwsJz4gcy8uKiBcKC4qXCk7L2FyICYgJDEvZ2M=</entry>
         <entry encoding="base64">JzwsJz4gcy8uKiBcKC4qXCk7L2FyICYgXCQxL2dj</entry>
@@ -677,6 +679,7 @@
         <entry>noh</entry>
         <entry>$</entry>
         <entry>1</entry>
+        <entry>278</entry>
       </history-cmd>
       <history-expr />
       <history-input />
