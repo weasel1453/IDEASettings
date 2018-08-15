@@ -51,6 +51,7 @@
       <file name="$USER_HOME$/Documents/ULS/trunk/CMakeLists.txt" timestamp="1534190541650">
         <mark key="'" line="289" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintSettingsTransformations.cpp" timestamp="1534356853282" />
       <file name="$USER_HOME$/uls/lsm/CMakeLists.txt" timestamp="1533231479115">
         <mark key="'" line="103" column="17" />
       </file>
@@ -181,7 +182,7 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1534266931965">
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1534355284513">
         <mark key="'" line="1137" column="23" />
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -624,7 +625,7 @@
         <text>g(&quot;whatever_txt&quot;), re</text>
       </register>
       <register name=":" type="4">
-        <text>278</text>
+        <text>$</text>
       </register>
     </registers>
     <search>
@@ -677,9 +678,9 @@
         <entry encoding="base64">JzwsJz4gcy8uKiBcKC4qXCk7LyAgICBhciBcJiBwcy5cMTsvZ2M=</entry>
         <entry>4</entry>
         <entry>noh</entry>
-        <entry>$</entry>
         <entry>1</entry>
         <entry>278</entry>
+        <entry>$</entry>
       </history-cmd>
       <history-expr />
       <history-input />
