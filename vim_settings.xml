@@ -178,11 +178,11 @@
         <mark key="." line="437" column="0" />
         <mark key="^" line="114" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1534438805645">
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1534441675441">
         <mark key="'" line="611" column="0" />
-        <mark key="[" line="136" column="4" />
-        <mark key="]" line="136" column="4" />
-        <mark key="." line="136" column="4" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="." line="136" column="0" />
         <mark key="^" line="136" column="3" />
       </file>
       <file name="$USER_HOME$/uls/lsm/Camera/CameraSerialization.cpp" timestamp="1533760232364">
@@ -356,8 +356,8 @@
       <jump line="609" column="0" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vY29tcGFyZSB0aGVzZSBtZW1iZXJzIGFzIG9wcG9zZWQgdG8gZ2VuZXJhdGluZyBkYXRhIHdpdGggdGhlbSwgdGhlbiBjb21wYXJpbmcgdGhlIGdlbmVyYXRlZCBkYXRhLgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICA=</text>
@@ -369,10 +369,10 @@
         <text encoding="base64">ICAgIFBlblBhcmFtc0VxdWFsKG8uR2V0UGVuUGFyYW1zKCkpICYmCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vY29tcGFyZSB0aGVzZSBtZW1iZXJzIGFzIG9wcG9zZWQgdG8gZ2VuZXJhdGluZyBkYXRhIHdpdGggdGhlbSwgdGhlbiBjb21wYXJpbmcgdGhlIGdlbmVyYXRlZCBkYXRhLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vbWVtYmVyIGVxdWFsaXR5Lgo=</text>
+        <text encoding="base64">ICAgIC8vQXMgZmFyIGFzIEkgY2FuIHRlbGwgc2ltcGx5IGNvbXBhcmluZyB0aGUgbV9wcm9jZXNzZXMgYW5kIG1fY29sb3JVc2FnZXMgc2hvdWxkIGJlIGVub3VnaCB0byBjb21wYXJlIHRoZSBwZW4gcGFyYW1zCiAgICAvL2FzIHRoZSBwZW4gcGFyYW1zIGFyZSBzaW1wbHkgZ2VuZXJhdGVkIHVzaW5nIGRhdGEgZnJvbSB0aGUgcHJvY2Vzc2VzLiBJdCdzIGFsc28gc2VlbXMgbW9yZSBsb2dpY2FsbHkgY29ycmVjdCB0bwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIFBlblBhcmFtc0VxdWFsKG8uR2V0UGVuUGFyYW1zKCkpICYmCg==</text>
@@ -381,7 +381,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1fY29sb3JVc2FnZXMgPT0gby5tX2NvbG9yVXNhZ2VzICYmIAo=</text>
+        <text encoding="base64">ICAgIC8vbWVtYmVyIGVxdWFsaXR5Lgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIFBlblBhcmFtc0VxdWFsKG8uR2V0UGVuUGFyYW1zKCkpICYmCg==</text>
@@ -611,10 +611,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIG1fY29sb3JVc2FnZXMgPT0gby5tX2NvbG9yVXNhZ2VzICYmIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB1bnNpZ25lZCBtX25WZWN0b3JYU2NhbGU7ICAgICAgIC8vIFNjYWxlIGZhY3RvciBmb3IgWC1heGlzIHZlY3RvcnMuCiAgdW5zaWduZWQgbV9uVmVjdG9yWVNjYWxlOyAgICAgICAvLyBTY2FsZSBmYWN0b3IgZm9yIFktYXhpcyB2ZWN0b3JzLgogIGJvb2wgbV9iRnJvbU1hdGVyaWFsOyAgICAgICAgICAgLy8gVFJVRSBpZiB3ZSB3ZXJlIGdlbmVyYXRlZCBieSB0aGUgTWF0ZXJpYWxzIGludGVyZmFjZS4KICB1bnNpZ25lZCBtX25QcmludE1vZGVPcHRpb25zOyAgIC8vIDggYml0cyB0aGF0IGRlZmluZSBhbGwgdGhlIHByaW50IG1vZGVzIHRoYXQgYXJlIGN1cnJlbnRseSBsZWdhbCBvcHRpb25zLgogIGludCBtX25SZWxvY2F0aW9uSGFuZGxlOyAgICAgICAgLy8gc2F2ZWQgZm9yIHJlbG9jYXRpb24gaW4gTENEIHBhbmVsCiAgc3RkOjp2ZWN0b3I8UGFnZVBhcmFtcz4gbV9QYWdlUGFyYW1zOwo=</text>
+        <text encoding="base64">ICAgIFBlblBhcmFtc0VxdWFsKG8uR2V0UGVuUGFyYW1zKCkpICYmCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
