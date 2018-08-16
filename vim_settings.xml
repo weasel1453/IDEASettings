@@ -31,7 +31,7 @@
       <file name="/Clang-Tidy Info for DatabaseMigrator.cpp" timestamp="1532711611029">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/Serializers.h" timestamp="1534433663567">
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/Serializers.h" timestamp="1534434901834">
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
@@ -154,6 +154,7 @@
         <mark key="]" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/cmake-build-debug/Services/ULS/ULS_types.h" timestamp="1534435007364" />
       <file name="$USER_HOME$/uls/lsm/Control/PrintQueue.cpp" timestamp="1533665964419">
         <mark key="[" line="385" column="61" />
         <mark key="]" line="385" column="60" />
@@ -174,14 +175,14 @@
         <mark key="." line="125" column="7" />
         <mark key="^" line="124" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" timestamp="1534433589646">
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" timestamp="1534434927671">
         <mark key="'" line="57" column="127" />
         <mark key="[" line="437" column="0" />
         <mark key="]" line="437" column="0" />
         <mark key="." line="437" column="0" />
         <mark key="^" line="114" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1534433333072">
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1534434968613">
         <mark key="'" line="611" column="0" />
         <mark key="[" line="140" column="0" />
         <mark key="]" line="140" column="0" />
@@ -191,7 +192,7 @@
       <file name="$USER_HOME$/uls/lsm/Camera/CameraSerialization.cpp" timestamp="1533760232364">
         <mark key="'" line="320" column="39" />
       </file>
-      <file name="/GDB" timestamp="1534433593049">
+      <file name="/GDB" timestamp="1534434584083">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1533322625057">
