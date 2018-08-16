@@ -51,7 +51,6 @@
       <file name="$USER_HOME$/Documents/ULS/trunk/CMakeLists.txt" timestamp="1534190541650">
         <mark key="'" line="289" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintSettingsTransformations.cpp" timestamp="1534357876977" />
       <file name="$USER_HOME$/uls/lsm/CMakeLists.txt" timestamp="1533231479115">
         <mark key="'" line="103" column="17" />
       </file>
@@ -182,11 +181,11 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1534355284513">
-        <mark key="'" line="1137" column="23" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1534426501461">
+        <mark key="'" line="609" column="0" />
+        <mark key="[" line="112" column="19" />
+        <mark key="]" line="112" column="56" />
+        <mark key="." line="112" column="19" />
       </file>
       <file name="$USER_HOME$/uls/lsm/Camera/CameraSerialization.cpp" timestamp="1533760232364">
         <mark key="'" line="320" column="39" />
@@ -262,7 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="527" column="32" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="532" column="17" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="535" column="4" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
       <jump line="537" column="9" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
@@ -362,6 +360,7 @@
       <jump line="223" column="21" filename="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" />
       <jump line="229" column="9" filename="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" />
       <jump line="102" column="0" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
+      <jump line="609" column="0" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -371,7 +370,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>import</text>
+        <text>operator ==</text>
       </register>
       <register name="0" type="4">
         <text>ontrol/Jobs/000002/PrintSettings.json</text>
@@ -625,21 +624,20 @@
         <text>g(&quot;whatever_txt&quot;), re</text>
       </register>
       <register name=":" type="4">
-        <text>$</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>import</last-search>
+      <last-search>operator ==</last-search>
       <last-offset />
-      <last-pattern>import</last-pattern>
+      <last-pattern>operator ==</last-pattern>
       <last-replace encoding="base64">ICAgIGFyIFwmIHBzLlwxOw==</last-replace>
       <last-substitute>.* \(.*\);</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>tojson</entry>
         <entry>m_PageParams</entry>
         <entry>JSON</entry>
         <entry>ColorRgbUsage</entry>
@@ -659,6 +657,7 @@
         <entry>saveJSON</entry>
         <entry>insertprintjob</entry>
         <entry>import</entry>
+        <entry>operator ==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4gcy8uKiAoLiopOy9hciAmIFwkMS9nYw==</entry>
@@ -677,10 +676,10 @@
         <entry encoding="base64">JzwsJz4gcy8uKiBcKC4qXCk7LyAgICBhciBcJiBcMTsvZ2M=</entry>
         <entry encoding="base64">JzwsJz4gcy8uKiBcKC4qXCk7LyAgICBhciBcJiBwcy5cMTsvZ2M=</entry>
         <entry>4</entry>
-        <entry>noh</entry>
         <entry>1</entry>
         <entry>278</entry>
         <entry>$</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
