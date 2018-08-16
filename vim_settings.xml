@@ -174,12 +174,12 @@
         <mark key="." line="437" column="0" />
         <mark key="^" line="114" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1534451810735">
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1534453225528">
         <mark key="'" line="611" column="0" />
-        <mark key="[" line="1348" column="38" />
-        <mark key="]" line="1348" column="38" />
-        <mark key="." line="1348" column="38" />
-        <mark key="^" line="1331" column="60" />
+        <mark key="[" line="1351" column="53" />
+        <mark key="]" line="1351" column="63" />
+        <mark key="." line="1351" column="63" />
+        <mark key="^" line="1351" column="63" />
       </file>
       <file name="$USER_HOME$/uls/lsm/Camera/CameraSerialization.cpp" timestamp="1533760232364">
         <mark key="'" line="320" column="39" />
@@ -347,37 +347,39 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>;</text>
+        <text>)</text>
       </register>
       <register name="0" type="4">
-        <text>fs::change_extension(strFile, &quot;.bin&quot;);</text>
+        <text>boost::nowide::ofstream file(boost::nowide::narrow(strFile.native()));
+    if (!file.is_open())
+      throw std::runtime_error(&quot;Could not open file for writing&quot;);</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGZzOjpjaGFuZ2VfZXh0ZW5zaW9uKHN0ckZpbGUsICIuYmluIik7Cg==</text>
+      <register name="1" type="4">
+        <text>!binFile.is_open(</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0ckZpbGUucmVwbGFjZQo=</text>
+        <text encoding="base64">ICAgIC8vZnM6OmNoYW5nZV9leHRlbnNpb24gYmVjYXVzZSBpdCBkb2Vzbid0IGNoYW5nZSB0aGUgb3JpZ2luYWwgZmlsZSBwYXRoCiAgICAvL0p1c3QgdXNlIHN0ckZpbGUgYW5kIHBhc3MgaW4gLmJpbiBvbmNlIEpTT04gaXMgcmVtb3ZlZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZzOjpyZXBsYQo=</text>
+        <text encoding="base64">ICAgIGJvb3N0Ojpub3dpZGU6Om9mc3RyZWFtIGJpbkZpbGUoYm9vc3Q6Om5vd2lkZTo6bmFycm93KGZzOjpjaGFuZ2VfZXh0ZW5zaW9uKHN0ckZpbGUsICIuYmluIikubmF0aXZlKCkpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZzOjpjaGFuZ2VfZXh0ZW5zaW9uKHN0ckZpbGUsICIuYmluIik7Cg==</text>
+        <text encoding="base64">ICAgIGJpbkZpbGUuY2xvc2UoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZzOjpjaGFuZ2VfZXh0ZW5zaW9uKHN0ckZpbGUsICIuYmluIik7Cg==</text>
+        <text encoding="base64">ICAgIGJvb3N0OjphcmNoaXZlOjpiaW5hcnlfaWFyY2hpdmUgaWEoYmluRmlsZSk7CiAgICBpYSA+PiBwcmludFBhcmFtczE7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>strFile.native()))</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGJpbkZpbGUuY2xvc2UoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZzOjpjaGFuZ2VfZXh0ZW5zaW9uKHN0ckZpbGUsICIuYmluIik7Cg==</text>
+        <text encoding="base64">ICAgIGlhID4+IHByaW50UGFyYW1zMTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -601,27 +603,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0ckZpbGUuCg==</text>
+        <text encoding="base64">ICAgIC8vU2F2ZSB0aGUgc2VyaWFsaXplZCBvdXRwdXQgYWxvbmdzaWRlIHRoZSBKU09OIG91dHB1dCB1bnRpbCB3ZSBoYXZlIGZ1bGwgY29uZmlkZW5jZSBpbiB0aGUgc2VyaWFsaXplZCBvdXRwdXQKICAgIGJvb3N0OjphcmNoaXZlOjpiaW5hcnlfaWFyY2hpdmUgaWEoYmluRmlsZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZzOjpjaGFuZ2VfZXh0ZW5zaW9uKHN0ckZpbGUsICIuYmluIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>;</last-search>
+      <last-search>)</last-search>
       <last-offset />
-      <last-pattern>;</last-pattern>
+      <last-pattern>)</last-pattern>
       <last-replace encoding="base64">ICAgIGFyIFwmIHBzLlwxOw==</last-replace>
       <last-substitute>.* \(.*\);</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>JSON</entry>
         <entry>ColorRgbUsage</entry>
         <entry>ToJSON</entry>
         <entry>GetColorUsage</entry>
@@ -641,6 +642,7 @@
         <entry>import</entry>
         <entry>operator ==</entry>
         <entry>;</entry>
+        <entry>)</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4gcy8uKiAoLiopOy9hciAmIFwkMS9nYw==</entry>
