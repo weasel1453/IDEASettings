@@ -44,6 +44,7 @@
       <file name="$USER_HOME$/uls/lsm/Planning/BeudaertPlanner/BeudaertPlanner.cpp" timestamp="1533651924418">
         <mark key="'" line="78" column="36" />
       </file>
+      <file name="/usr/local/include/boost/filesystem/convenience.hpp" timestamp="1534451618710" />
       <file name="$USER_HOME$/uls/lsm/Planning/Planner.cpp" timestamp="1533652060975">
         <mark key="'" line="633" column="6" />
       </file>
@@ -56,6 +57,7 @@
       <file name="$USER_HOME$/Documents/ULS/trunk/CMakeLists.txt" timestamp="1534190541650">
         <mark key="'" line="289" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintSettingsTransformations.cpp" timestamp="1534451982167" />
       <file name="$USER_HOME$/uls/lsm/CMakeLists.txt" timestamp="1533231479115">
         <mark key="'" line="103" column="17" />
       </file>
@@ -125,12 +127,6 @@
         <mark key="^" line="1" column="53" />
         <mark key="." line="1" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/Serializers.cpp" timestamp="1533931617022">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-      </file>
       <file name="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" timestamp="1533220266079">
         <mark key="'" line="331" column="16" />
       </file>
@@ -144,9 +140,9 @@
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/footer.h" timestamp="1533069328300">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Test/CommonTest/PrintParamsTest.cpp" timestamp="1534433359520">
-        <mark key="[" line="30" column="14" />
-        <mark key="]" line="30" column="40" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/Test/CommonTest/PrintParamsTest.cpp" timestamp="1534450926527">
+        <mark key="[" line="27" column="4" />
+        <mark key="]" line="28" column="22" />
         <mark key="^" line="30" column="40" />
         <mark key="." line="30" column="40" />
       </file>
@@ -178,12 +174,12 @@
         <mark key="." line="437" column="0" />
         <mark key="^" line="114" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1534441675441">
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1534451810735">
         <mark key="'" line="611" column="0" />
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="." line="136" column="0" />
-        <mark key="^" line="136" column="3" />
+        <mark key="[" line="1348" column="38" />
+        <mark key="]" line="1348" column="38" />
+        <mark key="." line="1348" column="38" />
+        <mark key="^" line="1331" column="60" />
       </file>
       <file name="$USER_HOME$/uls/lsm/Camera/CameraSerialization.cpp" timestamp="1533760232364">
         <mark key="'" line="320" column="39" />
@@ -230,12 +226,6 @@
         <mark key="]" line="0" column="12" />
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PageParams.cpp" timestamp="1534182925633">
-        <mark key="'" line="14" column="22" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
       </file>
       <file name="/fragment.mm" timestamp="1534433389364">
         <mark key="[" line="0" column="0" />
@@ -356,38 +346,38 @@
       <jump line="609" column="0" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vY29tcGFyZSB0aGVzZSBtZW1iZXJzIGFzIG9wcG9zZWQgdG8gZ2VuZXJhdGluZyBkYXRhIHdpdGggdGhlbSwgdGhlbiBjb21wYXJpbmcgdGhlIGdlbmVyYXRlZCBkYXRhLgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>operator ==</text>
+        <text>;</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIFBlblBhcmFtc0VxdWFsKG8uR2V0UGVuUGFyYW1zKCkpICYmCg==</text>
+      <register name="0" type="4">
+        <text>fs::change_extension(strFile, &quot;.bin&quot;);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vY29tcGFyZSB0aGVzZSBtZW1iZXJzIGFzIG9wcG9zZWQgdG8gZ2VuZXJhdGluZyBkYXRhIHdpdGggdGhlbSwgdGhlbiBjb21wYXJpbmcgdGhlIGdlbmVyYXRlZCBkYXRhLgo=</text>
+        <text encoding="base64">ICAgIGZzOjpjaGFuZ2VfZXh0ZW5zaW9uKHN0ckZpbGUsICIuYmluIik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vQXMgZmFyIGFzIEkgY2FuIHRlbGwgc2ltcGx5IGNvbXBhcmluZyB0aGUgbV9wcm9jZXNzZXMgYW5kIG1fY29sb3JVc2FnZXMgc2hvdWxkIGJlIGVub3VnaCB0byBjb21wYXJlIHRoZSBwZW4gcGFyYW1zCiAgICAvL2FzIHRoZSBwZW4gcGFyYW1zIGFyZSBzaW1wbHkgZ2VuZXJhdGVkIHVzaW5nIGRhdGEgZnJvbSB0aGUgcHJvY2Vzc2VzLiBJdCdzIGFsc28gc2VlbXMgbW9yZSBsb2dpY2FsbHkgY29ycmVjdCB0bwo=</text>
+        <text encoding="base64">ICAgIHN0ckZpbGUucmVwbGFjZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFBlblBhcmFtc0VxdWFsKG8uR2V0UGVuUGFyYW1zKCkpICYmCg==</text>
+        <text encoding="base64">ICAgIGZzOjpyZXBsYQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZzOjpjaGFuZ2VfZXh0ZW5zaW9uKHN0ckZpbGUsICIuYmluIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vbWVtYmVyIGVxdWFsaXR5Lgo=</text>
+        <text encoding="base64">ICAgIGZzOjpjaGFuZ2VfZXh0ZW5zaW9uKHN0ckZpbGUsICIuYmluIik7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIFBlblBhcmFtc0VxdWFsKG8uR2V0UGVuUGFyYW1zKCkpICYmCg==</text>
+      <register name="6" type="4">
+        <text>strFile.native()))</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZzOjpjaGFuZ2VfZXh0ZW5zaW9uKHN0ckZpbGUsICIuYmluIik7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -611,19 +601,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1fY29sb3JVc2FnZXMgPT0gby5tX2NvbG9yVXNhZ2VzICYmIAo=</text>
+        <text encoding="base64">ICAgIHN0ckZpbGUuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFBlblBhcmFtc0VxdWFsKG8uR2V0UGVuUGFyYW1zKCkpICYmCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>operator ==</last-search>
+      <last-search>;</last-search>
       <last-offset />
-      <last-pattern>operator ==</last-pattern>
+      <last-pattern>;</last-pattern>
       <last-replace encoding="base64">ICAgIGFyIFwmIHBzLlwxOw==</last-replace>
       <last-substitute>.* \(.*\);</last-substitute>
       <last-dir>1</last-dir>
@@ -631,7 +621,6 @@
     </search>
     <history>
       <history-search>
-        <entry>m_PageParams</entry>
         <entry>JSON</entry>
         <entry>ColorRgbUsage</entry>
         <entry>ToJSON</entry>
@@ -651,6 +640,7 @@
         <entry>insertprintjob</entry>
         <entry>import</entry>
         <entry>operator ==</entry>
+        <entry>;</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4gcy8uKiAoLiopOy9hciAmIFwkMS9nYw==</entry>
