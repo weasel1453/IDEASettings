@@ -32,10 +32,6 @@
         <mark key="." line="419" column="57" />
         <mark key="^" line="419" column="57" />
       </file>
-      <file name="/PrintParams.cpp" timestamp="1534438798221">
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="38" />
-      </file>
       <file name="/Clang-Tidy Info for DatabaseMigrator.cpp" timestamp="1532711611029">
         <mark key="[" line="0" column="0" />
       </file>
@@ -135,11 +131,11 @@
         <mark key="." line="69" column="0" />
         <mark key="^" line="69" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/simple_log_archive.h" timestamp="1534796542637">
-        <mark key="[" line="121" column="14" />
-        <mark key="]" line="121" column="13" />
-        <mark key="." line="121" column="13" />
-        <mark key="^" line="121" column="13" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/simple_log_archive.h" timestamp="1534797808459">
+        <mark key="[" line="150" column="27" />
+        <mark key="]" line="150" column="27" />
+        <mark key="." line="150" column="27" />
+        <mark key="^" line="150" column="32" />
       </file>
       <file name="/Dummy.youtrack" timestamp="1534179821285">
         <mark key="[" line="0" column="0" />
@@ -169,11 +165,17 @@
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/footer.h" timestamp="1533069328300">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Test/CommonTest/PrintParamsTest.cpp" timestamp="1534795986316">
-        <mark key="[" line="33" column="21" />
-        <mark key="]" line="33" column="20" />
-        <mark key="." line="33" column="20" />
-        <mark key="^" line="33" column="26" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/Test/CommonTest/PrintParamsTest.cpp" timestamp="1534796928153">
+        <mark key="[" line="32" column="30" />
+        <mark key="]" line="33" column="42" />
+        <mark key="." line="33" column="42" />
+        <mark key="^" line="33" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/SHOULDER.H" timestamp="1534796865193">
+        <mark key="[" line="8" column="42" />
+        <mark key="]" line="9" column="37" />
+        <mark key="^" line="9" column="37" />
+        <mark key="." line="9" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/log_archive.h" timestamp="1534793846914">
         <mark key="[" line="166" column="38" />
