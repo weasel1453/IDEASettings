@@ -44,7 +44,6 @@
       <file name="$USER_HOME$/uls/lsm/Planning/BeudaertPlanner/BeudaertPlanner.cpp" timestamp="1533651924418">
         <mark key="'" line="78" column="36" />
       </file>
-      <file name="/usr/local/include/boost/filesystem/convenience.hpp" timestamp="1534451618710" />
       <file name="$USER_HOME$/uls/lsm/Planning/Planner.cpp" timestamp="1533652060975">
         <mark key="'" line="633" column="6" />
       </file>
@@ -57,7 +56,6 @@
       <file name="$USER_HOME$/Documents/ULS/trunk/CMakeLists.txt" timestamp="1534190541650">
         <mark key="'" line="289" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintSettingsTransformations.cpp" timestamp="1534451982167" />
       <file name="$USER_HOME$/uls/lsm/CMakeLists.txt" timestamp="1533231479115">
         <mark key="'" line="103" column="17" />
       </file>
@@ -76,8 +74,8 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" timestamp="1534266529816">
-        <mark key="'" line="102" column="0" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" timestamp="1534777472907">
+        <mark key="'" line="26" column="19" />
       </file>
       <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.h" timestamp="1533650340198">
         <mark key="'" line="26" column="10" />
@@ -130,7 +128,6 @@
       <file name="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" timestamp="1533220266079">
         <mark key="'" line="331" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/build_debug/Services/ULS/ULS_types.h" timestamp="1534436462238" />
       <file name="$USER_HOME$/Documents/ULS/trunk/database/Materials/DatabaseQueries.cpp" timestamp="1532372270629">
         <mark key="[" line="714" column="25" />
         <mark key="]" line="714" column="25" />
@@ -146,7 +143,6 @@
         <mark key="^" line="30" column="40" />
         <mark key="." line="30" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/cmake-build-debug/Services/ULS/ULS_types.h" timestamp="1534435007364" />
       <file name="$USER_HOME$/uls/lsm/Control/PrintQueue.cpp" timestamp="1533665964419">
         <mark key="[" line="385" column="61" />
         <mark key="]" line="385" column="60" />
@@ -184,6 +180,7 @@
       <file name="$USER_HOME$/uls/lsm/Camera/CameraSerialization.cpp" timestamp="1533760232364">
         <mark key="'" line="320" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/CMakeLists.txt" timestamp="1534777926203" />
       <file name="/GDB" timestamp="1534436351612">
         <mark key="[" line="0" column="0" />
       </file>
@@ -244,37 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="532" column="17" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="535" column="4" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="537" column="9" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="553" column="54" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="575" column="42" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="352" column="8" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="357" column="6" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="396" column="6" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="400" column="4" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="460" column="2" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="277" column="18" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="278" column="51" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="283" column="42" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="465" column="5" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="214" column="11" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="215" column="4" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="217" column="6" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="219" column="6" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="222" column="8" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="467" column="0" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="494" column="2" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="331" column="9" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="458" column="9" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="257" column="24" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="333" column="34" filename="$USER_HOME$/uls/lsm/database/DatabaseMigrator/DatabaseMigrator.cpp" />
-      <jump line="1456" column="21" filename="$USER_HOME$/uls/lsm/common/PrintParams.cpp" />
-      <jump line="364" column="20" filename="$USER_HOME$/uls/lsm/common/PrintParams.cpp" />
-      <jump line="777" column="17" filename="$USER_HOME$/uls/lsm/common/PrintParams.cpp" />
-      <jump line="429" column="18" filename="$USER_HOME$/uls/lsm/common/PrintParams.cpp" />
-      <jump line="58" column="7" filename="$USER_HOME$/uls/lsm/common/PrintParams.h" />
-      <jump line="79" column="58" filename="$USER_HOME$/uls/lsm/common/PrintParams.h" />
       <jump line="127" column="3" filename="$USER_HOME$/uls/lsm/common/PrintParams.h" />
       <jump line="1080" column="19" filename="$USER_HOME$/uls/lsm/common/PrintParams.cpp" />
       <jump line="1188" column="19" filename="$USER_HOME$/uls/lsm/common/PrintParams.cpp" />
@@ -344,6 +310,37 @@
       <jump line="229" column="9" filename="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" />
       <jump line="102" column="0" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
       <jump line="609" column="0" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
+      <jump line="281" column="43" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
+      <jump line="432" column="63" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
+      <jump line="433" column="30" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
+      <jump line="468" column="10" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
+      <jump line="471" column="10" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
+      <jump line="473" column="10" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
+      <jump line="475" column="10" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
+      <jump line="477" column="8" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
+      <jump line="478" column="76" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
+      <jump line="479" column="51" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
+      <jump line="480" column="12" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
+      <jump line="483" column="56" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
+      <jump line="527" column="23" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
+      <jump line="533" column="76" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
+      <jump line="534" column="51" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
+      <jump line="535" column="12" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
+      <jump line="536" column="37" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
+      <jump line="538" column="44" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
+      <jump line="539" column="51" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
+      <jump line="542" column="32" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
+      <jump line="546" column="23" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
+      <jump line="547" column="27" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
+      <jump line="572" column="17" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
+      <jump line="585" column="17" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
+      <jump line="598" column="17" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
+      <jump line="640" column="26" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
+      <jump line="641" column="69" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
+      <jump line="645" column="32" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
+      <jump line="647" column="40" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
+      <jump line="25" column="17" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
+      <jump line="26" column="19" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -353,7 +350,7 @@
         <text>jsonSettingsFile.replace_extension(&quot;.bin&quot;))</text>
       </register>
       <register name="/" type="4">
-        <text>;</text>
+        <text>zip</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">c3RkOjpvZnN0cmVhbSBvZnMoIi92YXIvb3B0L3Vscy1jb250cm9sL0pvYnMvMDAwMDAyL1ByaW50U2V0dGluZ3MuYmluIik7CiAgICBib29zdDo6YXJjaGl2ZTo6YmluYXJ5X29hcmNoaXZlIG9hKG9mcyk7CiAgICBvYSA8PCBwcmludFBhcmFtczs=</text>
@@ -607,21 +604,20 @@
         <text encoding="base64">ICAgIGJpbkZpbGUuY2xvc2UoKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>set norelativenumber</text>
       </register>
     </registers>
     <search>
-      <last-search>;</last-search>
+      <last-search>zip</last-search>
       <last-offset />
-      <last-pattern>;</last-pattern>
+      <last-pattern>zip</last-pattern>
       <last-replace encoding="base64">ICAgIGFyIFwmIHBzLlwxOw==</last-replace>
       <last-substitute>.* \(.*\);</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>GetColorUsage</entry>
         <entry>m</entry>
         <entry>serial</entry>
         <entry>fromJSON</entry>
@@ -641,9 +637,9 @@
         <entry>'</entry>
         <entry>&quot;</entry>
         <entry>;</entry>
+        <entry>zip</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz4gcy8uKiAoLiopOy9hciAmIFwkMS9nYw==</entry>
         <entry encoding="base64">JzwsJz4gcy8uKiBcKC4qXCk7L2FyICYgJDEvZ2M=</entry>
         <entry encoding="base64">JzwsJz4gcy8uKiBcKC4qXCk7L2FyICYgXCQxL2dj</entry>
         <entry encoding="base64">JzwsJz4gcy8uKlx3KiBcKC4qXCk7L2FyICYgXCQxL2dj</entry>
@@ -663,6 +659,7 @@
         <entry>278</entry>
         <entry>$</entry>
         <entry>noh</entry>
+        <entry>set norelativenumber</entry>
       </history-cmd>
       <history-expr />
       <history-input />
