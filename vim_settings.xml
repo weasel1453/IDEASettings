@@ -12,11 +12,11 @@
         <mark key="^" line="162" column="8" />
         <mark key="." line="162" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" timestamp="1534800815002">
-        <mark key="'" line="249" column="9" />
-        <mark key="[" line="210" column="133" />
-        <mark key="]" line="210" column="0" />
-        <mark key="." line="210" column="0" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" timestamp="1534801682478">
+        <mark key="'" line="241" column="9" />
+        <mark key="[" line="215" column="0" />
+        <mark key="]" line="215" column="0" />
+        <mark key="." line="215" column="0" />
       </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/CreateVersion30DB.sql" timestamp="1533069287684">
         <mark key="[" line="13373" column="0" />
@@ -77,8 +77,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" timestamp="1534777472907">
+      <file name="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" timestamp="1534801737615">
         <mark key="'" line="26" column="19" />
+        <mark key="[" line="476" column="20" />
+        <mark key="]" line="476" column="20" />
+        <mark key="^" line="476" column="27" />
+        <mark key="." line="476" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintingArchive.h" timestamp="1534791991690">
         <mark key="[" line="0" column="0" />
@@ -232,8 +236,8 @@
         <mark key="." line="88" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.h" timestamp="1534779154347" />
-      <file name="$USER_HOME$/Documents/ULS/trunk/Camera/CameraSerialization.cpp" timestamp="1534187597521">
-        <mark key="'" line="22" column="39" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/Camera/CameraSerialization.cpp" timestamp="1534801113851">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/uls/lsm/cmake-build-release/Services/ULS/ULS_types.h" timestamp="1533759968866">
         <mark key="[" line="866" column="0" />
@@ -288,7 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="757" column="3" filename="$USER_HOME$/Documents/ULS/trunk/cmake-build-debug/Services/ULS/ULS_types.h" />
       <jump line="21" column="26" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="791" column="0" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="42" column="70" filename="$USER_HOME$/Documents/ULS/trunk/common/PageParams.h" />
@@ -388,40 +391,41 @@
       <jump line="20" column="31" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="20" column="0" filename="$USER_HOME$/Documents/ULS/trunk/common/simple_log_archive.h" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/ULS/trunk/common/simple_log_archive.h" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/ULS/trunk/Camera/CameraSerialization.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nU3RyZWFtIHNzOwo=</text>
+      <register name="&quot;" type="4">
+        <text>jobList_</text>
       </register>
       <register name="-" type="4">
-        <text>existsb</text>
+        <text>jobList_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">YXIgJiBcKC4qXCk7</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGJvb3N0L2FyY2hpdmUvYmluYXJ5X29hcmNoaXZlLmhwcD4K</text>
+        <text encoding="base64">ICAgICAgb3NzIDw8ICIqKioqKioqKioqKioqKioqKioqKioqKioqKioiIDw8IGVuZGw7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nU3RyZWFtIHNzOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc3MuCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyXwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBpZigpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBpZihleGlzdHNiKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICBtX2xhc2VyU3lzdGVtU2VydmljZU5vdGlmaWNhdGlvbnMuU2VuZEludGVycnVwdGluZ01lc3NhZ2UoIlRoaXMgaXMgYSBtZXNzYWdlIik7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAvL1RPRE8gSW50ZXJydXB0IHVzZXIgd2l0aCBtZXNzYWdlCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAvL1RPRE8gaWYgdGhleSBkb24ndCBtYXRjaCBMT0cgd2FybmluZyB0byBmaWxlCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAvL1RPRE8gVFlMRVIgUmVhZCBjb3JyZXNwb25kaW5nIHNlcmlhbGl6ZWQgZmlsZSBpZiBpdCBleGlzdHMK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgU3RyaW5nU3RyZWFtIHNzOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgc3MuCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -645,10 +649,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGZtdC8K</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyXwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGJvb3N0L2Zvcm1hdC5ocHA+Cg==</text>
+        <text encoding="base64">ICBpZigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
@@ -765,6 +769,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
