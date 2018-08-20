@@ -131,11 +131,10 @@
         <mark key="." line="69" column="0" />
         <mark key="^" line="69" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/simple_log_archive.h" timestamp="1534797808459">
-        <mark key="[" line="150" column="27" />
-        <mark key="]" line="150" column="27" />
-        <mark key="." line="150" column="27" />
-        <mark key="^" line="150" column="32" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/simple_log_archive.h" timestamp="1534798600675">
+        <mark key="[" line="19" column="33" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="/Dummy.youtrack" timestamp="1534179821285">
         <mark key="[" line="0" column="0" />
@@ -389,11 +388,11 @@
       <jump line="20" column="31" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPGlvbWFuaXA+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">YXIgJiBcKC4qXCk7</text>
@@ -402,25 +401,25 @@
         <text encoding="base64">I2luY2x1ZGUgPGJvb3N0L2FyY2hpdmUvYmluYXJ5X29hcmNoaXZlLmhwcD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1fb3MgPDwgJzonOwo=</text>
+        <text encoding="base64">I2luY2x1ZGUgPGlvbWFuaXA+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcmludFBhcmFtczEuU2V0Sm9iTmFtZSgiVGVzdCBKb2IgTmFtZSIpOwo=</text>
+        <text encoding="base64">ICAgIG1fb3MgPDwgJzonOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgKi8K</text>
+        <text encoding="base64">ICBwcmludFBhcmFtczEuU2V0Sm9iTmFtZSgiVGVzdCBKb2IgTmFtZSIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICk7CiAgfQo=</text>
+        <text encoding="base64">ICAgKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc3RhdGljX2Nhc3Q8Y29uc3QgVCAqPigmdFswXSksCiAgICAgIE4K</text>
+        <text encoding="base64">ICAgICk7CiAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzaW1wbGVfbG9nX2FyY2hpdmUgJiBvcGVyYXRvcjw8KGNvbnN0IFQgKCZ0KVtOXSl7CiAgICByZXR1cm4gKnRoaXMgPDwgYm9vc3Q6OnNlcmlhbGl6YXRpb246Om1ha2VfYXJyYXkoCg==</text>
+        <text encoding="base64">ICAgICAgc3RhdGljX2Nhc3Q8Y29uc3QgVCAqPigmdFswXSksCiAgICAgIE4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvKgogIHRlbXBsYXRlPGNsYXNzIFQsIGludCBOPgo=</text>
+        <text encoding="base64">ICBzaW1wbGVfbG9nX2FyY2hpdmUgJiBvcGVyYXRvcjw8KGNvbnN0IFQgKCZ0KVtOXSl7CiAgICByZXR1cm4gKnRoaXMgPDwgYm9vc3Q6OnNlcmlhbGl6YXRpb246Om1ha2VfYXJyYXkoCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -644,10 +643,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcmludFBhcmFtczEubV9zdHJKb2JOYW1lID0gIlRlc3QgU3RyaW5nIjsK</text>
+        <text encoding="base64">ICAvKgogIHRlbXBsYXRlPGNsYXNzIFQsIGludCBOPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGNvbW1vbi9zaW1wbGVfbG9nX2FyY2hpdmUuaD4K</text>
+        <text encoding="base64">ICBwcmludFBhcmFtczEubV9zdHJKb2JOYW1lID0gIlRlc3QgU3RyaW5nIjsK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
