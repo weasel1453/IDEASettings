@@ -39,11 +39,10 @@
       <file name="/Clang-Tidy Info for DatabaseMigrator.cpp" timestamp="1532711611029">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/Serializers.h" timestamp="1534447158509">
-        <mark key="[" line="17" column="54" />
-        <mark key="]" line="17" column="54" />
-        <mark key="." line="17" column="54" />
-        <mark key="^" line="69" column="44" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/Serializers.h" timestamp="1534790129210">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/uls/lsm/Planning/BeudaertPlanner/BeudaertPlanner.cpp" timestamp="1533651924418">
         <mark key="'" line="78" column="36" />
@@ -59,6 +58,11 @@
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/CMakeLists.txt" timestamp="1534190541650">
         <mark key="'" line="289" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintSettingsTransformations.cpp" timestamp="1534790173318">
+        <mark key="[" line="576" column="0" />
+        <mark key="]" line="576" column="0" />
+        <mark key="." line="576" column="0" />
       </file>
       <file name="$USER_HOME$/uls/lsm/CMakeLists.txt" timestamp="1533231479115">
         <mark key="'" line="103" column="17" />
@@ -80,6 +84,12 @@
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" timestamp="1534777472907">
         <mark key="'" line="26" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintingArchive.h" timestamp="1534790787343">
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="17" column="52" />
+        <mark key="^" line="17" column="52" />
+        <mark key="." line="17" column="52" />
       </file>
       <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.h" timestamp="1533650340198">
         <mark key="'" line="26" column="10" />
@@ -187,12 +197,12 @@
         <mark key="." line="391" column="0" />
         <mark key="^" line="439" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1534784325395">
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1534790437964">
         <mark key="'" line="226" column="20" />
-        <mark key="[" line="179" column="0" />
-        <mark key="]" line="179" column="1" />
-        <mark key="." line="179" column="1" />
-        <mark key="^" line="179" column="1" />
+        <mark key="[" line="20" column="24" />
+        <mark key="]" line="20" column="45" />
+        <mark key="." line="20" column="45" />
+        <mark key="^" line="20" column="45" />
       </file>
       <file name="$USER_HOME$/uls/lsm/Camera/CameraSerialization.cpp" timestamp="1533760232364">
         <mark key="'" line="320" column="39" />
@@ -361,11 +371,11 @@
       <jump line="439" column="22" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFyICYgQk9PU1RfU0VSSUFMSVpBVElPTl9OVlAobV9uSm9iSWQpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>ar</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">YXIgJiBcKC4qXCk7</text>
@@ -374,25 +384,25 @@
         <text encoding="base64">YXIgJiBuU3RlcHNQZXJJbmNoWDsKICAgIGFyICYgblN0ZXBzUGVySW5jaFk7CiAgICBhciAmIG5TdGVwc1BlclBpeGVsWDsKICAgIGFyICYgblN0ZXBzUGVyUGl4ZWxZOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFyICYgQk9PU1RfU0VSSUFMSVpBVElPTl9OVlAobV9uSm9iSWQpOwo=</text>
+        <text encoding="base64">ICAgIGJvb3N0OjphcmNoaXZlOjoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJpZW5kIFByaW50UGFyYW1zOjoK</text>
+        <text encoding="base64">ICAgIGJvb3N0OjphcmNoaXZlOjp4bWxfb2FyY2hpdmUgb2EoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJvb3N0OjphcmNoaXZlOjpkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgYm9vc3Q6OmFyY2hpdmU6OnhtbF9vYQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBmbXQ6OnByaW50KCJtX1BhZ2VQYXJhbXM6IHt9IiwgbV9QYWdlUGFyYW1zKTsK</text>
+        <text encoding="base64">ICAgICAgQXJjaGl2ZSB4bWxfCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBmbXQ6OnByaW50KCJtX2JDZW50ZXJJbWFnZToge30iLCBtX2JDZW50ZXJJbWFnZSk7CiAgZm10OjpwcmludCgibV9uTWF4Wk1pbHM6IHt9IiwgbV9uTWF4Wk1pbHMpOwo=</text>
+        <text encoding="base64">ICAgIGFyICYgQk9PU1RfU0VSSUFMSVpBVElPTl9OVlAobV9uSm9iSWQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBmbXQ6OnByaW50KCJtX1BhZ2VQYXJhbXM6IHt9IiwgbV9QYWdlUGFyYW1zKTsKfQo=</text>
+        <text encoding="base64">ZnJpZW5kIFByaW50UGFyYW1zOjoK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -616,10 +626,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmbXQ6OnByaW50KCJtX25WZWN0b3JZU2NhbGU6IHt9IiwgbV9uVmVjdG9yWVNjYWxlKTsKICBmbXQ6OnByaW50KCJtX25QYWdlQ291bnQ6IHt9IiwgbV9uUGFnZUNvdW50KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmbXQ6OnByaW50KCJtX2JVc2VaUG9zOiB7fSIsIG1fYlVzZVpQb3MpOwogIGZtdDo6cHJpbnQoIm1fblZlY3RvclhTY2FsZToge30iLCBtX25WZWN0b3JYU2NhbGUpOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
