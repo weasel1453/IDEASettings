@@ -12,11 +12,12 @@
         <mark key="^" line="162" column="8" />
         <mark key="." line="162" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" timestamp="1534801682478">
-        <mark key="'" line="241" column="9" />
-        <mark key="[" line="215" column="0" />
-        <mark key="]" line="215" column="0" />
-        <mark key="." line="215" column="0" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" timestamp="1534950217723">
+        <mark key="'" line="1045" column="11" />
+        <mark key="[" line="44" column="28" />
+        <mark key="]" line="45" column="37" />
+        <mark key="." line="45" column="37" />
+        <mark key="^" line="45" column="37" />
       </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/CreateVersion30DB.sql" timestamp="1533069287684">
         <mark key="[" line="13373" column="0" />
@@ -207,19 +208,19 @@
         <mark key="." line="125" column="7" />
         <mark key="^" line="124" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" timestamp="1534792095199">
-        <mark key="'" line="439" column="22" />
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
-        <mark key="^" line="439" column="5" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" timestamp="1534949294598">
+        <mark key="'" line="440" column="22" />
+        <mark key="[" line="109" column="34" />
+        <mark key="]" line="110" column="32" />
+        <mark key="." line="110" column="32" />
+        <mark key="^" line="110" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1534792382148">
-        <mark key="'" line="20" column="31" />
-        <mark key="[" line="1365" column="8" />
-        <mark key="]" line="1365" column="11" />
-        <mark key="." line="1365" column="11" />
-        <mark key="^" line="1365" column="11" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1534949925376">
+        <mark key="'" line="705" column="4" />
+        <mark key="[" line="1432" column="26" />
+        <mark key="]" line="1432" column="67" />
+        <mark key="." line="1432" column="67" />
+        <mark key="^" line="1432" column="67" />
       </file>
       <file name="$USER_HOME$/uls/lsm/Camera/CameraSerialization.cpp" timestamp="1533760232364">
         <mark key="'" line="320" column="39" />
@@ -289,11 +290,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="26" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
-      <jump line="791" column="0" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
-      <jump line="42" column="70" filename="$USER_HOME$/Documents/ULS/trunk/common/PageParams.h" />
-      <jump line="1013" column="51" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
-      <jump line="1436" column="17" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="1443" column="19" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="1448" column="9" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="1688" column="56" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
@@ -389,16 +385,21 @@
       <jump line="20" column="0" filename="$USER_HOME$/Documents/ULS/trunk/common/simple_log_archive.h" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/ULS/trunk/common/simple_log_archive.h" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/ULS/trunk/Camera/CameraSerialization.cpp" />
+      <jump line="1356" column="89" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
+      <jump line="1382" column="27" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
+      <jump line="705" column="4" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
+      <jump line="213" column="4" filename="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" />
+      <jump line="1044" column="11" filename="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>jobList_</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>jobList_</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">YXIgJiBcKC4qXCk7</text>
+        <text>replace</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgb3NzIDw8ICIqKioqKioqKioqKioqKioqKioqKioqKioqKioiIDw8IGVuZGw7Cg==</text>
@@ -656,19 +657,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">YXIgJiBcKC4qXCk7</last-search>
+      <last-search>replace</last-search>
       <last-offset />
-      <last-pattern encoding="base64">YXIgJiBcKC4qXCk7</last-pattern>
+      <last-pattern>replace</last-pattern>
       <last-replace encoding="base64">YXIgXCYgQk9PU1RfU0VSSUFMSVpBVElPTl9OVlAoXDEpOw==</last-replace>
       <last-substitute encoding="base64">YXIgJiBcKC4qXCk7</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Read</entry>
-        <entry>g</entry>
-        <entry>FromJSON</entry>
         <entry>m_nModelType</entry>
         <entry>model</entry>
         <entry>saveJSON</entry>
@@ -686,6 +684,9 @@
         <entry encoding="base64">YXIgJlwoLipcKTs=</entry>
         <entry>operator</entry>
         <entry encoding="base64">YXIgJiBcKC4qXCk7</entry>
+        <entry>read</entry>
+        <entry>saveas</entry>
+        <entry>replace</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4gcy8uKiBcKC4qXCk7LyAgICBhciBcJiAkMTsvZ2M=</entry>
