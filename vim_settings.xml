@@ -142,8 +142,10 @@
         <mark key="." line="126" column="8" />
         <mark key="^" line="126" column="8" />
       </file>
-      <file name="/Dummy.youtrack" timestamp="1534179821285">
+      <file name="/Dummy.youtrack" timestamp="1534963175309">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/Migration031-1--TableAlteration_up.sql" timestamp="1533148787728">
         <mark key="[" line="1" column="53" />
@@ -393,10 +395,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">VE9ETyA=</text>
+        <text>118</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VE9ETyA=</text>
+        <text>118</text>
       </register>
       <register name="/" type="4">
         <text>;</text>
