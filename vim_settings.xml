@@ -172,11 +172,11 @@
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/footer.h" timestamp="1533069328300">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Test/CommonTest/PrintParamsTest.cpp" timestamp="1534955100639">
-        <mark key="[" line="30" column="3" />
-        <mark key="]" line="30" column="3" />
-        <mark key="." line="30" column="3" />
-        <mark key="^" line="30" column="3" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/Test/CommonTest/PrintParamsTest.cpp" timestamp="1535037409237">
+        <mark key="[" line="42" column="43" />
+        <mark key="]" line="44" column="19" />
+        <mark key="." line="44" column="19" />
+        <mark key="^" line="44" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/SHOULDER.H" timestamp="1534796865193">
         <mark key="[" line="8" column="42" />
@@ -394,8 +394,8 @@
       <jump line="171" column="21" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>118</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>118</text>
@@ -407,25 +407,25 @@
         <text encoding="base64">Y291dCA8PCAiKioqKioqKioqKioqKioqKioqKiIgPDwgZW5kbDsKICBjb3V0IDw8ICIqKioqKioqKioqKioqKioqKioqIiA8PCBlbmRsOwogIGNvdXQgPDwgIioqKioqKioqKioqKioqKioqKioiIDw8IGVuZGw7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGJvb3N0L2FyY2hpdmUvYmluYXJ5X29hcmNoaXZlLmhwcD4KI2luY2x1ZGUgPGJvb3N0L2FyY2hpdmUvYmluYXJ5X2lhcmNoaXZlLmhwcD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VEVTVChQcmludFBhcmFtc1Rlc3QsIERlc2VyaWFsaXplU2VyaWFsaXplKSB7CiAgRVhQRUNUX0ZBTFNFKGZhbHNlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzdGF0aWMgdm9pZCBTYXZlU2VyaWFsaXplZChjb25zdCBQcmludFBhcmFtcyYsIGNvbnN0IGZzOjpwYXRoKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">c3RhdGljIHZvaWQgU2F2ZVNlcmlhbGl6ZWQoY29uc3QgUHJpbnRQYXJhbXMgJnBhcmFtcywgY29uc3QgZnM6OnBhdGggZmlsZVBhdGgpIHsKICBzdGQ6Om9mc3RyZWFtIG9mcyhmaWxlUGF0aC5zdHJpbmcoKSk7CiAgYm9vc3Q6OmFyY2hpdmU6OmJpbmFyeV9vYXJjaGl2ZSBvYShvZnMpOwogIG9hIDw8IHBhcmFtczsKfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPGJvb3N0L2FyY2hpdmUvYmluYXJ5X29hcmNoaXZlLmhwcD4KI2luY2x1ZGUgPGJvb3N0L2FyY2hpdmUvYmluYXJ5X2lhcmNoaXZlLmhwcD4K</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ID0gUHJpbnRQYXJhbXMoKQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -649,10 +649,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBQcmludFBhcmFtcy5TYXZlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBTYXZlU2VyaWFsaXplZChwYXJhbXMsIGJpblNldHRpbmdzRmlsZSk7Cg==</text>
+        <text encoding="base64">ICBzdGF0aWMgdm9pZCBTYXZlU2VyaWFsaXplZChjb25zdCBQcmludFBhcmFtcyYsIGNvbnN0IGZzOjpwYXRoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
