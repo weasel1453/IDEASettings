@@ -52,9 +52,11 @@
         <mark key="." line="49" column="3" />
         <mark key="^" line="49" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/CMakeLists.txt" timestamp="1535041863403">
+      <file name="$USER_HOME$/Documents/ULS/trunk/CMakeLists.txt" timestamp="1535047434111">
         <mark key="'" line="289" column="22" />
-        <mark key="[" line="342" column="30" />
+        <mark key="[" line="345" column="0" />
+        <mark key="]" line="345" column="0" />
+        <mark key="." line="345" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintSettingsTransformations.cpp" timestamp="1534790173318">
         <mark key="[" line="576" column="0" />
@@ -149,11 +151,12 @@
         <mark key="." line="126" column="8" />
         <mark key="^" line="126" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/tools/deserialize/main.cpp" timestamp="1535045778033">
-        <mark key="[" line="34" column="33" />
-        <mark key="]" line="34" column="34" />
-        <mark key="^" line="34" column="34" />
-        <mark key="." line="34" column="34" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/tools/deserialize/main.cpp" timestamp="1535047237739">
+        <mark key="'" line="36" column="15" />
+        <mark key="[" line="36" column="16" />
+        <mark key="]" line="36" column="15" />
+        <mark key="." line="36" column="15" />
+        <mark key="^" line="36" column="15" />
       </file>
       <file name="/Dummy.youtrack" timestamp="1535031028717">
         <mark key="[" line="0" column="0" />
@@ -249,10 +252,10 @@
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="27" />
       </file>
-      <file name="/GDB" timestamp="1534953924215">
+      <file name="/GDB" timestamp="1535047266943">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535039696734">
+      <file name="/Dummy.txt" timestamp="1535047453890">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/uls/lsm/Control/WinMain.cpp" timestamp="1533325031507">
@@ -317,7 +320,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1448" column="9" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="1688" column="56" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="737" column="7" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="780" column="17" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
@@ -417,13 +419,14 @@
       <jump line="213" column="4" filename="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" />
       <jump line="1044" column="11" filename="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" />
       <jump line="171" column="21" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
+      <jump line="36" column="15" filename="$USER_HOME$/Documents/ULS/trunk/tools/deserialize/main.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>;</text>
@@ -435,22 +438,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFByaW50UGFyYW1zIHByaW50UGFyYW1zOwo=</text>
+        <text encoding="base64">YWRkX3N1YmRpcmVjdG9yeSh0b29scy9kZXNlcmlhbGl6ZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBVbHNTZXJ2aWNlR2VuZXJhdGVkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzaW1wbGVfbG9nX2FyY2hpdmUgbGEoY291dCk7CiAgbGEgPDwgcHJpbnRQYXJhbXM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAke0NNQUtFX1NPVVJDRV9ESVJ9Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZtdDo6cHJpbnQoIk5vdCBhIFJFTE9DUE9JTlQuLi5cbiIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2luY2x1ZGUgInJhcGlkanNvbi9kb2N1bWVudC5oIgojcHJhZ21hIHdhcm5pbmcocG9wKQo=</text>
+        <text encoding="base64">ICAgIGZtdDo6cHJpbnQoIk5vdCBhIFJFTE9DUE9JTlQuLi5cbiIpOwogICAgdHJ5IHsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -674,10 +677,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I3ByYWdtYSB3YXJuaW5nKHB1c2gpCiNwcmFnbWEgd2FybmluZyhkaXNhYmxlOjQyNDQpCg==</text>
+        <text encoding="base64">ICAgIGZtdDo6cHJpbnQoIkl0J3MgYSBSRUxPQ1BPSU5UXG4iKTsKICB9IGNhdGNoICguLi4pewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJpYS5nZXQKICAgIGJpYSA+PiBwb2ludDsK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
