@@ -40,6 +40,12 @@
         <mark key="]" line="23" column="49" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/uls/lsm/Planning/BeudaertPlanner/BeudaertPlanner.cpp" timestamp="1533651924418">
+        <mark key="'" line="78" column="36" />
+      </file>
+      <file name="$USER_HOME$/uls/lsm/Planning/Planner.cpp" timestamp="1533652060975">
+        <mark key="'" line="633" column="6" />
+      </file>
       <file name="$USER_HOME$/uls/lsm/common/SHOULDER.H" timestamp="1533759943266">
         <mark key="[" line="49" column="3" />
         <mark key="]" line="49" column="3" />
@@ -56,6 +62,9 @@
         <mark key="[" line="576" column="0" />
         <mark key="]" line="576" column="0" />
         <mark key="." line="576" column="0" />
+      </file>
+      <file name="$USER_HOME$/uls/lsm/CMakeLists.txt" timestamp="1533231479115">
+        <mark key="'" line="103" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Test/CommonTest/CMakeLists.txt" timestamp="1534196701238">
         <mark key="[" line="61" column="19" />
@@ -74,10 +83,6 @@
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" timestamp="1535126257540">
         <mark key="'" line="26" column="19" />
-        <mark key="[" line="505" column="39" />
-        <mark key="]" line="505" column="38" />
-        <mark key="^" line="505" column="38" />
-        <mark key="." line="505" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintingArchive.h" timestamp="1534791991690">
         <mark key="[" line="0" column="0" />
@@ -175,6 +180,9 @@
         <mark key="." line="122" column="37" />
         <mark key="^" line="122" column="37" />
       </file>
+      <file name="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" timestamp="1533220266079">
+        <mark key="'" line="331" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/database/Materials/DatabaseQueries.cpp" timestamp="1532372270629">
         <mark key="[" line="714" column="25" />
         <mark key="]" line="714" column="25" />
@@ -240,6 +248,9 @@
         <mark key="]" line="703" column="41" />
         <mark key="." line="703" column="41" />
         <mark key="^" line="703" column="41" />
+      </file>
+      <file name="$USER_HOME$/uls/lsm/Camera/CameraSerialization.cpp" timestamp="1533760232364">
+        <mark key="'" line="320" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/CMakeLists.txt" timestamp="1535042461692">
         <mark key="[" line="26" column="0" />
