@@ -35,16 +35,10 @@
       <file name="/Clang-Tidy Info for DatabaseMigrator.cpp" timestamp="1532711611029">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/Serializers.h" timestamp="1534790129210">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-      </file>
-      <file name="$USER_HOME$/uls/lsm/Planning/BeudaertPlanner/BeudaertPlanner.cpp" timestamp="1533651924418">
-        <mark key="'" line="78" column="36" />
-      </file>
-      <file name="$USER_HOME$/uls/lsm/Planning/Planner.cpp" timestamp="1533652060975">
-        <mark key="'" line="633" column="6" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/Serializers.h" timestamp="1535121942084">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="49" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/uls/lsm/common/SHOULDER.H" timestamp="1533759943266">
         <mark key="[" line="49" column="3" />
@@ -63,9 +57,6 @@
         <mark key="]" line="576" column="0" />
         <mark key="." line="576" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/CMakeLists.txt" timestamp="1533231479115">
-        <mark key="'" line="103" column="17" />
-      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Test/CommonTest/CMakeLists.txt" timestamp="1534196701238">
         <mark key="[" line="61" column="19" />
       </file>
@@ -81,12 +72,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" timestamp="1535119226421">
+      <file name="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" timestamp="1535122071490">
         <mark key="'" line="26" column="19" />
-        <mark key="[" line="476" column="6" />
-        <mark key="]" line="477" column="39" />
-        <mark key="^" line="477" column="39" />
-        <mark key="." line="477" column="39" />
+        <mark key="[" line="481" column="85" />
+        <mark key="]" line="481" column="85" />
+        <mark key="^" line="481" column="85" />
+        <mark key="." line="481" column="85" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintingArchive.h" timestamp="1534791991690">
         <mark key="[" line="0" column="0" />
@@ -119,10 +110,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/powertable.h" timestamp="1534792087956">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/powertable.h" timestamp="1535122009989">
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="17" column="34" />
+        <mark key="." line="17" column="34" />
+        <mark key="^" line="17" column="34" />
       </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/Migration031-0--TableCreation_up.sql" timestamp="1533149055021">
         <mark key="[" line="216" column="2" />
@@ -169,15 +161,18 @@
         <mark key="^" line="1" column="53" />
         <mark key="." line="1" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/DpiInfo.h" timestamp="1534792526307">
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/DpiInfo.h" timestamp="1535122021297">
         <mark key="'" line="62" column="23" />
-        <mark key="[" line="4" column="42" />
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="58" column="12" />
-        <mark key="." line="58" column="0" />
+        <mark key="[" line="59" column="30" />
+        <mark key="]" line="59" column="30" />
+        <mark key="^" line="59" column="30" />
+        <mark key="." line="59" column="30" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" timestamp="1533220266079">
-        <mark key="'" line="331" column="16" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/Control/ImportRoutines.cpp" timestamp="1535122738967">
+        <mark key="[" line="53" column="38" />
+        <mark key="]" line="53" column="28" />
+        <mark key="." line="53" column="28" />
+        <mark key="^" line="53" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/database/Materials/DatabaseQueries.cpp" timestamp="1532372270629">
         <mark key="[" line="714" column="25" />
@@ -245,9 +240,6 @@
         <mark key="." line="703" column="41" />
         <mark key="^" line="703" column="41" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/Camera/CameraSerialization.cpp" timestamp="1533760232364">
-        <mark key="'" line="320" column="39" />
-      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/CMakeLists.txt" timestamp="1535042461692">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="27" />
@@ -255,7 +247,7 @@
       <file name="/GDB" timestamp="1535047266943">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535049155536">
+      <file name="/Dummy.txt" timestamp="1535121063245">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/uls/lsm/Control/WinMain.cpp" timestamp="1533325031507">
@@ -264,8 +256,10 @@
         <mark key="^" line="88" column="11" />
         <mark key="." line="88" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Camera/CameraSerialization.cpp" timestamp="1534801113851">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/Camera/CameraSerialization.cpp" timestamp="1535121878550">
+        <mark key="'" line="35" column="6" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="41" />
       </file>
       <file name="$USER_HOME$/uls/lsm/cmake-build-release/Services/ULS/ULS_types.h" timestamp="1533759968866">
         <mark key="[" line="866" column="0" />
@@ -303,7 +297,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/fragment.mm" timestamp="1535040684243">
+      <file name="/fragment.mm" timestamp="1535121063233">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.cpp" timestamp="1533302030878">
@@ -320,9 +314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1688" column="56" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
-      <jump line="737" column="7" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
-      <jump line="780" column="17" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="813" column="0" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="999" column="21" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="1683" column="45" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
@@ -332,7 +323,6 @@
       <jump line="1106" column="37" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="36" column="0" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="88" column="23" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
-      <jump line="22" column="39" filename="$USER_HOME$/Documents/ULS/trunk/Camera/CameraSerialization.cpp" />
       <jump line="389" column="13" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
       <jump line="29" column="17" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/ULS/trunk/CMakeLists.txt" />
@@ -420,40 +410,44 @@
       <jump line="1044" column="11" filename="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" />
       <jump line="171" column="21" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
       <jump line="36" column="15" filename="$USER_HOME$/Documents/ULS/trunk/tools/deserialize/main.cpp" />
+      <jump line="22" column="6" filename="$USER_HOME$/Documents/ULS/trunk/Camera/CameraSerialization.cpp" />
+      <jump line="126" column="8" filename="$USER_HOME$/Documents/ULS/trunk/Camera/CameraSerialization.cpp" />
+      <jump line="11" column="0" filename="$USER_HOME$/Documents/ULS/trunk/Camera/CameraSerialization.cpp" />
+      <jump line="35" column="6" filename="$USER_HOME$/Documents/ULS/trunk/Camera/CameraSerialization.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>ToJson</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>ToJson</text>
       </register>
       <register name="/" type="4">
-        <text>;</text>
+        <text encoding="base64">YXIgJiBcKC4qXCk7</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAke0NNQUtFX1NPVVJDRV9ESVJ9L2Jpbi90aGlyZC1wYXJ0eS9pbnN0YWxsL2luY2x1ZGUK</text>
+      <register name="0" type="4">
+        <text encoding="base64">I2luY2x1ZGUgPGJvb3N0L3NlcmlhbGl6YXRpb24vdmVyc2lvbi5ocHA+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEJPT1NUX0NMQVNTX1ZFUlNJT04oVUxTOjpKb2JzOjpJbXBvcnRPcHRpb25zLCAwKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YWRkX3N1YmRpcmVjdG9yeSh0b29scy9kZXNlcmlhbGl6ZSkK</text>
+        <text encoding="base64">ICAgIEJPT1NUX0NMQVNTX1ZFUlNJT04oSW1wb3J0Um91dGluZXM6OkltcG9ydE9wdGlvbnMsIDApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEJPT1NUX0NMQVNTX1ZFUlNJT04oUkVMT0NQT0lOVCwgMCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzaW1wbGVfbG9nX2FyY2hpdmUgbGEoY291dCk7CiAgbGEgPDwgcHJpbnRQYXJhbXM7Cg==</text>
+        <text encoding="base64">ICAgIEJPT1NUX0NMQVNTX1ZFUlNJT04odGFnUkVDVCwgMCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIEJPT1NUX0NMQVNTX1ZFUlNJT04oVUxTOjpDb2xvclJnYiwgMCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZtdDo6cHJpbnQoIk5vdCBhIFJFTE9DUE9JTlQuLi5cbiIpOwo=</text>
+        <text encoding="base64">ICAgIEJPT1NUX0NMQVNTX1ZFUlNJT04oVUxTOjpDb2xvclJnYlVzYWdlLCAwKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZtdDo6cHJpbnQoIk5vdCBhIFJFTE9DUE9JTlQuLi5cbiIpOwogICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgIEJPT1NUX0NMQVNTX1ZFUlNJT04oVUxTOjpQcm9jZXNzU2V0dGluZ3MsIDApOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -677,27 +671,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZtdDo6cHJpbnQoIkl0J3MgYSBSRUxPQ1BPSU5UXG4iKTsKICB9IGNhdGNoICguLi4pewo=</text>
+        <text encoding="base64">ICAgICAgYXIgJiBCT09TVF9TRVJJQUxJWkFUSU9OX05WUChpbXBvcnRPcHRpb25zLm1pbHNQZXJVbml0KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJpYS5nZXQKICAgIGJpYSA+PiBwb2ludDsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>;</last-search>
+      <last-search encoding="base64">YXIgJiBcKC4qXCk7</last-search>
       <last-offset />
-      <last-pattern>;</last-pattern>
+      <last-pattern encoding="base64">YXIgJiBcKC4qXCk7</last-pattern>
       <last-replace encoding="base64">YXIgXCYgQk9PU1RfU0VSSUFMSVpBVElPTl9OVlAoXDEpOw==</last-replace>
       <last-substitute encoding="base64">YXIgJiBcKC4qXCk7</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>model</entry>
         <entry>saveJSON</entry>
         <entry>insertprintjob</entry>
         <entry>import</entry>
@@ -710,17 +703,16 @@
         <entry>string</entry>
         <entry encoding="base64">YXIgJlwoLipcKTs=</entry>
         <entry>operator</entry>
-        <entry encoding="base64">YXIgJiBcKC4qXCk7</entry>
         <entry>read</entry>
         <entry>saveas</entry>
         <entry>replace</entry>
         <entry>)</entry>
         <entry>saveser</entry>
         <entry>;</entry>
+        <entry encoding="base64">XChccytcKWFyICYgXCguKlwpOw==</entry>
+        <entry encoding="base64">YXIgJiBcKC4qXCk7</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz4gcy8uKiBcKC4qXCk7LyAgICBhciBcJiAkMTsvZ2M=</entry>
-        <entry encoding="base64">JzwsJz4gcy8uKiAoLiopOy8gICAgYXIgXCYgJDE7L2dj</entry>
         <entry encoding="base64">JzwsJz4gcy8uKiBcKC4qXCk7LyAgICBhciBcJiBcJDE7L2dj</entry>
         <entry encoding="base64">JzwsJz4gcy8uKiBcKC4qXCk7LyAgICBhciBcJiBcMTsvZ2M=</entry>
         <entry encoding="base64">JzwsJz4gcy8uKiBcKC4qXCk7LyAgICBhciBcJiBwcy5cMTsvZ2M=</entry>
@@ -738,6 +730,8 @@
         <entry encoding="base64">JzwsJz5zL2FyICYgXCguKlwpOy9hciAmIEJPT1NUX1NFUklBTElaQVRJT05fTlZQKFwxKTsvZ2M=</entry>
         <entry encoding="base64">JzwsJz5zL2FyICYgXCguKlwpOy9hciBcJiBCT09TVF9TRVJJQUxJWkFUSU9OX05WUChcMSk7L2dj</entry>
         <entry>1</entry>
+        <entry encoding="base64">JXMvXChccytcKWFyICYgXCguKlwpOy9cMSBhciAmIEJPT1NUX1NFUklBTElaQVRJT05fTlZQKFwyKTsvZ2M=</entry>
+        <entry encoding="base64">JXMvYXIgJiBcKC4qXCk7L2FyIFwmIEJPT1NUX1NFUklBTElaQVRJT05fTlZQKFwxKTsvZ2M=</entry>
         <entry>noh</entry>
       </history-cmd>
       <history-expr />
