@@ -55,6 +55,7 @@
         <mark key="]" line="345" column="0" />
         <mark key="." line="345" column="0" />
       </file>
+      <file name="/etc/opt/uls-control/MotionPlanningConfig.json" timestamp="1535139622908" />
       <file name="$USER_HOME$/uls/lsm/CMakeLists.txt" timestamp="1533231479115">
         <mark key="'" line="103" column="17" />
       </file>
@@ -157,6 +158,9 @@
         <mark key="." line="36" column="15" />
         <mark key="^" line="36" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/Planning/Configuration.cpp" timestamp="1535139781787">
+        <mark key="'" line="197" column="116" />
+      </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/Migration031-1--TableAlteration_up.sql" timestamp="1533148787728">
         <mark key="[" line="1" column="53" />
         <mark key="]" line="1" column="53" />
@@ -238,10 +242,6 @@
       <file name="$USER_HOME$/uls/lsm/Camera/CameraSerialization.cpp" timestamp="1533760232364">
         <mark key="'" line="320" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/database/DatabaseMigrator/CMakeLists.txt" timestamp="1535042461692">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="27" />
-      </file>
       <file name="/GDB" timestamp="1535047266943">
         <mark key="[" line="0" column="0" />
       </file>
@@ -309,12 +309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="23" filename="$USER_HOME$/Documents/ULS/trunk/common/PageParams.cpp" />
-      <jump line="14" column="22" filename="$USER_HOME$/Documents/ULS/trunk/common/PageParams.cpp" />
-      <jump line="1106" column="37" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
-      <jump line="36" column="0" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
-      <jump line="88" column="23" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
-      <jump line="389" column="13" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
       <jump line="29" column="17" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/ULS/trunk/CMakeLists.txt" />
       <jump line="289" column="22" filename="$USER_HOME$/Documents/ULS/trunk/CMakeLists.txt" />
@@ -409,6 +403,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/ULS/trunk/common/SHOULDER.H" />
       <jump line="251" column="25" filename="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" />
       <jump line="45" column="24" filename="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" />
+      <jump line="44" column="39" filename="$USER_HOME$/Documents/ULS/trunk/Planning/Configuration.cpp" />
+      <jump line="163" column="60" filename="$USER_HOME$/Documents/ULS/trunk/Planning/Configuration.cpp" />
+      <jump line="171" column="77" filename="$USER_HOME$/Documents/ULS/trunk/Planning/Configuration.cpp" />
+      <jump line="191" column="93" filename="$USER_HOME$/Documents/ULS/trunk/Planning/Configuration.cpp" />
+      <jump line="236" column="58" filename="$USER_HOME$/Documents/ULS/trunk/Planning/Configuration.cpp" />
+      <jump line="197" column="116" filename="$USER_HOME$/Documents/ULS/trunk/Planning/Configuration.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -418,7 +418,7 @@
         <text>DEVAPPS</text>
       </register>
       <register name="/" type="4">
-        <text>log_archive</text>
+        <text>selectedModel</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">I2luY2x1ZGUgPGJvb3N0L3NlcmlhbGl6YXRpb24vdmVyc2lvbi5ocHA+</text>
@@ -672,13 +672,13 @@
         <text encoding="base64">ICAgIEltcG9ydE9wdGlvbnMgYmluUmVzdWx0Owo=</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>set norelativenumber</text>
       </register>
     </registers>
     <search>
-      <last-search>log_archive</last-search>
+      <last-search>selectedModel</last-search>
       <last-offset />
-      <last-pattern>log_archive</last-pattern>
+      <last-pattern>selectedModel</last-pattern>
       <last-replace encoding="base64">YXIgXCYgQk9PU1RfU0VSSUFMSVpBVElPTl9OVlAoXDEpOw==</last-replace>
       <last-substitute encoding="base64">YXIgJiBcKC4qXCk7</last-substitute>
       <last-dir>1</last-dir>
@@ -686,7 +686,6 @@
     </search>
     <history>
       <history-search>
-        <entry>operator ==</entry>
         <entry>'</entry>
         <entry>&quot;</entry>
         <entry>zip</entry>
@@ -706,15 +705,14 @@
         <entry>if(fs::exists</entry>
         <entry>class less</entry>
         <entry>log_archive</entry>
+        <entry>selectedModel</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz4gcy8uKiBcKC4qXCk7LyAgICBhciBcJiBcJDE7L2dj</entry>
         <entry encoding="base64">JzwsJz4gcy8uKiBcKC4qXCk7LyAgICBhciBcJiBcMTsvZ2M=</entry>
         <entry encoding="base64">JzwsJz4gcy8uKiBcKC4qXCk7LyAgICBhciBcJiBwcy5cMTsvZ2M=</entry>
         <entry>4</entry>
         <entry>278</entry>
         <entry>$</entry>
-        <entry>set norelativenumber</entry>
         <entry>85</entry>
         <entry>90</entry>
         <entry>196</entry>
@@ -728,6 +726,8 @@
         <entry encoding="base64">JXMvXChccytcKWFyICYgXCguKlwpOy9cMSBhciAmIEJPT1NUX1NFUklBTElaQVRJT05fTlZQKFwyKTsvZ2M=</entry>
         <entry encoding="base64">JXMvYXIgJiBcKC4qXCk7L2FyIFwmIEJPT1NUX1NFUklBTElaQVRJT05fTlZQKFwxKTsvZ2M=</entry>
         <entry>noh</entry>
+        <entry>160</entry>
+        <entry>set norelativenumber</entry>
       </history-cmd>
       <history-expr />
       <history-input />
