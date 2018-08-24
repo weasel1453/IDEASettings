@@ -12,8 +12,8 @@
         <mark key="^" line="162" column="8" />
         <mark key="." line="162" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" timestamp="1534958292921">
-        <mark key="'" line="1045" column="11" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" timestamp="1535133601072">
+        <mark key="'" line="45" column="24" />
         <mark key="[" line="213" column="8" />
         <mark key="]" line="213" column="13" />
         <mark key="." line="213" column="13" />
@@ -35,10 +35,10 @@
       <file name="/Clang-Tidy Info for DatabaseMigrator.cpp" timestamp="1532711611029">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/Serializers.h" timestamp="1535121942084">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="49" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/Serializers.h" timestamp="1535133181087">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/uls/lsm/Planning/BeudaertPlanner/BeudaertPlanner.cpp" timestamp="1533651924418">
         <mark key="'" line="78" column="36" />
@@ -57,11 +57,6 @@
         <mark key="[" line="345" column="0" />
         <mark key="]" line="345" column="0" />
         <mark key="." line="345" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintSettingsTransformations.cpp" timestamp="1534790173318">
-        <mark key="[" line="576" column="0" />
-        <mark key="]" line="576" column="0" />
-        <mark key="." line="576" column="0" />
       </file>
       <file name="$USER_HOME$/uls/lsm/CMakeLists.txt" timestamp="1533231479115">
         <mark key="'" line="103" column="17" />
@@ -102,6 +97,12 @@
         <mark key="]" line="15" column="3" />
         <mark key="." line="15" column="3" />
         <mark key="^" line="12" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/Control/ImportRoutines.h" timestamp="1535133503043">
+        <mark key="[" line="92" column="4" />
+        <mark key="]" line="86" column="21" />
+        <mark key="^" line="86" column="21" />
+        <mark key="." line="86" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/tools/deserialize/CMakeLists.txt" timestamp="1535044406775">
         <mark key="[" line="27" column="0" />
@@ -154,11 +155,6 @@
         <mark key="]" line="36" column="15" />
         <mark key="." line="36" column="15" />
         <mark key="^" line="36" column="15" />
-      </file>
-      <file name="/Dummy.youtrack" timestamp="1535031028717">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/Migration031-1--TableAlteration_up.sql" timestamp="1533148787728">
         <mark key="[" line="1" column="53" />
@@ -231,11 +227,6 @@
         <mark key="^" line="119" column="1" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/tools/deserialize/FilePath.h" timestamp="1535040267691">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" timestamp="1535043505038">
         <mark key="'" line="168" column="21" />
         <mark key="[" line="19" column="0" />
@@ -305,11 +296,6 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/log_archive.cpp" timestamp="1534793788312">
-        <mark key="[" line="4" column="24" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="/fragment.mm" timestamp="1535121063233">
         <mark key="[" line="0" column="0" />
       </file>
@@ -327,8 +313,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1683" column="45" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
-      <jump line="48" column="29" filename="$USER_HOME$/Documents/ULS/trunk/common/PageParams.cpp" />
       <jump line="33" column="23" filename="$USER_HOME$/Documents/ULS/trunk/common/PageParams.cpp" />
       <jump line="14" column="22" filename="$USER_HOME$/Documents/ULS/trunk/common/PageParams.cpp" />
       <jump line="1106" column="37" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
@@ -427,40 +411,42 @@
       <jump line="35" column="6" filename="$USER_HOME$/Documents/ULS/trunk/Camera/CameraSerialization.cpp" />
       <jump line="214" column="12" filename="$USER_HOME$/Documents/ULS/trunk/Control/ImportRoutines.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/ULS/trunk/common/SHOULDER.H" />
+      <jump line="251" column="25" filename="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" />
+      <jump line="45" column="24" filename="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgbGVzczsK</text>
+        <text encoding="base64">PDw8PDw8PCAubWluZQo=</text>
       </register>
       <register name="-" type="4">
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>class less</text>
+        <text>log_archive</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">I2luY2x1ZGUgPGJvb3N0L3NlcmlhbGl6YXRpb24vdmVyc2lvbi5ocHA+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgbGVzczsK</text>
+        <text encoding="base64">PDw8PDw8PCAubWluZQo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">aWYgKGJpblJlc3VsdCAhPSByZXN1bHQpIHsKICAgICAgTG9nZ2luZzo6R2V0KCJqb2JzIiktPndhcm4oIkltcG9ydE9wdGlvbnMuYmluIGRpZCBub3QgbG9hZCB0aGUgc2FtZSBhcyBJbXBvcnRPcHRpb25zLmpzb24hISEiKTsKICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Pj4+Pj4+PiAucjM3MjgwCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">aWYoZnM6OmV4aXN0cyhmczo6Y2hhbmdlX2V4dGVuc2lvbihmaWxlUGF0aCwgIi5iaW4iKSkpIHsKICAgIGZzOjpwYXRoIGJpblBhdGggPSBmczo6Y2hhbmdlX2V4dGVuc2lvbihmaWxlUGF0aCwgIi5iaW4iKTsKICAgIHN0ZDo6aWZzdHJlYW0gaWZzKGJpblBhdGgpOwogICAgYm9vc3Q6OmFyY2hpdmU6OmJpbmFyeV9pYXJjaGl2ZSBiaWEoaWZzKTsKICAgIGJpYSA+PiBiaW5SZXN1bHQ7CgogICAgaWYgKGJpblJlc3VsdCAhPSByZXN1bHQpIHsKICAgICAgTG9nZ2luZzo6R2V0KCJqb2JzIiktPndhcm4oIkltcG9ydE9wdGlvbnMuYmluIGRpZCBub3QgbG9hZCB0aGUgc2FtZSBhcyBJbXBvcnRPcHRpb25zLmpzb24hISEiKTsKICAgIH0KICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEltcG9ydE9wdGlvbnMgYmluUmVzdWx0Owo=</text>
+        <text encoding="base64">I2luY2x1ZGUgPGJ1aWxkX2RlYnVnL1NlcnZpY2VzL1VMUy9VTFNfdHlwZXMuaD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvL1NhdmUgbmV3IGJpbiAK</text>
+        <text encoding="base64">I2luY2x1ZGUgPGJ1aWxkX2RlYnVnL1NlcnZpY2VzL1VMUy9VTFNfdHlwZXMuaD4KfHx8fHx8fCAucjM3Mjc5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgCg==</text>
+        <text encoding="base64">Y2xhc3MgbGVzczsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyXwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">aWYgKGJpblJlc3VsdCAhPSByZXN1bHQpIHsKICAgICAgTG9nZ2luZzo6R2V0KCJqb2JzIiktPndhcm4oIkltcG9ydE9wdGlvbnMuYmluIGRpZCBub3QgbG9hZCB0aGUgc2FtZSBhcyBJbXBvcnRPcHRpb25zLmpzb24hISEiKTsKICAgIH0=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -683,20 +669,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEJPT1NUX0NMQVNTX1ZFUlNJT04oVUxTOjpKb2JzOjpJbXBvcnRPcHRpb25zLCAwKTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">aWYoZnM6OmV4aXN0cyhmczo6Y2hhbmdlX2V4dGVuc2lvbihmaWxlUGF0aCwgIi5iaW4iKSkpIHsKICAgIGZzOjpwYXRoIGJpblBhdGggPSBmczo6Y2hhbmdlX2V4dGVuc2lvbihmaWxlUGF0aCwgIi5iaW4iKTsKICAgIHN0ZDo6aWZzdHJlYW0gaWZzKGJpblBhdGgpOwogICAgYm9vc3Q6OmFyY2hpdmU6OmJpbmFyeV9pYXJjaGl2ZSBiaWEoaWZzKTsKICAgIGJpYSA+PiBiaW5SZXN1bHQ7CgogICAgaWYgKGJpblJlc3VsdCAhPSByZXN1bHQpIHsKICAgICAgTG9nZ2luZzo6R2V0KCJqb2JzIiktPndhcm4oIkltcG9ydE9wdGlvbnMuYmluIGRpZCBub3QgbG9hZCB0aGUgc2FtZSBhcyBJbXBvcnRPcHRpb25zLmpzb24hISEiKTsKICAgIH0KICB9</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEJPT1NUX0NMQVNTX1ZFUlNJT04oSW1wb3J0Um91dGluZXM6OkltcG9ydE9wdGlvbnMsIDApOwo=</text>
+        <text encoding="base64">ICAgIEltcG9ydE9wdGlvbnMgYmluUmVzdWx0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>class less</last-search>
+      <last-search>log_archive</last-search>
       <last-offset />
-      <last-pattern>class less</last-pattern>
+      <last-pattern>log_archive</last-pattern>
       <last-replace encoding="base64">YXIgXCYgQk9PU1RfU0VSSUFMSVpBVElPTl9OVlAoXDEpOw==</last-replace>
       <last-substitute encoding="base64">YXIgJiBcKC4qXCk7</last-substitute>
       <last-dir>1</last-dir>
@@ -704,7 +690,6 @@
     </search>
     <history>
       <history-search>
-        <entry>import</entry>
         <entry>operator ==</entry>
         <entry>'</entry>
         <entry>&quot;</entry>
@@ -724,6 +709,7 @@
         <entry encoding="base64">YXIgJiBcKC4qXCk7</entry>
         <entry>if(fs::exists</entry>
         <entry>class less</entry>
+        <entry>log_archive</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4gcy8uKiBcKC4qXCk7LyAgICBhciBcJiBcJDE7L2dj</entry>
