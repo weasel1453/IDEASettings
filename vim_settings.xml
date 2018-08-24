@@ -49,11 +49,11 @@
         <mark key="." line="49" column="3" />
         <mark key="^" line="49" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Test/ConfigurationTest/JsonTest.cpp" timestamp="1535150468725">
-        <mark key="[" line="43" column="2" />
-        <mark key="]" line="43" column="3" />
-        <mark key="^" line="43" column="3" />
-        <mark key="." line="43" column="3" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/Test/ConfigurationTest/JsonTest.cpp" timestamp="1535151896018">
+        <mark key="[" line="44" column="2" />
+        <mark key="]" line="44" column="2" />
+        <mark key="^" line="44" column="21" />
+        <mark key="." line="44" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintSettingsTransformations.cpp" timestamp="1534790173318">
         <mark key="[" line="576" column="0" />
@@ -168,12 +168,12 @@
         <mark key="." line="36" column="15" />
         <mark key="^" line="36" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Planning/Configuration.cpp" timestamp="1535150676450">
+      <file name="$USER_HOME$/Documents/ULS/trunk/Planning/Configuration.cpp" timestamp="1535151924868">
         <mark key="'" line="197" column="116" />
-        <mark key="[" line="99" column="4" />
-        <mark key="]" line="99" column="4" />
-        <mark key="^" line="99" column="5" />
-        <mark key="." line="99" column="4" />
+        <mark key="[" line="101" column="4" />
+        <mark key="]" line="101" column="5" />
+        <mark key="^" line="101" column="5" />
+        <mark key="." line="101" column="5" />
       </file>
       <file name="/Dummy.youtrack" timestamp="1535031028717">
         <mark key="[" line="0" column="0" />
@@ -280,12 +280,12 @@
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Planning/include/Configuration.h" timestamp="1535150700605">
-        <mark key="'" line="61" column="4" />
-        <mark key="[" line="302" column="4" />
-        <mark key="]" line="302" column="3" />
-        <mark key="^" line="302" column="3" />
-        <mark key="." line="302" column="3" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/Planning/include/Configuration.h" timestamp="1535151967246">
+        <mark key="'" line="304" column="11" />
+        <mark key="[" line="63" column="6" />
+        <mark key="]" line="63" column="5" />
+        <mark key="^" line="63" column="5" />
+        <mark key="." line="63" column="5" />
       </file>
       <file name="$USER_HOME$/uls/lsm/Control/WinMain.cpp" timestamp="1533325031507">
         <mark key="[" line="87" column="14" />
@@ -361,8 +361,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/ULS/trunk/CMakeLists.txt" />
-      <jump line="289" column="22" filename="$USER_HOME$/Documents/ULS/trunk/CMakeLists.txt" />
       <jump line="1247" column="0" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="442" column="38" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="1393" column="48" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
@@ -461,6 +459,8 @@
       <jump line="236" column="58" filename="$USER_HOME$/Documents/ULS/trunk/Planning/Configuration.cpp" />
       <jump line="197" column="116" filename="$USER_HOME$/Documents/ULS/trunk/Planning/Configuration.cpp" />
       <jump line="61" column="4" filename="$USER_HOME$/Documents/ULS/trunk/Planning/include/Configuration.h" />
+      <jump line="303" column="13" filename="$USER_HOME$/Documents/ULS/trunk/Planning/include/Configuration.h" />
+      <jump line="304" column="11" filename="$USER_HOME$/Documents/ULS/trunk/Planning/include/Configuration.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -470,7 +470,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>RasterLineM</text>
+        <text>KerfCompensationNURBSSegmentLength</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">I2luY2x1ZGUgPGJvb3N0L3NlcmlhbGl6YXRpb24vdmVyc2lvbi5ocHA+</text>
@@ -728,9 +728,9 @@
       </register>
     </registers>
     <search>
-      <last-search>RasterLineM</last-search>
+      <last-search>KerfCompensationNURBSSegmentLength</last-search>
       <last-offset />
-      <last-pattern>RasterLineM</last-pattern>
+      <last-pattern>KerfCompensationNURBSSegmentLength</last-pattern>
       <last-replace encoding="base64">YXIgXCYgQk9PU1RfU0VSSUFMSVpBVElPTl9OVlAoXDEpOw==</last-replace>
       <last-substitute encoding="base64">YXIgJiBcKC4qXCk7</last-substitute>
       <last-dir>1</last-dir>
@@ -738,7 +738,6 @@
     </search>
     <history>
       <history-search>
-        <entry>&quot;</entry>
         <entry>zip</entry>
         <entry>sendInterrupt</entry>
         <entry>toString</entry>
@@ -758,6 +757,7 @@
         <entry>log_archive</entry>
         <entry>selectedModel</entry>
         <entry>RasterLineM</entry>
+        <entry>KerfCompensationNURBSSegmentLength</entry>
       </history-search>
       <history-cmd>
         <entry>4</entry>
