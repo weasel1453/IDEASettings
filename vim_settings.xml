@@ -72,12 +72,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" timestamp="1535122071490">
+      <file name="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" timestamp="1535124652501">
         <mark key="'" line="26" column="19" />
-        <mark key="[" line="481" column="85" />
-        <mark key="]" line="481" column="85" />
-        <mark key="^" line="481" column="85" />
-        <mark key="." line="481" column="85" />
+        <mark key="[" line="505" column="39" />
+        <mark key="]" line="505" column="38" />
+        <mark key="^" line="505" column="38" />
+        <mark key="." line="505" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintingArchive.h" timestamp="1534791991690">
         <mark key="[" line="0" column="0" />
@@ -168,11 +168,12 @@
         <mark key="^" line="59" column="30" />
         <mark key="." line="59" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Control/ImportRoutines.cpp" timestamp="1535122738967">
-        <mark key="[" line="53" column="38" />
-        <mark key="]" line="53" column="28" />
-        <mark key="." line="53" column="28" />
-        <mark key="^" line="53" column="28" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/Control/ImportRoutines.cpp" timestamp="1535124170892">
+        <mark key="'" line="212" column="12" />
+        <mark key="[" line="124" column="3" />
+        <mark key="]" line="125" column="1" />
+        <mark key="." line="125" column="1" />
+        <mark key="^" line="125" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/database/Materials/DatabaseQueries.cpp" timestamp="1532372270629">
         <mark key="[" line="714" column="25" />
@@ -314,7 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="813" column="0" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="999" column="21" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="1683" column="45" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="48" column="29" filename="$USER_HOME$/Documents/ULS/trunk/common/PageParams.cpp" />
@@ -414,40 +414,41 @@
       <jump line="126" column="8" filename="$USER_HOME$/Documents/ULS/trunk/Camera/CameraSerialization.cpp" />
       <jump line="11" column="0" filename="$USER_HOME$/Documents/ULS/trunk/Camera/CameraSerialization.cpp" />
       <jump line="35" column="6" filename="$USER_HOME$/Documents/ULS/trunk/Camera/CameraSerialization.cpp" />
+      <jump line="214" column="12" filename="$USER_HOME$/Documents/ULS/trunk/Control/ImportRoutines.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ToJson</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>ToJson</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">YXIgJiBcKC4qXCk7</text>
+        <text>if(fs::exists</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">I2luY2x1ZGUgPGJvb3N0L3NlcmlhbGl6YXRpb24vdmVyc2lvbi5ocHA+</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIEJPT1NUX0NMQVNTX1ZFUlNJT04oVUxTOjpKb2JzOjpJbXBvcnRPcHRpb25zLCAwKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">aWYgKGJpblJlc3VsdCAhPSByZXN1bHQpIHsKICAgICAgTG9nZ2luZzo6R2V0KCJqb2JzIiktPndhcm4oIkltcG9ydE9wdGlvbnMuYmluIGRpZCBub3QgbG9hZCB0aGUgc2FtZSBhcyBJbXBvcnRPcHRpb25zLmpzb24hISEiKTsKICAgIH0=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIEJPT1NUX0NMQVNTX1ZFUlNJT04oSW1wb3J0Um91dGluZXM6OkltcG9ydE9wdGlvbnMsIDApOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">aWYoZnM6OmV4aXN0cyhmczo6Y2hhbmdlX2V4dGVuc2lvbihmaWxlUGF0aCwgIi5iaW4iKSkpIHsKICAgIGZzOjpwYXRoIGJpblBhdGggPSBmczo6Y2hhbmdlX2V4dGVuc2lvbihmaWxlUGF0aCwgIi5iaW4iKTsKICAgIHN0ZDo6aWZzdHJlYW0gaWZzKGJpblBhdGgpOwogICAgYm9vc3Q6OmFyY2hpdmU6OmJpbmFyeV9pYXJjaGl2ZSBiaWEoaWZzKTsKICAgIGJpYSA+PiBiaW5SZXN1bHQ7CgogICAgaWYgKGJpblJlc3VsdCAhPSByZXN1bHQpIHsKICAgICAgTG9nZ2luZzo6R2V0KCJqb2JzIiktPndhcm4oIkltcG9ydE9wdGlvbnMuYmluIGRpZCBub3QgbG9hZCB0aGUgc2FtZSBhcyBJbXBvcnRPcHRpb25zLmpzb24hISEiKTsKICAgIH0KICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEJPT1NUX0NMQVNTX1ZFUlNJT04oUkVMT0NQT0lOVCwgMCk7Cg==</text>
+        <text encoding="base64">ICAgIEltcG9ydE9wdGlvbnMgYmluUmVzdWx0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEJPT1NUX0NMQVNTX1ZFUlNJT04odGFnUkVDVCwgMCk7Cg==</text>
+        <text encoding="base64">ICAvL1NhdmUgbmV3IGJpbiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEJPT1NUX0NMQVNTX1ZFUlNJT04oVUxTOjpDb2xvclJnYiwgMCk7Cg==</text>
+        <text encoding="base64">CiAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEJPT1NUX0NMQVNTX1ZFUlNJT04oVUxTOjpDb2xvclJnYlVzYWdlLCAwKTsK</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyXwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEJPT1NUX0NMQVNTX1ZFUlNJT04oVUxTOjpQcm9jZXNzU2V0dGluZ3MsIDApOwo=</text>
+        <text encoding="base64">ICAgIEJPT1NUX0NMQVNTX1ZFUlNJT04oVUxTOjpKb2JzOjpJbXBvcnRPcHRpb25zLCAwKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -671,27 +672,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYXIgJiBCT09TVF9TRVJJQUxJWkFUSU9OX05WUChpbXBvcnRPcHRpb25zLm1pbHNQZXJVbml0KTsK</text>
+        <text encoding="base64">ICAgIEJPT1NUX0NMQVNTX1ZFUlNJT04oSW1wb3J0Um91dGluZXM6OkltcG9ydE9wdGlvbnMsIDApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIEJPT1NUX0NMQVNTX1ZFUlNJT04oUkVMT0NQT0lOVCwgMCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">YXIgJiBcKC4qXCk7</last-search>
+      <last-search>if(fs::exists</last-search>
       <last-offset />
-      <last-pattern encoding="base64">YXIgJiBcKC4qXCk7</last-pattern>
+      <last-pattern>if(fs::exists</last-pattern>
       <last-replace encoding="base64">YXIgXCYgQk9PU1RfU0VSSUFMSVpBVElPTl9OVlAoXDEpOw==</last-replace>
       <last-substitute encoding="base64">YXIgJiBcKC4qXCk7</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>saveJSON</entry>
         <entry>insertprintjob</entry>
         <entry>import</entry>
         <entry>operator ==</entry>
@@ -711,6 +711,7 @@
         <entry>;</entry>
         <entry encoding="base64">XChccytcKWFyICYgXCguKlwpOw==</entry>
         <entry encoding="base64">YXIgJiBcKC4qXCk7</entry>
+        <entry>if(fs::exists</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4gcy8uKiBcKC4qXCk7LyAgICBhciBcJiBcJDE7L2dj</entry>
