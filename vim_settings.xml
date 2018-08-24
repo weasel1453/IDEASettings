@@ -72,7 +72,7 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" timestamp="1535124652501">
+      <file name="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" timestamp="1535126257540">
         <mark key="'" line="26" column="19" />
         <mark key="[" line="505" column="39" />
         <mark key="]" line="505" column="38" />
@@ -168,12 +168,12 @@
         <mark key="^" line="59" column="30" />
         <mark key="." line="59" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Control/ImportRoutines.cpp" timestamp="1535124170892">
+      <file name="$USER_HOME$/Documents/ULS/trunk/Control/ImportRoutines.cpp" timestamp="1535126430279">
         <mark key="'" line="212" column="12" />
-        <mark key="[" line="124" column="3" />
-        <mark key="]" line="125" column="1" />
-        <mark key="." line="125" column="1" />
-        <mark key="^" line="125" column="1" />
+        <mark key="[" line="122" column="46" />
+        <mark key="]" line="122" column="37" />
+        <mark key="." line="122" column="37" />
+        <mark key="^" line="122" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/database/Materials/DatabaseQueries.cpp" timestamp="1532372270629">
         <mark key="[" line="714" column="25" />
@@ -418,10 +418,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>if(fs::exists</text>
