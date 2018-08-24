@@ -672,7 +672,7 @@
         <text encoding="base64">ICAgIEltcG9ydE9wdGlvbnMgYmluUmVzdWx0Owo=</text>
       </register>
       <register name=":" type="4">
-        <text>52</text>
+        <text>59</text>
       </register>
     </registers>
     <search>
@@ -708,7 +708,6 @@
         <entry>selectedModel</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz4gcy8uKiBcKC4qXCk7LyAgICBhciBcJiBwcy5cMTsvZ2M=</entry>
         <entry>4</entry>
         <entry>278</entry>
         <entry>$</entry>
@@ -728,6 +727,7 @@
         <entry>160</entry>
         <entry>set norelativenumber</entry>
         <entry>52</entry>
+        <entry>59</entry>
       </history-cmd>
       <history-expr />
       <history-input />
