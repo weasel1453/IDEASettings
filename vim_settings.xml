@@ -198,11 +198,12 @@
         <mark key="." line="44" column="19" />
         <mark key="^" line="44" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/SHOULDER.H" timestamp="1534796865193">
-        <mark key="[" line="8" column="42" />
-        <mark key="]" line="9" column="37" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/SHOULDER.H" timestamp="1535132678291">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
         <mark key="^" line="9" column="37" />
-        <mark key="." line="9" column="37" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/log_archive.h" timestamp="1534793846914">
         <mark key="[" line="166" column="38" />
@@ -326,7 +327,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="999" column="21" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="1683" column="45" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="48" column="29" filename="$USER_HOME$/Documents/ULS/trunk/common/PageParams.cpp" />
       <jump line="33" column="23" filename="$USER_HOME$/Documents/ULS/trunk/common/PageParams.cpp" />
@@ -426,40 +426,41 @@
       <jump line="11" column="0" filename="$USER_HOME$/Documents/ULS/trunk/Camera/CameraSerialization.cpp" />
       <jump line="35" column="6" filename="$USER_HOME$/Documents/ULS/trunk/Camera/CameraSerialization.cpp" />
       <jump line="214" column="12" filename="$USER_HOME$/Documents/ULS/trunk/Control/ImportRoutines.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/ULS/trunk/common/SHOULDER.H" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y2xhc3MgbGVzczsK</text>
       </register>
       <register name="-" type="4">
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>if(fs::exists</text>
+        <text>class less</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">I2luY2x1ZGUgPGJvb3N0L3NlcmlhbGl6YXRpb24vdmVyc2lvbi5ocHA+</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">aWYgKGJpblJlc3VsdCAhPSByZXN1bHQpIHsKICAgICAgTG9nZ2luZzo6R2V0KCJqb2JzIiktPndhcm4oIkltcG9ydE9wdGlvbnMuYmluIGRpZCBub3QgbG9hZCB0aGUgc2FtZSBhcyBJbXBvcnRPcHRpb25zLmpzb24hISEiKTsKICAgIH0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Y2xhc3MgbGVzczsK</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">aWYgKGJpblJlc3VsdCAhPSByZXN1bHQpIHsKICAgICAgTG9nZ2luZzo6R2V0KCJqb2JzIiktPndhcm4oIkltcG9ydE9wdGlvbnMuYmluIGRpZCBub3QgbG9hZCB0aGUgc2FtZSBhcyBJbXBvcnRPcHRpb25zLmpzb24hISEiKTsKICAgIH0=</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">aWYoZnM6OmV4aXN0cyhmczo6Y2hhbmdlX2V4dGVuc2lvbihmaWxlUGF0aCwgIi5iaW4iKSkpIHsKICAgIGZzOjpwYXRoIGJpblBhdGggPSBmczo6Y2hhbmdlX2V4dGVuc2lvbihmaWxlUGF0aCwgIi5iaW4iKTsKICAgIHN0ZDo6aWZzdHJlYW0gaWZzKGJpblBhdGgpOwogICAgYm9vc3Q6OmFyY2hpdmU6OmJpbmFyeV9pYXJjaGl2ZSBiaWEoaWZzKTsKICAgIGJpYSA+PiBiaW5SZXN1bHQ7CgogICAgaWYgKGJpblJlc3VsdCAhPSByZXN1bHQpIHsKICAgICAgTG9nZ2luZzo6R2V0KCJqb2JzIiktPndhcm4oIkltcG9ydE9wdGlvbnMuYmluIGRpZCBub3QgbG9hZCB0aGUgc2FtZSBhcyBJbXBvcnRPcHRpb25zLmpzb24hISEiKTsKICAgIH0KICB9</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIEltcG9ydE9wdGlvbnMgYmluUmVzdWx0Owo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAvL1NhdmUgbmV3IGJpbiAK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CiAgCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyXwo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEJPT1NUX0NMQVNTX1ZFUlNJT04oVUxTOjpKb2JzOjpJbXBvcnRPcHRpb25zLCAwKTsK</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyXwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -683,27 +684,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEJPT1NUX0NMQVNTX1ZFUlNJT04oSW1wb3J0Um91dGluZXM6OkltcG9ydE9wdGlvbnMsIDApOwo=</text>
+        <text encoding="base64">ICAgIEJPT1NUX0NMQVNTX1ZFUlNJT04oVUxTOjpKb2JzOjpJbXBvcnRPcHRpb25zLCAwKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEJPT1NUX0NMQVNTX1ZFUlNJT04oUkVMT0NQT0lOVCwgMCk7Cg==</text>
+        <text encoding="base64">ICAgIEJPT1NUX0NMQVNTX1ZFUlNJT04oSW1wb3J0Um91dGluZXM6OkltcG9ydE9wdGlvbnMsIDApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>if(fs::exists</last-search>
+      <last-search>class less</last-search>
       <last-offset />
-      <last-pattern>if(fs::exists</last-pattern>
+      <last-pattern>class less</last-pattern>
       <last-replace encoding="base64">YXIgXCYgQk9PU1RfU0VSSUFMSVpBVElPTl9OVlAoXDEpOw==</last-replace>
       <last-substitute encoding="base64">YXIgJiBcKC4qXCk7</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>insertprintjob</entry>
         <entry>import</entry>
         <entry>operator ==</entry>
         <entry>'</entry>
@@ -723,6 +723,7 @@
         <entry encoding="base64">XChccytcKWFyICYgXCguKlwpOw==</entry>
         <entry encoding="base64">YXIgJiBcKC4qXCk7</entry>
         <entry>if(fs::exists</entry>
+        <entry>class less</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4gcy8uKiBcKC4qXCk7LyAgICBhciBcJiBcJDE7L2dj</entry>
