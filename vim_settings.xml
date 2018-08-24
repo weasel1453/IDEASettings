@@ -14,10 +14,6 @@
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" timestamp="1535133601072">
         <mark key="'" line="45" column="24" />
-        <mark key="[" line="213" column="8" />
-        <mark key="]" line="213" column="13" />
-        <mark key="." line="213" column="13" />
-        <mark key="^" line="213" column="13" />
       </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/CreateVersion30DB.sql" timestamp="1533069287684">
         <mark key="[" line="13373" column="0" />
@@ -35,10 +31,11 @@
       <file name="/Clang-Tidy Info for DatabaseMigrator.cpp" timestamp="1532711611029">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/Serializers.h" timestamp="1535133181087">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/Serializers.h" timestamp="1535134658619">
+        <mark key="[" line="12" column="42" />
+        <mark key="]" line="13" column="42" />
+        <mark key="." line="13" column="42" />
+        <mark key="^" line="13" column="42" />
       </file>
       <file name="$USER_HOME$/uls/lsm/Planning/BeudaertPlanner/BeudaertPlanner.cpp" timestamp="1533651924418">
         <mark key="'" line="78" column="36" />
@@ -76,8 +73,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" timestamp="1535126257540">
+      <file name="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" timestamp="1535134800326">
         <mark key="'" line="26" column="19" />
+        <mark key="[" line="520" column="6" />
+        <mark key="]" line="520" column="7" />
+        <mark key="^" line="520" column="7" />
+        <mark key="." line="520" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintingArchive.h" timestamp="1534791991690">
         <mark key="[" line="0" column="0" />
@@ -98,11 +99,11 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Control/ImportRoutines.h" timestamp="1535133503043">
-        <mark key="[" line="92" column="4" />
-        <mark key="]" line="86" column="21" />
-        <mark key="^" line="86" column="21" />
-        <mark key="." line="86" column="21" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/Control/ImportRoutines.h" timestamp="1535134474550">
+        <mark key="[" line="94" column="10" />
+        <mark key="]" line="94" column="10" />
+        <mark key="^" line="92" column="37" />
+        <mark key="." line="94" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/tools/deserialize/CMakeLists.txt" timestamp="1535044406775">
         <mark key="[" line="27" column="0" />
@@ -234,13 +235,6 @@
         <mark key="^" line="385" column="1" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1535119277035">
-        <mark key="'" line="703" column="4" />
-        <mark key="[" line="702" column="6" />
-        <mark key="]" line="703" column="41" />
-        <mark key="." line="703" column="41" />
-        <mark key="^" line="703" column="41" />
-      </file>
       <file name="$USER_HOME$/uls/lsm/Camera/CameraSerialization.cpp" timestamp="1533760232364">
         <mark key="'" line="320" column="39" />
       </file>
@@ -251,8 +245,10 @@
       <file name="/GDB" timestamp="1535047266943">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535130983060">
+      <file name="/Dummy.txt" timestamp="1535135059733">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
       </file>
       <file name="$USER_HOME$/uls/lsm/Control/WinMain.cpp" timestamp="1533325031507">
         <mark key="[" line="87" column="14" />
@@ -415,11 +411,11 @@
       <jump line="45" column="24" filename="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PDw8PDw8PCAubWluZQo=</text>
+      <register name="&quot;" type="4">
+        <text>DEVAPPS</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>DEVAPPS</text>
       </register>
       <register name="/" type="4">
         <text>log_archive</text>
