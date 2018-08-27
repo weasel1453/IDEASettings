@@ -60,7 +60,6 @@
         <mark key="]" line="576" column="0" />
         <mark key="." line="576" column="0" />
       </file>
-      <file name="/etc/opt/uls-control/MotionPlanningConfig.json" timestamp="1535139622908" />
       <file name="$USER_HOME$/uls/lsm/CMakeLists.txt" timestamp="1533231479115">
         <mark key="'" line="103" column="17" />
       </file>
@@ -269,13 +268,19 @@
         <mark key="^" line="385" column="1" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1535385727423">
+        <mark key="[" line="1467" column="21" />
+        <mark key="]" line="1470" column="61" />
+        <mark key="^" line="1470" column="61" />
+        <mark key="." line="1470" column="61" />
+      </file>
       <file name="$USER_HOME$/uls/lsm/Camera/CameraSerialization.cpp" timestamp="1533760232364">
         <mark key="'" line="320" column="39" />
       </file>
       <file name="/GDB" timestamp="1535047266943">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535150397077">
+      <file name="/Dummy.txt" timestamp="1535385872302">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
@@ -463,8 +468,8 @@
       <jump line="304" column="11" filename="$USER_HOME$/Documents/ULS/trunk/Planning/include/Configuration.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTZXRTZXR0aW5nc0ZpbGVOYW1lKHN0ckZpbGUpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -476,25 +481,25 @@
         <text encoding="base64">I2luY2x1ZGUgPGJvb3N0L3NlcmlhbGl6YXRpb24vdmVyc2lvbi5ocHA+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRvdWJsZSBSYXN0ZXJMaW5lTWFyZ2luID0gMC4yNTsK</text>
+        <text encoding="base64">ICAgICAgICBTZXRTZXR0aW5nc0ZpbGVOYW1lKHN0ckZpbGUpOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGNvbnN0IGRvdWJsZSBSYXN0ZXJMaW5lTWFyZ2luID0gMC4yNTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCAubWluZQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRvdWJsZSBSYXN0ZXJMaW5lTWFyZ2luID0gMC4yNTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAucjM3MjgwCg==</text>
+        <text encoding="base64">PDw8PDw8PCAubWluZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiAucjM3MjgwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGJ1aWxkX2RlYnVnL1NlcnZpY2VzL1VMUy9VTFNfdHlwZXMuaD4K</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGJ1aWxkX2RlYnVnL1NlcnZpY2VzL1VMUy9VTFNfdHlwZXMuaD4KfHx8fHx8fCAucjM3Mjc5Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPGJ1aWxkX2RlYnVnL1NlcnZpY2VzL1VMUy9VTFNfdHlwZXMuaD4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -718,10 +723,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgbGVzczsK</text>
+        <text encoding="base64">I2luY2x1ZGUgPGJ1aWxkX2RlYnVnL1NlcnZpY2VzL1VMUy9VTFNfdHlwZXMuaD4KfHx8fHx8fCAucjM3Mjc5Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">aWYgKGJpblJlc3VsdCAhPSByZXN1bHQpIHsKICAgICAgTG9nZ2luZzo6R2V0KCJqb2JzIiktPndhcm4oIkltcG9ydE9wdGlvbnMuYmluIGRpZCBub3QgbG9hZCB0aGUgc2FtZSBhcyBJbXBvcnRPcHRpb25zLmpzb24hISEiKTsKICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Y2xhc3MgbGVzczsK</text>
       </register>
       <register name=":" type="4">
         <text>59</text>
@@ -734,7 +739,7 @@
       <last-replace encoding="base64">YXIgXCYgQk9PU1RfU0VSSUFMSVpBVElPTl9OVlAoXDEpOw==</last-replace>
       <last-substitute encoding="base64">YXIgJiBcKC4qXCk7</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
