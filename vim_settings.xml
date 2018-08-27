@@ -12,12 +12,12 @@
         <mark key="^" line="162" column="8" />
         <mark key="." line="162" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" timestamp="1535390711238">
+      <file name="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" timestamp="1535395201350">
         <mark key="'" line="278" column="34" />
-        <mark key="[" line="328" column="15" />
-        <mark key="]" line="328" column="18" />
-        <mark key="^" line="328" column="18" />
-        <mark key="." line="328" column="18" />
+        <mark key="[" line="257" column="45" />
+        <mark key="]" line="257" column="84" />
+        <mark key="^" line="257" column="84" />
+        <mark key="." line="257" column="84" />
       </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/CreateVersion30DB.sql" timestamp="1533069287684">
         <mark key="[" line="13373" column="0" />
@@ -99,11 +99,11 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Control/ImportRoutines.h" timestamp="1535388210760">
-        <mark key="[" line="80" column="24" />
-        <mark key="]" line="80" column="24" />
-        <mark key="^" line="100" column="25" />
-        <mark key="." line="80" column="24" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/Control/ImportRoutines.h" timestamp="1535394022989">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="^" line="95" column="1" />
+        <mark key="." line="102" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/tools/deserialize/CMakeLists.txt" timestamp="1535044406775">
         <mark key="[" line="27" column="0" />
@@ -187,7 +187,7 @@
         <mark key="^" line="59" column="30" />
         <mark key="." line="59" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Control/ImportRoutines.cpp" timestamp="1535390271752">
+      <file name="$USER_HOME$/Documents/ULS/trunk/Control/ImportRoutines.cpp" timestamp="1535394981180">
         <mark key="'" line="222" column="12" />
         <mark key="[" line="129" column="10" />
         <mark key="]" line="129" column="15" />
@@ -267,7 +267,7 @@
         <mark key="^" line="1475" column="0" />
         <mark key="." line="1475" column="0" />
       </file>
-      <file name="/GDB" timestamp="1535390279343">
+      <file name="/GDB" timestamp="1535394515535">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1535392668243">
@@ -453,38 +453,38 @@
       <jump line="278" column="34" filename="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Also save serialized printparams on regular printparams save.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBzdGF0aWMgYm9vbCBoYWREZXNlcmlhbGl6ZU1pc21hdGNoID0gZmFsc2U7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Also save serialized printparams on regular printparams save.</text>
+        <text>PrintSettings</text>
       </register>
       <register name="/" type="4">
         <text>importOptionsFile</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">I2luY2x1ZGUgPGJvb3N0L3NlcmlhbGl6YXRpb24vdmVyc2lvbi5ocHA+</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBzdGF0aWMgYm9vbCBoYWREZXNlcmlhbGl6ZU1pc21hdGNoID0gZmFsc2U7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTZXRTZXR0aW5nc0ZpbGVOYW1lKHN0ckZpbGUpOwo=</text>
+        <text encoding="base64">ICAvL1ByaW50UGFyYW1zOjpTYXZlU2VyaWFsaXplZChwYXJhbXMsIGJpblNldHRpbmdzRmlsZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRvdWJsZSBSYXN0ZXJMaW5lTWFyZ2luID0gMC4yNTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRvdWJsZSBSYXN0ZXJMaW5lTWFyZ2luID0gMC4yNTsK</text>
+        <text encoding="base64">ICBmczo6cGF0aCBiaW5JbXBvcnRPcHRpb25zRmlsZSA9IGZzOjpjaGFuZ2VfZXh0ZW5zaW9uKGpzb25JbXBvcnRPcHRpb25zRmlsZSwgIi5iaW4iKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCAubWluZQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAucjM3MjgwCg==</text>
+        <text encoding="base64">ICB2b2lkIFNhdmVJbXBvcnRPcHRpb25zKAogICAgY29uc3QgZnM6OnBhdGggJiBmaWxlUGF0aCwKICAgIGNvbnN0IEltcG9ydE9wdGlvbnMgJiBpbXBvcnRPcHRpb25zKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICBzdGF0aWMgSW1wb3J0T3B0aW9ucyBHZXRJbXBvcnRPcHRpb25zRnJvbURpc2soZnM6OnBhdGggZmlsZVBhdGgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGJ1aWxkX2RlYnVnL1NlcnZpY2VzL1VMUy9VTFNfdHlwZXMuaD4K</text>
+        <text encoding="base64">ICAgICAgICBTZXRTZXR0aW5nc0ZpbGVOYW1lKHN0ckZpbGUpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -708,10 +708,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGJ1aWxkX2RlYnVnL1NlcnZpY2VzL1VMUy9VTFNfdHlwZXMuaD4KfHx8fHx8fCAucjM3Mjc5Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRvdWJsZSBSYXN0ZXJMaW5lTWFyZ2luID0gMC4yNTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgbGVzczsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRvdWJsZSBSYXN0ZXJMaW5lTWFyZ2luID0gMC4yNTsK</text>
       </register>
       <register name=":" type="4">
         <text>59</text>
