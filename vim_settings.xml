@@ -160,11 +160,11 @@
         <mark key="." line="126" column="8" />
         <mark key="^" line="126" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/tools/deserialize/main.cpp" timestamp="1535401265277">
-        <mark key="[" line="37" column="2" />
-        <mark key="]" line="37" column="6" />
-        <mark key="^" line="37" column="6" />
-        <mark key="." line="37" column="6" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/tools/deserialize/main.cpp" timestamp="1535402513568">
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="158" column="37" />
+        <mark key="^" line="159" column="36" />
+        <mark key="." line="158" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Planning/Configuration.cpp" timestamp="1535151924868">
         <mark key="'" line="197" column="116" />
@@ -258,7 +258,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" timestamp="1535043505038">
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" timestamp="1535402128676">
         <mark key="'" line="168" column="21" />
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -463,37 +463,37 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBzdGQ6OnRyYW5zZm9ybShmaWxlU3RlbS5iZWdpbigpLCBmaWxlU3RlbS5lbmQoKSwgZmlsZVN0ZW0uYmVnaW4oKSwgOjp0b2xvd2VyKTsK</text>
+        <text encoding="base64">ICogUmVjb2duaXRpb24gU2V0dGluZ3M6ICAgIDMwIGZpZWxkcwo=</text>
       </register>
       <register name="-" type="4">
-        <text>std</text>
+        <text encoding="base64">UmVjb2duaXRpb25TZXR0aW5ncyA=</text>
       </register>
       <register name="/" type="4">
         <text>R</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBzdGF0aWMgYm9vbCBoYWREZXNlcmlhbGl6ZU1pc21hdGNoID0gZmFsc2U7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">Y2F0Y2ggKHN0ZDo6ZXhjZXB0aW9uICZlKQogIHsKICAgIGZtdDo6cHJpbnQoIkV4Y2VwdGlvbjoge31cbiIsIGUud2hhdCgpKTsKICAgIGZtdDo6cHJpbnQoIlNvbWV0aGluZyB3ZW50IHdyb25nLiBBcmUgeW91IHN1cmUgdGhhdCBpcyBhIFJlY29nbml0aW9uU2V0dGluZ3MgZmlsZT8iKTsKICAgIHJldHVybiAxOwogIH0gY2F0Y2ggKC4uLikgCiAgewogICAgZm10OjpwcmludCgiU29tZSBleGNlcHRpb24gbm90IGRlcml2ZWQgZnJvbSBzdGQ6OmV4Y2VwdGlvbiB3YXMgdGhyb3duLiIpOwogICAgcmV0dXJuIDE7CiAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzdGQ6OnRyYW5zZm9ybShmaWxlU3RlbS5iZWdpbigpLCBmaWxlU3RlbS5lbmQoKSwgZmlsZVN0ZW0uYmVnaW4oKSwgOjp0b2xvd2VyKTsK</text>
+        <text encoding="base64">ICogUmVjb2duaXRpb24gU2V0dGluZ3M6ICAgIDMwIGZpZWxkcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzdGQ6OnRyYW5zZm9ybShmaWxlU3RlbS5iZWcpCg==</text>
+        <text encoding="base64">ICByZXR1cm4gMDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzdGQ6OnRyYW5zZm9ybQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6dG9sb3dlcmQK</text>
+        <text encoding="base64">ICByZXR1cm4gMDsK</text>
       </register>
-      <register name="5" type="4">
-        <text>Camera</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBwcmludFByaW50UGFyYW1zKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzdGQ6OnRyYW5zZm9ybShmaWxlU3RlbS5iZWdpbigpLCBmaWxlU3RlbS5lbmQoKSwgZmlsZVN0ZW0uYmVnaW4oKSwgOjp0b2xvd2VyKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzdGQ6OnRyYW5zZm9ybShmaWxlU3RlbS5iZWdpbigpLCBmaWxlU3RlbS5lbmQoKSwgZmlsZVN0ZW0uYmVnaW4oKSwgOjp0b2xvd2VyKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -717,10 +717,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZm10OjpwcmludCgiU29tZXRoaW5nIHdlbnQgd3JvbmcuIEFyZSB5b3Ugc3VyZSB0aGF0IGlzIGFuIEltcG9ydE9wdGlvbnMgZmlsZT8iKTsK</text>
+        <text encoding="base64">ICBzdGQ6OnRyYW5zZm9ybShmaWxlU3RlbS5iZWcpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAxOwo=</text>
+        <text encoding="base64">ICBzdGQ6OnRyYW5zZm9ybQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
