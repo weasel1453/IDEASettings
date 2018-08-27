@@ -3,14 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/start_script.py" timestamp="1531342452321">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/DuplicationData.h" timestamp="1534792581026">
         <mark key="[" line="14" column="17" />
         <mark key="]" line="162" column="0" />
         <mark key="^" line="162" column="8" />
         <mark key="." line="162" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" timestamp="1535133601072">
-        <mark key="'" line="45" column="24" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" timestamp="1535390711238">
+        <mark key="'" line="278" column="34" />
+        <mark key="[" line="328" column="15" />
+        <mark key="]" line="328" column="18" />
+        <mark key="^" line="328" column="18" />
+        <mark key="." line="328" column="18" />
       </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/CreateVersion30DB.sql" timestamp="1533069287684">
         <mark key="[" line="13373" column="0" />
@@ -25,17 +32,14 @@
         <mark key="." line="419" column="57" />
         <mark key="^" line="419" column="57" />
       </file>
+      <file name="/Clang-Tidy Info for DatabaseMigrator.cpp" timestamp="1532711611029">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/Serializers.h" timestamp="1535134658619">
         <mark key="[" line="12" column="42" />
         <mark key="]" line="13" column="42" />
         <mark key="." line="13" column="42" />
         <mark key="^" line="13" column="42" />
-      </file>
-      <file name="$USER_HOME$/uls/lsm/Planning/BeudaertPlanner/BeudaertPlanner.cpp" timestamp="1533651924418">
-        <mark key="'" line="78" column="36" />
-      </file>
-      <file name="$USER_HOME$/uls/lsm/Planning/Planner.cpp" timestamp="1533652060975">
-        <mark key="'" line="633" column="6" />
       </file>
       <file name="$USER_HOME$/uls/lsm/common/SHOULDER.H" timestamp="1533759943266">
         <mark key="[" line="49" column="3" />
@@ -54,8 +58,8 @@
         <mark key="]" line="576" column="0" />
         <mark key="." line="576" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/CMakeLists.txt" timestamp="1533231479115">
-        <mark key="'" line="103" column="17" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/Test/CommonTest/CMakeLists.txt" timestamp="1534196701238">
+        <mark key="[" line="61" column="19" />
       </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/CMakeLists.txt" timestamp="1533322044059">
         <mark key="[" line="17" column="43" />
@@ -183,15 +187,12 @@
         <mark key="^" line="59" column="30" />
         <mark key="." line="59" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Control/ImportRoutines.cpp" timestamp="1535388423813">
+      <file name="$USER_HOME$/Documents/ULS/trunk/Control/ImportRoutines.cpp" timestamp="1535390271752">
         <mark key="'" line="222" column="12" />
         <mark key="[" line="129" column="10" />
         <mark key="]" line="129" column="15" />
         <mark key="." line="129" column="15" />
         <mark key="^" line="129" column="15" />
-      </file>
-      <file name="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" timestamp="1533220266079">
-        <mark key="'" line="331" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Planning/PathConstruction/Polyline.h" timestamp="1535150417442">
         <mark key="[" line="26" column="6" />
@@ -205,6 +206,9 @@
         <mark key="]" line="714" column="25" />
         <mark key="." line="714" column="25" />
         <mark key="^" line="714" column="26" />
+      </file>
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/footer.h" timestamp="1533069328300">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Test/CommonTest/PrintParamsTest.cpp" timestamp="1535037409237">
         <mark key="[" line="42" column="43" />
@@ -257,16 +261,16 @@
         <mark key="^" line="385" column="1" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1535385727423">
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1535390205543">
         <mark key="[" line="1467" column="21" />
-        <mark key="]" line="1470" column="61" />
-        <mark key="^" line="1470" column="61" />
-        <mark key="." line="1470" column="61" />
+        <mark key="]" line="1475" column="0" />
+        <mark key="^" line="1475" column="0" />
+        <mark key="." line="1475" column="0" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/Camera/CameraSerialization.cpp" timestamp="1533760232364">
-        <mark key="'" line="320" column="39" />
+      <file name="/GDB" timestamp="1535390279343">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535385872302">
+      <file name="/Dummy.txt" timestamp="1535389542608">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
@@ -325,6 +329,9 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="/fragment.mm" timestamp="1535121063233">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.cpp" timestamp="1533302030878">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="1" column="42" />
@@ -344,8 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1247" column="0" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
-      <jump line="442" column="38" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="1393" column="48" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="1531" column="29" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="1411" column="18" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
@@ -444,6 +449,8 @@
       <jump line="61" column="4" filename="$USER_HOME$/Documents/ULS/trunk/Planning/include/Configuration.h" />
       <jump line="303" column="13" filename="$USER_HOME$/Documents/ULS/trunk/Planning/include/Configuration.h" />
       <jump line="304" column="11" filename="$USER_HOME$/Documents/ULS/trunk/Planning/include/Configuration.h" />
+      <jump line="320" column="6" filename="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" />
+      <jump line="278" column="34" filename="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -453,7 +460,7 @@
         <text>importOptions</text>
       </register>
       <register name="/" type="4">
-        <text>KerfCompensationNURBSSegmentLength</text>
+        <text>importOptionsFile</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">I2luY2x1ZGUgPGJvb3N0L3NlcmlhbGl6YXRpb24vdmVyc2lvbi5ocHA+</text>
@@ -711,17 +718,16 @@
       </register>
     </registers>
     <search>
-      <last-search>KerfCompensationNURBSSegmentLength</last-search>
+      <last-search>importOptionsFile</last-search>
       <last-offset />
-      <last-pattern>KerfCompensationNURBSSegmentLength</last-pattern>
+      <last-pattern>importOptionsFile</last-pattern>
       <last-replace encoding="base64">YXIgXCYgQk9PU1RfU0VSSUFMSVpBVElPTl9OVlAoXDEpOw==</last-replace>
       <last-substitute encoding="base64">YXIgJiBcKC4qXCk7</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>zip</entry>
         <entry>sendInterrupt</entry>
         <entry>toString</entry>
         <entry>string</entry>
@@ -741,6 +747,7 @@
         <entry>selectedModel</entry>
         <entry>RasterLineM</entry>
         <entry>KerfCompensationNURBSSegmentLength</entry>
+        <entry>importOptionsFile</entry>
       </history-search>
       <history-cmd>
         <entry>4</entry>
