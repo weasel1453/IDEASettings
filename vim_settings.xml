@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1531342452321">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/DuplicationData.h" timestamp="1534792581026">
         <mark key="[" line="14" column="17" />
         <mark key="]" line="162" column="0" />
@@ -27,9 +24,6 @@
         <mark key="]" line="419" column="57" />
         <mark key="." line="419" column="57" />
         <mark key="^" line="419" column="57" />
-      </file>
-      <file name="/Clang-Tidy Info for DatabaseMigrator.cpp" timestamp="1532711611029">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/Serializers.h" timestamp="1535134658619">
         <mark key="[" line="12" column="42" />
@@ -62,9 +56,6 @@
       </file>
       <file name="$USER_HOME$/uls/lsm/CMakeLists.txt" timestamp="1533231479115">
         <mark key="'" line="103" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Test/CommonTest/CMakeLists.txt" timestamp="1534196701238">
-        <mark key="[" line="61" column="19" />
       </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/CMakeLists.txt" timestamp="1533322044059">
         <mark key="[" line="17" column="43" />
@@ -104,11 +95,11 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Control/ImportRoutines.h" timestamp="1535136445700">
-        <mark key="[" line="85" column="14" />
-        <mark key="]" line="85" column="13" />
-        <mark key="^" line="85" column="13" />
-        <mark key="." line="85" column="13" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/Control/ImportRoutines.h" timestamp="1535386974210">
+        <mark key="[" line="100" column="25" />
+        <mark key="]" line="100" column="25" />
+        <mark key="^" line="100" column="25" />
+        <mark key="." line="100" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/tools/deserialize/CMakeLists.txt" timestamp="1535044406775">
         <mark key="[" line="27" column="0" />
@@ -214,9 +205,6 @@
         <mark key="." line="714" column="25" />
         <mark key="^" line="714" column="26" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/footer.h" timestamp="1533069328300">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Test/CommonTest/PrintParamsTest.cpp" timestamp="1535037409237">
         <mark key="[" line="42" column="43" />
         <mark key="]" line="44" column="19" />
@@ -276,9 +264,6 @@
       </file>
       <file name="$USER_HOME$/uls/lsm/Camera/CameraSerialization.cpp" timestamp="1533760232364">
         <mark key="'" line="320" column="39" />
-      </file>
-      <file name="/GDB" timestamp="1535047266943">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1535385872302">
         <mark key="[" line="0" column="0" />
@@ -343,9 +328,6 @@
         <mark key="[" line="4" column="24" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="/fragment.mm" timestamp="1535121063233">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.cpp" timestamp="1533302030878">
         <mark key="[" line="0" column="12" />
