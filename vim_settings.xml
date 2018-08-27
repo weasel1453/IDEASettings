@@ -95,11 +95,11 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Control/ImportRoutines.h" timestamp="1535386974210">
-        <mark key="[" line="100" column="25" />
-        <mark key="]" line="100" column="25" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/Control/ImportRoutines.h" timestamp="1535388210760">
+        <mark key="[" line="80" column="24" />
+        <mark key="]" line="80" column="24" />
         <mark key="^" line="100" column="25" />
-        <mark key="." line="100" column="25" />
+        <mark key="." line="80" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/tools/deserialize/CMakeLists.txt" timestamp="1535044406775">
         <mark key="[" line="27" column="0" />
@@ -183,12 +183,12 @@
         <mark key="^" line="59" column="30" />
         <mark key="." line="59" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Control/ImportRoutines.cpp" timestamp="1535126430279">
-        <mark key="'" line="212" column="12" />
-        <mark key="[" line="122" column="46" />
-        <mark key="]" line="122" column="37" />
-        <mark key="." line="122" column="37" />
-        <mark key="^" line="122" column="37" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/Control/ImportRoutines.cpp" timestamp="1535388423813">
+        <mark key="'" line="222" column="12" />
+        <mark key="[" line="129" column="10" />
+        <mark key="]" line="129" column="15" />
+        <mark key="." line="129" column="15" />
+        <mark key="^" line="129" column="15" />
       </file>
       <file name="$USER_HOME$/uls/lsm/database/Materials/DatabaseQueries.cpp" timestamp="1533220266079">
         <mark key="'" line="331" column="16" />
@@ -199,6 +199,7 @@
         <mark key="^" line="26" column="11" />
         <mark key="." line="26" column="11" />
       </file>
+      <file name="/ImportRoutines.cpp" timestamp="1535387969893" />
       <file name="$USER_HOME$/Documents/ULS/trunk/database/Materials/DatabaseQueries.cpp" timestamp="1532372270629">
         <mark key="[" line="714" column="25" />
         <mark key="]" line="714" column="25" />
@@ -282,11 +283,6 @@
         <mark key="]" line="88" column="11" />
         <mark key="^" line="88" column="11" />
         <mark key="." line="88" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Camera/CameraSerialization.cpp" timestamp="1535121878550">
-        <mark key="'" line="35" column="6" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="41" />
       </file>
       <file name="$USER_HOME$/uls/lsm/cmake-build-release/Services/ULS/ULS_types.h" timestamp="1533759968866">
         <mark key="[" line="866" column="0" />
@@ -450,11 +446,11 @@
       <jump line="304" column="11" filename="$USER_HOME$/Documents/ULS/trunk/Planning/include/Configuration.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTZXRTZXR0aW5nc0ZpbGVOYW1lKHN0ckZpbGUpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>importOptions</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>importOptions</text>
       </register>
       <register name="/" type="4">
         <text>KerfCompensationNURBSSegmentLength</text>
