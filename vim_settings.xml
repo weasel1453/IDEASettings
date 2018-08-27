@@ -160,11 +160,11 @@
         <mark key="." line="126" column="8" />
         <mark key="^" line="126" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/tools/deserialize/main.cpp" timestamp="1535402513568">
-        <mark key="[" line="158" column="0" />
-        <mark key="]" line="158" column="37" />
-        <mark key="^" line="159" column="36" />
-        <mark key="." line="158" column="0" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/tools/deserialize/main.cpp" timestamp="1535404168106">
+        <mark key="[" line="202" column="8" />
+        <mark key="]" line="221" column="5" />
+        <mark key="^" line="202" column="7" />
+        <mark key="." line="202" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Planning/Configuration.cpp" timestamp="1535151924868">
         <mark key="'" line="197" column="116" />
@@ -292,10 +292,12 @@
         <mark key="^" line="88" column="11" />
         <mark key="." line="88" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Camera/CameraSerialization.cpp" timestamp="1535400277863">
-        <mark key="'" line="35" column="6" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="41" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/Camera/CameraSerialization.cpp" timestamp="1535403714113">
+        <mark key="'" line="39" column="6" />
+        <mark key="[" line="137" column="5" />
+        <mark key="]" line="93" column="0" />
+        <mark key="^" line="93" column="56" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/uls/lsm/cmake-build-release/Services/ULS/ULS_types.h" timestamp="1533759968866">
         <mark key="[" line="866" column="0" />
@@ -462,38 +464,39 @@
       <jump line="278" column="34" filename="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICogUmVjb2duaXRpb24gU2V0dGluZ3M6ICAgIDMwIGZpZWxkcwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dHJ5CiAgICB7CiAgICAgIEltcG9ydFJvdXRpbmVzOjpJbXBvcnRPcHRpb25zIGltcG9ydE9wdGlvbnM7CiAgICAgIHN0ZDo6aWZzdHJlYW0gaWZzKGZpbGVQYXRoLnN0cmluZygpKTsKICAgICAgYm9vc3Q6OmFyY2hpdmU6OmJpbmFyeV9pYXJjaGl2ZSBiaWEoaWZzKTsKICAgICAgYmlhID4+IGltcG9ydE9wdGlvbnM7CiAgICAgIGZtdDo6cHJpbnQoIkl0J3MgcHJvYmFibHkgYW4gSW1wb3J0T3B0aW9ucyBmaWxlXG4iKTsKICAgICAgc2ltcGxlX2xvZ19hcmNoaXZlIGxhKGNvdXQpOwogICAgICBsYSA8PCBpbXBvcnRPcHRpb25zOwogICAgICByZXR1cm4gMDsKICAgIH0gY2F0Y2ggKHN0ZDo6ZXhjZXB0aW9uICZlKQogICAgewogICAgICBmbXQ6OnByaW50KCJFeGNlcHRpb246IHt9XG4iLCBlLndoYXQoKSk7CiAgICAgIGZtdDo6cHJpbnQoIk5vIHN1aXRhYmxlIGRlc2VyaWFsaXplciBmb3VuZCBvciBhbiBleGNlcHRpb24gb2NjdXJyZWQgZGVzZXJpYWxpemluZyB0aGUgbGFzdCBndWVzc1xuIik7CiAgICAgIHJldHVybiAxOwogICAgfSBjYXRjaCAoLi4uKQogICAgewogICAgICBmbXQ6OnByaW50KCJTb21lIGV4Y2VwdGlvbiBub3QgZGVyaXZlZCBmcm9tIHN0ZDo6ZXhjZXB0aW9uIHdhcyB0aHJvd24gd2hpbGUgYXR0ZW1wdGluZyB0byB0dXJuIHRoaXMgZmlsZSBpbnRvIGFuIEltcG9ydE9wdGlvbnMuIik7CiAgICAgIHJldHVybiAxOwogICAgfQ==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UmVjb2duaXRpb25TZXR0aW5ncyA=</text>
+        <text>Recognition</text>
       </register>
       <register name="/" type="4">
-        <text>R</text>
+        <text>S</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Y2F0Y2ggKHN0ZDo6ZXhjZXB0aW9uICZlKQogIHsKICAgIGZtdDo6cHJpbnQoIkV4Y2VwdGlvbjoge31cbiIsIGUud2hhdCgpKTsKICAgIGZtdDo6cHJpbnQoIlNvbWV0aGluZyB3ZW50IHdyb25nLiBBcmUgeW91IHN1cmUgdGhhdCBpcyBhIFJlY29nbml0aW9uU2V0dGluZ3MgZmlsZT8iKTsKICAgIHJldHVybiAxOwogIH0gY2F0Y2ggKC4uLikgCiAgewogICAgZm10OjpwcmludCgiU29tZSBleGNlcHRpb24gbm90IGRlcml2ZWQgZnJvbSBzdGQ6OmV4Y2VwdGlvbiB3YXMgdGhyb3duLiIpOwogICAgcmV0dXJuIDE7CiAgfQ==</text>
+        <text>fmt::print(&quot;Some exception not derived from std::exception was thrown while attempting to turn this file into a RecognitionSettings.&quot;);
+      return 1;</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICogUmVjb2duaXRpb24gU2V0dGluZ3M6ICAgIDMwIGZpZWxkcwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">dHJ5CiAgICB7CiAgICAgIEltcG9ydFJvdXRpbmVzOjpJbXBvcnRPcHRpb25zIGltcG9ydE9wdGlvbnM7CiAgICAgIHN0ZDo6aWZzdHJlYW0gaWZzKGZpbGVQYXRoLnN0cmluZygpKTsKICAgICAgYm9vc3Q6OmFyY2hpdmU6OmJpbmFyeV9pYXJjaGl2ZSBiaWEoaWZzKTsKICAgICAgYmlhID4+IGltcG9ydE9wdGlvbnM7CiAgICAgIGZtdDo6cHJpbnQoIkl0J3MgcHJvYmFibHkgYW4gSW1wb3J0T3B0aW9ucyBmaWxlXG4iKTsKICAgICAgc2ltcGxlX2xvZ19hcmNoaXZlIGxhKGNvdXQpOwogICAgICBsYSA8PCBpbXBvcnRPcHRpb25zOwogICAgICByZXR1cm4gMDsKICAgIH0gY2F0Y2ggKHN0ZDo6ZXhjZXB0aW9uICZlKQogICAgewogICAgICBmbXQ6OnByaW50KCJFeGNlcHRpb246IHt9XG4iLCBlLndoYXQoKSk7CiAgICAgIGZtdDo6cHJpbnQoIk5vIHN1aXRhYmxlIGRlc2VyaWFsaXplciBmb3VuZCBvciBhbiBleGNlcHRpb24gb2NjdXJyZWQgZGVzZXJpYWxpemluZyB0aGUgbGFzdCBndWVzc1xuIik7CiAgICAgIHJldHVybiAxOwogICAgfSBjYXRjaCAoLi4uKQogICAgewogICAgICBmbXQ6OnByaW50KCJTb21lIGV4Y2VwdGlvbiBub3QgZGVyaXZlZCBmcm9tIHN0ZDo6ZXhjZXB0aW9uIHdhcyB0aHJvd24gd2hpbGUgYXR0ZW1wdGluZyB0byB0dXJuIHRoaXMgZmlsZSBpbnRvIGFuIEltcG9ydE9wdGlvbnMuIik7CiAgICAgIHJldHVybiAxOwogICAgfQ==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICByZXR1cm4gMDsK</text>
+      <register name="2" type="4">
+        <text>Recognition</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgZm10OjpwcmludCgiIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBwcmludFByaW50UGFyYW1zKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzdGQ6OnRyYW5zZm9ybShmaWxlU3RlbS5iZWdpbigpLCBmaWxlU3RlbS5lbmQoKSwgZmlsZVN0ZW0uYmVnaW4oKSwgOjp0b2xvd2VyKTsK</text>
+        <text encoding="base64">ICAgIHNpbXBsZV9sb2dfYXJjaGl2ZSBsYShjb3V0KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzdGQ6OnRyYW5zZm9ybShmaWxlU3RlbS5iZWdpbigpLCBmaWxlU3RlbS5lbmQoKSwgZmlsZVN0ZW0uYmVnaW4oKSwgOjp0b2xvd2VyKTsK</text>
+        <text encoding="base64">ICAgICAgLy8gVE9ETyBEZWZhdWx0IHZhbHVlcyBmb3IgZmllbGRzIGFyZSBjb2RlZCB0d2ljZS4gIE9uY2UgaGVyZSwgYW5kIG9uY2UgaW4gQ2FtZXJhU2VydmljZUhhbmRsZXIuaAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -717,19 +720,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzdGQ6OnRyYW5zZm9ybShmaWxlU3RlbS5iZWcpCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzdGQ6OnRyYW5zZm9ybQo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>60</text>
       </register>
     </registers>
     <search>
-      <last-search>R</last-search>
+      <last-search>S</last-search>
       <last-offset />
-      <last-pattern>R</last-pattern>
+      <last-pattern>S</last-pattern>
       <last-replace encoding="base64">YXIgXCYgQk9PU1RfU0VSSUFMSVpBVElPTl9OVlAoXDEpOw==</last-replace>
       <last-substitute encoding="base64">YXIgJiBcKC4qXCk7</last-substitute>
       <last-dir>1</last-dir>
@@ -737,7 +740,6 @@
     </search>
     <history>
       <history-search>
-        <entry>toString</entry>
         <entry>string</entry>
         <entry encoding="base64">YXIgJlwoLipcKTs=</entry>
         <entry>operator</entry>
@@ -757,9 +759,9 @@
         <entry>KerfCompensationNURBSSegmentLength</entry>
         <entry>importOptionsFile</entry>
         <entry>R</entry>
+        <entry>S</entry>
       </history-search>
       <history-cmd>
-        <entry>4</entry>
         <entry>278</entry>
         <entry>$</entry>
         <entry>85</entry>
@@ -771,14 +773,15 @@
         <entry encoding="base64">JzwsJz5zL2FyICYgXCguKlwpOy8gJiBCT09TVF9TRVJJQUxJWkFUSU9OX05WUChcMSk7L2dj</entry>
         <entry encoding="base64">JzwsJz5zL2FyICYgXCguKlwpOy9hciAmIEJPT1NUX1NFUklBTElaQVRJT05fTlZQKFwxKTsvZ2M=</entry>
         <entry encoding="base64">JzwsJz5zL2FyICYgXCguKlwpOy9hciBcJiBCT09TVF9TRVJJQUxJWkFUSU9OX05WUChcMSk7L2dj</entry>
-        <entry>1</entry>
         <entry encoding="base64">JXMvXChccytcKWFyICYgXCguKlwpOy9cMSBhciAmIEJPT1NUX1NFUklBTElaQVRJT05fTlZQKFwyKTsvZ2M=</entry>
         <entry encoding="base64">JXMvYXIgJiBcKC4qXCk7L2FyIFwmIEJPT1NUX1NFUklBTElaQVRJT05fTlZQKFwxKTsvZ2M=</entry>
         <entry>160</entry>
         <entry>set norelativenumber</entry>
         <entry>52</entry>
         <entry>59</entry>
+        <entry>1</entry>
         <entry>noh</entry>
+        <entry>60</entry>
       </history-cmd>
       <history-expr />
       <history-input />
