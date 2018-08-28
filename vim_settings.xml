@@ -77,12 +77,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" timestamp="1535406568483">
-        <mark key="'" line="26" column="19" />
-        <mark key="[" line="533" column="2" />
-        <mark key="]" line="535" column="87" />
-        <mark key="^" line="535" column="87" />
-        <mark key="." line="535" column="87" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" timestamp="1535488713970">
+        <mark key="[" line="537" column="55" />
+        <mark key="]" line="542" column="27" />
+        <mark key="." line="542" column="27" />
+        <mark key="^" line="542" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintingArchive.h" timestamp="1534791991690">
         <mark key="[" line="0" column="0" />
@@ -103,11 +102,11 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Control/ImportRoutines.h" timestamp="1535394022989">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/Control/ImportRoutines.h" timestamp="1535488101963">
+        <mark key="[" line="100" column="1" />
+        <mark key="]" line="102" column="102" />
         <mark key="^" line="95" column="1" />
-        <mark key="." line="102" column="0" />
+        <mark key="." line="101" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/tools/deserialize/CMakeLists.txt" timestamp="1535405840200">
         <mark key="[" line="28" column="15" />
@@ -178,7 +177,7 @@
         <mark key="^" line="101" column="5" />
         <mark key="." line="101" column="5" />
       </file>
-      <file name="/Dummy.youtrack" timestamp="1535474622757">
+      <file name="/Dummy.youtrack" timestamp="1535488320816">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -397,7 +396,6 @@
       <jump line="527" column="23" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
       <jump line="533" column="76" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
       <jump line="534" column="51" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
-      <jump line="535" column="12" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
       <jump line="536" column="37" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
       <jump line="538" column="44" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
       <jump line="539" column="51" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
@@ -465,40 +463,41 @@
       <jump line="304" column="11" filename="$USER_HOME$/Documents/ULS/trunk/Planning/include/Configuration.h" />
       <jump line="320" column="6" filename="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" />
       <jump line="278" column="34" filename="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" />
+      <jump line="535" column="87" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>c</text>
+        <text>binResultIntermidiate</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>binResultIntermidiate</text>
       </register>
       <register name="/" type="4">
-        <text>S</text>
+        <text>GetImportOptionsFromJSON</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aWYgKHNlcGVyYXRvcikgewogICAgICBtX29zIDw8IGZtdDo6Zm9ybWF0KCJ7On48NTZ9IiwgdC5uYW1lKCkpOyAvLyBvdXRwdXQgdGhlIG5hbWUgb2YgdGhlIG9iamVjdAogICAgfSBlbHNlIHsKICAgICAgbV9vcyA8PCBmbXQ6OmZvcm1hdCgiezotPDU2fSIsIHQubmFtZSgpKTsgLy8gb3V0cHV0IHRoZSBuYW1lIG9mIHRoZSBvYmplY3QKICAgIH0KICAgIHNlcGVyYXRvciA9ICFzZXBlcmF0b3I7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1fb3MgPDwgZm10Ojpmb3JtYXQoIns6LTw1Nn0iLCB0Lm5hbWUoKSk7IC8vIG91dHB1dCB0aGUgbmFtZSBvZiB0aGUgb2JqZWN0Cg==</text>
+        <text encoding="base64">ICAgIFVMUzo6Sm9iczo6SW1wb3J0T3B0aW9ucyBiaW5SZXN1bHQ7CiAgICBJbXBvcnRSb3V0aW5lczo6SW1wb3J0T3B0aW9ucyBiaW5SZXN1bHRJbnRlcm1lZGlhdGU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlcGVyYXRvciA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBib29sIHNlcGVyYXRvciA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgYmluUmVzdWx0ID0gSW1wb3J0Um91dGluZXM6OmNvbnZlcnQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBzdGF0aWMgVUxTOjpKb2JzOjpJbXBvcnRPcHRpb25zIGNvbnZlcnRJbXBvcnRPcHRpb25zKGNvbnN0IEltcG9ydFJvdXRpbmVzOjpJbXBvcnRPcHRpb25zICYgb3B0aW9ucyk7CiAgc3RhdGljIEltcG9ydFJvdXRpbmVzOjpJbXBvcnRPcHRpb25zIGNvbnZlcnRJbXBvcnRPcHRpb25zKGNvbnN0IFVMUzo6Sm9iczo6SW1wb3J0T3B0aW9ucyAmIG9wdGlvbnMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1fb3MgPDwgZm10Ojpmb3JtYXQoIns6LTw1Nn0iLCB0Lm5hbWUoKSk7IC8vIG91dHB1dCB0aGUgbmFtZSBvZiB0aGUgb2JqZWN0Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc2VwZXJhdG9yID0gIXNlcGVyYXRvcgo=</text>
+        <text encoding="base64">ICAgICAgSW1wb3J0Um91dGluZXM6OlNhdmVJbXBvcnRPcHRpb25zKGZpbGVQYXRoLCByZXN1bHQpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -721,28 +720,27 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgKiB0aGlzIDw8IHN0YXRpY19jYXN0PGludD4odC5zZWNvbmQpOwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">aWYgKCEocmVzdWx0ID09IGJpblJlc3VsdCkpIHsKICAgICAgTG9nZ2luZzo6R2V0KCJqb2IiKS0+d2FybigiSW1wb3J0IG9wdGlvbnMgYmluIGRpZCBub3QgbWF0Y2ggaW1wb3J0IG9wdGlvbnMgSlNPTiIpOwogICAgfQ==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIChpbnN0YW5jZW9mPGludDhfdD4odC5zZWNvbmQpKQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">aWYoZnM6OmV4aXN0cyhmczo6Y2hhbmdlX2V4dGVuc2lvbihmaWxlUGF0aCwgIi5iaW4iKSkpCiAgICB7CiAgICAgIHN0ZDo6aWZzdHJlYW0gaWZzKGZzOjpjaGFuZ2VfZXh0ZW5zaW9uKGZpbGVQYXRoLCAiLmJpbiIpLnN0cmluZygpKTsKICAgICAgYm9vc3Q6OmFyY2hpdmU6OmJpbmFyeV9pYXJjaGl2ZSBiaWEoaWZzKTsKICAgICAgYmlhID4+IGJpblJlc3VsdDsKICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>516</text>
       </register>
     </registers>
     <search>
-      <last-search>S</last-search>
+      <last-search>GetImportOptionsFromJSON</last-search>
       <last-offset />
-      <last-pattern>S</last-pattern>
+      <last-pattern>GetImportOptionsFromJSON</last-pattern>
       <last-replace encoding="base64">YXIgXCYgQk9PU1RfU0VSSUFMSVpBVElPTl9OVlAoXDEpOw==</last-replace>
       <last-substitute encoding="base64">YXIgJiBcKC4qXCk7</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>string</entry>
         <entry encoding="base64">YXIgJlwoLipcKTs=</entry>
         <entry>operator</entry>
         <entry>read</entry>
@@ -762,6 +760,7 @@
         <entry>importOptionsFile</entry>
         <entry>R</entry>
         <entry>S</entry>
+        <entry>GetImportOptionsFromJSON</entry>
       </history-search>
       <history-cmd>
         <entry>$</entry>
