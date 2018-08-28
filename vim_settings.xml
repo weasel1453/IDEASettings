@@ -158,18 +158,18 @@
         <mark key="." line="69" column="0" />
         <mark key="^" line="69" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/simple_log_archive.h" timestamp="1535408329294">
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/simple_log_archive.h" timestamp="1535471530356">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="155" column="27" />
-        <mark key="]" line="123" column="5" />
-        <mark key="." line="123" column="5" />
-        <mark key="^" line="123" column="5" />
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="157" column="0" />
+        <mark key="^" line="157" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/tools/deserialize/main.cpp" timestamp="1535407401733">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="23" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/tools/deserialize/main.cpp" timestamp="1535471907314">
+        <mark key="[" line="169" column="71" />
+        <mark key="]" line="169" column="71" />
+        <mark key="^" line="169" column="71" />
+        <mark key="." line="169" column="71" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Planning/Configuration.cpp" timestamp="1535151924868">
         <mark key="'" line="197" column="116" />
@@ -209,7 +209,6 @@
         <mark key="^" line="26" column="11" />
         <mark key="." line="26" column="11" />
       </file>
-      <file name="/ImportRoutines.cpp" timestamp="1535387969893" />
       <file name="$USER_HOME$/Documents/ULS/trunk/database/Materials/DatabaseQueries.cpp" timestamp="1532372270629">
         <mark key="[" line="714" column="25" />
         <mark key="]" line="714" column="25" />
@@ -469,37 +468,37 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>S</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">bV9vcyA8PCAnXG4nOyAvLyBzdGFydCBsaW5lIHdpdGggZWFjaCBuYW1lZCBvYmplY3QKICAgIC8vIGluZGVudCBhY2NvcmRpbmcgdG8gb2JqZWN0IGRlcHRoCiAgICBmb3IodW5zaWduZWQgaW50IGkgPSAwOyBpIDwgbV9kZXB0aDsgKytpKQogICAgICBtX29zIDw8ICIgICI7CiAgICArK21fZGVwdGg7CiAgICBtX29zIDw8IGZtdDo6Zm9ybWF0KCJ7OjUwfSIsIHQubmFtZSgpKTsgLy8gb3V0cHV0IHRoZSBuYW1lIG9mIHRoZSBvYmplY3QKICAgICogdGhpcyA8PCB0LmNvbnN0X3ZhbHVlKCk7CiAgICAtLW1fZGVwdGg7CiAgICByZXR1cm4gKiB0aGlzOw==</text>
+        <text encoding="base64">aWYgKHNlcGVyYXRvcikgewogICAgICBtX29zIDw8IGZtdDo6Zm9ybWF0KCJ7On48NTZ9IiwgdC5uYW1lKCkpOyAvLyBvdXRwdXQgdGhlIG5hbWUgb2YgdGhlIG9iamVjdAogICAgfSBlbHNlIHsKICAgICAgbV9vcyA8PCBmbXQ6OmZvcm1hdCgiezotPDU2fSIsIHQubmFtZSgpKTsgLy8gb3V0cHV0IHRoZSBuYW1lIG9mIHRoZSBvYmplY3QKICAgIH0KICAgIHNlcGVyYXRvciA9ICFzZXBlcmF0b3I7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgKiB0aGlzIDw8IHN0YXRpY19jYXN0PGludD4odC5zZWNvbmQpOwo=</text>
+        <text encoding="base64">ICAgIG1fb3MgPDwgZm10Ojpmb3JtYXQoIns6LTw1Nn0iLCB0Lm5hbWUoKSk7IC8vIG91dHB1dCB0aGUgbmFtZSBvZiB0aGUgb2JqZWN0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIChpbnN0YW5jZW9mPGludDhfdD4odC5zZWNvbmQpKQo=</text>
+        <text encoding="base64">ICAgIHNlcGVyYXRvciA9IGZhbHNlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1fb3MgPDwgZm10Ojpmb3JtYXQoInt9IiwgdC4pOwo=</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBib29sIHNlcGVyYXRvciA9IGZhbHNlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1fb3MgPDwgZm10Ojpmb3JtYXQoInt9IiwgdC5jb25zdF92YWx1ZSgpKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHQuCg==</text>
+        <text encoding="base64">ICAgIG1fb3MgPDwgZm10Ojpmb3JtYXQoIns6LTw1Nn0iLCB0Lm5hbWUoKSk7IC8vIG91dHB1dCB0aGUgbmFtZSBvZiB0aGUgb2JqZWN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGZtdC9vc3RyZWFtLmg+Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGZtdC9vc3RyZWFtLmg+Cg==</text>
+        <text encoding="base64">ICAgICAgc2VwZXJhdG9yID0gIXNlcGVyYXRvcgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -723,10 +722,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICh0KQo=</text>
+        <text encoding="base64">ICAgICAgKiB0aGlzIDw8IHN0YXRpY19jYXN0PGludD4odC5zZWNvbmQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChpbnN0YW5jZW9mPGludDhfdD4odC5zZWNvbmQpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>516</text>
