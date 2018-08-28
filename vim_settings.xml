@@ -71,18 +71,17 @@
         <mark key="." line="17" column="63" />
         <mark key="^" line="17" column="63" />
       </file>
-      <file name="/JobsServiceHandler.cpp" timestamp="1535490646360" />
       <file name="$USER_HOME$/Documents/ULS/trunk/Test/CommonTest/SerializationTest.cpp" timestamp="1534196543161">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" timestamp="1535490696148">
-        <mark key="[" line="536" column="26" />
-        <mark key="]" line="536" column="38" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" timestamp="1535491685864">
+        <mark key="[" line="552" column="0" />
+        <mark key="]" line="552" column="0" />
         <mark key="^" line="536" column="38" />
-        <mark key="." line="536" column="38" />
+        <mark key="." line="552" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintingArchive.h" timestamp="1534791991690">
         <mark key="[" line="0" column="0" />
@@ -90,7 +89,6 @@
         <mark key="." line="32" column="5" />
         <mark key="^" line="32" column="5" />
       </file>
-      <file name="/PrintQueue.cpp" timestamp="1535489745658" />
       <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.h" timestamp="1533650340198">
         <mark key="'" line="26" column="10" />
         <mark key="[" line="37" column="4" />
@@ -179,7 +177,7 @@
         <mark key="^" line="101" column="5" />
         <mark key="." line="101" column="5" />
       </file>
-      <file name="/Dummy.youtrack" timestamp="1535489827997">
+      <file name="/Dummy.youtrack" timestamp="1535491800940">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -468,11 +466,11 @@
       <jump line="535" column="87" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>else</text>
       </register>
       <register name="/" type="4">
         <text>GetImportOptionsFromJSON</text>
@@ -481,25 +479,25 @@
         <text encoding="base64">ICAgICAgICAgIExvZ2dpbmc6OkdldCgiam9iIiktPndhcm4oIkltcG9ydCBvcHRpb25zIGJpbiBkaWQgbm90IG1hdGNoIGltcG9ydCBvcHRpb25zIEpTT04iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHsKICAgICAgSW1wb3J0Um91dGluZXM6OlNhdmVJbXBvcnRPcHRpb25zKGZzOjpjaGFuZ2VfZXh0ZW5zaW9uKGZpbGVQYXRoLCAiLmJpbiIpLCByZXN1bHQpOwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfQo+Pj4+Pj4+IC5yMzczMDQK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIExvZ2dpbmc6OkdldCgiam9iIiktPndhcm4oIkNvdWxkIG5vdCBkZXNlcmlhbGl6ZSBJbXBvcnRPcHRpb25zLmJpbjoge30iLCBlLndoYXQoKSk7Cg==</text>
+        <text encoding="base64">ICAgIHsKICAgICAgSW1wb3J0Um91dGluZXM6OlNhdmVJbXBvcnRPcHRpb25zKGZzOjpjaGFuZ2VfZXh0ZW5zaW9uKGZpbGVQYXRoLCAiLmJpbiIpLCByZXN1bHQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQogICAgICBjYXRjaCAoc3RkOjpleGNlcHRpb24gJmUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIExvZ2dpbmc6OkdldCgiam9iIiktPndhcm4oIkltcG9ydCBvcHRpb25zIGJpbiBkaWQgbm90IG1hdGNoIGltcG9ydCBvcHRpb25zIEpTT04iKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -723,10 +721,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIShyZXN1bHQgPT0gYmluUmVzdWx0KSkKICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJpYSA+PiBiaW5SZXN1bHQ7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgfQo+Pj4+Pj4+IC5yMzczMDQK</text>
       </register>
       <register name=":" type="4">
         <text>516</text>
@@ -739,7 +737,7 @@
       <last-replace encoding="base64">YXIgXCYgQk9PU1RfU0VSSUFMSVpBVElPTl9OVlAoXDEpOw==</last-replace>
       <last-substitute encoding="base64">YXIgJiBcKC4qXCk7</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
