@@ -71,11 +71,18 @@
         <mark key="." line="17" column="63" />
         <mark key="^" line="17" column="63" />
       </file>
+      <file name="/JobsServiceHandler.cpp" timestamp="1535490646360" />
       <file name="$USER_HOME$/Documents/ULS/trunk/Test/CommonTest/SerializationTest.cpp" timestamp="1534196543161">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="52" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" timestamp="1535490696148">
+        <mark key="[" line="536" column="26" />
+        <mark key="]" line="536" column="38" />
+        <mark key="^" line="536" column="38" />
+        <mark key="." line="536" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintingArchive.h" timestamp="1534791991690">
         <mark key="[" line="0" column="0" />
@@ -462,37 +469,37 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>binResultIntermidiate</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>binResultIntermidiate</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>GetImportOptionsFromJSON</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">aWYgKHNlcGVyYXRvcikgewogICAgICBtX29zIDw8IGZtdDo6Zm9ybWF0KCJ7On48NTZ9IiwgdC5uYW1lKCkpOyAvLyBvdXRwdXQgdGhlIG5hbWUgb2YgdGhlIG9iamVjdAogICAgfSBlbHNlIHsKICAgICAgbV9vcyA8PCBmbXQ6OmZvcm1hdCgiezotPDU2fSIsIHQubmFtZSgpKTsgLy8gb3V0cHV0IHRoZSBuYW1lIG9mIHRoZSBvYmplY3QKICAgIH0KICAgIHNlcGVyYXRvciA9ICFzZXBlcmF0b3I7</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIExvZ2dpbmc6OkdldCgiam9iIiktPndhcm4oIkltcG9ydCBvcHRpb25zIGJpbiBkaWQgbm90IG1hdGNoIGltcG9ydCBvcHRpb25zIEpTT04iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFVMUzo6Sm9iczo6SW1wb3J0T3B0aW9ucyBiaW5SZXN1bHQ7CiAgICBJbXBvcnRSb3V0aW5lczo6SW1wb3J0T3B0aW9ucyBiaW5SZXN1bHRJbnRlcm1lZGlhdGU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYmluUmVzdWx0ID0gSW1wb3J0Um91dGluZXM6OmNvbnZlcnQK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzdGF0aWMgVUxTOjpKb2JzOjpJbXBvcnRPcHRpb25zIGNvbnZlcnRJbXBvcnRPcHRpb25zKGNvbnN0IEltcG9ydFJvdXRpbmVzOjpJbXBvcnRPcHRpb25zICYgb3B0aW9ucyk7CiAgc3RhdGljIEltcG9ydFJvdXRpbmVzOjpJbXBvcnRPcHRpb25zIGNvbnZlcnRJbXBvcnRPcHRpb25zKGNvbnN0IFVMUzo6Sm9iczo6SW1wb3J0T3B0aW9ucyAmIG9wdGlvbnMpOwo=</text>
+        <text encoding="base64">ICAgICAgfQo+Pj4+Pj4+IC5yMzczMDQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIExvZ2dpbmc6OkdldCgiam9iIiktPndhcm4oIkNvdWxkIG5vdCBkZXNlcmlhbGl6ZSBJbXBvcnRPcHRpb25zLmJpbjoge30iLCBlLndoYXQoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgfQogICAgICBjYXRjaCAoc3RkOjpleGNlcHRpb24gJmUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgSW1wb3J0Um91dGluZXM6OlNhdmVJbXBvcnRPcHRpb25zKGZpbGVQYXRoLCByZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIExvZ2dpbmc6OkdldCgiam9iIiktPndhcm4oIkltcG9ydCBvcHRpb25zIGJpbiBkaWQgbm90IG1hdGNoIGltcG9ydCBvcHRpb25zIEpTT04iKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -715,11 +722,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">aWYgKCEocmVzdWx0ID09IGJpblJlc3VsdCkpIHsKICAgICAgTG9nZ2luZzo6R2V0KCJqb2IiKS0+d2FybigiSW1wb3J0IG9wdGlvbnMgYmluIGRpZCBub3QgbWF0Y2ggaW1wb3J0IG9wdGlvbnMgSlNPTiIpOwogICAgfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoIShyZXN1bHQgPT0gYmluUmVzdWx0KSkKICAgICAgICB7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">aWYoZnM6OmV4aXN0cyhmczo6Y2hhbmdlX2V4dGVuc2lvbihmaWxlUGF0aCwgIi5iaW4iKSkpCiAgICB7CiAgICAgIHN0ZDo6aWZzdHJlYW0gaWZzKGZzOjpjaGFuZ2VfZXh0ZW5zaW9uKGZpbGVQYXRoLCAiLmJpbiIpLnN0cmluZygpKTsKICAgICAgYm9vc3Q6OmFyY2hpdmU6OmJpbmFyeV9pYXJjaGl2ZSBiaWEoaWZzKTsKICAgICAgYmlhID4+IGJpblJlc3VsdDsKICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIGJpYSA+PiBiaW5SZXN1bHQ7CiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>516</text>
