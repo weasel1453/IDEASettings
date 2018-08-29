@@ -732,7 +732,7 @@
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>516</text>
+        <text>set norelativenumber</text>
       </register>
     </registers>
     <search>
@@ -781,13 +781,13 @@
         <entry encoding="base64">JXMvXChccytcKWFyICYgXCguKlwpOy9cMSBhciAmIEJPT1NUX1NFUklBTElaQVRJT05fTlZQKFwyKTsvZ2M=</entry>
         <entry encoding="base64">JXMvYXIgJiBcKC4qXCk7L2FyIFwmIEJPT1NUX1NFUklBTElaQVRJT05fTlZQKFwxKTsvZ2M=</entry>
         <entry>160</entry>
-        <entry>set norelativenumber</entry>
         <entry>52</entry>
         <entry>59</entry>
         <entry>1</entry>
         <entry>noh</entry>
         <entry>60</entry>
         <entry>516</entry>
+        <entry>set norelativenumber</entry>
       </history-cmd>
       <history-expr />
       <history-input />
