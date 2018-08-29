@@ -12,12 +12,12 @@
         <mark key="^" line="162" column="8" />
         <mark key="." line="162" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" timestamp="1535556449298">
+      <file name="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" timestamp="1535564746041">
         <mark key="'" line="278" column="34" />
-        <mark key="[" line="110" column="5" />
-        <mark key="]" line="113" column="44" />
-        <mark key="^" line="113" column="44" />
-        <mark key="." line="113" column="44" />
+        <mark key="[" line="226" column="81" />
+        <mark key="]" line="227" column="18" />
+        <mark key="^" line="227" column="18" />
+        <mark key="." line="227" column="18" />
       </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/CreateVersion30DB.sql" timestamp="1533069287684">
         <mark key="[" line="13373" column="0" />
@@ -472,37 +472,37 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">e30iLCA=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">e30iLCA=</text>
       </register>
       <register name="/" type="4">
         <text>operator</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIExvZ2dpbmc6OkdldCgiam9iIiktPndhcm4oIkltcG9ydCBvcHRpb25zIGJpbiBkaWQgbm90IG1hdGNoIGltcG9ydCBvcHRpb25zIEpTT04iKTsK</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyXy0+d2FybigiQWRkUHJpbnRKb2IgZmFpbGVkIGZvciBmaWxlIHt9LiAgRXJyb3IgZGVzY3JpcHRpb246ICB7fSIsIAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgbG9nZ2VyXy0+d2FybigiU29tZXRoaW5nIHdlbnQgeWVzbid0Iik7Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgSW1wb3J0Um91dGluZXM6OlNhdmVJbXBvcnRPcHRpb25zKGZzOjpjaGFuZ2VfZXh0ZW5zaW9uKGZpbGVQYXRoLCAiLmJpbiIpLCByZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgIGNhdGNoIChzdGQ6OmV4Y2VwdGlvbiAmZSkKICAgIHsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgSW1wb3J0Um91dGluZXM6OlNhdmVJbXBvcnRPcHRpb25zKGZzOjpjaGFuZ2VfZXh0ZW5zaW9uKGZpbGVQYXRoLCAiLmJpbiIpLCByZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyXy0+d2FybigiU29tZXRoaW5nIHdlbnQgeWVzbid0Iik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNhdGNoIChzdGQ6OmV4Y2VwdGlvbiAmZSkKICAgIHsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -726,10 +726,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>set norelativenumber</text>
