@@ -177,7 +177,7 @@
         <mark key="^" line="101" column="5" />
         <mark key="." line="101" column="5" />
       </file>
-      <file name="/Dummy.youtrack" timestamp="1535492980370">
+      <file name="/Dummy.youtrack" timestamp="1535577578984">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -284,7 +284,7 @@
       <file name="/GDB" timestamp="1535570135778">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535575499805">
+      <file name="/Dummy.txt" timestamp="1535576969224">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -473,8 +473,11 @@
       <jump line="153" column="40" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>Use boost serialization for storing ImportOptions.
+Add support for ImportOptions into deserialize tool
+Add support for RecognitionSettings into deserialize tool
+Add support for CameraSettings into deserialize tool</text>
       </register>
       <register name="-" type="4">
         <text>binResult</text>
@@ -485,26 +488,29 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgaWYgKCEobV9uVmVjdG9yU2ltcGxpZmljYXRpb25NaWxzICA9PSBvLm1fblZlY3RvclNpbXBsaWZpY2F0aW9uTWlscykpIHsgbG9nZ2VyXy0+d2FybigiRmllbGQgbV9uVmVjdG9yU2ltcGxpZmljYXRpb25NaWxzIGRpZCBub3QgbWF0Y2giKTsgcmV0dXJuIGZhbHNlOyB9CiAgICAgIG1fbk1heEN1dERlcHRoID09IG8ubV9uTWF4Q3V0RGVwdGg7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="1" type="4">
+        <text>Use boost serialization for storing ImportOptions.
+Add support for ImportOptions into deserialize tool
+Add support for RecognitionSettings into deserialize tool
+Add support for CameraSettings into deserialize tool</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBJbXBvcnRSb3V0aW5lczo6SW1wb3J0T3B0aW9ucyBpbnRlcm1lZGlhdGVCaW5SZXN1bHQ7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzdGF0aWMgVUxTOjpKb2JzOjpJbXBvcnRPcHRpb25zIGNvbnZlcnRJbXBvcnRPcHRpb25zKGNvbnN0IEltcG9ydFJvdXRpbmVzOjpJbXBvcnRPcHRpb25zICYgb3B0aW9ucyk7CiAgc3RhdGljIEltcG9ydFJvdXRpbmVzOjpJbXBvcnRPcHRpb25zIGNvbnZlcnRJbXBvcnRPcHRpb25zKGNvbnN0IFVMUzo6Sm9iczo6SW1wb3J0T3B0aW9ucyAmIG9wdGlvbnMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBJbXBvcnRSb3V0aW5lczo6SW1wb3J0T3B0aW9ucyBpbnRlcm1lZGlhdGVCaW5SZXN1bHQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy9GSVhNRSByZW1vdmUgdGhpcyBiZWZvcmUgcmVsZWFzZSwgaWYgSlVCLTExODQgaXMgZml4ZWQgYmVmb3JlIHJlbGVhc2UsIG1ha2UgdGhlc2UgdGhyZWUgY2FsbHMgb25lIGNhbGwK</text>
+        <text encoding="base64">ICBzdGF0aWMgVUxTOjpKb2JzOjpJbXBvcnRPcHRpb25zIGNvbnZlcnRJbXBvcnRPcHRpb25zKGNvbnN0IEltcG9ydFJvdXRpbmVzOjpJbXBvcnRPcHRpb25zICYgb3B0aW9ucyk7CiAgc3RhdGljIEltcG9ydFJvdXRpbmVzOjpJbXBvcnRPcHRpb25zIGNvbnZlcnRJbXBvcnRPcHRpb25zKGNvbnN0IFVMUzo6Sm9iczo6SW1wb3J0T3B0aW9ucyAmIG9wdGlvbnMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbV9sYXNlclN5c3RlbVNlcnZpY2VOb3RpZmljYXRpb25zLlNlbmRJbnRlcnJ1cHRpbmdNZXNzYWdlKCJUaGVzZSBhcmUgdGVtcG9yYXJ5IG1lc3NhZ2VzIHRoYXQgd2lsbCBiZSByZW1vdmVkIGJlZm9yZSBmaW5hbCByZWxlYXNlIik7Cg==</text>
+        <text encoding="base64">ICAgICAgLy9GSVhNRSByZW1vdmUgdGhpcyBiZWZvcmUgcmVsZWFzZSwgaWYgSlVCLTExODQgaXMgZml4ZWQgYmVmb3JlIHJlbGVhc2UsIG1ha2UgdGhlc2UgdGhyZWUgY2FsbHMgb25lIGNhbGwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ7OjA2fS9JbXBvcnRPcHRpb25zLmpzb24vYmluIGZpbGVzIHRvIHRtY2xhY2hsYW5AdWxzaW5jLmNvbSBzbyBoZSBjYW4gZGVidWcgdGhpcy4iLCBwYXJhbXMuR2V0Sm9iSWQoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgbV9sYXNlclN5c3RlbVNlcnZpY2VOb3RpZmljYXRpb25zLlNlbmRJbnRlcnJ1cHRpbmdNZXNzYWdlKCJUaGVzZSBhcmUgdGVtcG9yYXJ5IG1lc3NhZ2VzIHRoYXQgd2lsbCBiZSByZW1vdmVkIGJlZm9yZSBmaW5hbCByZWxlYXNlIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbV9sYXNlclN5c3RlbVNlcnZpY2VOb3RpZmljYXRpb25zLlNlbmRJbnRlcnJ1cHRpbmdNZXNzYWdlKCJJbXBvcnRPcHRpb25zIEpTT04gYW5kIEJJTiBkaWQgbm90IG1hdGNoISIpOwogICAgICBtX2xhc2VyU3lzdGVtU2VydmljZU5vdGlmaWNhdGlvbnMuU2VuZEludGVycnVwdGluZ01lc3NhZ2UoZm10Ojpmb3JtYXQoIlBsZWFzZSBzZW5kIGEgY29weSBvZiB0aGUgbG9nIGZpbGUgYW5kIHRoZSAiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ7OjA2fS9JbXBvcnRPcHRpb25zLmpzb24vYmluIGZpbGVzIHRvIHRtY2xhY2hsYW5AdWxzaW5jLmNvbSBzbyBoZSBjYW4gZGVidWcgdGhpcy4iLCBwYXJhbXMuR2V0Sm9iSWQoKSkpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -728,10 +734,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy9GSVhNRSByZW1vdmUgdGhpcyBiZWZvcmUgcmVsZWFzZSwgaWYgSlVCLTExODQgaXMgZml4ZWQgYmVmb3JlIHJlbGVhc2UsIG1ha2UgdGhlc2UgdGhyZWUgY2FsbHMgb25lIGNhbGwK</text>
+        <text encoding="base64">ICAgICAgbV9sYXNlclN5c3RlbVNlcnZpY2VOb3RpZmljYXRpb25zLlNlbmRJbnRlcnJ1cHRpbmdNZXNzYWdlKCJJbXBvcnRPcHRpb25zIEpTT04gYW5kIEJJTiBkaWQgbm90IG1hdGNoISIpOwogICAgICBtX2xhc2VyU3lzdGVtU2VydmljZU5vdGlmaWNhdGlvbnMuU2VuZEludGVycnVwdGluZ01lc3NhZ2UoZm10Ojpmb3JtYXQoIlBsZWFzZSBzZW5kIGEgY29weSBvZiB0aGUgbG9nIGZpbGUgYW5kIHRoZSAiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbV9sYXNlclN5c3RlbVNlcnZpY2VOb3RpZmljYXRpb25zLlNlbmRJbnRlcnJ1cHRpbmdNZXNzYWdlKCJUaGVzZSBhcmUgdGVtcG9yYXJ5IG1lc3NhZ2VzIHRoYXQgd2lsbCBiZSByZW1vdmVkIGJlZm9yZSBmaW5hbCByZWxlYXNlIik7Cg==</text>
+        <text encoding="base64">ICAgICAgLy9GSVhNRSByZW1vdmUgdGhpcyBiZWZvcmUgcmVsZWFzZSwgaWYgSlVCLTExODQgaXMgZml4ZWQgYmVmb3JlIHJlbGVhc2UsIG1ha2UgdGhlc2UgdGhyZWUgY2FsbHMgb25lIGNhbGwK</text>
       </register>
       <register name=":" type="4">
         <text>513</text>
