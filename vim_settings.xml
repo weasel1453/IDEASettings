@@ -179,6 +179,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/Logging/CpuUtilization.cpp" timestamp="1535553619872">
+        <mark key="[" line="99" column="1" />
+        <mark key="]" line="100" column="10" />
+        <mark key="^" line="100" column="10" />
+        <mark key="." line="100" column="10" />
+      </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/Migration031-1--TableAlteration_up.sql" timestamp="1533148787728">
         <mark key="[" line="1" column="53" />
         <mark key="]" line="1" column="53" />
@@ -272,7 +278,7 @@
         <mark key="^" line="145" column="32" />
         <mark key="." line="145" column="32" />
       </file>
-      <file name="/GDB" timestamp="1535551614504">
+      <file name="/GDB" timestamp="1535553883903">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1535551860684">
