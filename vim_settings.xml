@@ -103,10 +103,7 @@
         <mark key="^" line="12" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Control/ImportRoutines.h" timestamp="1535488101963">
-        <mark key="[" line="114" column="1" />
-        <mark key="]" line="116" column="102" />
         <mark key="^" line="109" column="1" />
-        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/tools/deserialize/CMakeLists.txt" timestamp="1535405840200">
         <mark key="[" line="28" column="15" />
@@ -268,17 +265,17 @@
         <mark key="^" line="385" column="1" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1535494303277">
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1535551571868">
         <mark key="'" line="985" column="44" />
-        <mark key="[" line="145" column="44" />
-        <mark key="]" line="145" column="55" />
-        <mark key="^" line="145" column="55" />
-        <mark key="." line="145" column="55" />
+        <mark key="[" line="145" column="32" />
+        <mark key="]" line="145" column="32" />
+        <mark key="^" line="145" column="32" />
+        <mark key="." line="145" column="32" />
       </file>
-      <file name="/GDB" timestamp="1535494325480">
+      <file name="/GDB" timestamp="1535551614504">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535472119101">
+      <file name="/Dummy.txt" timestamp="1535551860684">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -343,7 +340,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/fragment.mm" timestamp="1535121063233">
+      <file name="/fragment.mm" timestamp="1535551644625">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.cpp" timestamp="1533302030878">
@@ -467,11 +464,11 @@
       <jump line="985" column="44" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>else</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>operator</text>
@@ -738,7 +735,7 @@
       <last-replace encoding="base64">YXIgXCYgQk9PU1RfU0VSSUFMSVpBVElPTl9OVlAoXDEpOw==</last-replace>
       <last-substitute encoding="base64">YXIgJiBcKC4qXCk7</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
