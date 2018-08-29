@@ -12,12 +12,12 @@
         <mark key="^" line="162" column="8" />
         <mark key="." line="162" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" timestamp="1535568231849">
+      <file name="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" timestamp="1535573014110">
         <mark key="'" line="278" column="34" />
-        <mark key="[" line="267" column="66" />
-        <mark key="]" line="267" column="85" />
-        <mark key="^" line="267" column="85" />
-        <mark key="." line="267" column="85" />
+        <mark key="[" line="244" column="0" />
+        <mark key="]" line="244" column="0" />
+        <mark key="^" line="229" column="34" />
+        <mark key="." line="244" column="0" />
       </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/CreateVersion30DB.sql" timestamp="1533069287684">
         <mark key="[" line="13373" column="0" />
@@ -273,12 +273,12 @@
         <mark key="^" line="385" column="1" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1535568644429">
-        <mark key="'" line="985" column="44" />
-        <mark key="[" line="145" column="44" />
-        <mark key="]" line="145" column="55" />
-        <mark key="^" line="145" column="55" />
-        <mark key="." line="145" column="55" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1535571809140">
+        <mark key="'" line="153" column="40" />
+        <mark key="[" line="112" column="1" />
+        <mark key="]" line="113" column="37" />
+        <mark key="^" line="113" column="37" />
+        <mark key="." line="113" column="37" />
       </file>
       <file name="/GDB" timestamp="1535570135778">
         <mark key="[" line="0" column="0" />
@@ -370,8 +370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1531" column="29" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
-      <jump line="1411" column="18" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="766" column="26" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="776" column="8" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="1140" column="23" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
@@ -470,40 +468,42 @@
       <jump line="278" column="34" filename="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" />
       <jump line="535" column="87" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
       <jump line="985" column="44" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
+      <jump line="117" column="4" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
+      <jump line="153" column="40" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLy9GSVhNRSByZW1vdmUgdGhpcyBiZWZvcmUgcmVsZWFzZSwgaWYgSlVCLTExODQgaXMgZml4ZWQgYmVmb3JlIHJlbGVhc2UsIG1ha2UgdGhlc2UgdGhyZWUgY2FsbHMgb25lIGNhbGwK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>operator</text>
+        <text encoding="base64">XChtXy4qXClcKCA9PSBvLm1fLipcKSAmJg==</text>
       </register>
-      <register name="0" type="4">
-        <text>SerializeError(</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgaWYgKCEobV9uVmVjdG9yU2ltcGxpZmljYXRpb25NaWxzICA9PSBvLm1fblZlY3RvclNpbXBsaWZpY2F0aW9uTWlscykpIHsgbG9nZ2VyXy0+d2FybigiRmllbGQgbV9uVmVjdG9yU2ltcGxpZmljYXRpb25NaWxzIGRpZCBub3QgbWF0Y2giKTsgcmV0dXJuIGZhbHNlOyB9CiAgICAgIG1fbk1heEN1dERlcHRoID09IG8ubV9uTWF4Q3V0RGVwdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFNlcmlhbGl6ZUVycm9yKCkgOiBzdGQ6OnJ1bnRpbWVfZXJyb3IoIkNvdWxkIG5vdCBkZXNlcmlhbGl6ZSB0aGUgYmluIGZpbGUiKSB7fQo=</text>
+        <text encoding="base64">ICAgICAgLy9GSVhNRSByZW1vdmUgdGhpcyBiZWZvcmUgcmVsZWFzZSwgaWYgSlVCLTExODQgaXMgZml4ZWQgYmVmb3JlIHJlbGVhc2UsIG1ha2UgdGhlc2UgdGhyZWUgY2FsbHMgb25lIGNhbGwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRocm93IFNlcmlhbGl6ZUVycm9yKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgbV9sYXNlclN5c3RlbVNlcnZpY2VOb3RpZmljYXRpb25zLlNlbmRJbnRlcnJ1cHRpbmdNZXNzYWdlKCJUaGVzZSBhcmUgdGVtcG9yYXJ5IG1lc3NhZ2VzIHRoYXQgd2lsbCBiZSByZW1vdmVkIGJlZm9yZSBmaW5hbCByZWxlYXNlIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgSlVCLTc3OSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ7OjA2fS9QcmludFNldHRpbmdzLmpzb24vYmluIGZpbGVzIHRvIHRtY2xhY2hsYW5AdWxzaW5jLmNvbSBzbyBoZSBjYW4gZGVidWcgdGhpcy4iLCBwYXJhbXMuR2V0Sm9iSWQoKSkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgbV9sYXNlclN5c3RlbVNlcnZpY2VOb3RpZmljYXRpb25zLlNlbmRJbnRlcnJ1cHRpbmdNZXNzYWdlKCJQcmludFNldHRpbmdzIEpTT04gYW5kIEJJTiBkaWQgbm90IG1hdGNoISIpOwogICAgICBtX2xhc2VyU3lzdGVtU2VydmljZU5vdGlmaWNhdGlvbnMuU2VuZEludGVycnVwdGluZ01lc3NhZ2UoZm10Ojpmb3JtYXQoIlBsZWFzZSBzZW5kIGEgY29weSBvZiB0aGUgbG9nIGZpbGUgYW5kIHRoZSAiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0KICAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIFNlcmlhbGl6ZUVycm9yKCkgOiBzdGQ6OnJ1bnRpbWVfZXJyb3IoIkNvdWxkIG5vdCBkZXNlcmlhbGl6ZSB0aGUgYmluIGZpbGUiKSB7fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIHRocm93IFNlcmlhbGl6ZUVycm9yKCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -727,27 +727,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgSlVCLTc3OSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>set norelativenumber</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>operator</last-search>
+      <last-search encoding="base64">XChtXy4qXClcKCA9PSBvLm1fLipcKSAmJg==</last-search>
       <last-offset />
-      <last-pattern>operator</last-pattern>
-      <last-replace encoding="base64">YXIgXCYgQk9PU1RfU0VSSUFMSVpBVElPTl9OVlAoXDEpOw==</last-replace>
-      <last-substitute encoding="base64">YXIgJiBcKC4qXCk7</last-substitute>
+      <last-pattern encoding="base64">XChtXy4qXClcKCA9PSBvLm1fLipcKSAmJg==</last-pattern>
+      <last-replace encoding="base64">aWYgKCEoXDEgXDIpKSB7IGxvZ2dlcl8tPndhcm4oIkZpZWxkIFwxIGRpZCBub3QgbWF0Y2giKTsgcmV0dXJuIGZhbHNlOyB9</last-replace>
+      <last-substitute encoding="base64">XChtXy4qXClcKCA9PSBvLm1fLipcKSAmJg==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">YXIgJlwoLipcKTs=</entry>
         <entry>read</entry>
         <entry>saveas</entry>
         <entry>replace</entry>
@@ -767,10 +766,9 @@
         <entry>S</entry>
         <entry>GetImportOptionsFromJSON</entry>
         <entry>operator</entry>
+        <entry encoding="base64">XChtXy4qXClcKCA9PSBvLm1fLipcKSAmJg==</entry>
       </history-search>
       <history-cmd>
-        <entry>$</entry>
-        <entry>85</entry>
         <entry>90</entry>
         <entry>196</entry>
         <entry encoding="base64">JzwsJz5zL2FyICZcKC4qXCk7L2ZtdDo6cHJpbnQoIlwxOiB7fSIsIFwxKTsvZ2M=</entry>
@@ -785,10 +783,12 @@
         <entry>52</entry>
         <entry>59</entry>
         <entry>1</entry>
-        <entry>noh</entry>
         <entry>60</entry>
         <entry>516</entry>
         <entry>set norelativenumber</entry>
+        <entry encoding="base64">JzwsJz5zL1wobV8uKlwpXCggPT0gby5tXy4qXCkgJiYvaWYgKFwxIFwyKSB7IGxvZ2dlcl8tPndhcm4oIkZpZWxkIFwxIGRpZCBub3QgbWF0Y2giKTsgcmV0dXJuIGZhbHNlOyB9L2dj</entry>
+        <entry encoding="base64">JzwsJz5zL1wobV8uKlwpXCggPT0gby5tXy4qXCkgJiYvaWYgKCEoXDEgXDIpKSB7IGxvZ2dlcl8tPndhcm4oIkZpZWxkIFwxIGRpZCBub3QgbWF0Y2giKTsgcmV0dXJuIGZhbHNlOyB9L2dj</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
