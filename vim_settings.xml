@@ -287,11 +287,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Logging/Logging.cpp" timestamp="1535747883808">
-        <mark key="[" line="350" column="69" />
-        <mark key="]" line="350" column="69" />
-        <mark key="." line="350" column="69" />
-        <mark key="^" line="350" column="69" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/Logging/Logging.cpp" timestamp="1535747925291">
+        <mark key="[" line="350" column="43" />
+        <mark key="]" line="350" column="46" />
+        <mark key="." line="350" column="46" />
+        <mark key="^" line="350" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Test/CommonTest/PrintParamsTest.cpp" timestamp="1535037409237">
         <mark key="[" line="42" column="43" />
@@ -554,10 +554,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Printf</text>
