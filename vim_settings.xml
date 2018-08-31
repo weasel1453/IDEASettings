@@ -57,6 +57,12 @@
         <mark key="." line="49" column="3" />
         <mark key="^" line="49" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/CMakeLists.txt" timestamp="1535725497212">
+        <mark key="[" line="244" column="54" />
+        <mark key="]" line="244" column="60" />
+        <mark key="." line="244" column="60" />
+        <mark key="^" line="244" column="60" />
+      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Test/ConfigurationTest/JsonTest.cpp" timestamp="1535151896018">
         <mark key="[" line="44" column="2" />
         <mark key="]" line="44" column="2" />
@@ -489,10 +495,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>lib</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>lib</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XChtXy4qXClcKCA9PSBvLm1fLipcKSAmJg==</text>
