@@ -46,10 +46,11 @@
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/spdlog/fmt/fmt.h" timestamp="1535723690379">
+      <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/spdlog/fmt/fmt.h" timestamp="1535728083103">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="1" />
       </file>
       <file name="$USER_HOME$/uls/lsm/common/SHOULDER.H" timestamp="1533759943266">
         <mark key="[" line="49" column="3" />
@@ -57,11 +58,11 @@
         <mark key="." line="49" column="3" />
         <mark key="^" line="49" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/CMakeLists.txt" timestamp="1535726250430">
-        <mark key="[" line="243" column="21" />
-        <mark key="]" line="245" column="60" />
-        <mark key="." line="245" column="60" />
-        <mark key="^" line="245" column="60" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/CMakeLists.txt" timestamp="1535727619185">
+        <mark key="[" line="243" column="24" />
+        <mark key="]" line="243" column="23" />
+        <mark key="." line="243" column="23" />
+        <mark key="^" line="243" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Test/ConfigurationTest/JsonTest.cpp" timestamp="1535151896018">
         <mark key="[" line="44" column="2" />
@@ -78,6 +79,11 @@
         <mark key="[" line="80" column="32" />
         <mark key="]" line="80" column="32" />
         <mark key="." line="80" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/spdlog/include/spdlog/fmt/fmt.h" timestamp="1535728159555">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Test/CommonTest/CMakeLists.txt" timestamp="1534196701238">
         <mark key="[" line="61" column="19" />
@@ -124,10 +130,10 @@
         <mark key="^" line="109" column="1" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/CMakeLists.txt" timestamp="1535724763239">
-        <mark key="[" line="119" column="23" />
-        <mark key="]" line="119" column="23" />
-        <mark key="." line="119" column="23" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/CMakeLists.txt" timestamp="1535727578871">
+        <mark key="[" line="119" column="21" />
+        <mark key="]" line="119" column="21" />
+        <mark key="." line="119" column="21" />
         <mark key="^" line="119" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/tools/deserialize/CMakeLists.txt" timestamp="1535405840200">
@@ -204,10 +210,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Logging/CpuUtilization.cpp" timestamp="1535553619872">
-        <mark key="]" line="21" column="10" />
-        <mark key="^" line="21" column="10" />
-        <mark key="." line="21" column="10" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/Logging/CpuUtilization.cpp" timestamp="1535728238372">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/Migration031-1--TableAlteration_up.sql" timestamp="1533148787728">
         <mark key="[" line="1" column="53" />
@@ -240,6 +246,12 @@
         <mark key="]" line="714" column="25" />
         <mark key="." line="714" column="25" />
         <mark key="^" line="714" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/Logging/Logging.cpp" timestamp="1535728110005">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="25" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/footer.h" timestamp="1533069328300">
         <mark key="[" line="0" column="0" />
@@ -301,6 +313,12 @@
         <mark key="]" line="113" column="37" />
         <mark key="^" line="113" column="37" />
         <mark key="." line="113" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/Logging/CMakeLists.txt" timestamp="1535728272921">
+        <mark key="[" line="15" column="39" />
+        <mark key="]" line="15" column="54" />
+        <mark key="." line="15" column="54" />
+        <mark key="^" line="15" column="54" />
       </file>
       <file name="/GDB" timestamp="1535570135778">
         <mark key="[" line="0" column="0" />
@@ -495,40 +513,37 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>lib</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="-" type="4">
-        <text>lib</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XChtXy4qXClcKCA9PSBvLm1fLipcKSAmJg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCEobV9uVmVjdG9yU2ltcGxpZmljYXRpb25NaWxzICA9PSBvLm1fblZlY3RvclNpbXBsaWZpY2F0aW9uTWlscykpIHsgbG9nZ2VyXy0+d2FybigiRmllbGQgbV9uVmVjdG9yU2ltcGxpZmljYXRpb25NaWxzIGRpZCBub3QgbWF0Y2giKTsgcmV0dXJuIGZhbHNlOyB9CiAgICAgIG1fbk1heEN1dERlcHRoID09IG8ubV9uTWF4Q3V0RGVwdGg7Cg==</text>
+        <text encoding="base64">ICAgICR7Q01BS0VfU09VUkNFX0RJUn0vYmluL3RoaXJkLXBhcnR5Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGZtdC9jCg==</text>
+        <text encoding="base64">ICAgICR7Q01BS0VfU09VUkNFX0RJUn0vYmluL3RoaXJkLXBhcnR5L2ZtdC01LjEuMAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2luY2x1ZGUgInNwZGxvZy9mbXQvZm10LmgK</text>
+        <text encoding="base64">I2luY2x1ZGUgPGZtdC9mb3JtYXQuaD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I3tBc3NpZ25lZCB0byBtZX0gCg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPGZtdC8K</text>
       </register>
-      <register name="4" type="4">
-        <text>Use boost serialization for storing ImportOptions.
-Add support for ImportOptions into deserialize tool
-Add support for RecognitionSettings into deserialize tool
-Add support for CameraSettings into deserialize tool</text>
+      <register name="4" type="2">
+        <text encoding="base64">I2luY2x1ZGUgInNwZGxvZy9zcGRsb2cuaCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">I2luY2x1ZGUgPGZtdC9jCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBJbXBvcnRSb3V0aW5lczo6SW1wb3J0T3B0aW9ucyBpbnRlcm1lZGlhdGVCaW5SZXN1bHQ7Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgInNwZGxvZy9mbXQvZm10LmgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzdGF0aWMgVUxTOjpKb2JzOjpJbXBvcnRPcHRpb25zIGNvbnZlcnRJbXBvcnRPcHRpb25zKGNvbnN0IEltcG9ydFJvdXRpbmVzOjpJbXBvcnRPcHRpb25zICYgb3B0aW9ucyk7CiAgc3RhdGljIEltcG9ydFJvdXRpbmVzOjpJbXBvcnRPcHRpb25zIGNvbnZlcnRJbXBvcnRPcHRpb25zKGNvbnN0IFVMUzo6Sm9iczo6SW1wb3J0T3B0aW9ucyAmIG9wdGlvbnMpOwo=</text>
+        <text encoding="base64">I3tBc3NpZ25lZCB0byBtZX0gCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -751,11 +766,14 @@ Add support for CameraSettings into deserialize tool</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy9GSVhNRSByZW1vdmUgdGhpcyBiZWZvcmUgcmVsZWFzZSwgaWYgSlVCLTExODQgaXMgZml4ZWQgYmVmb3JlIHJlbGVhc2UsIG1ha2UgdGhlc2UgdGhyZWUgY2FsbHMgb25lIGNhbGwK</text>
+      <register name="8" type="4">
+        <text>Use boost serialization for storing ImportOptions.
+Add support for ImportOptions into deserialize tool
+Add support for RecognitionSettings into deserialize tool
+Add support for CameraSettings into deserialize tool</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbV9sYXNlclN5c3RlbVNlcnZpY2VOb3RpZmljYXRpb25zLlNlbmRJbnRlcnJ1cHRpbmdNZXNzYWdlKCJUaGVzZSBhcmUgdGVtcG9yYXJ5IG1lc3NhZ2VzIHRoYXQgd2lsbCBiZSByZW1vdmVkIGJlZm9yZSBmaW5hbCByZWxlYXNlIik7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>513</text>
