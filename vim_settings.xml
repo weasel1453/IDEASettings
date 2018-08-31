@@ -12,13 +12,6 @@
         <mark key="^" line="162" column="8" />
         <mark key="." line="162" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" timestamp="1535574349522">
-        <mark key="'" line="278" column="34" />
-        <mark key="[" line="229" column="8" />
-        <mark key="]" line="229" column="8" />
-        <mark key="^" line="229" column="34" />
-        <mark key="." line="229" column="8" />
-      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/spdlog/CMakeLists.txt" timestamp="1535724168169">
         <mark key="[" line="44" column="46" />
         <mark key="]" line="44" column="47" />
@@ -30,13 +23,6 @@
         <mark key="]" line="13373" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="13373" column="0" />
-      </file>
-      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" timestamp="1533651314254">
-        <mark key="'" line="61" column="2" />
-        <mark key="[" line="418" column="5" />
-        <mark key="]" line="419" column="57" />
-        <mark key="." line="419" column="57" />
-        <mark key="^" line="419" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/Serializers.h" timestamp="1535406292388">
         <mark key="[" line="98" column="0" />
@@ -55,16 +41,17 @@
         <mark key="." line="49" column="3" />
         <mark key="^" line="49" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/CMakeLists.txt" timestamp="1535731924840">
+      <file name="$USER_HOME$/Documents/ULS/trunk/CMakeLists.txt" timestamp="1535738943649">
         <mark key="[" line="243" column="24" />
-        <mark key="]" line="243" column="23" />
-        <mark key="." line="243" column="23" />
-        <mark key="^" line="243" column="23" />
+        <mark key="]" line="244" column="56" />
+        <mark key="." line="244" column="56" />
+        <mark key="^" line="244" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/cmake/Modules/global-compile-options.cmake" timestamp="1535734508622">
-        <mark key="[" line="116" column="8" />
-        <mark key="]" line="116" column="8" />
-        <mark key="." line="116" column="8" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/cmake/Modules/global-compile-options.cmake" timestamp="1535741994333">
+        <mark key="[" line="117" column="4" />
+        <mark key="]" line="117" column="7" />
+        <mark key="." line="117" column="7" />
+        <mark key="^" line="117" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Test/ConfigurationTest/JsonTest.cpp" timestamp="1535151896018">
         <mark key="[" line="44" column="2" />
@@ -115,12 +102,11 @@
         <mark key="." line="32" column="5" />
         <mark key="^" line="32" column="5" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.h" timestamp="1533650340198">
-        <mark key="'" line="26" column="10" />
-        <mark key="[" line="37" column="4" />
-        <mark key="]" line="37" column="10" />
-        <mark key="." line="37" column="10" />
-        <mark key="^" line="37" column="10" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/Logging/Logging.h" timestamp="1535740802210">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="1" />
+        <mark key="^" line="33" column="1" />
+        <mark key="." line="33" column="1" />
       </file>
       <file name="$USER_HOME$/uls/lsm/common/powertable.h" timestamp="1533759979543">
         <mark key="[" line="15" column="3" />
@@ -134,11 +120,11 @@
         <mark key="^" line="109" column="1" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/CMakeLists.txt" timestamp="1535733572891">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="47" column="47" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/CMakeLists.txt" timestamp="1535737662921">
+        <mark key="[" line="127" column="23" />
+        <mark key="]" line="127" column="28" />
+        <mark key="." line="127" column="28" />
+        <mark key="^" line="127" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/tools/deserialize/CMakeLists.txt" timestamp="1535405840200">
         <mark key="[" line="28" column="15" />
@@ -164,50 +150,27 @@
         <mark key="." line="216" column="2" />
         <mark key="^" line="216" column="2" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/common/PrintParams.h" timestamp="1533761065503">
-        <mark key="'" line="296" column="34" />
-        <mark key="[" line="87" column="21" />
-        <mark key="]" line="87" column="21" />
-        <mark key="^" line="87" column="24" />
-        <mark key="." line="87" column="21" />
-      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Camera/CameraSerialization.h" timestamp="1535404572863">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="41" />
         <mark key="^" line="9" column="41" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/VRONI/src/voronoi.cc" timestamp="1535737878119">
+        <mark key="[" line="35" column="16" />
+        <mark key="]" line="35" column="16" />
+        <mark key="." line="35" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Planning/Planner.cpp" timestamp="1535150444874">
         <mark key="[" line="891" column="76" />
         <mark key="]" line="891" column="76" />
         <mark key="." line="891" column="76" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/CMakeLists.txt" timestamp="1533926670305">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-        <mark key="^" line="69" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/simple_log_archive.h" timestamp="1535471530356">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="157" column="0" />
-        <mark key="." line="157" column="0" />
-        <mark key="^" line="157" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/tools/deserialize/main.cpp" timestamp="1535471907314">
         <mark key="[" line="169" column="71" />
         <mark key="]" line="169" column="71" />
         <mark key="^" line="169" column="71" />
         <mark key="." line="169" column="71" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Planning/Configuration.cpp" timestamp="1535151924868">
-        <mark key="'" line="197" column="116" />
-        <mark key="[" line="101" column="4" />
-        <mark key="]" line="101" column="5" />
-        <mark key="^" line="101" column="5" />
-        <mark key="." line="101" column="5" />
       </file>
       <file name="/Dummy.youtrack" timestamp="1535642443825">
         <mark key="[" line="0" column="0" />
@@ -225,20 +188,6 @@
         <mark key="^" line="1" column="53" />
         <mark key="." line="1" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/DpiInfo.h" timestamp="1535122021297">
-        <mark key="'" line="62" column="23" />
-        <mark key="[" line="59" column="30" />
-        <mark key="]" line="59" column="30" />
-        <mark key="^" line="59" column="30" />
-        <mark key="." line="59" column="30" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Control/ImportRoutines.cpp" timestamp="1535568205518">
-        <mark key="'" line="232" column="12" />
-        <mark key="[" line="113" column="108" />
-        <mark key="]" line="113" column="116" />
-        <mark key="." line="113" column="116" />
-        <mark key="^" line="113" column="116" />
-      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Planning/PathConstruction/Polyline.h" timestamp="1535150417442">
         <mark key="[" line="26" column="6" />
         <mark key="]" line="26" column="11" />
@@ -251,6 +200,12 @@
         <mark key="." line="714" column="25" />
         <mark key="^" line="714" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/friendly_daily_file_sink.h" timestamp="1535740440222">
+        <mark key="[" line="30" column="53" />
+        <mark key="]" line="30" column="53" />
+        <mark key="." line="30" column="53" />
+        <mark key="^" line="8" column="40" />
+      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Test/CommonTest/PrintParamsTest.cpp" timestamp="1535037409237">
         <mark key="[" line="42" column="43" />
         <mark key="]" line="44" column="19" />
@@ -258,13 +213,6 @@
         <mark key="^" line="44" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/spdlog/include/spdlog/sinks/file_sinks.h" timestamp="1535734461544" />
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/SHOULDER.H" timestamp="1535494072005">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="^" line="50" column="1" />
-        <mark key="." line="50" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/log_archive.h" timestamp="1534793846914">
         <mark key="[" line="166" column="38" />
         <mark key="]" line="166" column="37" />
@@ -277,52 +225,22 @@
         <mark key="." line="385" column="60" />
         <mark key="^" line="385" column="60" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/common/PrintParams.cpp" timestamp="1533761091237">
-        <mark key="'" line="63" column="17" />
-        <mark key="[" line="1026" column="0" />
-        <mark key="]" line="1026" column="0" />
-        <mark key="." line="1026" column="0" />
-        <mark key="^" line="1083" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PageParams.h" timestamp="1535043533898">
-        <mark key="'" line="41" column="70" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="119" column="1" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/VRONI/src/CMakeLists.txt" timestamp="1535738186076">
+        <mark key="[" line="71" column="30" />
+        <mark key="]" line="71" column="35" />
+        <mark key="." line="71" column="35" />
+        <mark key="^" line="71" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/tools/deserialize/FilePath.h" timestamp="1535040267691">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" timestamp="1535493013924">
-        <mark key="'" line="168" column="21" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="385" column="1" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1535571809140">
-        <mark key="'" line="153" column="40" />
-        <mark key="[" line="112" column="1" />
-        <mark key="]" line="113" column="37" />
-        <mark key="^" line="113" column="37" />
-        <mark key="." line="113" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Logging/CMakeLists.txt" timestamp="1535728272921">
-        <mark key="[" line="15" column="39" />
-        <mark key="]" line="15" column="54" />
-        <mark key="." line="15" column="54" />
-        <mark key="^" line="15" column="54" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1535737087015" />
-      <file name="$USER_HOME$/Documents/ULS/trunk/Planning/include/Configuration.h" timestamp="1535151967246">
-        <mark key="'" line="304" column="11" />
-        <mark key="[" line="63" column="6" />
-        <mark key="]" line="63" column="5" />
-        <mark key="^" line="63" column="5" />
-        <mark key="." line="63" column="5" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/spdlog/sinks/daily_file_sink.h" timestamp="1535740427967" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/Logging/CMakeLists.txt" timestamp="1535739314615">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/uls/lsm/Control/WinMain.cpp" timestamp="1533325031507">
         <mark key="[" line="87" column="14" />
@@ -347,13 +265,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="61" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" timestamp="1533650351088">
-        <mark key="'" line="36" column="22" />
-        <mark key="[" line="399" column="4" />
-        <mark key="]" line="399" column="10" />
-        <mark key="." line="399" column="10" />
-        <mark key="^" line="399" column="10" />
       </file>
       <file name="$USER_HOME$/uls/lsm/common/DpiInfo.h" timestamp="1533759954358">
         <mark key="[" line="29" column="3" />
@@ -498,38 +409,38 @@
       <jump line="536" column="12" filename="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/fmt/format.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImZtdC9wcmludGYuaCIK</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>memory_buffer</text>
+        <text>syslog</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICR7Q01BS0VfU09VUkNFX0RJUn0vYmluL3RoaXJkLXBhcnR5Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImZtdC9wcmludGYuaCIK</text>
+        <text encoding="base64">I2luY2x1ZGUgPGZtdC9wcmludGYuaD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjLURTUERMT0dfRk1UX0VYVEVSTkFMCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGludCB0ID0gMjM7CiAgICBjb25zdCBpbnQgeSA9IDU5Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC1EU1BETE9HX0ZNVF9FWFRFUk5BTAogICAgLURTUERMT0dfRU5BQkxFX1NZU0xPRwo=</text>
+        <text encoding="base64">I2luY2x1ZGUgPHNwZGxvZy9hc3luYy5oPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">ICAgICAgICBzcGRsb2c6OnN5cwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBOT19ERUZBVUxUX1BBVEggIyBPbmx5IGxvb2sgaW4gdGhlIFBBVEhTIGFib3ZlCg==</text>
+        <text encoding="base64">ICAgIHNwZGxvZzo6YXN5bmMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBQQVRIUyAke0NNQUtFX1NPVVJDRV9ESVJ9L2luc3RhbGwvbGliCg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPHNwZGxvZy9zaW5rcy8K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZmluZF9saWJyYXJ5KAogICAgICAgIEZNVF9MSUJSQVJZX1BBVEggZm10ZAo=</text>
+      <register name="7" type="4">
+        <text>default_</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -753,19 +664,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">I2luY2x1ZGUgPHNwZGxvZy9zaW5rcy9maWxlX3NpbmtzLmg+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dGFyZ2V0X2NvbXBpbGVfZGVmaW5pdGlvbnMoCiAgICAgICAgLURTUERMT0dfRk1UX0VYVEVSTkFMCg==</text>
+        <text encoding="base64">ICAgICAgICB3LndyaXRlKFNQRExPR19GSUxFTkFNRV9UKCJ7fSIpLCBfYmFzZV9maWxlbmFtZSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>set norelativenumber</text>
+        <text>71</text>
       </register>
     </registers>
     <search>
-      <last-search>memory_buffer</last-search>
+      <last-search>syslog</last-search>
       <last-offset />
-      <last-pattern>memory_buffer</last-pattern>
+      <last-pattern>syslog</last-pattern>
       <last-replace encoding="base64">aWYgKCEoXDEgXDIpKSB7IGxvZ2dlcl8tPndhcm4oIkZpZWxkIFwxIGRpZCBub3QgbWF0Y2giKTsgcmV0dXJuIGZhbHNlOyB9</last-replace>
       <last-substitute encoding="base64">XChtXy4qXClcKCA9PSBvLm1fLipcKSAmJg==</last-substitute>
       <last-dir>1</last-dir>
@@ -773,8 +684,6 @@
     </search>
     <history>
       <history-search>
-        <entry>replace</entry>
-        <entry>)</entry>
         <entry>saveser</entry>
         <entry>;</entry>
         <entry encoding="base64">XChccytcKWFyICYgXCguKlwpOw==</entry>
@@ -793,9 +702,10 @@
         <entry encoding="base64">XChtXy4qXClcKCA9PSBvLm1fLipcKSAmJg==</entry>
         <entry>namespace</entry>
         <entry>memory_buffer</entry>
+        <entry>d</entry>
+        <entry>syslog</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2FyICYgXCguKlwpOy9vcyA8PCAnXDE6ICcgPDwgZHBpX2luZm8uXDEgPDwgc3RkOjplbmRsOy9nYw==</entry>
         <entry encoding="base64">JzwsJz5zL2FyICYgXCguKlwpOy8gJiBCT09TVF9TRVJJQUxJWkFUSU9OX05WUChcMSk7L2dj</entry>
         <entry encoding="base64">JzwsJz5zL2FyICYgXCguKlwpOy9hciAmIEJPT1NUX1NFUklBTElaQVRJT05fTlZQKFwxKTsvZ2M=</entry>
         <entry encoding="base64">JzwsJz5zL2FyICYgXCguKlwpOy9hciBcJiBCT09TVF9TRVJJQUxJWkFUSU9OX05WUChcMSk7L2dj</entry>
@@ -815,6 +725,7 @@
         <entry>39</entry>
         <entry>128</entry>
         <entry>set norelativenumber</entry>
+        <entry>71</entry>
       </history-cmd>
       <history-expr />
       <history-input />
