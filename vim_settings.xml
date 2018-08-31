@@ -3,14 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/fmt/format.h" timestamp="1535734957369">
-        <mark key="'" line="536" column="12" />
-      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/DuplicationData.h" timestamp="1534792581026">
         <mark key="[" line="14" column="17" />
         <mark key="]" line="162" column="0" />
         <mark key="^" line="162" column="8" />
         <mark key="." line="162" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" timestamp="1535746436967">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="23" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/spdlog/CMakeLists.txt" timestamp="1535724168169">
         <mark key="[" line="44" column="46" />
@@ -24,10 +26,27 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="13373" column="0" />
       </file>
+      <file name="$USER_HOME$/uls/lsm/NURBS/NURBSExtrema.cpp" timestamp="1533651314254">
+        <mark key="'" line="61" column="2" />
+        <mark key="[" line="418" column="5" />
+        <mark key="]" line="419" column="57" />
+        <mark key="." line="419" column="57" />
+        <mark key="^" line="419" column="57" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/Planning/stdafx.h" timestamp="1535744671631">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="27" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/Serializers.h" timestamp="1535406292388">
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/database/Materials/SelectedMaterial.cpp" timestamp="1535744905898">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="46" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/spdlog/fmt/fmt.h" timestamp="1535734801568">
         <mark key="[" line="22" column="0" />
@@ -80,16 +99,7 @@
         <mark key="." line="17" column="63" />
         <mark key="^" line="17" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/spdlog/common.h" timestamp="1535734728699">
-        <mark key="'" line="144" column="17" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/spdlog/include/spdlog/tweakme.h" timestamp="1535731346549" />
-      <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/fmt/core.h" timestamp="1535734929546">
-        <mark key="'" line="157" column="39" />
-      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Test/CommonTest/SerializationTest.cpp" timestamp="1534196543161">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -102,11 +112,18 @@
         <mark key="." line="32" column="5" />
         <mark key="^" line="32" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Logging/Logging.h" timestamp="1535740802210">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="1" />
-        <mark key="^" line="33" column="1" />
-        <mark key="." line="33" column="1" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/Logging/Logging.h" timestamp="1535746745130">
+        <mark key="[" line="32" column="67" />
+        <mark key="]" line="32" column="68" />
+        <mark key="^" line="32" column="68" />
+        <mark key="." line="32" column="68" />
+      </file>
+      <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.h" timestamp="1533650340198">
+        <mark key="'" line="26" column="10" />
+        <mark key="[" line="37" column="4" />
+        <mark key="]" line="37" column="10" />
+        <mark key="." line="37" column="10" />
+        <mark key="^" line="37" column="10" />
       </file>
       <file name="$USER_HOME$/uls/lsm/common/powertable.h" timestamp="1533759979543">
         <mark key="[" line="15" column="3" />
@@ -132,6 +149,11 @@
         <mark key="." line="30" column="21" />
         <mark key="^" line="30" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/database/Materials/MaterialsServiceHandler.cpp" timestamp="1535744955269">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="46" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -144,11 +166,30 @@
         <mark key="." line="17" column="34" />
         <mark key="^" line="17" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PeriodicStatus.cpp" timestamp="1535744483130">
+        <mark key="[" line="500" column="0" />
+        <mark key="]" line="500" column="0" />
+        <mark key="." line="500" column="0" />
+      </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/Migration031-0--TableCreation_up.sql" timestamp="1533149055021">
         <mark key="[" line="216" column="2" />
         <mark key="]" line="216" column="2" />
         <mark key="." line="216" column="2" />
         <mark key="^" line="216" column="2" />
+      </file>
+      <file name="$USER_HOME$/uls/lsm/common/PrintParams.h" timestamp="1533761065503">
+        <mark key="'" line="296" column="34" />
+        <mark key="[" line="87" column="21" />
+        <mark key="]" line="87" column="21" />
+        <mark key="^" line="87" column="24" />
+        <mark key="." line="87" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" timestamp="1535747723377">
+        <mark key="'" line="501" column="16" />
+        <mark key="[" line="2210" column="41" />
+        <mark key="]" line="2210" column="42" />
+        <mark key="." line="2210" column="42" />
+        <mark key="^" line="2210" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Camera/CameraSerialization.h" timestamp="1535404572863">
         <mark key="[" line="10" column="0" />
@@ -161,16 +202,37 @@
         <mark key="]" line="35" column="16" />
         <mark key="." line="35" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Planning/Planner.cpp" timestamp="1535150444874">
-        <mark key="[" line="891" column="76" />
-        <mark key="]" line="891" column="76" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/Planning/Planner.cpp" timestamp="1535744665987">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="27" />
         <mark key="." line="891" column="76" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/CMakeLists.txt" timestamp="1533926670305">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="69" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/simple_log_archive.h" timestamp="1535471530356">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="157" column="0" />
+        <mark key="^" line="157" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/tools/deserialize/main.cpp" timestamp="1535471907314">
         <mark key="[" line="169" column="71" />
         <mark key="]" line="169" column="71" />
         <mark key="^" line="169" column="71" />
         <mark key="." line="169" column="71" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/Planning/Configuration.cpp" timestamp="1535151924868">
+        <mark key="'" line="197" column="116" />
+        <mark key="[" line="101" column="4" />
+        <mark key="]" line="101" column="5" />
+        <mark key="^" line="101" column="5" />
+        <mark key="." line="101" column="5" />
       </file>
       <file name="/Dummy.youtrack" timestamp="1535642443825">
         <mark key="[" line="0" column="0" />
@@ -188,16 +250,30 @@
         <mark key="^" line="1" column="53" />
         <mark key="." line="1" column="53" />
       </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/DpiInfo.h" timestamp="1535122021297">
+        <mark key="'" line="62" column="23" />
+        <mark key="[" line="59" column="30" />
+        <mark key="]" line="59" column="30" />
+        <mark key="^" line="59" column="30" />
+        <mark key="." line="59" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/Control/ImportRoutines.cpp" timestamp="1535568205518">
+        <mark key="'" line="232" column="12" />
+        <mark key="[" line="113" column="108" />
+        <mark key="]" line="113" column="116" />
+        <mark key="." line="113" column="116" />
+        <mark key="^" line="113" column="116" />
+      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Planning/PathConstruction/Polyline.h" timestamp="1535150417442">
         <mark key="[" line="26" column="6" />
         <mark key="]" line="26" column="11" />
         <mark key="^" line="26" column="11" />
         <mark key="." line="26" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/database/Materials/DatabaseQueries.cpp" timestamp="1532372270629">
-        <mark key="[" line="714" column="25" />
-        <mark key="]" line="714" column="25" />
-        <mark key="." line="714" column="25" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/database/Materials/DatabaseQueries.cpp" timestamp="1535744877731">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="46" />
+        <mark key="." line="6" column="0" />
         <mark key="^" line="714" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/friendly_daily_file_sink.h" timestamp="1535740440222">
@@ -206,6 +282,17 @@
         <mark key="." line="30" column="53" />
         <mark key="^" line="8" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/UlsControlPanel/src/StateMachine.cpp" timestamp="1535744080450">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/Logging/Logging.cpp" timestamp="1535747883808">
+        <mark key="[" line="350" column="69" />
+        <mark key="]" line="350" column="69" />
+        <mark key="." line="350" column="69" />
+        <mark key="^" line="350" column="69" />
+      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Test/CommonTest/PrintParamsTest.cpp" timestamp="1535037409237">
         <mark key="[" line="42" column="43" />
         <mark key="]" line="44" column="19" />
@@ -213,6 +300,20 @@
         <mark key="^" line="44" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/spdlog/include/spdlog/sinks/file_sinks.h" timestamp="1535734461544" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachine.cpp" timestamp="1535747850295">
+        <mark key="'" line="59" column="11" />
+        <mark key="[" line="864" column="4" />
+        <mark key="]" line="864" column="4" />
+        <mark key="." line="864" column="4" />
+        <mark key="^" line="864" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/SHOULDER.H" timestamp="1535494072005">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="50" column="1" />
+        <mark key="." line="50" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/log_archive.h" timestamp="1534793846914">
         <mark key="[" line="166" column="38" />
         <mark key="]" line="166" column="37" />
@@ -224,6 +325,20 @@
         <mark key="]" line="385" column="60" />
         <mark key="." line="385" column="60" />
         <mark key="^" line="385" column="60" />
+      </file>
+      <file name="$USER_HOME$/uls/lsm/common/PrintParams.cpp" timestamp="1533761091237">
+        <mark key="'" line="63" column="17" />
+        <mark key="[" line="1026" column="0" />
+        <mark key="]" line="1026" column="0" />
+        <mark key="." line="1026" column="0" />
+        <mark key="^" line="1083" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PageParams.h" timestamp="1535043533898">
+        <mark key="'" line="41" column="70" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="119" column="1" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/VRONI/src/CMakeLists.txt" timestamp="1535738186076">
         <mark key="[" line="71" column="30" />
@@ -237,10 +352,26 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/spdlog/sinks/daily_file_sink.h" timestamp="1535740427967" />
-      <file name="$USER_HOME$/Documents/ULS/trunk/Logging/CMakeLists.txt" timestamp="1535739314615">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" timestamp="1535493013924">
+        <mark key="'" line="168" column="21" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="385" column="1" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1535571809140">
+        <mark key="'" line="153" column="40" />
+        <mark key="[" line="112" column="1" />
+        <mark key="]" line="113" column="37" />
+        <mark key="^" line="113" column="37" />
+        <mark key="." line="113" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/Planning/include/Configuration.h" timestamp="1535151967246">
+        <mark key="'" line="304" column="11" />
+        <mark key="[" line="63" column="6" />
+        <mark key="]" line="63" column="5" />
+        <mark key="^" line="63" column="5" />
+        <mark key="." line="63" column="5" />
       </file>
       <file name="$USER_HOME$/uls/lsm/Control/WinMain.cpp" timestamp="1533325031507">
         <mark key="[" line="87" column="14" />
@@ -266,11 +397,24 @@
         <mark key="^" line="61" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" timestamp="1533650351088">
+        <mark key="'" line="36" column="22" />
+        <mark key="[" line="399" column="4" />
+        <mark key="]" line="399" column="10" />
+        <mark key="." line="399" column="10" />
+        <mark key="^" line="399" column="10" />
+      </file>
       <file name="$USER_HOME$/uls/lsm/common/DpiInfo.h" timestamp="1533759954358">
         <mark key="[" line="29" column="3" />
         <mark key="]" line="29" column="3" />
         <mark key="." line="29" column="3" />
         <mark key="^" line="29" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/NURBS/NURBSExtrema.cpp" timestamp="1535743895543">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Planning/Planner.h" timestamp="1535150660882">
         <mark key="[" line="237" column="0" />
@@ -307,62 +451,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="281" column="43" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
-      <jump line="432" column="63" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
-      <jump line="433" column="30" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
-      <jump line="468" column="10" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
-      <jump line="471" column="10" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
-      <jump line="473" column="10" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
-      <jump line="475" column="10" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
-      <jump line="477" column="8" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
-      <jump line="478" column="76" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
-      <jump line="479" column="51" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
-      <jump line="480" column="12" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
-      <jump line="483" column="56" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
-      <jump line="527" column="23" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
-      <jump line="533" column="76" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
-      <jump line="534" column="51" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
-      <jump line="536" column="37" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
-      <jump line="538" column="44" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
-      <jump line="539" column="51" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
-      <jump line="542" column="32" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
-      <jump line="546" column="23" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
-      <jump line="547" column="27" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
-      <jump line="572" column="17" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
-      <jump line="585" column="17" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
-      <jump line="598" column="17" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
-      <jump line="640" column="26" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
-      <jump line="641" column="69" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
-      <jump line="645" column="32" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
-      <jump line="647" column="40" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
-      <jump line="25" column="17" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
-      <jump line="26" column="19" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
-      <jump line="121" column="15" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
-      <jump line="126" column="13" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
-      <jump line="188" column="29" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
-      <jump line="260" column="7" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
-      <jump line="261" column="7" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
-      <jump line="262" column="7" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
-      <jump line="286" column="31" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
-      <jump line="293" column="7" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
-      <jump line="340" column="58" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
-      <jump line="11" column="10" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
-      <jump line="34" column="17" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
-      <jump line="42" column="7" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
-      <jump line="45" column="7" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
-      <jump line="46" column="7" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
-      <jump line="47" column="15" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
-      <jump line="158" column="19" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
-      <jump line="415" column="28" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
-      <jump line="178" column="26" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
-      <jump line="226" column="20" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
-      <jump line="61" column="23" filename="$USER_HOME$/Documents/ULS/trunk/common/DpiInfo.h" />
-      <jump line="439" column="22" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintingArchive.h" />
-      <jump line="20" column="31" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
-      <jump line="20" column="0" filename="$USER_HOME$/Documents/ULS/trunk/common/simple_log_archive.h" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/ULS/trunk/common/simple_log_archive.h" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/ULS/trunk/Camera/CameraSerialization.cpp" />
       <jump line="1356" column="89" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="1382" column="27" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="705" column="4" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
@@ -407,40 +495,96 @@
       <jump line="517" column="27" filename="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/fmt/format.h" />
       <jump line="522" column="10" filename="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/fmt/format.h" />
       <jump line="536" column="12" filename="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/fmt/format.h" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachine.cpp" />
+      <jump line="592" column="8" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachine.cpp" />
+      <jump line="1683" column="4" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachine.cpp" />
+      <jump line="1684" column="18" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachine.cpp" />
+      <jump line="220" column="18" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachine.cpp" />
+      <jump line="486" column="24" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachine.cpp" />
+      <jump line="597" column="19" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachine.cpp" />
+      <jump line="864" column="16" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachine.cpp" />
+      <jump line="989" column="18" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachine.cpp" />
+      <jump line="1170" column="18" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachine.cpp" />
+      <jump line="1393" column="16" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachine.cpp" />
+      <jump line="1677" column="18" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachine.cpp" />
+      <jump line="1679" column="18" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachine.cpp" />
+      <jump line="63" column="10" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachine.cpp" />
+      <jump line="91" column="5" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachine.cpp" />
+      <jump line="129" column="4" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachine.cpp" />
+      <jump line="1285" column="8" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachine.cpp" />
+      <jump line="1337" column="47" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachine.cpp" />
+      <jump line="59" column="11" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachine.cpp" />
+      <jump line="192" column="9" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
+      <jump line="178" column="9" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
+      <jump line="158" column="4" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
+      <jump line="219" column="7" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
+      <jump line="156" column="9" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
+      <jump line="3145" column="36" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
+      <jump line="3040" column="16" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
+      <jump line="3017" column="16" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
+      <jump line="2852" column="16" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
+      <jump line="2659" column="16" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
+      <jump line="2200" column="72" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
+      <jump line="1606" column="28" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
+      <jump line="1521" column="32" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
+      <jump line="1471" column="17" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
+      <jump line="1470" column="18" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
+      <jump line="1462" column="67" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
+      <jump line="2210" column="8" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
+      <jump line="1472" column="34" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
+      <jump line="1469" column="62" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
+      <jump line="1468" column="20" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
+      <jump line="1466" column="20" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
+      <jump line="1461" column="50" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
+      <jump line="1460" column="18" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
+      <jump line="1235" column="45" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
+      <jump line="1145" column="58" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
+      <jump line="1141" column="39" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
+      <jump line="891" column="40" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
+      <jump line="858" column="39" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
+      <jump line="840" column="47" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
+      <jump line="796" column="62" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
+      <jump line="790" column="61" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
+      <jump line="743" column="49" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
+      <jump line="687" column="24" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
+      <jump line="667" column="26" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
+      <jump line="622" column="54" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
+      <jump line="545" column="49" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
+      <jump line="501" column="16" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>syslog</text>
+        <text>Printf</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICR7Q01BS0VfU09VUkNFX0RJUn0vYmluL3RoaXJkLXBhcnR5Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">bV9Mb2dnZXItPnRyYWNl</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGZtdC9wcmludGYuaD4K</text>
+        <text encoding="base64">I2luY2x1ZGUgIlByaW50UXVldWUuaCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGludCB0ID0gMjM7CiAgICBjb25zdCBpbnQgeSA9IDU5Owo=</text>
+        <text encoding="base64">ICBmbXQ6OnByCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHNwZGxvZy9hc3luYy5oPgo=</text>
+      <register name="3" type="4">
+        <text>(vertex[j].y + (LONG)dTempY)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzcGRsb2c6OnN5cwo=</text>
+        <text encoding="base64">I2luY2x1ZGUgIlRocmlmdEV4dGVuc2lvbnMvVGhyaWZ0RXhjZXB0aW9ucy5oIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNwZGxvZzo6YXN5bmMK</text>
+        <text encoding="base64">I2luY2x1ZGUgIlByaW50UXVldWUuaCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHNwZGxvZy9zaW5rcy8K</text>
+        <text encoding="base64">I2luY2x1ZGUgIlRocmlmdEV4dGVuc2lvbnMvVGhyaWZ0RXhjZXB0aW9ucy5oIgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>default_</text>
+      <register name="7" type="2">
+        <text encoding="base64">I2luY2x1ZGUgIlRocmlmdEV4dGVuc2lvbnMvVGhyaWZ0RXhjZXB0aW9ucy5oIgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -664,19 +808,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHNwZGxvZy9zaW5rcy9maWxlX3NpbmtzLmg+Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgInNwZGxvZy9zcGRsb2cuaCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3LndyaXRlKFNQRExPR19GSUxFTkFNRV9UKCJ7fSIpLCBfYmFzZV9maWxlbmFtZSk7Cg==</text>
+        <text encoding="base64">ICBmbXQ6OnByaW50KCJwcm90b2NvbCBJRCA9PSB7fXt9e317fSIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>71</text>
       </register>
     </registers>
     <search>
-      <last-search>syslog</last-search>
+      <last-search>Printf</last-search>
       <last-offset />
-      <last-pattern>syslog</last-pattern>
+      <last-pattern>Printf</last-pattern>
       <last-replace encoding="base64">aWYgKCEoXDEgXDIpKSB7IGxvZ2dlcl8tPndhcm4oIkZpZWxkIFwxIGRpZCBub3QgbWF0Y2giKTsgcmV0dXJuIGZhbHNlOyB9</last-replace>
       <last-substitute encoding="base64">XChtXy4qXClcKCA9PSBvLm1fLipcKSAmJg==</last-substitute>
       <last-dir>1</last-dir>
@@ -684,10 +828,6 @@
     </search>
     <history>
       <history-search>
-        <entry>saveser</entry>
-        <entry>;</entry>
-        <entry encoding="base64">XChccytcKWFyICYgXCguKlwpOw==</entry>
-        <entry encoding="base64">YXIgJiBcKC4qXCk7</entry>
         <entry>if(fs::exists</entry>
         <entry>class less</entry>
         <entry>log_archive</entry>
@@ -704,6 +844,10 @@
         <entry>memory_buffer</entry>
         <entry>d</entry>
         <entry>syslog</entry>
+        <entry>,</entry>
+        <entry>printf</entry>
+        <entry>Print</entry>
+        <entry>Printf</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2FyICYgXCguKlwpOy8gJiBCT09TVF9TRVJJQUxJWkFUSU9OX05WUChcMSk7L2dj</entry>
