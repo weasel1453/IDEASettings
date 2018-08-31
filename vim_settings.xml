@@ -111,11 +111,11 @@
         <mark key="." line="32" column="5" />
         <mark key="^" line="32" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Logging/Logging.h" timestamp="1535730106272">
-        <mark key="[" line="15" column="21" />
-        <mark key="]" line="16" column="22" />
-        <mark key="." line="16" column="22" />
-        <mark key="^" line="16" column="22" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/Logging/Logging.h" timestamp="1535730981615">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="39" column="1" />
       </file>
       <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.h" timestamp="1533650340198">
         <mark key="'" line="26" column="10" />
@@ -518,8 +518,8 @@
       <jump line="153" column="40" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cHJpbnRmX2FyZ3Mg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPGZtdC9wcmludGYuaD4K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">cHJpbnRmX2FyZ3Mg</text>
@@ -534,22 +534,22 @@
         <text encoding="base64">I2luY2x1ZGUgPGZtdC9wcmludGYuaD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImZtdC9wcmludGYuaCIK</text>
+        <text encoding="base64">I2luY2x1ZGUgPGZtdC9wcmludGYuaD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICR7Q01BS0VfU09VUkNFX0RJUn0vYmluL3RoaXJkLXBhcnR5L2ZtdC01LjEuMAo=</text>
+        <text encoding="base64">I2luY2x1ZGUgImZtdC9wcmludGYuaCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGZtdC9mb3JtYXQuaD4K</text>
+        <text encoding="base64">ICAgICR7Q01BS0VfU09VUkNFX0RJUn0vYmluL3RoaXJkLXBhcnR5L2ZtdC01LjEuMAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGZtdC8K</text>
+        <text encoding="base64">I2luY2x1ZGUgPGZtdC9mb3JtYXQuaD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2luY2x1ZGUgInNwZGxvZy9zcGRsb2cuaCIK</text>
+        <text encoding="base64">I2luY2x1ZGUgPGZtdC8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGZtdC9jCg==</text>
+        <text encoding="base64">I2luY2x1ZGUgInNwZGxvZy9zcGRsb2cuaCIK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -773,10 +773,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgInNwZGxvZy9mbXQvZm10LmgK</text>
+        <text encoding="base64">I2luY2x1ZGUgPGZtdC9jCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I3tBc3NpZ25lZCB0byBtZX0gCg==</text>
+        <text encoding="base64">I2luY2x1ZGUgInNwZGxvZy9mbXQvZm10LmgK</text>
       </register>
       <register name=":" type="4">
         <text>513</text>
