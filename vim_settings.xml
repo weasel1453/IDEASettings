@@ -64,6 +64,11 @@
         <mark key="." line="243" column="23" />
         <mark key="^" line="243" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/cmake/Modules/global-compile-options.cmake" timestamp="1535733783760">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Test/ConfigurationTest/JsonTest.cpp" timestamp="1535151896018">
         <mark key="[" line="44" column="2" />
         <mark key="]" line="44" column="2" />
@@ -137,10 +142,10 @@
         <mark key="^" line="109" column="1" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/CMakeLists.txt" timestamp="1535731936510">
-        <mark key="[" line="47" column="33" />
-        <mark key="]" line="47" column="33" />
-        <mark key="." line="47" column="33" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/CMakeLists.txt" timestamp="1535733572891">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
         <mark key="^" line="47" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/tools/deserialize/CMakeLists.txt" timestamp="1535405840200">
@@ -519,8 +524,8 @@
       <jump line="153" column="40" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>party</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjLURTUERMT0dfRk1UX0VYVEVSTkFMCg==</text>
       </register>
       <register name="-" type="4">
         <text>party</text>
@@ -532,25 +537,25 @@
         <text encoding="base64">ICAgICR7Q01BS0VfU09VUkNFX0RJUn0vYmluL3RoaXJkLXBhcnR5Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">ICAgICAgICAjLURTUERMT0dfRk1UX0VYVEVSTkFMCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dGFyZ2V0X2NvbXBpbGVfZGVmaW5pdGlvbnMoCiAgICAgICAgLURTUERMT0dfRk1UX0VYVEVSTkFMCg==</text>
+        <text encoding="base64">ICAgIC1EU1BETE9HX0ZNVF9FWFRFUk5BTAogICAgLURTUERMT0dfRU5BQkxFX1NZU0xPRwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2V0KCkK</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGZtdC9wcmludGYuaD4K</text>
+        <text encoding="base64">ICAgICAgICBOT19ERUZBVUxUX1BBVEggIyBPbmx5IGxvb2sgaW4gdGhlIFBBVEhTIGFib3ZlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGZtdC9wcmludGYuaD4K</text>
+        <text encoding="base64">ICAgICAgICBQQVRIUyAke0NNQUtFX1NPVVJDRV9ESVJ9L2luc3RhbGwvbGliCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImZtdC9wcmludGYuaCIK</text>
+        <text encoding="base64">ZmluZF9saWJyYXJ5KAogICAgICAgIEZNVF9MSUJSQVJZX1BBVEggZm10ZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICR7Q01BS0VfU09VUkNFX0RJUn0vYmluL3RoaXJkLXBhcnR5L2ZtdC01LjEuMAo=</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -774,10 +779,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGZtdC9mb3JtYXQuaD4K</text>
+        <text encoding="base64">dGFyZ2V0X2NvbXBpbGVfZGVmaW5pdGlvbnMoCiAgICAgICAgLURTUERMT0dfRk1UX0VYVEVSTkFMCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGZtdC8K</text>
+        <text encoding="base64">c2V0KCkK</text>
       </register>
       <register name=":" type="4">
         <text>128</text>
