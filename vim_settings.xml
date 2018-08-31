@@ -115,12 +115,6 @@
         <mark key="." line="32" column="5" />
         <mark key="^" line="32" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Logging/Logging.h" timestamp="1535734627712">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="1" />
-        <mark key="." line="34" column="1" />
-        <mark key="^" line="34" column="1" />
-      </file>
       <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.h" timestamp="1533650340198">
         <mark key="'" line="26" column="10" />
         <mark key="[" line="37" column="4" />
@@ -256,12 +250,6 @@
         <mark key="]" line="714" column="25" />
         <mark key="." line="714" column="25" />
         <mark key="^" line="714" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Logging/Logging.cpp" timestamp="1535729963539">
-        <mark key="[" line="11" column="44" />
-        <mark key="]" line="11" column="20" />
-        <mark key="." line="11" column="20" />
-        <mark key="^" line="11" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Test/CommonTest/PrintParamsTest.cpp" timestamp="1535037409237">
         <mark key="[" line="42" column="43" />
@@ -514,8 +502,8 @@
       <jump line="536" column="12" filename="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/fmt/format.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I2luY2x1ZGUgImZtdC9wcmludGYuaCIK</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -527,25 +515,25 @@
         <text encoding="base64">ICAgICR7Q01BS0VfU09VUkNFX0RJUn0vYmluL3RoaXJkLXBhcnR5Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjLURTUERMT0dfRk1UX0VYVEVSTkFMCg==</text>
+        <text encoding="base64">I2luY2x1ZGUgImZtdC9wcmludGYuaCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC1EU1BETE9HX0ZNVF9FWFRFUk5BTAogICAgLURTUERMT0dfRU5BQkxFX1NZU0xPRwo=</text>
+        <text encoding="base64">ICAgICAgICAjLURTUERMT0dfRk1UX0VYVEVSTkFMCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">ICAgIC1EU1BETE9HX0ZNVF9FWFRFUk5BTAogICAgLURTUERMT0dfRU5BQkxFX1NZU0xPRwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBOT19ERUZBVUxUX1BBVEggIyBPbmx5IGxvb2sgaW4gdGhlIFBBVEhTIGFib3ZlCg==</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBQQVRIUyAke0NNQUtFX1NPVVJDRV9ESVJ9L2luc3RhbGwvbGliCg==</text>
+        <text encoding="base64">ICAgICAgICBOT19ERUZBVUxUX1BBVEggIyBPbmx5IGxvb2sgaW4gdGhlIFBBVEhTIGFib3ZlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZmluZF9saWJyYXJ5KAogICAgICAgIEZNVF9MSUJSQVJZX1BBVEggZm10ZAo=</text>
+        <text encoding="base64">ICAgICAgICBQQVRIUyAke0NNQUtFX1NPVVJDRV9ESVJ9L2luc3RhbGwvbGliCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">ZmluZF9saWJyYXJ5KAogICAgICAgIEZNVF9MSUJSQVJZX1BBVEggZm10ZAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -769,10 +757,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dGFyZ2V0X2NvbXBpbGVfZGVmaW5pdGlvbnMoCiAgICAgICAgLURTUERMT0dfRk1UX0VYVEVSTkFMCg==</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2V0KCkK</text>
+        <text encoding="base64">dGFyZ2V0X2NvbXBpbGVfZGVmaW5pdGlvbnMoCiAgICAgICAgLURTUERMT0dfRk1UX0VYVEVSTkFMCg==</text>
       </register>
       <register name=":" type="4">
         <text>set norelativenumber</text>
