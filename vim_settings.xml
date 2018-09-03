@@ -99,7 +99,6 @@
         <mark key="." line="17" column="63" />
         <mark key="^" line="17" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/spdlog/include/spdlog/tweakme.h" timestamp="1535731346549" />
       <file name="$USER_HOME$/Documents/ULS/trunk/Test/CommonTest/SerializationTest.cpp" timestamp="1534196543161">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -288,10 +287,10 @@
         <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Logging/Logging.cpp" timestamp="1535747925291">
-        <mark key="[" line="350" column="43" />
-        <mark key="]" line="350" column="46" />
-        <mark key="." line="350" column="46" />
-        <mark key="^" line="350" column="46" />
+        <mark key="[" line="351" column="43" />
+        <mark key="]" line="351" column="46" />
+        <mark key="." line="351" column="46" />
+        <mark key="^" line="351" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Test/CommonTest/PrintParamsTest.cpp" timestamp="1535037409237">
         <mark key="[" line="42" column="43" />
@@ -299,7 +298,6 @@
         <mark key="." line="44" column="19" />
         <mark key="^" line="44" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/spdlog/include/spdlog/sinks/file_sinks.h" timestamp="1535734461544" />
       <file name="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachine.cpp" timestamp="1535747850295">
         <mark key="'" line="59" column="11" />
         <mark key="[" line="864" column="4" />
@@ -351,7 +349,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/spdlog/sinks/daily_file_sink.h" timestamp="1535740427967" />
       <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" timestamp="1535493013924">
         <mark key="'" line="168" column="21" />
         <mark key="[" line="19" column="0" />
@@ -365,6 +362,9 @@
         <mark key="]" line="113" column="37" />
         <mark key="^" line="113" column="37" />
         <mark key="." line="113" column="37" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1535749439893">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Planning/include/Configuration.h" timestamp="1535151967246">
         <mark key="'" line="304" column="11" />
