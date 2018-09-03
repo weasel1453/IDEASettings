@@ -298,11 +298,11 @@
         <mark key="." line="44" column="19" />
         <mark key="^" line="44" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/spdlog/sinks/syslog_sink.h" timestamp="1535995226940">
-        <mark key="[" line="52" column="91" />
-        <mark key="]" line="52" column="91" />
-        <mark key="." line="52" column="91" />
-        <mark key="^" line="52" column="91" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/spdlog/sinks/syslog_sink.h" timestamp="1535997064182">
+        <mark key="[" line="52" column="36" />
+        <mark key="]" line="52" column="41" />
+        <mark key="." line="52" column="41" />
+        <mark key="^" line="52" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachine.cpp" timestamp="1535747850295">
         <mark key="'" line="59" column="11" />
@@ -561,10 +561,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Printf</text>
