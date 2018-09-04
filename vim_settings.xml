@@ -287,10 +287,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Logging/Logging.cpp" timestamp="1536091564296">
-        <mark key="[" line="34" column="5" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/Logging/Logging.cpp" timestamp="1536093329760">
+        <mark key="[" line="91" column="32" />
+        <mark key="]" line="91" column="47" />
+        <mark key="." line="91" column="47" />
+        <mark key="^" line="91" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Test/CommonTest/PrintParamsTest.cpp" timestamp="1535037409237">
         <mark key="[" line="42" column="43" />
@@ -298,7 +299,7 @@
         <mark key="." line="44" column="19" />
         <mark key="^" line="44" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/spdlog/sinks/syslog_sink.h" timestamp="1536090875223">
+      <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/spdlog/sinks/syslog_sink.h" timestamp="1536093280526">
         <mark key="[" line="64" column="24" />
         <mark key="]" line="65" column="13" />
         <mark key="." line="65" column="13" />
@@ -565,11 +566,11 @@
       <jump line="501" column="16" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRlbXBsYXRlPHR5cGVuYW1lIE11dGV4Pgo=</text>
+      <register name="&quot;" type="4">
+        <text>syslog_sink</text>
       </register>
       <register name="-" type="4">
-        <text>_st</text>
+        <text>syslog_sink</text>
       </register>
       <register name="/" type="4">
         <text>Printf</text>
