@@ -298,11 +298,11 @@
         <mark key="." line="44" column="19" />
         <mark key="^" line="44" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/spdlog/sinks/syslog_sink.h" timestamp="1535997064182">
-        <mark key="[" line="52" column="36" />
-        <mark key="]" line="52" column="41" />
-        <mark key="." line="52" column="41" />
-        <mark key="^" line="52" column="41" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/spdlog/sinks/syslog_sink.h" timestamp="1536070888410">
+        <mark key="[" line="57" column="58" />
+        <mark key="]" line="57" column="58" />
+        <mark key="." line="57" column="58" />
+        <mark key="^" line="58" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachine.cpp" timestamp="1535747850295">
         <mark key="'" line="59" column="11" />
@@ -355,7 +355,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/spdlog/sinks/daily_file_sink.h" timestamp="1535994449362" />
       <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" timestamp="1535493013924">
         <mark key="'" line="168" column="21" />
         <mark key="[" line="19" column="0" />
@@ -369,6 +368,9 @@
         <mark key="]" line="113" column="37" />
         <mark key="^" line="113" column="37" />
         <mark key="." line="113" column="37" />
+      </file>
+      <file name="/GDB" timestamp="1536070393363">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1535749439893">
         <mark key="[" line="0" column="0" />
@@ -438,6 +440,9 @@
         <mark key="[" line="4" column="24" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="/fragment.mm" timestamp="1536070332227">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.cpp" timestamp="1533302030878">
         <mark key="[" line="0" column="12" />
@@ -561,37 +566,37 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Printf</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">bV9Mb2dnZXItPnRyYWNl</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA6OnN5c2xvZyhzeXNsb2dfcHJpb19mcm9tX2xldmVsKG1zZyksICJbJXNdIFslc10gJXMiLCBtc2cubG9nZ2VyX25hbWUtPmNfc3RyKCksIGxldmVsOjpsZXZlbF9uYW1lc1ttc2cubGV2ZWxdLCBtZXNzYWdlLnN1YnN0cihzdGFydCwgc3RhcnQrMTAyNCkuY19zdHIoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA6OnN5c2xvZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhcnQgKz0gMTAyNDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIlByaW50UXVldWUuaCIK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBmbXQ6OnByCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpzdHJpbmcgbWVzc2FnZSA9IGZtdDo6dG9fc3RyaW5nKG1zZy5yYXcpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>(vertex[j].y + (LONG)dTempY)</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIlRocmlmdEV4dGVuc2lvbnMvVGhyaWZ0RXhjZXB0aW9ucy5oIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgKHN0YXJ0ICAxMDI0IDwgc3RyaW5nLnNpemUpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIlByaW50UXVldWUuaCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3lzbG9nKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIlRocmlmdEV4dGVuc2lvbnMvVGhyaWZ0RXhjZXB0aW9ucy5oIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -815,10 +820,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIlRocmlmdEV4dGVuc2lvbnMvVGhyaWZ0RXhjZXB0aW9ucy5oIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGVuZDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2luY2x1ZGUgInNwZGxvZy9zcGRsb2cuaCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA6OnN5c2xvZyhzeXNsb2dfcHJpb19mcm9tX2xldmVsKG1zZyksICJbJXNdIFslc10gJXMiLCBtc2cubG9nZ2VyX25hbWUtPmNfc3RyKCksIGxldmVsOjpsZXZlbF9uYW1lc1ttc2cubGV2ZWxdLCBtc2cucmF3KS5jX3N0cigpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>71</text>
