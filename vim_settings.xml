@@ -357,6 +357,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/spdlog/sinks/daily_file_sink.h" timestamp="1536174201626">
+        <mark key="[" line="41" column="1" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" timestamp="1535493013924">
         <mark key="'" line="168" column="21" />
         <mark key="[" line="19" column="0" />
@@ -828,7 +834,7 @@
         <text encoding="base64">ICAgICAgICAgICAgc3lzbG9nKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>71</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
@@ -872,7 +878,6 @@
         <entry>160</entry>
         <entry>52</entry>
         <entry>59</entry>
-        <entry>1</entry>
         <entry>60</entry>
         <entry>516</entry>
         <entry encoding="base64">JzwsJz5zL1wobV8uKlwpXCggPT0gby5tXy4qXCkgJiYvaWYgKFwxIFwyKSB7IGxvZ2dlcl8tPndhcm4oIkZpZWxkIFwxIGRpZCBub3QgbWF0Y2giKTsgcmV0dXJuIGZhbHNlOyB9L2dj</entry>
@@ -884,6 +889,7 @@
         <entry>128</entry>
         <entry>set norelativenumber</entry>
         <entry>71</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
