@@ -287,11 +287,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Logging/Logging.cpp" timestamp="1536179285134">
-        <mark key="[" line="33" column="48" />
-        <mark key="]" line="33" column="54" />
-        <mark key="." line="33" column="54" />
-        <mark key="^" line="33" column="54" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/Logging/Logging.cpp" timestamp="1536179942448">
+        <mark key="[" line="277" column="53" />
+        <mark key="]" line="277" column="53" />
+        <mark key="." line="277" column="53" />
+        <mark key="^" line="277" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Test/CommonTest/PrintParamsTest.cpp" timestamp="1535037409237">
         <mark key="[" line="42" column="43" />
@@ -376,7 +376,7 @@
         <mark key="^" line="113" column="37" />
         <mark key="." line="113" column="37" />
       </file>
-      <file name="/GDB" timestamp="1536077651293">
+      <file name="/GDB" timestamp="1536180199666">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1535749439893">
