@@ -307,10 +307,10 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/FilePath.cpp" timestamp="1536249123757">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/FilePath.cpp" timestamp="1536250840503">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Test/CommonTest/PrintParamsTest.cpp" timestamp="1535037409237">
         <mark key="[" line="42" column="43" />
@@ -395,7 +395,7 @@
         <mark key="^" line="113" column="37" />
         <mark key="." line="113" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Logging/CMakeLists.txt" timestamp="1536249282673">
+      <file name="$USER_HOME$/Documents/ULS/trunk/Logging/CMakeLists.txt" timestamp="1536250941494">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -403,7 +403,7 @@
       <file name="/GDB" timestamp="1536180868841">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536249584512">
+      <file name="/Dummy.txt" timestamp="1536250946292">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Planning/include/Configuration.h" timestamp="1535151967246">
@@ -617,8 +617,8 @@
       <jump line="501" column="16" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGlmIChHZXRBcHBUeXBlKCkgPT0gQVBQX1RZUEVfRVNUSU1BVE9SKSByZXN1bHQgLz0gIkVTVCI7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -630,25 +630,25 @@
         <text encoding="base64">ICAgICAgICAgICAgICA6OnN5c2xvZyhzeXNsb2dfcHJpb19mcm9tX2xldmVsKG1zZyksICJbJXNdIFslc10gJXMiLCBtc2cubG9nZ2VyX25hbWUtPmNfc3RyKCksIGxldmVsOjpsZXZlbF9uYW1lc1ttc2cubGV2ZWxdLCBtZXNzYWdlLnN1YnN0cihzdGFydCwgc3RhcnQrMTAyNCkuY19zdHIoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChHZXRBcHBUeXBlKCkgPT0gQVBQX1RZUEVfRVNUSU1BVE9SKSByZXN1bHQgLz0gIkVTVCI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBiRXN0aW1hdG9yID0gSXNFc3RpbWF0b3IoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEFwcFR5cGVUZXN0LmNwcAo=</text>
+        <text encoding="base64">ICBiRXN0aW1hdG9yID0gSXNFc3RpbWF0b3IoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICR7Q01BS0VfU09VUkNFX0RJUn0vY29tbW9uL0FwcFR5cGUuY3BwCg==</text>
+        <text encoding="base64">ICAgIEFwcFR5cGVUZXN0LmNwcAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICR7Q09NTU9OX0RJUn0vQXBwVHlwZS5jcHAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICR7Q01BS0VfU09VUkNFX0RJUn0vY29tbW9uL0FwcFR5cGUuY3BwCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICR7Q09NTU9OX0RJUn0vQXBwVHlwZS5jcHAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImNvbW1vbi9BcHBUeXBlLmgiCg==</text>
+        <text encoding="base64">ICAgICR7Q01BS0VfU09VUkNFX0RJUn0vY29tbW9uL0FwcFR5cGUuY3BwCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -872,7 +872,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIkFwcFR5cGUuaCIK</text>
+        <text encoding="base64">I2luY2x1ZGUgImNvbW1vbi9BcHBUeXBlLmgiCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">I2luY2x1ZGUgIkFwcFR5cGUuaCIK</text>
