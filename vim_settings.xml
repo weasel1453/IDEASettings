@@ -122,12 +122,6 @@
         <mark key="." line="32" column="5" />
         <mark key="^" line="32" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Logging/Logging.h" timestamp="1535746745130">
-        <mark key="[" line="32" column="67" />
-        <mark key="]" line="32" column="68" />
-        <mark key="^" line="32" column="68" />
-        <mark key="." line="32" column="68" />
-      </file>
       <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.h" timestamp="1533650340198">
         <mark key="'" line="26" column="10" />
         <mark key="[" line="37" column="4" />
@@ -411,7 +405,7 @@
       <file name="/GDB" timestamp="1536180868841">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536268370211">
+      <file name="/Dummy.txt" timestamp="1536270334471">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Planning/include/Configuration.h" timestamp="1535151967246">
