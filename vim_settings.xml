@@ -307,10 +307,14 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/FilePath.cpp" timestamp="1536250840503">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/Logging/Logging.cpp" timestamp="1536252356298">
+        <mark key="[" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/FilePath.cpp" timestamp="1536252434641">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Test/CommonTest/PrintParamsTest.cpp" timestamp="1535037409237">
         <mark key="[" line="42" column="43" />
@@ -878,7 +882,7 @@
         <text encoding="base64">I2luY2x1ZGUgIkFwcFR5cGUuaCIK</text>
       </register>
       <register name=":" type="4">
-        <text>13</text>
+        <text>32</text>
       </register>
     </registers>
     <search>
@@ -914,7 +918,6 @@
         <entry>Printf</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2FyICYgXCguKlwpOy9hciAmIEJPT1NUX1NFUklBTElaQVRJT05fTlZQKFwxKTsvZ2M=</entry>
         <entry encoding="base64">JzwsJz5zL2FyICYgXCguKlwpOy9hciBcJiBCT09TVF9TRVJJQUxJWkFUSU9OX05WUChcMSk7L2dj</entry>
         <entry encoding="base64">JXMvXChccytcKWFyICYgXCguKlwpOy9cMSBhciAmIEJPT1NUX1NFUklBTElaQVRJT05fTlZQKFwyKTsvZ2M=</entry>
         <entry encoding="base64">JXMvYXIgJiBcKC4qXCk7L2FyIFwmIEJPT1NUX1NFUklBTElaQVRJT05fTlZQKFwxKTsvZ2M=</entry>
@@ -934,6 +937,7 @@
         <entry>71</entry>
         <entry>1</entry>
         <entry>13</entry>
+        <entry>32</entry>
       </history-cmd>
       <history-expr />
       <history-input />
