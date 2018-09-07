@@ -266,7 +266,7 @@
         <mark key="^" line="59" column="30" />
         <mark key="." line="59" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Control/ImportRoutines.cpp" timestamp="1535568205518">
+      <file name="$USER_HOME$/Documents/ULS/trunk/Control/ImportRoutines.cpp" timestamp="1536332332566">
         <mark key="'" line="232" column="12" />
         <mark key="[" line="113" column="108" />
         <mark key="]" line="113" column="116" />
@@ -382,19 +382,19 @@
         <mark key="^" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" timestamp="1535493013924">
-        <mark key="'" line="168" column="21" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="385" column="1" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" timestamp="1536332691267">
+        <mark key="'" line="287" column="6" />
+        <mark key="[" line="106" column="13" />
+        <mark key="]" line="287" column="6" />
+        <mark key="^" line="287" column="6" />
+        <mark key="." line="287" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1535571809140">
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1536333278710">
         <mark key="'" line="153" column="40" />
-        <mark key="[" line="112" column="1" />
-        <mark key="]" line="113" column="37" />
-        <mark key="^" line="113" column="37" />
-        <mark key="." line="113" column="37" />
+        <mark key="[" line="1598" column="24" />
+        <mark key="]" line="1598" column="30" />
+        <mark key="." line="1598" column="30" />
+        <mark key="^" line="1598" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Logging/CMakeLists.txt" timestamp="1536268335137">
         <mark key="[" line="10" column="4" />
@@ -517,7 +517,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1356" column="89" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="1382" column="27" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="705" column="4" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="213" column="4" filename="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" />
@@ -617,16 +616,17 @@
       <jump line="622" column="54" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
       <jump line="545" column="49" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
       <jump line="501" column="16" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
+      <jump line="287" column="6" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>filePath</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>filePath</text>
       </register>
       <register name="/" type="4">
-        <text>Printf</text>
+        <text>serialize</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICA6OnN5c2xvZyhzeXNsb2dfcHJpb19mcm9tX2xldmVsKG1zZyksICJbJXNdIFslc10gJXMiLCBtc2cubG9nZ2VyX25hbWUtPmNfc3RyKCksIGxldmVsOjpsZXZlbF9uYW1lc1ttc2cubGV2ZWxdLCBtZXNzYWdlLnN1YnN0cihzdGFydCwgc3RhcnQrMTAyNCkuY19zdHIoKSk7Cg==</text>
@@ -635,22 +635,29 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I3ByYWdtYSB3YXJuaW5nKHBvcCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">I3ByYWdtYSB3YXJuaW5nKHB1c2gpCiNwcmFnbWEgd2FybmluZyhkaXNhYmxlOjQyNDQpCg==</text>
+      <register name="3" type="4">
+        <text>#pragma warning(push)
+#pragma warning(disable:4244)
+#include &quot;rapidjson/document.h&quot;
+#include &quot;rapidjson/reader.h&quot;
+#include &quot;rapidjson/stringbuffer.h&quot;
+#include &quot;rapidjson/prettywriter.h&quot;
+#include &quot;rapidjson/allocators.h&quot;
+#pragma warning(pop)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgInJhcGlkanNvbi9kb2N1bWVudC5oIgojaW5jbHVkZSAicmFwaWRqc29uL3JlYWRlci5oIgo=</text>
+        <text encoding="base64">dXNpbmcgbmFtZXNwYWNlIHJhcGlkanNvbjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBtX2JpblNldHRpbmdzRmlsZU5hbWUgPSBmczo6Y2hhbmdlX2V4dGVuc2lvbihkYXRGaWxlUGF0aCwgIi5iaW4iKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBmczo6cGF0aCBiaW5TZXR0aW5nc0ZpbGUgPSBmczo6Y2hhbmdlX2V4dGVuc2lvbihqc29uU2V0dGluZ3NGaWxlLCAiLmJpbiIpOwo=</text>
+        <text encoding="base64">ICBSRUNUIG1fcmNab29tUmVjdDsgICAgICAgICAgICAgIC8vIFpvb20gcmVjdCBmb3Igc2NyZWVuLCBpbiBwcmludGVyIGNvb3Jkcy4KICBmczo6cGF0aCBtX2pzb25TZXR0aW5nc0ZpbGVOYW1lOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -874,27 +881,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpZiAoZnM6OmV4aXN0cyhiaW5JbXBvcnRPcHRpb25zRmlsZSkpIHsK</text>
+        <text encoding="base64">ICAgICAgbV9sb2cK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEltcG9ydFJvdXRpbmVzOjpJbXBvcnRPcHRpb25zIGJpbkltcG9ydE9wdGlvbnMsIGpzb25JbXBvcnRPcHRpb25zOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>164</text>
       </register>
     </registers>
     <search>
-      <last-search>Printf</last-search>
+      <last-search>serialize</last-search>
       <last-offset />
-      <last-pattern>Printf</last-pattern>
+      <last-pattern>serialize</last-pattern>
       <last-replace encoding="base64">aWYgKCEoXDEgXDIpKSB7IGxvZ2dlcl8tPndhcm4oIkZpZWxkIFwxIGRpZCBub3QgbWF0Y2giKTsgcmV0dXJuIGZhbHNlOyB9</last-replace>
       <last-substitute encoding="base64">XChtXy4qXClcKCA9PSBvLm1fLipcKSAmJg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>if(fs::exists</entry>
         <entry>class less</entry>
         <entry>log_archive</entry>
         <entry>selectedModel</entry>
@@ -914,6 +920,7 @@
         <entry>printf</entry>
         <entry>Print</entry>
         <entry>Printf</entry>
+        <entry>serialize</entry>
       </history-search>
       <history-cmd>
         <entry>160</entry>
