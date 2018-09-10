@@ -395,11 +395,11 @@
         <mark key="^" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" timestamp="1536599779058">
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" timestamp="1536605390195">
         <mark key="'" line="65" column="64" />
-        <mark key="[" line="380" column="0" />
-        <mark key="]" line="380" column="0" />
-        <mark key="." line="380" column="0" />
+        <mark key="[" line="290" column="0" />
+        <mark key="]" line="290" column="0" />
+        <mark key="." line="290" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.h" timestamp="1536599503052">
         <mark key="[" line="155" column="45" />
@@ -535,9 +535,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="213" column="4" filename="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" />
-      <jump line="1044" column="11" filename="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" />
-      <jump line="171" column="21" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
       <jump line="36" column="15" filename="$USER_HOME$/Documents/ULS/trunk/tools/deserialize/main.cpp" />
       <jump line="22" column="6" filename="$USER_HOME$/Documents/ULS/trunk/Camera/CameraSerialization.cpp" />
       <jump line="126" column="8" filename="$USER_HOME$/Documents/ULS/trunk/Camera/CameraSerialization.cpp" />
@@ -634,41 +631,44 @@
       <jump line="501" column="16" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" />
       <jump line="287" column="6" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
       <jump line="435" column="1" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
+      <jump line="83" column="0" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
+      <jump line="31" column="9" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
+      <jump line="290" column="0" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
       <jump line="65" column="64" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvL3ZvaWQgRGF0YUZyb21KU09OKGNvbnN0IHJhcGlkanNvbjo6VmFsdWUgJmpzb24pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>Serialize</text>
+        <text>json</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICA6OnN5c2xvZyhzeXNsb2dfcHJpb19mcm9tX2xldmVsKG1zZyksICJbJXNdIFslc10gJXMiLCBtc2cubG9nZ2VyX25hbWUtPmNfc3RyKCksIGxldmVsOjpsZXZlbF9uYW1lc1ttc2cubGV2ZWxdLCBtZXNzYWdlLnN1YnN0cihzdGFydCwgc3RhcnQrMTAyNCkuY19zdHIoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvL3ZvaWQgRGF0YUZyb21KU09OKGNvbnN0IHJhcGlkanNvbjo6VmFsdWUgJmpzb24pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoKICovCg==</text>
+        <text encoding="base64">ICAvL3ZvaWQgRGF0YUZyb21TY2hlbWFWZXJzaW9uNEFuZExhdGVyKGNvbnN0IHJhcGlkanNvbjo6VmFsdWUgJmpzb24pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAKICBpZiAoc2NoZW1hVmVyc2lvbiA8PSAzKQogICAgRGF0YUZyb21TY2hlbWFWZXJzaW9uM0FuZEVhcmxpZXIoanNvbik7CiAgZWxzZQogICAgRGF0YUZyb21TY2hlbWFWZXJzaW9uNEFuZExhdGVyKGpzb24pOwogIAogIFVMUzo6dmVyaWZ5UHJvY2Vzc2VzKG1fcHJvY2Vzc2VzKTsKfQogCg==</text>
+        <text encoding="base64">ICAvL3ZvaWQgRGF0YUZyb21TY2hlbWFWZXJzaW9uM0FuZEVhcmxpZXIoY29uc3QgcmFwaWRqc29uOjpWYWx1ZSAmanNvbik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFNldFByb2Nlc3Nlcyhwcm9jZXNzZXMpOwogIGF1dG8gY29sb3JVc2FnZXMgPSBHZXRKc29uQ29sb3JVc2FnZXMoanNvbiwgIkNvbG9yVXNhZ2VzIik7CiAgU2V0Q29sb3JVc2FnZXMoY29sb3JVc2FnZXMpOwp9Cgp2b2lkIFByaW50UGFyYW1zOjpEYXRhRnJvbUpTT04oY29uc3QgcmFwaWRqc29uOjpWYWx1ZSAmanNvbikKewogIGludCBzY2hlbWFWZXJzaW9uOwogIEdldEpTT04oanNvbiwgc2NoZW1hVmVyc2lvbiwgIlNjaGVtYVZlcnNpb24iKTsK</text>
+        <text encoding="base64">ICBwcml2YXRlOgogIC8vdm9pZCBEYXRhRnJvbUFsbFNjaGVtYVZlcnNpb25zKGNvbnN0IHJhcGlkanNvbjo6VmFsdWUgJmpzb24pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXR1cm4gY29sb3JVc2FnZXM7Cn0KCnZvaWQgUHJpbnRQYXJhbXM6OkRhdGFGcm9tU2NoZW1hVmVyc2lvbjRBbmRMYXRlcihjb25zdCByYXBpZGpzb246OlZhbHVlICZqc29uKQp7CiAgRGF0YUZyb21BbGxTY2hlbWFWZXJzaW9ucyhqc29uKTsKICAKICBzdGQ6OnZlY3RvcjxVTFM6OlByb2Nlc3NTZXR0aW5ncz4gcHJvY2Vzc2VzOwogIGlmIChHZXRKU09OKGpzb24sIHByb2Nlc3NlcywgIlByb2Nlc3NlcyIpKQo=</text>
+        <text encoding="base64">ICAvLyBCRUdJTiBzZXJpYWxpemF0aW9uIC0tLS0tLS0tLS0tLQogIC8vcmFwaWRqc29uOjpWYWx1ZSBEYXRhVG9KU09OKHJhcGlkanNvbjo6TWVtb3J5UG9vbEFsbG9jYXRvcjxyYXBpZGpzb246OkNydEFsbG9jYXRvcj4gJmEpIGNvbnN0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0cmluZyBpdGVtVmFsdWUgPSBpdGVtLnZhbHVlLkdldFN0cmluZygpOwogICAgVUxTOjpDb2xvclJnYlVzYWdlIGNvbG9yVXNhZ2U7CiAgICBjb2xvclVzYWdlLmNvbG9yID0gVUxTOjptYWtlUmdiKGl0ZW1OYW1lKTsKICAgIGlmIChpdGVtVmFsdWUgPT0gIlJhc3Rlck9ubHkiKSBjb2xvclVzYWdlLnVzYWdlID0gVUxTOjpDb2xvclVzYWdlOjpSYXN0ZXJPbmx5OwogICAgZWxzZSBpZiAoaXRlbVZhbHVlID09ICJWZWN0b3JPbmx5IikgY29sb3JVc2FnZS51c2FnZSA9IFVMUzo6Q29sb3JVc2FnZTo6VmVjdG9yT25seTsKICAgIGVsc2UgaWYgKGl0ZW1WYWx1ZSA9PSAiUmFzdGVyQW5kVmVjdG9yIikgY29sb3JVc2FnZS51c2FnZSA9IFVMUzo6Q29sb3JVc2FnZTo6UmFzdGVyQW5kVmVjdG9yOwogICAgZWxzZSB0aHJvdyBydW50aW1lX2Vycm9yKCJpbnZhbGlkIEpTT04gdmFsdWUgZm9yIGNvbG9yIHVzYWdlIik7CiAgICBjb2xvclVzYWdlcy5wdXNoX2JhY2soY29sb3JVc2FnZSk7CiAgfQo=</text>
+        <text encoding="base64">ICBmczo6cGF0aCBtX2JpblNldHRpbmdzRmlsZU5hbWU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpZiAoIWpzb24uSGFzTWVtYmVyKGZpZWxkTmFtZSkpIHJldHVybiB7fTsKICBhdXRvICZmaWVsZEpzb24gPSBqc29uW2ZpZWxkTmFtZV07CiAgaWYgKGZpZWxkSnNvbi5Jc051bGwoKSkgcmV0dXJuIHt9OwogIGlmICghZmllbGRKc29uLklzT2JqZWN0KCkpIHRocm93IHJ1bnRpbWVfZXJyb3IoImludmFsaWQgQ29sb3JVc2FnZXMgaW4gSlNPTiIpOwogIAogIHN0ZDo6dmVjdG9yPFVMUzo6Q29sb3JSZ2JVc2FnZT4gY29sb3JVc2FnZXM7CiAgZm9yIChhdXRvICZpdGVtIDogZmllbGRKc29uLkdldE9iamVjdCgpKQogIHsKICAgIHN0cmluZyBpdGVtTmFtZSA9IGl0ZW0ubmFtZS5HZXRTdHJpbmcoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -892,19 +892,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEdldEpTT04oZmllbGRKc29uW2ldLCBwcm9jZXNzKTsKICAgIHJlc3VsdC5wdXNoX2JhY2socHJvY2Vzcyk7CiAgfQogIAogIHJldHVybiB0cnVlOwp9CgpzdGQ6OnZlY3RvcjxVTFM6OkNvbG9yUmdiVXNhZ2U+IEdldEpzb25Db2xvclVzYWdlcyhjb25zdCByYXBpZGpzb246OlZhbHVlICZqc29uLCBjb25zdCBjaGFyICpmaWVsZE5hbWUpCnsK</text>
+        <text encoding="base64">LyoKICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpZiAoIWpzb24uSGFzTWVtYmVyKGZpZWxkTmFtZSkpIHJldHVybiBmYWxzZTsKICBhdXRvICZmaWVsZEpzb24gPSBqc29uW2ZpZWxkTmFtZV07CiAgaWYgKGZpZWxkSnNvbi5Jc051bGwoKSB8fCAhZmllbGRKc29uLklzQXJyYXkoKSkKICAgIHRocm93IHJ1bnRpbWVfZXJyb3IoImludmFsaWQgUHJvY2Vzc2VzIGluIEpTT04iKTsKICAKICBhdXRvIG51bVByb2Nlc3NlcyA9IGZpZWxkSnNvbi5TaXplKCk7CiAgZm9yICh1bnNpZ25lZCBpID0gMDsgaSA8IG51bVByb2Nlc3NlczsgaSsrKQogIHsKICAgIFVMUzo6UHJvY2Vzc1NldHRpbmdzIHByb2Nlc3M7Cg==</text>
+        <text encoding="base64">ICAKICBpZiAoc2NoZW1hVmVyc2lvbiA8PSAzKQogICAgRGF0YUZyb21TY2hlbWFWZXJzaW9uM0FuZEVhcmxpZXIoanNvbik7CiAgZWxzZQogICAgRGF0YUZyb21TY2hlbWFWZXJzaW9uNEFuZExhdGVyKGpzb24pOwogIAogIFVMUzo6dmVyaWZ5UHJvY2Vzc2VzKG1fcHJvY2Vzc2VzKTsKfQogCg==</text>
       </register>
       <register name=":" type="4">
-        <text>164</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>Serialize</last-search>
+      <last-search>json</last-search>
       <last-offset />
-      <last-pattern>Serialize</last-pattern>
+      <last-pattern>json</last-pattern>
       <last-replace encoding="base64">aWYgKCEoXDEgXDIpKSB7IGxvZ2dlcl8tPndhcm4oIkZpZWxkIFwxIGRpZCBub3QgbWF0Y2giKTsgcmV0dXJuIGZhbHNlOyB9</last-replace>
       <last-substitute encoding="base64">XChtXy4qXClcKCA9PSBvLm1fLipcKSAmJg==</last-substitute>
       <last-dir>1</last-dir>
@@ -912,8 +912,6 @@
     </search>
     <history>
       <history-search>
-        <entry>RasterLineM</entry>
-        <entry>KerfCompensationNURBSSegmentLength</entry>
         <entry>importOptionsFile</entry>
         <entry>R</entry>
         <entry>S</entry>
@@ -932,6 +930,8 @@
         <entry>SaveSerialized</entry>
         <entry>serialize</entry>
         <entry>Serialize</entry>
+        <entry>settingsfile</entry>
+        <entry>json</entry>
       </history-search>
       <history-cmd>
         <entry>160</entry>
@@ -950,10 +950,10 @@
         <entry>13</entry>
         <entry>32</entry>
         <entry>124</entry>
-        <entry>1</entry>
         <entry>set norelativenumber</entry>
         <entry>23</entry>
         <entry>164</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
