@@ -401,6 +401,12 @@
         <mark key="^" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/gitProjects/testproject/main.cpp" timestamp="1536685896727">
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="3" column="31" />
+        <mark key="." line="3" column="31" />
+        <mark key="^" line="3" column="31" />
+      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" timestamp="1536605390195">
         <mark key="'" line="65" column="64" />
         <mark key="[" line="290" column="0" />
@@ -430,6 +436,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/GDB" timestamp="1536330823329">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1536685818867">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Planning/include/Configuration.h" timestamp="1535151967246">
@@ -644,10 +653,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>70</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>70</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
@@ -983,7 +992,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed K</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
