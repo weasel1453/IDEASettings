@@ -314,6 +314,12 @@
         <mark key="." line="17" column="26" />
         <mark key="^" line="17" column="26" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/untitled/CMakeLists.txt" timestamp="1536673924830">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="0" column="33" />
+        <mark key="." line="0" column="33" />
+        <mark key="^" line="0" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/FilePath.cpp" timestamp="1536252434641">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -637,11 +643,11 @@
       <jump line="65" column="64" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAvL3ZvaWQgRGF0YUZyb21KU09OKGNvbnN0IHJhcGlkanNvbjo6VmFsdWUgJmpzb24pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
