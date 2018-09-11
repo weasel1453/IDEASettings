@@ -420,6 +420,9 @@
         <mark key="." line="10" column="4" />
         <mark key="^" line="10" column="11" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/untitled/.gitlab-ci.yml" timestamp="1536673398562">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/GDB" timestamp="1536330823329">
         <mark key="[" line="0" column="0" />
       </file>
@@ -905,7 +908,7 @@
       <last-replace encoding="base64">aWYgKCEoXDEgXDIpKSB7IGxvZ2dlcl8tPndhcm4oIkZpZWxkIFwxIGRpZCBub3QgbWF0Y2giKTsgcmV0dXJuIGZhbHNlOyB9</last-replace>
       <last-substitute encoding="base64">XChtXy4qXClcKCA9PSBvLm1fLipcKSAmJg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
