@@ -3,23 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/DuplicationData.h" timestamp="1534792581026">
-        <mark key="[" line="14" column="17" />
-        <mark key="]" line="162" column="0" />
-        <mark key="^" line="162" column="8" />
-        <mark key="." line="162" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" timestamp="1536331467975">
-        <mark key="[" line="491" column="35" />
-        <mark key="]" line="492" column="3" />
-        <mark key="^" line="492" column="3" />
-        <mark key="." line="492" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/spdlog/CMakeLists.txt" timestamp="1535724168169">
-        <mark key="[" line="44" column="46" />
-        <mark key="]" line="44" column="47" />
-        <mark key="." line="44" column="47" />
-        <mark key="^" line="44" column="47" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" timestamp="1536687796424">
+        <mark key="[" line="936" column="70" />
+        <mark key="]" line="936" column="72" />
+        <mark key="^" line="936" column="72" />
+        <mark key="." line="936" column="72" />
       </file>
       <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/CreateVersion30DB.sql" timestamp="1533069287684">
         <mark key="[" line="13373" column="0" />
@@ -34,20 +22,8 @@
         <mark key="." line="419" column="57" />
         <mark key="^" line="419" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Planning/stdafx.h" timestamp="1535744671631">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="27" />
-        <mark key="." line="39" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/Serializers.h" timestamp="1535406292388">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/database/Materials/SelectedMaterial.cpp" timestamp="1535744905898">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="46" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/Apps/PDF2ULS/PDFViewer/PDFConverter.h" timestamp="1536687978828">
+        <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/spdlog/fmt/fmt.h" timestamp="1535734801568">
         <mark key="[" line="22" column="0" />
@@ -55,29 +31,11 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="1" />
       </file>
-      <file name="$USER_HOME$/uls/lsm/common/SHOULDER.H" timestamp="1533759943266">
-        <mark key="[" line="49" column="3" />
-        <mark key="]" line="49" column="3" />
-        <mark key="." line="49" column="3" />
-        <mark key="^" line="49" column="4" />
-      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/CMakeLists.txt" timestamp="1535738943649">
         <mark key="[" line="243" column="24" />
         <mark key="]" line="244" column="56" />
         <mark key="." line="244" column="56" />
         <mark key="^" line="244" column="56" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/cmake/Modules/global-compile-options.cmake" timestamp="1535741994333">
-        <mark key="[" line="117" column="4" />
-        <mark key="]" line="117" column="7" />
-        <mark key="." line="117" column="7" />
-        <mark key="^" line="117" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Test/ConfigurationTest/JsonTest.cpp" timestamp="1535151896018">
-        <mark key="[" line="44" column="2" />
-        <mark key="]" line="44" column="2" />
-        <mark key="^" line="44" column="21" />
-        <mark key="." line="44" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintSettingsTransformations.cpp" timestamp="1536599287393">
         <mark key="[" line="763" column="0" />
@@ -85,62 +43,12 @@
         <mark key="^" line="577" column="32" />
         <mark key="." line="763" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Control/IImportRoutines.h" timestamp="1535398254872">
-        <mark key="[" line="80" column="32" />
-        <mark key="]" line="80" column="32" />
-        <mark key="." line="80" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/spdlog/include/spdlog/fmt/fmt.h" timestamp="1535732214020">
-        <mark key="[" line="23" column="23" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Test/CommonTest/CMakeLists.txt" timestamp="1536249345637">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-      </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/CMakeLists.txt" timestamp="1533322044059">
-        <mark key="[" line="17" column="43" />
-        <mark key="]" line="17" column="63" />
-        <mark key="." line="17" column="63" />
-        <mark key="^" line="17" column="63" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Test/NURBSTest/CMakeLists.txt" timestamp="1536249334620">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Test/CommonTest/SerializationTest.cpp" timestamp="1534196543161">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="52" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintingArchive.h" timestamp="1534791991690">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="32" column="5" />
-        <mark key="." line="32" column="5" />
-        <mark key="^" line="32" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" timestamp="1536599458736">
-        <mark key="[" line="591" column="57" />
-        <mark key="]" line="591" column="60" />
-        <mark key="^" line="591" column="60" />
-        <mark key="." line="591" column="60" />
-      </file>
       <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.h" timestamp="1533650340198">
         <mark key="'" line="26" column="10" />
         <mark key="[" line="37" column="4" />
         <mark key="]" line="37" column="10" />
         <mark key="." line="37" column="10" />
         <mark key="^" line="37" column="10" />
-      </file>
-      <file name="$USER_HOME$/uls/lsm/common/powertable.h" timestamp="1533759979543">
-        <mark key="[" line="15" column="3" />
-        <mark key="]" line="15" column="3" />
-        <mark key="." line="15" column="3" />
-        <mark key="^" line="12" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Control/ImportRoutines.h" timestamp="1535575335314">
         <mark key="[" line="114" column="1" />
@@ -160,33 +68,11 @@
         <mark key="." line="30" column="21" />
         <mark key="^" line="30" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/database/Materials/MaterialsServiceHandler.cpp" timestamp="1535744955269">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="46" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/ULS/newDatabaseMigrator/DatabaseMigrator/CMakeLists.txt" timestamp="1531346227747">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/powertable.h" timestamp="1535122009989">
-        <mark key="[" line="17" column="34" />
-        <mark key="]" line="17" column="34" />
-        <mark key="." line="17" column="34" />
-        <mark key="^" line="17" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PeriodicStatus.cpp" timestamp="1535744483130">
-        <mark key="[" line="500" column="0" />
-        <mark key="]" line="500" column="0" />
-        <mark key="." line="500" column="0" />
-      </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/Migration031-0--TableCreation_up.sql" timestamp="1533149055021">
-        <mark key="[" line="216" column="2" />
-        <mark key="]" line="216" column="2" />
-        <mark key="." line="216" column="2" />
-        <mark key="^" line="216" column="2" />
       </file>
       <file name="$USER_HOME$/uls/lsm/common/PrintParams.h" timestamp="1533761065503">
         <mark key="'" line="296" column="34" />
@@ -194,34 +80,6 @@
         <mark key="]" line="87" column="21" />
         <mark key="^" line="87" column="24" />
         <mark key="." line="87" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/ulscommon_includes.h" timestamp="1536249127935">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" timestamp="1535747723377">
-        <mark key="'" line="501" column="16" />
-        <mark key="[" line="2210" column="41" />
-        <mark key="]" line="2210" column="42" />
-        <mark key="." line="2210" column="42" />
-        <mark key="^" line="2210" column="42" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Camera/CameraSerialization.h" timestamp="1535404572863">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="41" />
-        <mark key="^" line="9" column="41" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/VRONI/src/voronoi.cc" timestamp="1535737878119">
-        <mark key="[" line="35" column="16" />
-        <mark key="]" line="35" column="16" />
-        <mark key="." line="35" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Planning/Planner.cpp" timestamp="1535744665987">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="27" />
-        <mark key="." line="891" column="76" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/CMakeLists.txt" timestamp="1533926670305">
         <mark key="'" line="0" column="0" />
@@ -237,34 +95,12 @@
         <mark key="." line="157" column="0" />
         <mark key="^" line="157" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/tools/deserialize/main.cpp" timestamp="1535471907314">
-        <mark key="[" line="169" column="71" />
-        <mark key="]" line="169" column="71" />
-        <mark key="^" line="169" column="71" />
-        <mark key="." line="169" column="71" />
-      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Planning/Configuration.cpp" timestamp="1535151924868">
         <mark key="'" line="197" column="116" />
         <mark key="[" line="101" column="4" />
         <mark key="]" line="101" column="5" />
         <mark key="^" line="101" column="5" />
         <mark key="." line="101" column="5" />
-      </file>
-      <file name="/Dummy.youtrack" timestamp="1535642443825">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Logging/CpuUtilization.cpp" timestamp="1535728238372">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/Migration031-1--TableAlteration_up.sql" timestamp="1533148787728">
-        <mark key="[" line="1" column="53" />
-        <mark key="]" line="1" column="53" />
-        <mark key="^" line="1" column="53" />
-        <mark key="." line="1" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/DpiInfo.h" timestamp="1535122021297">
         <mark key="'" line="62" column="23" />
@@ -273,40 +109,17 @@
         <mark key="^" line="59" column="30" />
         <mark key="." line="59" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Control/ImportRoutines.cpp" timestamp="1536332332566">
-        <mark key="'" line="232" column="12" />
-        <mark key="[" line="113" column="108" />
-        <mark key="]" line="113" column="116" />
-        <mark key="." line="113" column="116" />
-        <mark key="^" line="113" column="116" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Control/UlsControl.cpp" timestamp="1536249139378">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Planning/PathConstruction/Polyline.h" timestamp="1535150417442">
         <mark key="[" line="26" column="6" />
         <mark key="]" line="26" column="11" />
         <mark key="^" line="26" column="11" />
         <mark key="." line="26" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/database/Materials/DatabaseQueries.cpp" timestamp="1535744877731">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="46" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="714" column="26" />
-      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/friendly_daily_file_sink.h" timestamp="1535740440222">
         <mark key="[" line="30" column="53" />
         <mark key="]" line="30" column="53" />
         <mark key="." line="30" column="53" />
         <mark key="^" line="8" column="40" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/UlsControlPanel/src/StateMachine.cpp" timestamp="1535744080450">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Logging/Logging.cpp" timestamp="1536254395811">
         <mark key="[" line="17" column="14" />
@@ -320,43 +133,14 @@
         <mark key="." line="0" column="33" />
         <mark key="^" line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/FilePath.cpp" timestamp="1536252434641">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Test/CommonTest/PrintParamsTest.cpp" timestamp="1535037409237">
-        <mark key="[" line="42" column="43" />
-        <mark key="]" line="44" column="19" />
-        <mark key="." line="44" column="19" />
-        <mark key="^" line="44" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachine.cpp" timestamp="1535747850295">
-        <mark key="'" line="59" column="11" />
-        <mark key="[" line="864" column="4" />
-        <mark key="]" line="864" column="4" />
-        <mark key="." line="864" column="4" />
-        <mark key="^" line="864" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintSettingsTransformations.h" timestamp="1536599244930">
-        <mark key="[" line="53" column="53" />
-        <mark key="]" line="53" column="61" />
-        <mark key="." line="53" column="61" />
-        <mark key="^" line="53" column="61" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/SHOULDER.H" timestamp="1535494072005">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="^" line="50" column="1" />
-        <mark key="." line="50" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/log_archive.h" timestamp="1534793846914">
         <mark key="[" line="166" column="38" />
         <mark key="]" line="166" column="37" />
         <mark key="^" line="166" column="37" />
         <mark key="." line="166" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/Apps/DXF2ULS/ConvertDXF.h" timestamp="1536688032777">
+        <mark key="[" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Logging/CustomSyslogSink.cpp" timestamp="1536240321964">
         <mark key="[" line="4" column="29" />
@@ -390,11 +174,6 @@
         <mark key="." line="71" column="35" />
         <mark key="^" line="71" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/tools/deserialize/FilePath.h" timestamp="1535040267691">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/spdlog/sinks/daily_file_sink.h" timestamp="1536174201626">
         <mark key="[" line="41" column="1" />
         <mark key="]" line="41" column="0" />
@@ -407,17 +186,208 @@
         <mark key="." line="3" column="31" />
         <mark key="^" line="3" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" timestamp="1536605390195">
-        <mark key="'" line="65" column="64" />
-        <mark key="[" line="290" column="0" />
-        <mark key="]" line="290" column="0" />
-        <mark key="." line="290" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.h" timestamp="1536599503052">
         <mark key="[" line="155" column="45" />
         <mark key="]" line="155" column="48" />
         <mark key="." line="155" column="48" />
         <mark key="^" line="155" column="48" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/untitled/.gitlab-ci.yml" timestamp="1536673398562">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/GDB" timestamp="1536330823329">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/uls/lsm/cmake-build-release/Services/ULS/ULS_types.h" timestamp="1533759968866">
+        <mark key="[" line="866" column="0" />
+        <mark key="]" line="866" column="0" />
+        <mark key="." line="866" column="0" />
+        <mark key="^" line="865" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/Apps/GCode2ULS/CMakeLists.txt" timestamp="1534191122121">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="61" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" timestamp="1533650351088">
+        <mark key="'" line="36" column="22" />
+        <mark key="[" line="399" column="4" />
+        <mark key="]" line="399" column="10" />
+        <mark key="." line="399" column="10" />
+        <mark key="^" line="399" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/NURBS/NURBSExtrema.cpp" timestamp="1535743895543">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/header.h" timestamp="1533069315801">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/Logging/CustomSyslogSink.h" timestamp="1536240476821">
+        <mark key="[" line="7" column="37" />
+        <mark key="]" line="7" column="36" />
+        <mark key="." line="7" column="36" />
+        <mark key="^" line="7" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/DuplicationData.h" timestamp="1534792581026">
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="162" column="0" />
+        <mark key="^" line="162" column="8" />
+        <mark key="." line="162" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/spdlog/CMakeLists.txt" timestamp="1535724168169">
+        <mark key="[" line="44" column="46" />
+        <mark key="]" line="44" column="47" />
+        <mark key="." line="44" column="47" />
+        <mark key="^" line="44" column="47" />
+      </file>
+      <file name="$USER_HOME$/uls/lsm/common/SHOULDER.H" timestamp="1533759943266">
+        <mark key="[" line="49" column="3" />
+        <mark key="]" line="49" column="3" />
+        <mark key="." line="49" column="3" />
+        <mark key="^" line="49" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/cmake/Modules/global-compile-options.cmake" timestamp="1535741994333">
+        <mark key="[" line="117" column="4" />
+        <mark key="]" line="117" column="7" />
+        <mark key="." line="117" column="7" />
+        <mark key="^" line="117" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/Test/ConfigurationTest/JsonTest.cpp" timestamp="1535151896018">
+        <mark key="[" line="44" column="2" />
+        <mark key="]" line="44" column="2" />
+        <mark key="^" line="44" column="21" />
+        <mark key="." line="44" column="2" />
+      </file>
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/CMakeLists.txt" timestamp="1533322044059">
+        <mark key="[" line="17" column="43" />
+        <mark key="]" line="17" column="63" />
+        <mark key="." line="17" column="63" />
+        <mark key="^" line="17" column="63" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/Test/CommonTest/SerializationTest.cpp" timestamp="1534196543161">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="52" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintingArchive.h" timestamp="1534791991690">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="32" column="5" />
+        <mark key="." line="32" column="5" />
+        <mark key="^" line="32" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" timestamp="1536688282504">
+        <mark key="[" line="572" column="0" />
+        <mark key="]" line="572" column="0" />
+        <mark key="^" line="556" column="5" />
+        <mark key="." line="572" column="0" />
+      </file>
+      <file name="$USER_HOME$/uls/lsm/common/powertable.h" timestamp="1533759979543">
+        <mark key="[" line="15" column="3" />
+        <mark key="]" line="15" column="3" />
+        <mark key="." line="15" column="3" />
+        <mark key="^" line="12" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/powertable.h" timestamp="1535122009989">
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="17" column="34" />
+        <mark key="." line="17" column="34" />
+        <mark key="^" line="17" column="34" />
+      </file>
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/Migration031-0--TableCreation_up.sql" timestamp="1533149055021">
+        <mark key="[" line="216" column="2" />
+        <mark key="]" line="216" column="2" />
+        <mark key="." line="216" column="2" />
+        <mark key="^" line="216" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachineXLS.cpp" timestamp="1535747723377">
+        <mark key="'" line="501" column="16" />
+        <mark key="[" line="2210" column="41" />
+        <mark key="]" line="2210" column="42" />
+        <mark key="." line="2210" column="42" />
+        <mark key="^" line="2210" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/Camera/CameraSerialization.h" timestamp="1535404572863">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="41" />
+        <mark key="^" line="9" column="41" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/tools/deserialize/main.cpp" timestamp="1535471907314">
+        <mark key="[" line="169" column="71" />
+        <mark key="]" line="169" column="71" />
+        <mark key="^" line="169" column="71" />
+        <mark key="." line="169" column="71" />
+      </file>
+      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/Migration031-1--TableAlteration_up.sql" timestamp="1533148787728">
+        <mark key="[" line="1" column="53" />
+        <mark key="]" line="1" column="53" />
+        <mark key="^" line="1" column="53" />
+        <mark key="." line="1" column="53" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/Control/ImportRoutines.cpp" timestamp="1536687950570">
+        <mark key="'" line="181" column="12" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="88" column="18" />
+        <mark key="." line="71" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/database/Materials/DatabaseQueries.cpp" timestamp="1535744877731">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="46" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="714" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/FilePath.cpp" timestamp="1536252434641">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/Apps/GCode2ULS/ConvertGCode.cpp" timestamp="1536687019705">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="1" />
+        <mark key="^" line="16" column="1" />
+        <mark key="." line="16" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/Test/CommonTest/PrintParamsTest.cpp" timestamp="1535037409237">
+        <mark key="[" line="42" column="43" />
+        <mark key="]" line="44" column="19" />
+        <mark key="." line="44" column="19" />
+        <mark key="^" line="44" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachine.cpp" timestamp="1535747850295">
+        <mark key="'" line="59" column="11" />
+        <mark key="[" line="864" column="4" />
+        <mark key="]" line="864" column="4" />
+        <mark key="." line="864" column="4" />
+        <mark key="^" line="864" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintSettingsTransformations.h" timestamp="1536686906265">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="53" column="61" />
+        <mark key="." line="53" column="61" />
+        <mark key="^" line="53" column="61" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/SHOULDER.H" timestamp="1535494072005">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="50" column="1" />
+        <mark key="." line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" timestamp="1536605390195">
+        <mark key="'" line="65" column="64" />
+        <mark key="[" line="290" column="0" />
+        <mark key="]" line="290" column="0" />
+        <mark key="." line="290" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1536604414015">
         <mark key="'" line="153" column="40" />
@@ -431,12 +401,6 @@
         <mark key="]" line="10" column="4" />
         <mark key="." line="10" column="4" />
         <mark key="^" line="10" column="11" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/untitled/.gitlab-ci.yml" timestamp="1536673398562">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/GDB" timestamp="1536330823329">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1536685818867">
         <mark key="[" line="0" column="0" />
@@ -454,40 +418,11 @@
         <mark key="^" line="88" column="11" />
         <mark key="." line="88" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Apps/GCode2ULS/stdafx.h" timestamp="1536249091924">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Camera/CameraSerialization.cpp" timestamp="1535405283698">
         <mark key="[" line="3" column="42" />
         <mark key="]" line="4" column="40" />
         <mark key="^" line="4" column="40" />
         <mark key="." line="4" column="40" />
-      </file>
-      <file name="$USER_HOME$/uls/lsm/cmake-build-release/Services/ULS/ULS_types.h" timestamp="1533759968866">
-        <mark key="[" line="866" column="0" />
-        <mark key="]" line="866" column="0" />
-        <mark key="." line="866" column="0" />
-        <mark key="^" line="865" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Apps/GCode2ULS/CMakeLists.txt" timestamp="1534191122121">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="61" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Apps/PDF2ULS/PDFViewer/PDFConverter.cpp" timestamp="1536249435413">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-      </file>
-      <file name="$USER_HOME$/uls/lsm/NURBS/FixedDeltaPNURBSSampler.cpp" timestamp="1533650351088">
-        <mark key="'" line="36" column="22" />
-        <mark key="[" line="399" column="4" />
-        <mark key="]" line="399" column="10" />
-        <mark key="." line="399" column="10" />
-        <mark key="^" line="399" column="10" />
       </file>
       <file name="$USER_HOME$/uls/lsm/common/DpiInfo.h" timestamp="1533759954358">
         <mark key="[" line="29" column="3" />
@@ -495,36 +430,8 @@
         <mark key="." line="29" column="3" />
         <mark key="^" line="29" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/NURBS/NURBSExtrema.cpp" timestamp="1535743895543">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Planning/Planner.h" timestamp="1535150660882">
-        <mark key="[" line="237" column="0" />
-        <mark key="]" line="237" column="0" />
-        <mark key="." line="237" column="0" />
-      </file>
-      <file name="$USER_HOME$/uls/lsm/database/DatabaseMigrator/Migrations/header.h" timestamp="1533069315801">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="^" line="0" column="12" />
-        <mark key="." line="0" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/log_archive.cpp" timestamp="1534793788312">
-        <mark key="[" line="4" column="24" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="/fragment.mm" timestamp="1536331234956">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Logging/CustomSyslogSink.h" timestamp="1536240476821">
-        <mark key="[" line="7" column="37" />
-        <mark key="]" line="7" column="36" />
-        <mark key="." line="7" column="36" />
-        <mark key="^" line="7" column="36" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.cpp" timestamp="1533302030878">
         <mark key="[" line="0" column="12" />
@@ -532,21 +439,11 @@
         <mark key="^" line="1" column="42" />
         <mark key="." line="1" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Planning/PathConstruction/Polyline.cpp" timestamp="1535149678986">
-        <mark key="[" line="722" column="53" />
-        <mark key="]" line="722" column="53" />
-        <mark key="." line="722" column="53" />
-      </file>
       <file name="$USER_HOME$/CLionProjects/lexicalSortTest/main.cpp" timestamp="1533301744470">
         <mark key="[" line="7" column="92" />
         <mark key="]" line="7" column="92" />
         <mark key="^" line="7" column="92" />
         <mark key="." line="7" column="92" />
-      </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Test/CommonTest/AppTypeTest.cpp" timestamp="1536249143087">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -652,38 +549,38 @@
       <jump line="65" column="64" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>70</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlmIChiaW5GaWxlUGF0aCkK</text>
       </register>
       <register name="-" type="4">
-        <text>70</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA6OnN5c2xvZyhzeXNsb2dfcHJpb19mcm9tX2xldmVsKG1zZyksICJbJXNdIFslc10gJXMiLCBtc2cubG9nZ2VyX25hbWUtPmNfc3RyKCksIGxldmVsOjpsZXZlbF9uYW1lc1ttc2cubGV2ZWxdLCBtZXNzYWdlLnN1YnN0cihzdGFydCwgc3RhcnQrMTAyNCkuY19zdHIoKSk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">TG9nZ2luZzo6R2V0KCJqb2JzIiktPndhcm4oIkJvb3N0IGFyY2hpdmUgZmFpbGVkIHRvIHJlYWQge31cbkVycm9yOiB7fSIsIGJpbkZpbGVQYXRoLT5zdHJpbmcoKSwgZS53aGF0KCkpOwogICAgICAgICAgdGhyb3cgU2VyaWFsaXplRXJyb3IoKTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvL3ZvaWQgRGF0YUZyb21KU09OKGNvbnN0IHJhcGlkanNvbjo6VmFsdWUgJmpzb24pOwo=</text>
+        <text encoding="base64">ICAgIGlmIChiaW5GaWxlUGF0aCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvL3ZvaWQgRGF0YUZyb21TY2hlbWFWZXJzaW9uNEFuZExhdGVyKGNvbnN0IHJhcGlkanNvbjo6VmFsdWUgJmpzb24pOwo=</text>
+        <text encoding="base64">ICAgIHsKICAgICAgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvL3ZvaWQgRGF0YUZyb21TY2hlbWFWZXJzaW9uM0FuZEVhcmxpZXIoY29uc3QgcmFwaWRqc29uOjpWYWx1ZSAmanNvbik7Cg==</text>
+        <text encoding="base64">ICAgIH0KICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlOgogIC8vdm9pZCBEYXRhRnJvbUFsbFNjaGVtYVZlcnNpb25zKGNvbnN0IHJhcGlkanNvbjo6VmFsdWUgJmpzb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICBMb2dnaW5nOjpHZXQoImpvYiIpLT53YXJuKCJDb3VsZCBub3QgZGVzZXJpYWxpemUgSW1wb3J0T3B0aW9ucy5iaW46IHt9IiwgZS53aGF0KCkpOwogICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBCRUdJTiBzZXJpYWxpemF0aW9uIC0tLS0tLS0tLS0tLQogIC8vcmFwaWRqc29uOjpWYWx1ZSBEYXRhVG9KU09OKHJhcGlkanNvbjo6TWVtb3J5UG9vbEFsbG9jYXRvcjxyYXBpZGpzb246OkNydEFsbG9jYXRvcj4gJmEpIGNvbnN0Owo=</text>
+        <text encoding="base64">ICAgICAgY2F0Y2ggKHN0ZDo6ZXhjZXB0aW9uICZlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBmczo6cGF0aCBtX2JpblNldHRpbmdzRmlsZU5hbWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9CiAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRocm93IFNlcmlhbGl6ZUVycm9yKCk7CiAgICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -907,10 +804,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoKICovCg==</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICBMb2dnaW5nOjpHZXQoImpvYnMiKS0+d2FybigiQm9vc3QgYXJjaGl2ZSBmYWlsZWQgdG8gcmVhZCB7fVxuRXJyb3I6IHt9IiwgYmluRmlsZVBhdGgtPnN0cmluZygpLCBlLndoYXQoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAKICBpZiAoc2NoZW1hVmVyc2lvbiA8PSAzKQogICAgRGF0YUZyb21TY2hlbWFWZXJzaW9uM0FuZEVhcmxpZXIoanNvbik7CiAgZWxzZQogICAgRGF0YUZyb21TY2hlbWFWZXJzaW9uNEFuZExhdGVyKGpzb24pOwogIAogIFVMUzo6dmVyaWZ5UHJvY2Vzc2VzKG1fcHJvY2Vzc2VzKTsKfQogCg==</text>
+        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgY2F0Y2goYm9vc3Q6OmFyY2hpdmU6OmFyY2hpdmVfZXhjZXB0aW9uICZlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
