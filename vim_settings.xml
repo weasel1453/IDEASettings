@@ -8,6 +8,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" timestamp="1536768046788">
+        <mark key="[" line="188" column="44" />
+        <mark key="]" line="188" column="46" />
+        <mark key="^" line="188" column="46" />
+        <mark key="." line="188" column="46" />
+      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Apps/DXF2ULS/DXF2Metafile.cpp" timestamp="1536700009537">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -784,14 +790,14 @@
       <jump line="65" column="64" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgbmFtZXNwYWNlIHJhcGlkanNvbjsK</text>
+      <register name="&quot;" type="4">
+        <text>json</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>json</text>
       </register>
       <register name="/" type="4">
-        <text>)</text>
+        <text>rename</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">TG9nZ2luZzo6R2V0KCJqb2JzIiktPndhcm4oIkJvb3N0IGFyY2hpdmUgZmFpbGVkIHRvIHJlYWQge31cbkVycm9yOiB7fSIsIGJpbkZpbGVQYXRoLT5zdHJpbmcoKSwgZS53aGF0KCkpOwogICAgICAgICAgdGhyb3cgU2VyaWFsaXplRXJyb3IoKTs=</text>
@@ -1049,17 +1055,16 @@
       </register>
     </registers>
     <search>
-      <last-search>)</last-search>
+      <last-search>rename</last-search>
       <last-offset />
-      <last-pattern>)</last-pattern>
+      <last-pattern>rename</last-pattern>
       <last-replace encoding="base64">aWYgKCEoXDEgXDIpKSB7IGxvZ2dlcl8tPndhcm4oIkZpZWxkIFwxIGRpZCBub3QgbWF0Y2giKTsgcmV0dXJuIGZhbHNlOyB9</last-replace>
       <last-substitute encoding="base64">XChtXy4qXClcKCA9PSBvLm1fLipcKSAmJg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>R</entry>
         <entry>S</entry>
         <entry>GetImportOptionsFromJSON</entry>
         <entry>operator</entry>
@@ -1079,6 +1084,7 @@
         <entry>settingsfile</entry>
         <entry>json</entry>
         <entry>)</entry>
+        <entry>rename</entry>
       </history-search>
       <history-cmd>
         <entry>160</entry>
