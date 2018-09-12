@@ -120,11 +120,11 @@
         <mark key="^" line="105" column="1" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/USBComm/DeviceConnection.cpp" timestamp="1536779053215">
-        <mark key="[" line="310" column="66" />
-        <mark key="]" line="312" column="20" />
-        <mark key="." line="312" column="20" />
-        <mark key="^" line="312" column="20" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/USBComm/DeviceConnection.cpp" timestamp="1536780815253">
+        <mark key="[" line="258" column="30" />
+        <mark key="]" line="259" column="3" />
+        <mark key="." line="259" column="3" />
+        <mark key="^" line="259" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/bin/third-party/CMakeLists.txt" timestamp="1535737662921">
         <mark key="[" line="127" column="23" />
@@ -809,10 +809,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxpYnVzYl9zZXRfb3B0aW9uKGN0KQo=</text>
+        <text encoding="base64">ICAgIGxpYnVzYl9zZXRfZGVidWcoTlVMTCwgMyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>ctx</text>
       </register>
       <register name="/" type="4">
         <text>rename</text>
@@ -821,25 +821,25 @@
         <text encoding="base64">TG9nZ2luZzo6R2V0KCJqb2JzIiktPndhcm4oIkJvb3N0IGFyY2hpdmUgZmFpbGVkIHRvIHJlYWQge31cbkVycm9yOiB7fSIsIGJpbkZpbGVQYXRoLT5zdHJpbmcoKSwgZS53aGF0KCkpOwogICAgICAgICAgdGhyb3cgU2VyaWFsaXplRXJyb3IoKTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxpYnVzYl9zZXRfb3B0aW9uKGN0KQo=</text>
+        <text encoding="base64">ICAgIGxpYnVzYl9zZXRfZGVidWcoTlVMTCwgMyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgTElCVVNCX0VSUk9SX05PVF9GT1VORDsK</text>
+        <text encoding="base64">ICAgIGxpYnVzYl9zZXRfZGVidWcoTlVMTCwgMCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRldmljZUhhbmRsZV8K</text>
+        <text encoding="base64">ICAgIGxpYnVzYl9zZXRfb3B0aW9uKGN0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgTElCVVNCX0VSUk9SX0JVU1k7Cg==</text>
+        <text encoding="base64">ICAgICAgTElCVVNCX0VSUk9SX05PVF9GT1VORDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZzOjpyZW5hbWUoYmluU291cmNlLCBkZXN0aW5hdGlvbkJpbik7Cg==</text>
+        <text encoding="base64">ICAgIGRldmljZUhhbmRsZV8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgTElCVVNCX0VSUk9SX0JVU1k7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlWmlwcGVyLmFkZChwcmludFNldHRpbmdzU3RyZWFtLCBmbXQ6OmZvcm1hdCgiezowNmR9XFxJbXBvcnRPcHRpb25zLmJpbiIsIGpvYklkKSk7Cg==</text>
+        <text encoding="base64">ICAgIGZzOjpyZW5hbWUoYmluU291cmNlLCBkZXN0aW5hdGlvbkJpbik7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1063,10 +1063,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGZzOjpleGlzdHMoZnM6OmNoYW5nZV9leHRlbnNpb24oam9iTGlzdF8uSW1wb3J0T3B0aW9uc1BhdGgoam9iSWQpLCAiLmJpbiIpKSkgewo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBmaWxlWmlwcGVyLmFkZChwcmludFNldHRpbmdzU3RyZWFtLCBmbXQ6OmZvcm1hdCgiezowNmR9XFxJbXBvcnRPcHRpb25zLmJpbiIsIGpvYklkKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
