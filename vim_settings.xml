@@ -467,7 +467,7 @@
         <mark key="." line="32" column="5" />
         <mark key="^" line="32" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" timestamp="1538069301300">
+      <file name="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" timestamp="1538072290236">
         <mark key="'" line="670" column="0" />
         <mark key="[" line="626" column="55" />
         <mark key="]" line="626" column="57" />
@@ -484,6 +484,12 @@
         <mark key="]" line="15" column="3" />
         <mark key="." line="15" column="3" />
         <mark key="^" line="12" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" timestamp="1538072307567">
+        <mark key="[" line="240" column="30" />
+        <mark key="]" line="238" column="88" />
+        <mark key="." line="238" column="88" />
+        <mark key="^" line="238" column="88" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/powertable.h" timestamp="1535122009989">
         <mark key="[" line="17" column="34" />
@@ -803,7 +809,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>filePath</text>
@@ -815,25 +821,25 @@
         <text encoding="base64">TG9nZ2luZzo6R2V0KCJqb2JzIiktPndhcm4oIkJvb3N0IGFyY2hpdmUgZmFpbGVkIHRvIHJlYWQge31cbkVycm9yOiB7fSIsIGJpbkZpbGVQYXRoLT5zdHJpbmcoKSwgZS53aGF0KCkpOwogICAgICAgICAgdGhyb3cgU2VyaWFsaXplRXJyb3IoKTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIFRPRE8gRGVsZXRlIHRoZSBvbGQgZmlsZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0cnkK</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIFRPRE8gRGVsZXRlIHRoZSBvbGQgZmlsZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIFRPRE8gRGVsZXRlIHRoZSBvbGQgZmlsZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIExvZ2dpbmc6OkdldCgiam9icyIpLT53YXJuKCJCb29zdCBhcmNoaXZlIGZhaWxlZCB0byByZWFkIHt9XG5FcnJvcjoge30iLCBzZXR0aW5nc0ZpbGUuc3RyaW5nKCksIGUud2hhdCgpKTsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIExvZ2dpbmc6OkdldCgiam9icyIpLT53YXJuKCJCb29zdCBhcmNoaXZlIGZhaWxlZCB0byByZWFkIHt9XG5FcnJvcjoge30iLCBzZXR0aW5nc0ZpbGUuc3RyaW5nKCksIGUud2hhdCgpKTsK</text>
+        <text encoding="base64">ICB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjYXRjaChib29zdDo6YXJjaGl2ZTo6YXJjaGl2ZV9leGNlcHRpb24gJmUpCiAgewo=</text>
+        <text encoding="base64">ICB0cnkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1057,10 +1063,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRocm93IFNlcmlhbGl6ZUVycm9yKCk7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNhdGNoICgpCg==</text>
+        <text encoding="base64">ICAgIExvZ2dpbmc6OkdldCgiam9icyIpLT53YXJuKCJCb29zdCBhcmNoaXZlIGZhaWxlZCB0byByZWFkIHt9XG5FcnJvcjoge30iLCBzZXR0aW5nc0ZpbGUuc3RyaW5nKCksIGUud2hhdCgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>set norelativenumber</text>
