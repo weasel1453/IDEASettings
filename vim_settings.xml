@@ -321,7 +321,7 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/GDB" timestamp="1537565634536">
+      <file name="/GDB" timestamp="1538077169859">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Apps/GCode2ULS/stdafx.h" timestamp="1536249091924">
@@ -467,12 +467,12 @@
         <mark key="." line="32" column="5" />
         <mark key="^" line="32" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" timestamp="1538075393537">
-        <mark key="'" line="502" column="4" />
-        <mark key="[" line="626" column="55" />
-        <mark key="]" line="626" column="57" />
-        <mark key="^" line="626" column="57" />
-        <mark key="." line="626" column="57" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" timestamp="1538078872453">
+        <mark key="'" line="470" column="6" />
+        <mark key="[" line="500" column="33" />
+        <mark key="]" line="468" column="37" />
+        <mark key="^" line="468" column="37" />
+        <mark key="." line="468" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintSettingsFormatConversion.cpp" timestamp="1537564510532">
         <mark key="[" line="8" column="0" />
@@ -485,12 +485,12 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" timestamp="1538075838958">
+      <file name="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" timestamp="1538077225060">
         <mark key="'" line="114" column="37" />
-        <mark key="[" line="231" column="0" />
-        <mark key="]" line="231" column="0" />
-        <mark key="." line="231" column="0" />
-        <mark key="^" line="257" column="26" />
+        <mark key="[" line="268" column="28" />
+        <mark key="]" line="268" column="28" />
+        <mark key="." line="268" column="28" />
+        <mark key="^" line="268" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/powertable.h" timestamp="1535122009989">
         <mark key="[" line="17" column="34" />
@@ -707,8 +707,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="6" filename="$USER_HOME$/Documents/ULS/trunk/Camera/CameraSerialization.cpp" />
-      <jump line="214" column="12" filename="$USER_HOME$/Documents/ULS/trunk/Control/ImportRoutines.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/ULS/trunk/common/SHOULDER.H" />
       <jump line="251" column="25" filename="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" />
       <jump line="45" column="24" filename="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" />
@@ -807,42 +805,42 @@
       <jump line="670" column="0" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
       <jump line="114" column="37" filename="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" />
       <jump line="502" column="4" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
+      <jump line="577" column="56" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
+      <jump line="470" column="6" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>BulkImport</text>
+        <text>bulkimport</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">TG9nZ2luZzo6R2V0KCJqb2JzIiktPndhcm4oIkJvb3N0IGFyY2hpdmUgZmFpbGVkIHRvIHJlYWQge31cbkVycm9yOiB7fSIsIGJpbkZpbGVQYXRoLT5zdHJpbmcoKSwgZS53aGF0KCkpOwogICAgICAgICAgdGhyb3cgU2VyaWFsaXplRXJyb3IoKTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgd2hpbGUgKGZzOjpleGlzdHMob2xkRXhwb3J0UGF0aCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBmaWxlWmlwcGVyLmFkZChqb2JGb2xkZXIuc3RyaW5nKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgemlwcGVyOjpaaXBwZXIgZmlsZVppcHBlcm9uaSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZmlsZVppcHBlci5hZGQodXBncmFkZURpcmVjdG9yeS5zdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgd2hpbGUgKGZzOjpleGlzdHMob2xkRXhwb3J0UGF0aCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoIlppcHBlZCBpbnRvIHt9XG4iLCApOwo=</text>
+        <text encoding="base64">ICAgICAgemlwcGVyOjpaaXBwZXIgZmlsZVppcHBlcm9uaSgpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>print(&quot;Delaying until bin file is gone from disk\n&quot;);
-          while (fs::exists(printSettingsExtractionPath));
-          print(&quot;Bin File deleted&quot;);</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgZmlsZVppcHBlci5hZGQodXBncmFkZURpcmVjdG9yeS5zdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnQoIlppcHBlZCBpbnRvIHt9XG4iLCApOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1065,20 +1063,22 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYm9vc3Q6OmludGVycHJvY2Vzczo6YmFzaWNfdmVjdG9yc3RyZWFtPHN0ZDo6dmVjdG9yPGNoYXI+PiB6aXBJbk1lbW9yeTsK</text>
+      <register name="8" type="4">
+        <text>print(&quot;Delaying until bin file is gone from disk\n&quot;);
+          while (fs::exists(printSettingsExtractionPath));
+          print(&quot;Bin File deleted&quot;);</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZmlsZVppcHBlci5hZGQoKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>set norelativenumber</text>
       </register>
     </registers>
     <search>
-      <last-search>BulkImport</last-search>
+      <last-search>bulkimport</last-search>
       <last-offset />
-      <last-pattern>BulkImport</last-pattern>
+      <last-pattern>bulkimport</last-pattern>
       <last-replace encoding="base64">aWYgKCEoXDEgXDIpKSB7IGxvZ2dlcl8tPndhcm4oIkZpZWxkIFwxIGRpZCBub3QgbWF0Y2giKTsgcmV0dXJuIGZhbHNlOyB9</last-replace>
       <last-substitute encoding="base64">XChtXy4qXClcKCA9PSBvLm1fLipcKSAmJg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1086,8 +1086,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XChtXy4qXClcKCA9PSBvLm1fLipcKSAmJg==</entry>
-        <entry>namespace</entry>
         <entry>memory_buffer</entry>
         <entry>d</entry>
         <entry>syslog</entry>
@@ -1106,6 +1104,8 @@
         <entry>read</entry>
         <entry>BulkExport</entry>
         <entry>BulkImport</entry>
+        <entry>bulkExport</entry>
+        <entry>bulkimport</entry>
       </history-search>
       <history-cmd>
         <entry>160</entry>
