@@ -467,8 +467,8 @@
         <mark key="." line="32" column="5" />
         <mark key="^" line="32" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" timestamp="1538072290236">
-        <mark key="'" line="670" column="0" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" timestamp="1538075393537">
+        <mark key="'" line="502" column="4" />
         <mark key="[" line="626" column="55" />
         <mark key="]" line="626" column="57" />
         <mark key="^" line="626" column="57" />
@@ -485,12 +485,12 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" timestamp="1538074685471">
+      <file name="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" timestamp="1538075838958">
         <mark key="'" line="114" column="37" />
-        <mark key="[" line="262" column="32" />
-        <mark key="]" line="262" column="91" />
-        <mark key="." line="262" column="91" />
-        <mark key="^" line="262" column="91" />
+        <mark key="[" line="231" column="0" />
+        <mark key="]" line="231" column="0" />
+        <mark key="." line="231" column="0" />
+        <mark key="^" line="257" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/powertable.h" timestamp="1535122009989">
         <mark key="[" line="17" column="34" />
@@ -707,7 +707,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/Documents/ULS/trunk/Camera/CameraSerialization.cpp" />
       <jump line="35" column="6" filename="$USER_HOME$/Documents/ULS/trunk/Camera/CameraSerialization.cpp" />
       <jump line="214" column="12" filename="$USER_HOME$/Documents/ULS/trunk/Control/ImportRoutines.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/ULS/trunk/common/SHOULDER.H" />
@@ -807,42 +806,43 @@
       <jump line="12" column="0" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="670" column="0" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
       <jump line="114" column="37" filename="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" />
+      <jump line="502" column="4" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoIlppcHBlZCBpbnRvIHt9XG4iLCApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>BulkExport</text>
+        <text>BulkImport</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">TG9nZ2luZzo6R2V0KCJqb2JzIiktPndhcm4oIkJvb3N0IGFyY2hpdmUgZmFpbGVkIHRvIHJlYWQge31cbkVycm9yOiB7fSIsIGJpbkZpbGVQYXRoLT5zdHJpbmcoKSwgZS53aGF0KCkpOwogICAgICAgICAgdGhyb3cgU2VyaWFsaXplRXJyb3IoKTs=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgd2hpbGUgKGZzOjpleGlzdHMob2xkRXhwb3J0UGF0aCkpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgemlwcGVyOjpaaXBwZXIgZmlsZVppcHBlcm9uaSgpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgZmlsZVppcHBlci5hZGQodXBncmFkZURpcmVjdG9yeS5zdHJpbmcoKSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgcHJpbnQoIlppcHBlZCBpbnRvIHt9XG4iLCApOwo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text>print(&quot;Delaying until bin file is gone from disk\n&quot;);
           while (fs::exists(printSettingsExtractionPath));
           print(&quot;Bin File deleted&quot;);</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYm9vc3Q6OmludGVycHJvY2Vzczo6YmFzaWNfdmVjdG9yc3RyZWFtPHN0ZDo6dmVjdG9yPGNoYXI+PiB6aXBJbk1lbW9yeTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZmlsZVppcHBlci5hZGQoKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIFRPRE8gRGVsZXRlIHRoZSBvbGQgZmlsZQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1066,19 +1066,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIFRPRE8gRGVsZXRlIHRoZSBvbGQgZmlsZQo=</text>
+        <text encoding="base64">ICAgICAgYm9vc3Q6OmludGVycHJvY2Vzczo6YmFzaWNfdmVjdG9yc3RyZWFtPHN0ZDo6dmVjdG9yPGNoYXI+PiB6aXBJbk1lbW9yeTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIFRPRE8gRGVsZXRlIHRoZSBvbGQgZmlsZQo=</text>
+        <text encoding="base64">ICAgICAgZmlsZVppcHBlci5hZGQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>set norelativenumber</text>
       </register>
     </registers>
     <search>
-      <last-search>BulkExport</last-search>
+      <last-search>BulkImport</last-search>
       <last-offset />
-      <last-pattern>BulkExport</last-pattern>
+      <last-pattern>BulkImport</last-pattern>
       <last-replace encoding="base64">aWYgKCEoXDEgXDIpKSB7IGxvZ2dlcl8tPndhcm4oIkZpZWxkIFwxIGRpZCBub3QgbWF0Y2giKTsgcmV0dXJuIGZhbHNlOyB9</last-replace>
       <last-substitute encoding="base64">XChtXy4qXClcKCA9PSBvLm1fLipcKSAmJg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1086,7 +1086,6 @@
     </search>
     <history>
       <history-search>
-        <entry>operator</entry>
         <entry encoding="base64">XChtXy4qXClcKCA9PSBvLm1fLipcKSAmJg==</entry>
         <entry>namespace</entry>
         <entry>memory_buffer</entry>
@@ -1106,6 +1105,7 @@
         <entry>rename</entry>
         <entry>read</entry>
         <entry>BulkExport</entry>
+        <entry>BulkImport</entry>
       </history-search>
       <history-cmd>
         <entry>160</entry>
