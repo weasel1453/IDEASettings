@@ -485,11 +485,12 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" timestamp="1538072307567">
-        <mark key="[" line="240" column="30" />
-        <mark key="]" line="238" column="88" />
-        <mark key="." line="238" column="88" />
-        <mark key="^" line="238" column="88" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" timestamp="1538074685471">
+        <mark key="'" line="114" column="37" />
+        <mark key="[" line="262" column="32" />
+        <mark key="]" line="262" column="91" />
+        <mark key="." line="262" column="91" />
+        <mark key="^" line="262" column="91" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/powertable.h" timestamp="1535122009989">
         <mark key="[" line="17" column="34" />
@@ -706,7 +707,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="8" filename="$USER_HOME$/Documents/ULS/trunk/Camera/CameraSerialization.cpp" />
       <jump line="11" column="0" filename="$USER_HOME$/Documents/ULS/trunk/Camera/CameraSerialization.cpp" />
       <jump line="35" column="6" filename="$USER_HOME$/Documents/ULS/trunk/Camera/CameraSerialization.cpp" />
       <jump line="214" column="12" filename="$USER_HOME$/Documents/ULS/trunk/Control/ImportRoutines.cpp" />
@@ -806,13 +806,14 @@
       <jump line="65" column="64" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.h" />
       <jump line="12" column="0" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="670" column="0" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
+      <jump line="114" column="37" filename="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnQoIlppcHBlZCBpbnRvIHt9XG4iLCApOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>filePath</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>BulkExport</text>
@@ -821,25 +822,27 @@
         <text encoding="base64">TG9nZ2luZzo6R2V0KCJqb2JzIiktPndhcm4oIkJvb3N0IGFyY2hpdmUgZmFpbGVkIHRvIHJlYWQge31cbkVycm9yOiB7fSIsIGJpbkZpbGVQYXRoLT5zdHJpbmcoKSwgZS53aGF0KCkpOwogICAgICAgICAgdGhyb3cgU2VyaWFsaXplRXJyb3IoKTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnQoIlppcHBlZCBpbnRvIHt9XG4iLCApOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIFRPRE8gRGVsZXRlIHRoZSBvbGQgZmlsZQo=</text>
+      <register name="2" type="4">
+        <text>print(&quot;Delaying until bin file is gone from disk\n&quot;);
+          while (fs::exists(printSettingsExtractionPath));
+          print(&quot;Bin File deleted&quot;);</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIFRPRE8gRGVsZXRlIHRoZSBvbGQgZmlsZQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIFRPRE8gRGVsZXRlIHRoZSBvbGQgZmlsZQo=</text>
+        <text encoding="base64">ICAgICAgYm9vc3Q6OmludGVycHJvY2Vzczo6YmFzaWNfdmVjdG9yc3RyZWFtPHN0ZDo6dmVjdG9yPGNoYXI+PiB6aXBJbk1lbW9yeTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgZmlsZVppcHBlci5hZGQoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0cnkK</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIFRPRE8gRGVsZXRlIHRoZSBvbGQgZmlsZQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1063,10 +1066,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIFRPRE8gRGVsZXRlIHRoZSBvbGQgZmlsZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIExvZ2dpbmc6OkdldCgiam9icyIpLT53YXJuKCJCb29zdCBhcmNoaXZlIGZhaWxlZCB0byByZWFkIHt9XG5FcnJvcjoge30iLCBzZXR0aW5nc0ZpbGUuc3RyaW5nKCksIGUud2hhdCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIFRPRE8gRGVsZXRlIHRoZSBvbGQgZmlsZQo=</text>
       </register>
       <register name=":" type="4">
         <text>set norelativenumber</text>
