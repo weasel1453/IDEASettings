@@ -321,7 +321,7 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/GDB" timestamp="1538077169859">
+      <file name="/GDB" timestamp="1538149616849">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Apps/GCode2ULS/stdafx.h" timestamp="1536249091924">
@@ -485,12 +485,12 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" timestamp="1538146066583">
-        <mark key="'" line="244" column="8" />
-        <mark key="[" line="272" column="31" />
-        <mark key="]" line="272" column="55" />
-        <mark key="^" line="272" column="55" />
-        <mark key="." line="272" column="55" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" timestamp="1538150254652">
+        <mark key="'" line="122" column="64" />
+        <mark key="[" line="73" column="10" />
+        <mark key="]" line="73" column="10" />
+        <mark key="^" line="80" column="52" />
+        <mark key="." line="73" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/powertable.h" timestamp="1535122009989">
         <mark key="[" line="17" column="34" />
@@ -621,7 +621,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536770012545">
+      <file name="/Dummy.txt" timestamp="1538150280031">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Planning/include/Configuration.h" timestamp="1535151967246">
@@ -675,7 +675,7 @@
         <mark key="]" line="237" column="0" />
         <mark key="." line="237" column="0" />
       </file>
-      <file name="/fragment.mm" timestamp="1537565623964">
+      <file name="/fragment.mm" timestamp="1538149425878">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/ThriftExtensions/UserEx.cpp" timestamp="1536762314834">
@@ -707,14 +707,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="39" filename="$USER_HOME$/Documents/ULS/trunk/Planning/Configuration.cpp" />
-      <jump line="163" column="60" filename="$USER_HOME$/Documents/ULS/trunk/Planning/Configuration.cpp" />
-      <jump line="171" column="77" filename="$USER_HOME$/Documents/ULS/trunk/Planning/Configuration.cpp" />
-      <jump line="191" column="93" filename="$USER_HOME$/Documents/ULS/trunk/Planning/Configuration.cpp" />
-      <jump line="236" column="58" filename="$USER_HOME$/Documents/ULS/trunk/Planning/Configuration.cpp" />
-      <jump line="197" column="116" filename="$USER_HOME$/Documents/ULS/trunk/Planning/Configuration.cpp" />
-      <jump line="61" column="4" filename="$USER_HOME$/Documents/ULS/trunk/Planning/include/Configuration.h" />
-      <jump line="303" column="13" filename="$USER_HOME$/Documents/ULS/trunk/Planning/include/Configuration.h" />
       <jump line="304" column="11" filename="$USER_HOME$/Documents/ULS/trunk/Planning/include/Configuration.h" />
       <jump line="320" column="6" filename="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" />
       <jump line="278" column="34" filename="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" />
@@ -807,6 +799,14 @@
       <jump line="211" column="7" filename="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" />
       <jump line="247" column="8" filename="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" />
       <jump line="248" column="8" filename="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" />
+      <jump line="156" column="15" filename="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" />
+      <jump line="150" column="10" filename="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" />
+      <jump line="134" column="42" filename="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" />
+      <jump line="131" column="12" filename="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" />
+      <jump line="99" column="10" filename="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" />
+      <jump line="98" column="11" filename="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" />
+      <jump line="128" column="51" filename="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" />
+      <jump line="104" column="64" filename="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -816,31 +816,36 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>while</text>
+        <text>importOptionsPos</text>
       </register>
       <register name="0" type="4">
-        <text>oldExportPath.string()</text>
+        <text>if (importOptionsFileNames.find(jobId) != importOptionsFileNames.end()) {
+            //If the incoming file is a bin, delete the json
+            if (boost::contains(&quot;.bin&quot;, parts[1])) {
+              importOptionsFileNames.erase(jobId);
+            }
+          }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgU2xlZXAoMjAwMCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIkZsdXNoZWRcbiIpOwo=</text>
+        <text encoding="base64">ICAgIHByaW50KCJ7fVxuIiwgaW1wb3J0T3B0aW9uc0ZpbGVOYW1lcy5zaXplKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0T3B0aW9uc09mcy5mbHVzaCgpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIkZsdXNoaW5nIFhNTCBmaWxlIHRvIGRpc2tcbiIpOwo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnQoInt9OiB7fVxuIiwgZWxlbWVudC5maXJzdCwgZWxlbWVudC5zZWNvbmQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRTZXR0aW5nc09mcy5mbHVzaCgpOwo=</text>
+        <text encoding="base64">ICAgIGZvcihhdXRvIGVsZW1lbnQgOiBpbXBvcnRPcHRpb25zRmlsZU5hbWVzKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoIk9sZHJvb3Q6IHt9XG4iLCBvbGRFeHBvcnRSb290LnN0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoIk9sZDoge31cbiIsIG9sZEV4cG9ydFBhdGguc3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnQoInt9XG4iLCBwLm5hbWUpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1064,19 +1069,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoIlVwZ3JhZGUgZGlyZWN0b3J5OiB7fVxuIiwgdXBncmFkZURpcmVjdG9yeS5zdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgIGZvciAoYXV0byBwIDogZW50cmllcykgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>set norelativenumber</text>
       </register>
     </registers>
     <search>
-      <last-search>while</last-search>
+      <last-search>importOptionsPos</last-search>
       <last-offset />
-      <last-pattern>while</last-pattern>
+      <last-pattern>importOptionsPos</last-pattern>
       <last-replace encoding="base64">aWYgKCEoXDEgXDIpKSB7IGxvZ2dlcl8tPndhcm4oIkZpZWxkIFwxIGRpZCBub3QgbWF0Y2giKTsgcmV0dXJuIGZhbHNlOyB9</last-replace>
       <last-substitute encoding="base64">XChtXy4qXClcKCA9PSBvLm1fLipcKSAmJg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1084,8 +1089,6 @@
     </search>
     <history>
       <history-search>
-        <entry>d</entry>
-        <entry>syslog</entry>
         <entry>,</entry>
         <entry>printf</entry>
         <entry>Print</entry>
@@ -1104,6 +1107,8 @@
         <entry>bulkExport</entry>
         <entry>bulkimport</entry>
         <entry>while</entry>
+        <entry>importOptionsExtractionPath</entry>
+        <entry>importOptionsPos</entry>
       </history-search>
       <history-cmd>
         <entry>160</entry>
