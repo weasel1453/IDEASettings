@@ -485,12 +485,12 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" timestamp="1538077225060">
-        <mark key="'" line="114" column="37" />
-        <mark key="[" line="268" column="28" />
-        <mark key="]" line="268" column="28" />
-        <mark key="." line="268" column="28" />
-        <mark key="^" line="268" column="28" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" timestamp="1538146066583">
+        <mark key="'" line="244" column="8" />
+        <mark key="[" line="272" column="31" />
+        <mark key="]" line="272" column="55" />
+        <mark key="^" line="272" column="55" />
+        <mark key="." line="272" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/powertable.h" timestamp="1535122009989">
         <mark key="[" line="17" column="34" />
@@ -707,9 +707,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/ULS/trunk/common/SHOULDER.H" />
-      <jump line="251" column="25" filename="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" />
-      <jump line="45" column="24" filename="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" />
       <jump line="44" column="39" filename="$USER_HOME$/Documents/ULS/trunk/Planning/Configuration.cpp" />
       <jump line="163" column="60" filename="$USER_HOME$/Documents/ULS/trunk/Planning/Configuration.cpp" />
       <jump line="171" column="77" filename="$USER_HOME$/Documents/ULS/trunk/Planning/Configuration.cpp" />
@@ -807,40 +804,43 @@
       <jump line="502" column="4" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
       <jump line="577" column="56" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
       <jump line="470" column="6" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
+      <jump line="211" column="7" filename="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" />
+      <jump line="247" column="8" filename="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" />
+      <jump line="248" column="8" filename="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>bulkimport</text>
+        <text>while</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">TG9nZ2luZzo6R2V0KCJqb2JzIiktPndhcm4oIkJvb3N0IGFyY2hpdmUgZmFpbGVkIHRvIHJlYWQge31cbkVycm9yOiB7fSIsIGJpbkZpbGVQYXRoLT5zdHJpbmcoKSwgZS53aGF0KCkpOwogICAgICAgICAgdGhyb3cgU2VyaWFsaXplRXJyb3IoKTs=</text>
+        <text>oldExportPath.string()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgU2xlZXAoMjAwMCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlWmlwcGVyLmFkZChqb2JGb2xkZXIuc3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIkZsdXNoZWRcbiIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0T3B0aW9uc09mcy5mbHVzaCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgd2hpbGUgKGZzOjpleGlzdHMob2xkRXhwb3J0UGF0aCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIkZsdXNoaW5nIFhNTCBmaWxlIHRvIGRpc2tcbiIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgemlwcGVyOjpaaXBwZXIgZmlsZVppcHBlcm9uaSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRTZXR0aW5nc09mcy5mbHVzaCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZmlsZVppcHBlci5hZGQodXBncmFkZURpcmVjdG9yeS5zdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnQoIk9sZHJvb3Q6IHt9XG4iLCBvbGRFeHBvcnRSb290LnN0cmluZygpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoIlppcHBlZCBpbnRvIHt9XG4iLCApOwo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnQoIk9sZDoge31cbiIsIG9sZEV4cG9ydFBhdGguc3RyaW5nKCkpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1063,22 +1063,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>print(&quot;Delaying until bin file is gone from disk\n&quot;);
-          while (fs::exists(printSettingsExtractionPath));
-          print(&quot;Bin File deleted&quot;);</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgcHJpbnQoIlVwZ3JhZGUgZGlyZWN0b3J5OiB7fVxuIiwgdXBncmFkZURpcmVjdG9yeS5zdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>set norelativenumber</text>
       </register>
     </registers>
     <search>
-      <last-search>bulkimport</last-search>
+      <last-search>while</last-search>
       <last-offset />
-      <last-pattern>bulkimport</last-pattern>
+      <last-pattern>while</last-pattern>
       <last-replace encoding="base64">aWYgKCEoXDEgXDIpKSB7IGxvZ2dlcl8tPndhcm4oIkZpZWxkIFwxIGRpZCBub3QgbWF0Y2giKTsgcmV0dXJuIGZhbHNlOyB9</last-replace>
       <last-substitute encoding="base64">XChtXy4qXClcKCA9PSBvLm1fLipcKSAmJg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1086,7 +1084,6 @@
     </search>
     <history>
       <history-search>
-        <entry>memory_buffer</entry>
         <entry>d</entry>
         <entry>syslog</entry>
         <entry>,</entry>
@@ -1106,6 +1103,7 @@
         <entry>BulkImport</entry>
         <entry>bulkExport</entry>
         <entry>bulkimport</entry>
+        <entry>while</entry>
       </history-search>
       <history-cmd>
         <entry>160</entry>
