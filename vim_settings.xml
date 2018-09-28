@@ -485,12 +485,12 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" timestamp="1538155072562">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="299" column="2" />
-        <mark key="]" line="299" column="1" />
-        <mark key="^" line="299" column="1" />
-        <mark key="." line="299" column="1" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" timestamp="1538157144788">
+        <mark key="'" line="226" column="7" />
+        <mark key="[" line="250" column="8" />
+        <mark key="]" line="250" column="8" />
+        <mark key="^" line="240" column="5" />
+        <mark key="." line="250" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/powertable.h" timestamp="1535122009989">
         <mark key="[" line="17" column="34" />
@@ -707,13 +707,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="320" column="6" filename="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" />
-      <jump line="278" column="34" filename="$USER_HOME$/Documents/ULS/trunk/Control/PrintQueue.cpp" />
-      <jump line="535" column="87" filename="$USER_HOME$/Documents/ULS/trunk/Control/JobsServiceHandler.cpp" />
-      <jump line="985" column="44" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
-      <jump line="117" column="4" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
-      <jump line="153" column="40" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
-      <jump line="144" column="17" filename="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/spdlog/common.h" />
       <jump line="622" column="34" filename="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/fmt/format.h" />
       <jump line="662" column="0" filename="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/fmt/format.h" />
       <jump line="489" column="6" filename="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/fmt/format.h" />
@@ -806,46 +799,52 @@
       <jump line="98" column="11" filename="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" />
       <jump line="128" column="51" filename="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" />
       <jump line="104" column="64" filename="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" />
-      <jump line="24" column="0" filename="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" />
+      <jump line="172" column="65" filename="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" />
+      <jump line="227" column="10" filename="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" />
+      <jump line="299" column="0" filename="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" />
+      <jump line="305" column="0" filename="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" />
+      <jump line="24" column="68" filename="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" />
+      <jump line="26" column="0" filename="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" />
+      <jump line="175" column="7" filename="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" />
+      <jump line="226" column="7" filename="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y2Nvc2hxKCAgICAgKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
         <text>importOptionsPos</text>
       </register>
-      <register name="0" type="4">
-        <text>if (importOptionsFileNames.find(jobId) != importOptionsFileNames.end()) {
-            //If the incoming file is a bin, delete the json
-            if (boost::contains(&quot;.bin&quot;, parts[1])) {
-              importOptionsFileNames.erase(jobId);
-            }
-          }</text>
+      <register name="0" type="2">
+        <text encoding="base64">VUxTOjpKb2JzOjpJbXBvcnRPcHRpb25zIGltcG9ydE9wdGlvbnNGcm9tSnNvbihjb25zdCBmczo6cGF0aCAmaW1wb3J0T3B0aW9uc0pzb25GaWxlKSB7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Y2Nvc2hxKCAgICAgKQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">YXV0byBwcmludFNldHRpbmdzVGV4dFBhdGggPSBwcmludFNldHRpbmdzRXh0cmFjdGlvblBhdGg7CiAgICAgICAgICBwcmludFNldHRpbmdzVGV4dFBhdGgucmVwbGFjZV9leHRlbnNpb24oIi54bWwiKTsKICAgICAgICAgIHsKICAgICAgICAgICAgc3RkOjpvZnN0cmVhbSBwcmludFNldHRpbmdzT2ZzKHByaW50U2V0dGluZ3NUZXh0UGF0aC5zdHJpbmcoKSk7CiAgICAgICAgICAgIGlmICghcHJpbnRTZXR0aW5nc09mcy5pc19vcGVuKCkpCiAgICAgICAgICAgICAgdGhyb3cgc3RkOjpydW50aW1lX2Vycm9yKAogICAgICAgICAgICAgICAgZm10Ojpmb3JtYXQoInt9IGNvdWxkIG5vdCBiZSBvcGVuZWQiLCBwcmludFNldHRpbmdzVGV4dFBhdGguc3RyaW5nKCkpKTsKICAgICAgICAgICAgYm9vc3Q6OmFyY2hpdmU6OnhtbF9vYXJjaGl2ZSBwcmludFNldHRpbmdzT2EocHJpbnRTZXR0aW5nc09mcyk7CiAgICAgICAgICAgIHByaW50U2V0dGluZ3NPYSA8PCBib29zdDo6c2VyaWFsaXphdGlvbjo6bWFrZV9udnAoIlByaW50UGFyYW1zIiwgcGFyYW1zKTsKICAgICAgICAgIH0KICAgICAgICAgIGZzOjpyZW1vdmUocHJpbnRTZXR0aW5nc0V4dHJhY3Rpb25QYXRoKTsKICAgICAgICB9CiAgICAgICAgY2F0Y2ggKGNvbnN0IGJvb3N0OjphcmNoaXZlOjphcmNoaXZlX2V4Y2VwdGlvbiAmZSkKICAgICAgICB7CiAgICAgICAgICBwcmludCgiVGhlIFByaW50U2V0dGluZ3MuYmluIGZpbGUgZm9yIGpvYiB7fSBpcyBjb3JydXB0IGFuZCBjYW4ndCBiZSB1cGdyYWRlZFxuIiwgam9iSWQpOwogICAgICAgIH0KICAgICAgICBjYXRjaCAoY29uc3Qgc3RkOjpiYWRfYWxsb2MgJmUpCiAgICAgICAgewogICAgICAgICAgcHJpbnQoIlRoZSBQcmludFNldHRpbmdzLmJpbiBmaWxlIGZvciBqb2Ige30gaXMgY29ycnVwdCBhbmQgY2FuJ3QgYmUgdXBncmFkZWRcbiIsIGpvYklkKTsKICAgICAgICB9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UHJpbnRTZXR0aW5ncyAK</text>
+        <text encoding="base64">ICAgICAgICAgIFByaW50UGFyYW1zIHBhcmFtczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZmlsZVppcHBlci5PdmVyd3JpdGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJ7fVxuIiwgaW1wb3J0T3B0aW9uc0ZpbGVOYW1lcy5zaXplKCkpOwo=</text>
+      <register name="5" type="4">
+        <text>print (&quot;This export file contains old JSON-formatted print settings.\n&quot;);
+        print (&quot;This utility does not know how to upgrade those JSON files.\n&quot;);
+        print (&quot;If this is a very important export file, please contact Tim Crews\n&quot;);</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="6" type="4">
+        <text>print (&quot;This export file contains old JSON-formatted import options.\n&quot;);
+        print (&quot;This utility does not know how to upgrade those JSON files.\n&quot;);
+        print (&quot;If this is a very important export file, please contact Tim Crews\n&quot;);</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoInt9OiB7fVxuIiwgZWxlbWVudC5maXJzdCwgZWxlbWVudC5zZWNvbmQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1069,13 +1068,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvcihhdXRvIGVsZW1lbnQgOiBpbXBvcnRPcHRpb25zRmlsZU5hbWVzKSB7Cg==</text>
+        <text encoding="base64">Y2Nvc2hxKCAgICAgKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">UHJpbnRTZXR0aW5ncyAK</text>
       </register>
       <register name=":" type="4">
-        <text>set norelativenumber</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
@@ -1129,8 +1128,8 @@
         <entry>23</entry>
         <entry>164</entry>
         <entry>noh</entry>
-        <entry>1</entry>
         <entry>set norelativenumber</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
