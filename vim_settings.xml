@@ -485,12 +485,12 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" timestamp="1538152636980">
+      <file name="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" timestamp="1538155072562">
         <mark key="'" line="24" column="0" />
-        <mark key="[" line="299" column="47" />
-        <mark key="]" line="299" column="47" />
-        <mark key="^" line="299" column="47" />
-        <mark key="." line="299" column="47" />
+        <mark key="[" line="299" column="2" />
+        <mark key="]" line="299" column="1" />
+        <mark key="^" line="299" column="1" />
+        <mark key="." line="299" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/powertable.h" timestamp="1535122009989">
         <mark key="[" line="17" column="34" />
@@ -810,7 +810,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">UHJpbnRTZXR0aW5ncyAK</text>
+        <text encoding="base64">Y2Nvc2hxKCAgICAgKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -827,25 +827,25 @@
           }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UHJpbnRTZXR0aW5ncyAK</text>
+        <text encoding="base64">Y2Nvc2hxKCAgICAgKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZmlsZVppcHBlci5PdmVyd3JpdGU7Cg==</text>
+        <text encoding="base64">UHJpbnRTZXR0aW5ncyAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZmlsZVppcHBlci5PdmVyd3JpdGU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJ7fVxuIiwgaW1wb3J0T3B0aW9uc0ZpbGVOYW1lcy5zaXplKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHByaW50KCJ7fVxuIiwgaW1wb3J0T3B0aW9uc0ZpbGVOYW1lcy5zaXplKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoInt9OiB7fVxuIiwgZWxlbWVudC5maXJzdCwgZWxlbWVudC5zZWNvbmQpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvcihhdXRvIGVsZW1lbnQgOiBpbXBvcnRPcHRpb25zRmlsZU5hbWVzKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnQoInt9OiB7fVxuIiwgZWxlbWVudC5maXJzdCwgZWxlbWVudC5zZWNvbmQpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1069,10 +1069,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGZvcihhdXRvIGVsZW1lbnQgOiBpbXBvcnRPcHRpb25zRmlsZU5hbWVzKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoInt9XG4iLCBwLm5hbWUpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>set norelativenumber</text>
