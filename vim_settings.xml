@@ -220,8 +220,11 @@
         <mark key="^" line="26" column="11" />
         <mark key="." line="26" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/debian/uls-control/etc/systemd/system/UlsControl.service" timestamp="1539102504579">
-        <mark key="[" line="15" column="14" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/debian/uls-control/etc/systemd/system/UlsControl.service" timestamp="1539109089368">
+        <mark key="[" line="17" column="14" />
+        <mark key="]" line="18" column="17" />
+        <mark key="^" line="18" column="17" />
+        <mark key="." line="18" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/friendly_daily_file_sink.h" timestamp="1535740440222">
         <mark key="[" line="30" column="53" />
@@ -617,7 +620,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538152389561">
+      <file name="/Dummy.txt" timestamp="1539109234939">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Planning/include/Configuration.h" timestamp="1535151967246">
@@ -805,8 +808,8 @@
       <jump line="226" column="7" filename="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">U3RhcnRMaW1pdEludGVydmFsU2VjPTMwMApTdGFydExpbWl0QnVyc3Q9NAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICA=</text>
@@ -817,30 +820,30 @@
       <register name="0" type="2">
         <text encoding="base64">VUxTOjpKb2JzOjpJbXBvcnRPcHRpb25zIGltcG9ydE9wdGlvbnNGcm9tSnNvbihjb25zdCBmczo6cGF0aCAmaW1wb3J0T3B0aW9uc0pzb25GaWxlKSB7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">U3RhcnRMaW1pdEludGVydmFsU2VjPTMwMApTdGFydExpbWl0QnVyc3Q9NAo=</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">YXV0byBwcmludFNldHRpbmdzVGV4dFBhdGggPSBwcmludFNldHRpbmdzRXh0cmFjdGlvblBhdGg7CiAgICAgICAgICBwcmludFNldHRpbmdzVGV4dFBhdGgucmVwbGFjZV9leHRlbnNpb24oIi54bWwiKTsKICAgICAgICAgIHsKICAgICAgICAgICAgc3RkOjpvZnN0cmVhbSBwcmludFNldHRpbmdzT2ZzKHByaW50U2V0dGluZ3NUZXh0UGF0aC5zdHJpbmcoKSk7CiAgICAgICAgICAgIGlmICghcHJpbnRTZXR0aW5nc09mcy5pc19vcGVuKCkpCiAgICAgICAgICAgICAgdGhyb3cgc3RkOjpydW50aW1lX2Vycm9yKAogICAgICAgICAgICAgICAgZm10Ojpmb3JtYXQoInt9IGNvdWxkIG5vdCBiZSBvcGVuZWQiLCBwcmludFNldHRpbmdzVGV4dFBhdGguc3RyaW5nKCkpKTsKICAgICAgICAgICAgYm9vc3Q6OmFyY2hpdmU6OnhtbF9vYXJjaGl2ZSBwcmludFNldHRpbmdzT2EocHJpbnRTZXR0aW5nc09mcyk7CiAgICAgICAgICAgIHByaW50U2V0dGluZ3NPYSA8PCBib29zdDo6c2VyaWFsaXphdGlvbjo6bWFrZV9udnAoIlByaW50UGFyYW1zIiwgcGFyYW1zKTsKICAgICAgICAgIH0KICAgICAgICAgIGZzOjpyZW1vdmUocHJpbnRTZXR0aW5nc0V4dHJhY3Rpb25QYXRoKTsKICAgICAgICB9CiAgICAgICAgY2F0Y2ggKGNvbnN0IGJvb3N0OjphcmNoaXZlOjphcmNoaXZlX2V4Y2VwdGlvbiAmZSkKICAgICAgICB7CiAgICAgICAgICBwcmludCgiVGhlIFByaW50U2V0dGluZ3MuYmluIGZpbGUgZm9yIGpvYiB7fSBpcyBjb3JydXB0IGFuZCBjYW4ndCBiZSB1cGdyYWRlZFxuIiwgam9iSWQpOwogICAgICAgIH0KICAgICAgICBjYXRjaCAoY29uc3Qgc3RkOjpiYWRfYWxsb2MgJmUpCiAgICAgICAgewogICAgICAgICAgcHJpbnQoIlRoZSBQcmludFNldHRpbmdzLmJpbiBmaWxlIGZvciBqb2Ige30gaXMgY29ycnVwdCBhbmQgY2FuJ3QgYmUgdXBncmFkZWRcbiIsIGpvYklkKTsKICAgICAgICB9</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIFByaW50UGFyYW1zIHBhcmFtczsK</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIFByaW50UGFyYW1zIHBhcmFtczsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="4">
         <text>print (&quot;This export file contains old JSON-formatted print settings.\n&quot;);
         print (&quot;This utility does not know how to upgrade those JSON files.\n&quot;);
         print (&quot;If this is a very important export file, please contact Tim Crews\n&quot;);</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>print (&quot;This export file contains old JSON-formatted import options.\n&quot;);
         print (&quot;This utility does not know how to upgrade those JSON files.\n&quot;);
         print (&quot;If this is a very important export file, please contact Tim Crews\n&quot;);</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1064,10 +1067,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2Nvc2hxKCAgICAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UHJpbnRTZXR0aW5ncyAK</text>
+        <text encoding="base64">Y2Nvc2hxKCAgICAgKQo=</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
