@@ -54,11 +54,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/debian/uls-control/etc/systemd/system/UlsControlCrashHandler.service" timestamp="1539271260685">
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="6" column="8" />
-        <mark key="." line="6" column="8" />
-        <mark key="^" line="6" column="8" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/debian/uls-control/etc/systemd/system/UlsControlCrashHandler.service" timestamp="1539273179717">
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="10" column="58" />
+        <mark key="." line="10" column="58" />
+        <mark key="^" line="10" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/AxisResolutions.cpp" timestamp="1536701607423">
         <mark key="[" line="75" column="0" />
@@ -826,10 +826,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>root</text>
+        <text>sendCrashData</text>
       </register>
       <register name="-" type="4">
-        <text>root</text>
+        <text>sendCrashData</text>
       </register>
       <register name="/" type="4">
         <text>importOptionsPos</text>
