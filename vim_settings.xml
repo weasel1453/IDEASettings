@@ -508,12 +508,12 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" timestamp="1539370761400">
-        <mark key="'" line="219" column="0" />
-        <mark key="[" line="321" column="2" />
-        <mark key="]" line="315" column="19" />
-        <mark key="^" line="315" column="19" />
-        <mark key="." line="315" column="19" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" timestamp="1539372974958">
+        <mark key="'" line="222" column="0" />
+        <mark key="[" line="329" column="2" />
+        <mark key="]" line="329" column="2" />
+        <mark key="." line="329" column="2" />
+        <mark key="^" line="327" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/powertable.h" timestamp="1535122009989">
         <mark key="[" line="17" column="34" />
@@ -835,10 +835,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">VmFsdWUg</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VmFsdWUg</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
         <text>Read</text>
@@ -847,29 +847,25 @@
         <text encoding="base64">VUxTOjpKb2JzOjpJbXBvcnRPcHRpb25zIGltcG9ydE9wdGlvbnNGcm9tSnNvbihjb25zdCBmczo6cGF0aCAmaW1wb3J0T3B0aW9uc0pzb25GaWxlKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzZXQoQ1BBQ0tfQUJTT0xVVEVfREVTVElOQVRJT05fRklMRVMgIkNvbnRyb2wuc2VydmljZSIgL2V0Yy9vcHQvdWxzLWNvbnRyb2wvQ29udHJvbC5zZXJ2aWNlKQo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>Stop Control service from restarting excessively. Allow plenty of time for Control service to start.
-
-If UlsControl restarts more than 4 times in 5 minutes it will shutdown until manually started.
-
-Can be started sooner than StartLimitIntervalSec manually if &quot;systemctl reset-failed&quot; is issued first.</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBlbHNlCiAgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cm0gdWxzLWNvbnRyb2wtbG9nLnppcAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bWFpbCAtcyAiVUxTIENvbnRyb2wgY3Jhc2ggJChkYXRlKSIgdGNyZXdzQHVsc2luYy5jb20gLUEgL3RtcC91bHMtY29udHJvbC1sb2cuemlwIDwgL2Rldi9udWxsCnJtIC90bXAvdWxzLWNvbnRyb2wubG9nLnRhaWwK</text>
+        <text encoding="base64">ICAgICAgdHJ5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dGFpbCAtbiAxMDAwIC92YXIvbG9nL3Vscy1jb250cm9sLmxvZyA+IC90bXAvdWxzLWNvbnRyb2wubG9nLnRhaWwKemlwIC90bXAvdWxzLWNvbnRyb2wtbG9nLnppcCAvdG1wL3Vscy1jb250cm9sLmxvZy50YWlsCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3lzdGVtY3RsIGVuYWJsZSBVbHNDb250cm9sQ3Jhc2hIYW5kbGVyCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">U3RhcnRMaW1pdEludGVydmFsU2VjPTMwMApTdGFydExpbWl0QnVyc3Q9NAo=</text>
+        <text encoding="base64">ICB7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1092,11 +1088,11 @@ Can be started sooner than StartLimitIntervalSec manually if &quot;systemctl res
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">YXV0byBwcmludFNldHRpbmdzVGV4dFBhdGggPSBwcmludFNldHRpbmdzRXh0cmFjdGlvblBhdGg7CiAgICAgICAgICBwcmludFNldHRpbmdzVGV4dFBhdGgucmVwbGFjZV9leHRlbnNpb24oIi54bWwiKTsKICAgICAgICAgIHsKICAgICAgICAgICAgc3RkOjpvZnN0cmVhbSBwcmludFNldHRpbmdzT2ZzKHByaW50U2V0dGluZ3NUZXh0UGF0aC5zdHJpbmcoKSk7CiAgICAgICAgICAgIGlmICghcHJpbnRTZXR0aW5nc09mcy5pc19vcGVuKCkpCiAgICAgICAgICAgICAgdGhyb3cgc3RkOjpydW50aW1lX2Vycm9yKAogICAgICAgICAgICAgICAgZm10Ojpmb3JtYXQoInt9IGNvdWxkIG5vdCBiZSBvcGVuZWQiLCBwcmludFNldHRpbmdzVGV4dFBhdGguc3RyaW5nKCkpKTsKICAgICAgICAgICAgYm9vc3Q6OmFyY2hpdmU6OnhtbF9vYXJjaGl2ZSBwcmludFNldHRpbmdzT2EocHJpbnRTZXR0aW5nc09mcyk7CiAgICAgICAgICAgIHByaW50U2V0dGluZ3NPYSA8PCBib29zdDo6c2VyaWFsaXphdGlvbjo6bWFrZV9udnAoIlByaW50UGFyYW1zIiwgcGFyYW1zKTsKICAgICAgICAgIH0KICAgICAgICAgIGZzOjpyZW1vdmUocHJpbnRTZXR0aW5nc0V4dHJhY3Rpb25QYXRoKTsKICAgICAgICB9CiAgICAgICAgY2F0Y2ggKGNvbnN0IGJvb3N0OjphcmNoaXZlOjphcmNoaXZlX2V4Y2VwdGlvbiAmZSkKICAgICAgICB7CiAgICAgICAgICBwcmludCgiVGhlIFByaW50U2V0dGluZ3MuYmluIGZpbGUgZm9yIGpvYiB7fSBpcyBjb3JydXB0IGFuZCBjYW4ndCBiZSB1cGdyYWRlZFxuIiwgam9iSWQpOwogICAgICAgIH0KICAgICAgICBjYXRjaCAoY29uc3Qgc3RkOjpiYWRfYWxsb2MgJmUpCiAgICAgICAgewogICAgICAgICAgcHJpbnQoIlRoZSBQcmludFNldHRpbmdzLmJpbiBmaWxlIGZvciBqb2Ige30gaXMgY29ycnVwdCBhbmQgY2FuJ3QgYmUgdXBncmFkZWRcbiIsIGpvYklkKTsKICAgICAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICB9CiAgY2F0Y2ggKC4uLikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIFByaW50UGFyYW1zIHBhcmFtczsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
