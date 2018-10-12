@@ -296,6 +296,9 @@
         <mark key="." line="1026" column="0" />
         <mark key="^" line="1083" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/ULS/OldTrunk/common/PrintParams.cpp" timestamp="1539369285176">
+        <mark key="'" line="1496" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/PageParams.h" timestamp="1536703266616">
         <mark key="'" line="41" column="70" />
         <mark key="[" line="105" column="0" />
@@ -626,8 +629,8 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1539362561875">
-        <mark key="'" line="789" column="0" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1539369330525">
+        <mark key="'" line="904" column="27" />
         <mark key="[" line="797" column="0" />
         <mark key="]" line="797" column="0" />
         <mark key="." line="797" column="0" />
@@ -732,12 +735,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="489" column="6" filename="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/fmt/format.h" />
-      <jump line="462" column="0" filename="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/fmt/format.h" />
-      <jump line="403" column="10" filename="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/fmt/format.h" />
-      <jump line="414" column="6" filename="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/fmt/format.h" />
-      <jump line="157" column="39" filename="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/fmt/core.h" />
-      <jump line="416" column="10" filename="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/fmt/format.h" />
       <jump line="501" column="50" filename="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/fmt/format.h" />
       <jump line="515" column="27" filename="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/fmt/format.h" />
       <jump line="517" column="27" filename="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/fmt/format.h" />
@@ -832,6 +829,12 @@
       <jump line="226" column="7" filename="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" />
       <jump line="219" column="0" filename="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" />
       <jump line="789" column="0" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
+      <jump line="797" column="0" filename="$USER_HOME$/Documents/ULS/OldTrunk/common/PrintParams.cpp" />
+      <jump line="1496" column="27" filename="$USER_HOME$/Documents/ULS/OldTrunk/common/PrintParams.cpp" />
+      <jump line="799" column="9" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
+      <jump line="17" column="30" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
+      <jump line="788" column="39" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
+      <jump line="904" column="27" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -841,7 +844,7 @@
         <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>read</text>
+        <text>Read</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">VUxTOjpKb2JzOjpJbXBvcnRPcHRpb25zIGltcG9ydE9wdGlvbnNGcm9tSnNvbihjb25zdCBmczo6cGF0aCAmaW1wb3J0T3B0aW9uc0pzb25GaWxlKSB7Cg==</text>
@@ -1099,13 +1102,13 @@ Can be started sooner than StartLimitIntervalSec manually if &quot;systemctl res
         <text encoding="base64">ICAgICAgICAgIFByaW50UGFyYW1zIHBhcmFtczsK</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>$</text>
       </register>
     </registers>
     <search>
-      <last-search>read</last-search>
+      <last-search>Read</last-search>
       <last-offset />
-      <last-pattern>read</last-pattern>
+      <last-pattern>Read</last-pattern>
       <last-replace encoding="base64">aWYgKCEoXDEgXDIpKSB7IGxvZ2dlcl8tPndhcm4oIkZpZWxkIFwxIGRpZCBub3QgbWF0Y2giKTsgcmV0dXJuIGZhbHNlOyB9</last-replace>
       <last-substitute encoding="base64">XChtXy4qXClcKCA9PSBvLm1fLipcKSAmJg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1113,7 +1116,6 @@ Can be started sooner than StartLimitIntervalSec manually if &quot;systemctl res
     </search>
     <history>
       <history-search>
-        <entry>,</entry>
         <entry>printf</entry>
         <entry>Print</entry>
         <entry>Printf</entry>
@@ -1122,7 +1124,6 @@ Can be started sooner than StartLimitIntervalSec manually if &quot;systemctl res
         <entry>serialize</entry>
         <entry>Serialize</entry>
         <entry>settingsfile</entry>
-        <entry>json</entry>
         <entry>)</entry>
         <entry>rename</entry>
         <entry>BulkExport</entry>
@@ -1133,9 +1134,10 @@ Can be started sooner than StartLimitIntervalSec manually if &quot;systemctl res
         <entry>importOptionsExtractionPath</entry>
         <entry>importOptionsPos</entry>
         <entry>read</entry>
+        <entry>json</entry>
+        <entry>Read</entry>
       </history-search>
       <history-cmd>
-        <entry>160</entry>
         <entry>52</entry>
         <entry>59</entry>
         <entry>60</entry>
@@ -1155,6 +1157,7 @@ Can be started sooner than StartLimitIntervalSec manually if &quot;systemctl res
         <entry>noh</entry>
         <entry>set norelativenumber</entry>
         <entry>1</entry>
+        <entry>$</entry>
       </history-cmd>
       <history-expr />
       <history-input />
