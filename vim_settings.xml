@@ -76,11 +76,11 @@
         <mark key="]" line="142" column="0" />
         <mark key="." line="142" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/CMakeLists.txt" timestamp="1539270099913">
-        <mark key="[" line="429" column="6" />
-        <mark key="]" line="429" column="103" />
-        <mark key="." line="429" column="103" />
-        <mark key="^" line="429" column="103" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/CMakeLists.txt" timestamp="1539362499961">
+        <mark key="[" line="464" column="0" />
+        <mark key="]" line="464" column="0" />
+        <mark key="." line="464" column="0" />
+        <mark key="^" line="464" column="90" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/database/Materials/stdafx.h" timestamp="1536703635864">
         <mark key="[" line="50" column="0" />
@@ -508,6 +508,13 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" timestamp="1539362549817">
+        <mark key="'" line="219" column="0" />
+        <mark key="[" line="317" column="1" />
+        <mark key="]" line="319" column="0" />
+        <mark key="^" line="319" column="0" />
+        <mark key="." line="319" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/powertable.h" timestamp="1535122009989">
         <mark key="[" line="17" column="34" />
         <mark key="]" line="17" column="34" />
@@ -619,8 +626,8 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1537562547444">
-        <mark key="'" line="12" column="0" />
+      <file name="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" timestamp="1539362561875">
+        <mark key="'" line="789" column="0" />
         <mark key="[" line="797" column="0" />
         <mark key="]" line="797" column="0" />
         <mark key="." line="797" column="0" />
@@ -725,8 +732,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="622" column="34" filename="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/fmt/format.h" />
-      <jump line="662" column="0" filename="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/fmt/format.h" />
       <jump line="489" column="6" filename="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/fmt/format.h" />
       <jump line="462" column="0" filename="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/fmt/format.h" />
       <jump line="403" column="10" filename="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/fmt/format.h" />
@@ -825,48 +830,46 @@
       <jump line="26" column="0" filename="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" />
       <jump line="175" column="7" filename="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" />
       <jump line="226" column="7" filename="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" />
+      <jump line="219" column="0" filename="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" />
+      <jump line="789" column="0" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Stop Control service from restarting excessively. Allow plenty of time for Control service to start.
-
-If UlsControl restarts more than 4 times in 5 minutes it will shutdown until manually started.
-
-Can be started sooner than StartLimitIntervalSec manually if &quot;systemctl reset-failed&quot; is issued first.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBzZXQoQ1BBQ0tfQUJTT0xVVEVfREVTVElOQVRJT05fRklMRVMgIkNvbnRyb2wuc2VydmljZSIgL2V0Yy9vcHQvdWxzLWNvbnRyb2wvQ29udHJvbC5zZXJ2aWNlKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>sendCrashData</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>importOptionsPos</text>
+        <text>read</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">VUxTOjpKb2JzOjpJbXBvcnRPcHRpb25zIGltcG9ydE9wdGlvbnNGcm9tSnNvbihjb25zdCBmczo6cGF0aCAmaW1wb3J0T3B0aW9uc0pzb25GaWxlKSB7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICBzZXQoQ1BBQ0tfQUJTT0xVVEVfREVTVElOQVRJT05fRklMRVMgIkNvbnRyb2wuc2VydmljZSIgL2V0Yy9vcHQvdWxzLWNvbnRyb2wvQ29udHJvbC5zZXJ2aWNlKQo=</text>
+      </register>
+      <register name="2" type="4">
         <text>Stop Control service from restarting excessively. Allow plenty of time for Control service to start.
 
 If UlsControl restarts more than 4 times in 5 minutes it will shutdown until manually started.
 
 Can be started sooner than StartLimitIntervalSec manually if &quot;systemctl reset-failed&quot; is issued first.</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">cm0gdWxzLWNvbnRyb2wtbG9nLnppcAo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">bWFpbCAtcyAiVUxTIENvbnRyb2wgY3Jhc2ggJChkYXRlKSIgdGNyZXdzQHVsc2luYy5jb20gLUEgL3RtcC91bHMtY29udHJvbC1sb2cuemlwIDwgL2Rldi9udWxsCnJtIC90bXAvdWxzLWNvbnRyb2wubG9nLnRhaWwK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">dGFpbCAtbiAxMDAwIC92YXIvbG9nL3Vscy1jb250cm9sLmxvZyA+IC90bXAvdWxzLWNvbnRyb2wubG9nLnRhaWwKemlwIC90bXAvdWxzLWNvbnRyb2wtbG9nLnppcCAvdG1wL3Vscy1jb250cm9sLmxvZy50YWlsCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">c3lzdGVtY3RsIGVuYWJsZSBVbHNDb250cm9sQ3Jhc2hIYW5kbGVyCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">U3RhcnRMaW1pdEludGVydmFsU2VjPTMwMApTdGFydExpbWl0QnVyc3Q9NAo=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">YXV0byBwcmludFNldHRpbmdzVGV4dFBhdGggPSBwcmludFNldHRpbmdzRXh0cmFjdGlvblBhdGg7CiAgICAgICAgICBwcmludFNldHRpbmdzVGV4dFBhdGgucmVwbGFjZV9leHRlbnNpb24oIi54bWwiKTsKICAgICAgICAgIHsKICAgICAgICAgICAgc3RkOjpvZnN0cmVhbSBwcmludFNldHRpbmdzT2ZzKHByaW50U2V0dGluZ3NUZXh0UGF0aC5zdHJpbmcoKSk7CiAgICAgICAgICAgIGlmICghcHJpbnRTZXR0aW5nc09mcy5pc19vcGVuKCkpCiAgICAgICAgICAgICAgdGhyb3cgc3RkOjpydW50aW1lX2Vycm9yKAogICAgICAgICAgICAgICAgZm10Ojpmb3JtYXQoInt9IGNvdWxkIG5vdCBiZSBvcGVuZWQiLCBwcmludFNldHRpbmdzVGV4dFBhdGguc3RyaW5nKCkpKTsKICAgICAgICAgICAgYm9vc3Q6OmFyY2hpdmU6OnhtbF9vYXJjaGl2ZSBwcmludFNldHRpbmdzT2EocHJpbnRTZXR0aW5nc09mcyk7CiAgICAgICAgICAgIHByaW50U2V0dGluZ3NPYSA8PCBib29zdDo6c2VyaWFsaXphdGlvbjo6bWFrZV9udnAoIlByaW50UGFyYW1zIiwgcGFyYW1zKTsKICAgICAgICAgIH0KICAgICAgICAgIGZzOjpyZW1vdmUocHJpbnRTZXR0aW5nc0V4dHJhY3Rpb25QYXRoKTsKICAgICAgICB9CiAgICAgICAgY2F0Y2ggKGNvbnN0IGJvb3N0OjphcmNoaXZlOjphcmNoaXZlX2V4Y2VwdGlvbiAmZSkKICAgICAgICB7CiAgICAgICAgICBwcmludCgiVGhlIFByaW50U2V0dGluZ3MuYmluIGZpbGUgZm9yIGpvYiB7fSBpcyBjb3JydXB0IGFuZCBjYW4ndCBiZSB1cGdyYWRlZFxuIiwgam9iSWQpOwogICAgICAgIH0KICAgICAgICBjYXRjaCAoY29uc3Qgc3RkOjpiYWRfYWxsb2MgJmUpCiAgICAgICAgewogICAgICAgICAgcHJpbnQoIlRoZSBQcmludFNldHRpbmdzLmJpbiBmaWxlIGZvciBqb2Ige30gaXMgY29ycnVwdCBhbmQgY2FuJ3QgYmUgdXBncmFkZWRcbiIsIGpvYklkKTsKICAgICAgICB9</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1089,24 +1092,24 @@ Can be started sooner than StartLimitIntervalSec manually if &quot;systemctl res
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIFByaW50UGFyYW1zIHBhcmFtczsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">YXV0byBwcmludFNldHRpbmdzVGV4dFBhdGggPSBwcmludFNldHRpbmdzRXh0cmFjdGlvblBhdGg7CiAgICAgICAgICBwcmludFNldHRpbmdzVGV4dFBhdGgucmVwbGFjZV9leHRlbnNpb24oIi54bWwiKTsKICAgICAgICAgIHsKICAgICAgICAgICAgc3RkOjpvZnN0cmVhbSBwcmludFNldHRpbmdzT2ZzKHByaW50U2V0dGluZ3NUZXh0UGF0aC5zdHJpbmcoKSk7CiAgICAgICAgICAgIGlmICghcHJpbnRTZXR0aW5nc09mcy5pc19vcGVuKCkpCiAgICAgICAgICAgICAgdGhyb3cgc3RkOjpydW50aW1lX2Vycm9yKAogICAgICAgICAgICAgICAgZm10Ojpmb3JtYXQoInt9IGNvdWxkIG5vdCBiZSBvcGVuZWQiLCBwcmludFNldHRpbmdzVGV4dFBhdGguc3RyaW5nKCkpKTsKICAgICAgICAgICAgYm9vc3Q6OmFyY2hpdmU6OnhtbF9vYXJjaGl2ZSBwcmludFNldHRpbmdzT2EocHJpbnRTZXR0aW5nc09mcyk7CiAgICAgICAgICAgIHByaW50U2V0dGluZ3NPYSA8PCBib29zdDo6c2VyaWFsaXphdGlvbjo6bWFrZV9udnAoIlByaW50UGFyYW1zIiwgcGFyYW1zKTsKICAgICAgICAgIH0KICAgICAgICAgIGZzOjpyZW1vdmUocHJpbnRTZXR0aW5nc0V4dHJhY3Rpb25QYXRoKTsKICAgICAgICB9CiAgICAgICAgY2F0Y2ggKGNvbnN0IGJvb3N0OjphcmNoaXZlOjphcmNoaXZlX2V4Y2VwdGlvbiAmZSkKICAgICAgICB7CiAgICAgICAgICBwcmludCgiVGhlIFByaW50U2V0dGluZ3MuYmluIGZpbGUgZm9yIGpvYiB7fSBpcyBjb3JydXB0IGFuZCBjYW4ndCBiZSB1cGdyYWRlZFxuIiwgam9iSWQpOwogICAgICAgIH0KICAgICAgICBjYXRjaCAoY29uc3Qgc3RkOjpiYWRfYWxsb2MgJmUpCiAgICAgICAgewogICAgICAgICAgcHJpbnQoIlRoZSBQcmludFNldHRpbmdzLmJpbiBmaWxlIGZvciBqb2Ige30gaXMgY29ycnVwdCBhbmQgY2FuJ3QgYmUgdXBncmFkZWRcbiIsIGpvYklkKTsKICAgICAgICB9</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIFByaW50UGFyYW1zIHBhcmFtczsK</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>importOptionsPos</last-search>
+      <last-search>read</last-search>
       <last-offset />
-      <last-pattern>importOptionsPos</last-pattern>
+      <last-pattern>read</last-pattern>
       <last-replace encoding="base64">aWYgKCEoXDEgXDIpKSB7IGxvZ2dlcl8tPndhcm4oIkZpZWxkIFwxIGRpZCBub3QgbWF0Y2giKTsgcmV0dXJuIGZhbHNlOyB9</last-replace>
       <last-substitute encoding="base64">XChtXy4qXClcKCA9PSBvLm1fLipcKSAmJg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1122,7 +1125,6 @@ Can be started sooner than StartLimitIntervalSec manually if &quot;systemctl res
         <entry>json</entry>
         <entry>)</entry>
         <entry>rename</entry>
-        <entry>read</entry>
         <entry>BulkExport</entry>
         <entry>BulkImport</entry>
         <entry>bulkExport</entry>
@@ -1130,6 +1132,7 @@ Can be started sooner than StartLimitIntervalSec manually if &quot;systemctl res
         <entry>while</entry>
         <entry>importOptionsExtractionPath</entry>
         <entry>importOptionsPos</entry>
+        <entry>read</entry>
       </history-search>
       <history-cmd>
         <entry>160</entry>
