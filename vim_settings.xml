@@ -277,6 +277,9 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/ULS/OldTrunk/common/PageParams.cpp" timestamp="1539620411616">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/Logging/CustomSyslogSink.cpp" timestamp="1536240321964">
         <mark key="[" line="4" column="29" />
         <mark key="]" line="14" column="15" />
@@ -296,8 +299,8 @@
         <mark key="." line="1026" column="0" />
         <mark key="^" line="1083" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/OldTrunk/common/PrintParams.cpp" timestamp="1539377452023">
-        <mark key="'" line="904" column="3" />
+      <file name="$USER_HOME$/Documents/ULS/OldTrunk/common/PrintParams.cpp" timestamp="1539620342229">
+        <mark key="'" line="1549" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/PageParams.h" timestamp="1536703266616">
         <mark key="'" line="41" column="70" />
@@ -511,12 +514,12 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" timestamp="1539377457935">
+      <file name="$USER_HOME$/Documents/ULS/trunk/tools/upgrade-export/main.cpp" timestamp="1539620404714">
         <mark key="'" line="222" column="0" />
-        <mark key="[" line="330" column="1" />
-        <mark key="]" line="451" column="11" />
-        <mark key="." line="451" column="11" />
-        <mark key="^" line="451" column="11" />
+        <mark key="[" line="341" column="47" />
+        <mark key="]" line="341" column="47" />
+        <mark key="." line="341" column="47" />
+        <mark key="^" line="342" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/ULS/trunk/common/powertable.h" timestamp="1535122009989">
         <mark key="[" line="17" column="34" />
@@ -735,13 +738,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="517" column="27" filename="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/fmt/format.h" />
-      <jump line="522" column="10" filename="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/fmt/format.h" />
-      <jump line="536" column="12" filename="$USER_HOME$/Documents/ULS/trunk/bin/third-party/install/include/fmt/format.h" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachine.cpp" />
-      <jump line="592" column="8" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachine.cpp" />
-      <jump line="1683" column="4" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachine.cpp" />
-      <jump line="1684" column="18" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachine.cpp" />
       <jump line="220" column="18" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachine.cpp" />
       <jump line="486" column="24" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachine.cpp" />
       <jump line="597" column="19" filename="$USER_HOME$/Documents/ULS/trunk/VM/VirtualMachine.cpp" />
@@ -835,40 +831,47 @@
       <jump line="904" column="27" filename="$USER_HOME$/Documents/ULS/trunk/common/PrintParams.cpp" />
       <jump line="638" column="2" filename="$USER_HOME$/Documents/ULS/OldTrunk/common/PrintParams.cpp" />
       <jump line="904" column="3" filename="$USER_HOME$/Documents/ULS/OldTrunk/common/PrintParams.cpp" />
+      <jump line="1299" column="25" filename="$USER_HOME$/Documents/ULS/OldTrunk/common/PrintParams.cpp" />
+      <jump line="1660" column="27" filename="$USER_HOME$/Documents/ULS/OldTrunk/common/PrintParams.cpp" />
+      <jump line="585" column="34" filename="$USER_HOME$/Documents/ULS/OldTrunk/common/PrintParams.cpp" />
+      <jump line="930" column="2" filename="$USER_HOME$/Documents/ULS/OldTrunk/common/PrintParams.cpp" />
+      <jump line="1298" column="19" filename="$USER_HOME$/Documents/ULS/OldTrunk/common/PrintParams.cpp" />
+      <jump line="1549" column="0" filename="$USER_HOME$/Documents/ULS/OldTrunk/common/PrintParams.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/ULS/OldTrunk/common/PageParams.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>son</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>son</text>
       </register>
       <register name="/" type="4">
-        <text>read</text>
+        <text>DataFromJSON</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">VUxTOjpKb2JzOjpJbXBvcnRPcHRpb25zIGltcG9ydE9wdGlvbnNGcm9tSnNvbihjb25zdCBmczo6cGF0aCAmaW1wb3J0T3B0aW9uc0pzb25GaWxlKSB7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">c3RkOjp2ZWN0b3I8VUxTOjpDb2xvclJnYlVzYWdlPiBHZXRKc29uQ29sb3JVc2FnZXMoY29uc3QganNvbiAmanNvbiwgY29uc3QgY2hhciAqZmllbGROYW1lKQp7CiAgaWYgKCFqc29uSGFzTWVtYmVyKGpzb24sIGZpZWxkTmFtZSkpIHJldHVybiB7fTsKICBhdXRvICZmaWVsZEpzb24gPSBqc29uW2ZpZWxkTmFtZV07CiAgaWYgKGZpZWxkSnNvbi5Jc051bGwoKSkgcmV0dXJuIHt9OwogIGlmICghZmllbGRKc29uLklzT2JqZWN0KCkpIHRocm93IHJ1bnRpbWVfZXJyb3IoImludmFsaWQgQ29sb3JVc2FnZXMgaW4gSlNPTiIpOwogIAogIHN0ZDo6dmVjdG9yPFVMUzo6Q29sb3JSZ2JVc2FnZT4gY29sb3JVc2FnZXM7CiAgZm9yIChhdXRvICZpdGVtIDogZmllbGRKc29uLkdldE9iamVjdCgpKQogIHsKICAgIHN0cmluZyBpdGVtTmFtZSA9IGl0ZW0ubmFtZS5HZXRTdHJpbmcoKTsKICAgIHN0cmluZyBpdGVtVmFsdWUgPSBpdGVtLnZhbHVlLkdldFN0cmluZygpOwogICAgVUxTOjpDb2xvclJnYlVzYWdlIGNvbG9yVXNhZ2U7CiAgICBjb2xvclVzYWdlLmNvbG9yID0gVUxTOjptYWtlUmdiKGl0ZW1OYW1lKTsKICAgIGlmIChpdGVtVmFsdWUgPT0gIlJhc3Rlck9ubHkiKSBjb2xvclVzYWdlLnVzYWdlID0gVUxTOjpDb2xvclVzYWdlOjpSYXN0ZXJPbmx5OwogICAgZWxzZSBpZiAoaXRlbVZhbHVlID09ICJWZWN0b3JPbmx5IikgY29sb3JVc2FnZS51c2FnZSA9IFVMUzo6Q29sb3JVc2FnZTo6VmVjdG9yT25seTsKICAgIGVsc2UgaWYgKGl0ZW1WYWx1ZSA9PSAiUmFzdGVyQW5kVmVjdG9yIikgY29sb3JVc2FnZS51c2FnZSA9IFVMUzo6Q29sb3JVc2FnZTo6UmFzdGVyQW5kVmVjdG9yOwogICAgZWxzZSB0aHJvdyBydW50aW1lX2Vycm9yKCJpbnZhbGlkIEpTT04gdmFsdWUgZm9yIGNvbG9yIHVzYWdlIik7CiAgICBjb2xvclVzYWdlcy5wdXNoX2JhY2soY29sb3JVc2FnZSk7CiAgfQogIHJldHVybiBjb2xvclVzYWdlczsKfQ==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBlbHNlCiAgewo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ai5maW5kKGZpZWxkbmFtZSkgIT0gai5lbmQoKSA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdHJ5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">LyoqCiAqIEBwYXJhbSBqc29uIAogKiBAcGFyYW0gZmllbGRuYW1lIAogKiBAcmV0dXJuIFRydWUgaXMganNvbiBjb250YWlucyBmaWVsZAogKi8KYm9vbCBqc29uSGFzTWVtYmVyKGNvbnN0IGpzb24gJmpzb24sIGNoYXIqIGZpZWxkbmFtZSkgewogIHJldHVybiBqc29uLmZpbmQoZmllbGRuYW1lKSAhPSBqc29uLmVuZCgpOwp9</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB7Cg==</text>
+        <text encoding="base64">ICBpZiAoanNvbi5maW5kKGZpZWxkbmFtZSkgIT0ganNvbi5lbmQoKSkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1092,19 +1095,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9CiAgY2F0Y2ggKC4uLikK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICBlbHNlCiAgewo=</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
       </register>
     </registers>
     <search>
-      <last-search>read</last-search>
+      <last-search>DataFromJSON</last-search>
       <last-offset />
-      <last-pattern>read</last-pattern>
+      <last-pattern>DataFromJSON</last-pattern>
       <last-replace encoding="base64">aWYgKCEoXDEgXDIpKSB7IGxvZ2dlcl8tPndhcm4oIkZpZWxkIFwxIGRpZCBub3QgbWF0Y2giKTsgcmV0dXJuIGZhbHNlOyB9</last-replace>
       <last-substitute encoding="base64">XChtXy4qXClcKCA9PSBvLm1fLipcKSAmJg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1112,9 +1115,6 @@
     </search>
     <history>
       <history-search>
-        <entry>printf</entry>
-        <entry>Print</entry>
-        <entry>Printf</entry>
         <entry>JSON</entry>
         <entry>SaveSerialized</entry>
         <entry>serialize</entry>
@@ -1132,6 +1132,9 @@
         <entry>json</entry>
         <entry>Read</entry>
         <entry>read</entry>
+        <entry encoding="base64">JiY=</entry>
+        <entry>DataFromAll</entry>
+        <entry>DataFromJSON</entry>
       </history-search>
       <history-cmd>
         <entry>52</entry>
